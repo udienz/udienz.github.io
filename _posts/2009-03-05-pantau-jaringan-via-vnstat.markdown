@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-03-05 14:40:18+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/03/05/pantau-jaringan-via-vnstat.html
 slug: pantau-jaringan-via-vnstat
 title: Pantau jaringan via vnstat
 wordpress_id: 302

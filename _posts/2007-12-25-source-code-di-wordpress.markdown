@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-12-25 17:45:46+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/12/26/source-code-di-wordpress.html
 slug: source-code-di-wordpress
 title: Source Code di Wordpress
 wordpress_id: 150

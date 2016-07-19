@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-30 17:42:34+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/30/buku-ubuntu-linux.html
 slug: buku-ubuntu-linux
 title: Buku Ubuntu Linux
 wordpress_id: 672

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-02-18 22:43:55+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/02/19/hacking-livecd-ubuntu.html
 slug: hacking-livecd-ubuntu
 title: Hacking LiveCD Ubuntu
 wordpress_id: 165

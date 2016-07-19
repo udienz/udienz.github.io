@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-02-15 23:04:39+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/02/16/happy-nix-day.html
 slug: happy-nix-day
 title: Happy *nix day
 wordpress_id: 282

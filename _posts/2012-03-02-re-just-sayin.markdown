@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2012-03-02 04:31:50+00:00
 layout: post
-link: https://blog.mahyudd.in/2012/03/02/re-just-sayin.html
 slug: re-just-sayin
 title: 'Re: Just Sayinâ€™'
 wordpress_id: 15

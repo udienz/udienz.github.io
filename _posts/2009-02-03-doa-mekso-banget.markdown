@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-02-03 10:43:17+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/02/03/doa-mekso-banget.html
 slug: doa-mekso-banget
 title: Doa mekso banget
 wordpress_id: 275

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-06-19 18:22:37+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/06/20/how-many-member-at-ubuntu-indonesia-mailling-list.html
 slug: how-many-member-at-ubuntu-indonesia-mailling-list
 title: How much member at Ubuntu Indonesia Mailling list?
 wordpress_id: 206

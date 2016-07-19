@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-08-30 13:46:46+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/08/30/we-got-same-problem-2.html
 slug: we-got-same-problem-2
 title: we got same problemâ€¦
 wordpress_id: 404

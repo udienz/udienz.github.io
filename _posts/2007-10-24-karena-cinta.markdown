@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-10-24 15:28:26+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/10/24/karena-cinta.html
 slug: karena-cinta
 title: karena cinta
 wordpress_id: 415

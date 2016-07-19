@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-03-23 09:48:33+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/03/23/ganti-komputer.html
 slug: ganti-komputer
 title: Ganti Komputer
 wordpress_id: 170

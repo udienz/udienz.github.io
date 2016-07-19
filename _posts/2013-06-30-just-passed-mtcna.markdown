@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2013-06-30 10:46:12+00:00
 layout: post
-link: https://blog.mahyudd.in/2013/06/30/just-passed-mtcna.html
 slug: just-passed-mtcna
 title: Just passed MTCNA
 wordpress_id: 761

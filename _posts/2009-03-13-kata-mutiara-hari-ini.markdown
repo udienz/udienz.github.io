@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-03-13 15:50:47+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/03/13/kata-mutiara-hari-ini.html
 slug: kata-mutiara-hari-ini
 title: Kata mutiara hari ini
 wordpress_id: 320

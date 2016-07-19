@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2012-03-01 10:09:16+00:00
 layout: post
-link: https://blog.mahyudd.in/2012/03/01/prefix-iix-jatim.html
 slug: prefix-iix-jatim
 title: Prefix IIX Jatim
 wordpress_id: 7

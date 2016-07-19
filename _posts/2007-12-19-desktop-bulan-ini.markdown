@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-12-19 17:28:29+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/12/20/desktop-bulan-ini.html
 slug: desktop-bulan-ini
 title: desktop bulan ini..
 wordpress_id: 146

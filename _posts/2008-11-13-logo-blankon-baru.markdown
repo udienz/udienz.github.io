@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-11-13 20:30:39+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/11/14/logo-blankon-baru.html
 slug: logo-blankon-baru
 title: Logo BlankOn baru
 wordpress_id: 231

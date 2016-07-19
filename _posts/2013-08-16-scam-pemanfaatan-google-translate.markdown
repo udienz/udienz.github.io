@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2013-08-16 04:06:48+00:00
 layout: post
-link: https://blog.mahyudd.in/2013/08/16/scam-pemanfaatan-google-translate.html
 slug: scam-pemanfaatan-google-translate
 title: Scam; Pemanfaatan google translate
 wordpress_id: 766

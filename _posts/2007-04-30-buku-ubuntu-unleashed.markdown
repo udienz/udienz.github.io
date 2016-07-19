@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-30 17:54:17+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/30/buku-ubuntu-unleashed.html
 slug: buku-ubuntu-unleashed
 title: Buku Ubuntu Unleashed
 wordpress_id: 676

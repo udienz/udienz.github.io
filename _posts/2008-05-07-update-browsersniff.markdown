@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-05-07 14:16:29+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/05/07/update-browsersniff.html
 slug: update-browsersniff
 title: Update Browsersniff
 wordpress_id: 183

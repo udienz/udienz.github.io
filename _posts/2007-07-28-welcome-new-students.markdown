@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-28 21:24:37+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/29/welcome-new-students.html
 slug: welcome-new-students
 title: welcome new students
 wordpress_id: 394

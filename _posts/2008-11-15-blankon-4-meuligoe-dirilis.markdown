@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-11-15 17:30:37+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/11/16/blankon-4-meuligoe-dirilis.html
 slug: blankon-4-meuligoe-dirilis
 title: BlankOn 4 Meuligoe dirilis!
 wordpress_id: 232

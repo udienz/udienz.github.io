@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2013-10-29 10:12:58+00:00
 layout: post
-link: https://blog.mahyudd.in/2013/10/29/mengaktifkan-repo-ports-di-openbsd.html
 slug: mengaktifkan-repo-ports-di-openbsd
 title: Mengaktifkan repo ports di OpenBSD
 wordpress_id: 797

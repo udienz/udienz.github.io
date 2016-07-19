@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-12-05 18:27:19+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/12/06/manipulasi-ekstensi-file-di-apache2.html
 slug: manipulasi-ekstensi-file-di-apache2
 title: Manipulasi ekstensi file di Apache2
 wordpress_id: 233

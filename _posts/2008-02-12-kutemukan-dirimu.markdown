@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-02-12 18:25:18+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/02/13/kutemukan-dirimu.html
 slug: kutemukan-dirimu
 title: Kutemukan dirimu
 wordpress_id: 163

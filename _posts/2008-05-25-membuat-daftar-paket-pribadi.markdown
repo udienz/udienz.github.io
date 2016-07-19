@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-05-25 16:27:37+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/05/25/membuat-daftar-paket-pribadi.html
 slug: membuat-daftar-paket-pribadi
 title: Membuat daftar paket pribadi
 wordpress_id: 187

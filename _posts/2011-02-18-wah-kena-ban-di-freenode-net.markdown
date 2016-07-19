@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-02-18 11:27:30+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/02/18/wah-kena-ban-di-freenode-net.html
 slug: wah-kena-ban-di-freenode-net
 title: Wah kena ban di freenode.net
 wordpress_id: 540

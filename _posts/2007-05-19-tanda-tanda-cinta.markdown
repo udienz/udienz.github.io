@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-19 23:17:05+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/20/tanda-tanda-cinta.html
 slug: tanda-tanda-cinta
 title: Tanda-Tanda Cinta
 wordpress_id: 370

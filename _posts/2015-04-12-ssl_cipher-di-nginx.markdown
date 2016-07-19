@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2015-04-12 08:39:41+00:00
 layout: post
-link: https://blog.mahyudd.in/2015/04/12/ssl_cipher-di-nginx.html
 slug: ssl_cipher-di-nginx
 title: ssl_cipher di nginx
 wordpress_id: 911

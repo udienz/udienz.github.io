@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-09-16 10:13:59+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/09/16/photo-ku-di-picassa.html
 slug: photo-ku-di-picassa
 title: Photo ku di picassa
 wordpress_id: 408

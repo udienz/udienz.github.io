@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-02-15 23:24:47+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/02/16/lenny-di-rilis.html
 slug: lenny-di-rilis
 title: Lenny di rilis?
 wordpress_id: 284

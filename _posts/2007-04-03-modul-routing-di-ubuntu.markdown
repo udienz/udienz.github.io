@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-03 06:58:01+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/03/modul-routing-di-ubuntu.html
 slug: modul-routing-di-ubuntu
 title: Modul Routing Di Ubuntu
 wordpress_id: 664

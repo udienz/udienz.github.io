@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-02-21 01:14:15+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/02/21/sub-process-usrbindpkg-returned-an-error-code-2.html
 slug: sub-process-usrbindpkg-returned-an-error-code-2
 title: sub-process usr/bin/dpkg returned an error code (2)
 wordpress_id: 290

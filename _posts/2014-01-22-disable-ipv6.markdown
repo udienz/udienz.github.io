@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2014-01-22 10:58:44+00:00
 layout: post
-link: https://blog.mahyudd.in/2014/01/22/disable-ipv6.html
 slug: disable-ipv6
 title: Disable ipv6
 wordpress_id: 810

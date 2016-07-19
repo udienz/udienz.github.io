@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-12-31 13:09:23+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/12/31/mhddfs-solusi-raid-dan-lvm.html
 slug: mhddfs-solusi-raid-dan-lvm
 title: 'MHDDFS: solusi RAID dan LVM'
 wordpress_id: 238

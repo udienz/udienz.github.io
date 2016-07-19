@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-01-25 08:12:50+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/01/25/kanada-mendukung-israel.html
 slug: kanada-mendukung-israel
 title: Kanada, mendukung israel?
 wordpress_id: 258

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-26 15:52:41+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/26/ciri-ciri-cewek-jaman-sekarang.html
 slug: ciri-ciri-cewek-jaman-sekarang
 title: Ciri-ciri cewek jaman sekarang
 wordpress_id: 63

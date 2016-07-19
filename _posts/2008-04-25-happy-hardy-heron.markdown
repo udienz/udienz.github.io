@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-04-25 09:07:26+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/04/25/happy-hardy-heron.html
 slug: happy-hardy-heron
 title: Happy Hardy Heron!
 wordpress_id: 178

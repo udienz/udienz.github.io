@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-02-21 02:59:48+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/02/21/sesaat-setelah-debian-dirilis.html
 slug: sesaat-setelah-debian-dirilis
 title: Sesaat setelah Debian dirilis
 wordpress_id: 294

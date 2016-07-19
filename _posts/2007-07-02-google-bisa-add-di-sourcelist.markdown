@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-02 15:14:41+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/02/google-bisa-add-di-sourcelist.html
 slug: google-bisa-add-di-sourcelist
 title: Google bisa add di source.list
 wordpress_id: 381

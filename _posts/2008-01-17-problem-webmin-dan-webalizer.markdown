@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-01-17 16:01:39+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/01/17/problem-webmin-dan-webalizer.html
 slug: problem-webmin-dan-webalizer
 title: problem webmin dan webalizer
 wordpress_id: 158

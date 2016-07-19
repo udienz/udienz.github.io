@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-23 20:32:14+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/24/ada-apa-dengan-ubuntu-dian-sastro.html
 slug: ada-apa-dengan-ubuntu-dian-sastro
 title: ada apa dengan Ubuntu + Dian sastro
 wordpress_id: 391

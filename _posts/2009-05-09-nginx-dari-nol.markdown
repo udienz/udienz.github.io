@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-05-09 12:26:27+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/05/09/nginx-dari-nol.html
 slug: nginx-dari-nol
 title: nginx, dari nol
 wordpress_id: 444

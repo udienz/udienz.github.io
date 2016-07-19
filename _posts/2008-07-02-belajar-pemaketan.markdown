@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-07-02 07:25:14+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/07/02/belajar-pemaketan.html
 slug: belajar-pemaketan
 title: Belajar pemaketan
 wordpress_id: 209

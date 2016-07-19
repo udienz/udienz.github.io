@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-01-17 17:19:29+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/01/18/2-vs-1-one-isnt-one.html
 slug: 2-vs-1-one-isnt-one
 title: 2 vs 1, one isn't one
 wordpress_id: 159

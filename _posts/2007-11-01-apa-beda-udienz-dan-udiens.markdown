@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-01 17:46:20+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/11/02/apa-beda-udienz-dan-udiens.html
 slug: apa-beda-udienz-dan-udiens
 title: apa beda udienz dan udiens ??
 wordpress_id: 422

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-01-24 03:08:54+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/01/24/im-waiting-for-squeeze-did-you-waiting-too.html
 slug: im-waiting-for-squeeze-did-you-waiting-too
 title: I'm waiting for squeeze, did you waiting too?
 wordpress_id: 502

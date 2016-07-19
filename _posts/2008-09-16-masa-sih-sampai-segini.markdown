@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-09-16 01:32:13+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/09/16/masa-sih-sampai-segini.html
 slug: masa-sih-sampai-segini
 title: Masa sih sampai segini?
 wordpress_id: 220

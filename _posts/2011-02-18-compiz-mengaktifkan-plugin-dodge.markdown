@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-02-18 04:31:01+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/02/18/compiz-mengaktifkan-plugin-dodge.html
 slug: compiz-mengaktifkan-plugin-dodge
 title: Compiz, Mengaktifkan plugin dodge
 wordpress_id: 532

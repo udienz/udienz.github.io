@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-20 10:24:36+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/20/latest-ubuntu-delivers-on-the-promise-of-open-source.html
 slug: latest-ubuntu-delivers-on-the-promise-of-open-source
 title: Latest Ubuntu delivers on the promise of Open Source
 wordpress_id: 667

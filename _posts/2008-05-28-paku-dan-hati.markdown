@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-05-28 17:00:02+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/05/29/paku-dan-hati.html
 slug: paku-dan-hati
 title: Paku dan Hati
 wordpress_id: 189

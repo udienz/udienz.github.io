@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-01-24 08:05:39+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/01/24/install-blankon-yuk.html
 slug: install-blankon-yuk
 title: Install BlankOn yuk!!
 wordpress_id: 161

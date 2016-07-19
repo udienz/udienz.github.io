@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-06-24 15:39:40+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/06/24/pcmedia-antivirus-pcmav-10-rc17-rtp-beta-7-linux-tidak-perlu-anti-virus.html
 slug: pcmedia-antivirus-pcmav-10-rc17-rtp-beta-7-linux-tidak-perlu-anti-virus
 title: PCMEDIA Antivirus PCMAV 1.0 RC17 + RTP Beta 7 (Linux tidak perlu anti virus)
 wordpress_id: 376

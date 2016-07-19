@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-03-20 15:54:45+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/03/20/qoute-of-the-day.html
 slug: qoute-of-the-day
 title: Qoute of the day
 wordpress_id: 169

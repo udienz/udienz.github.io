@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-04 12:15:00+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/11/04/lagu-favorit.html
 slug: lagu-favorit
 title: Lagu favorit
 wordpress_id: 126

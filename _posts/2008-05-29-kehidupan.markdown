@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-05-29 17:00:04+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/05/30/kehidupan.html
 slug: kehidupan
 title: Kehidupanâ€¦
 wordpress_id: 190

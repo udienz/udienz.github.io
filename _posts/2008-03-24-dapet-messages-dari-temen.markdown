@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-03-24 09:39:19+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/03/24/dapet-messages-dari-temen.html
 slug: dapet-messages-dari-temen
 title: Dapet messages dari temen
 wordpress_id: 171

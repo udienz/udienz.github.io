@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-12-17 17:53:13+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/12/17/100-times-upload-to-ubuntu.html
 slug: 100-times-upload-to-ubuntu
 title: 100 times upload to Ubuntu
 wordpress_id: 636

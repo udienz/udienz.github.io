@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-03-04 09:24:02+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/03/04/ternyata-aku.html
 slug: ternyata-aku
 title: Ternyata aku...
 wordpress_id: 168

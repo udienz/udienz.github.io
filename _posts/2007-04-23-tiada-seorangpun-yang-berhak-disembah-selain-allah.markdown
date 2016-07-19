@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-23 08:18:40+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/23/tiada-seorangpun-yang-berhak-disembah-selain-allah.html
 slug: tiada-seorangpun-yang-berhak-disembah-selain-allah
 title: Tiada Seorangpun Yang Berhak Disembah Selain Allah
 wordpress_id: 670

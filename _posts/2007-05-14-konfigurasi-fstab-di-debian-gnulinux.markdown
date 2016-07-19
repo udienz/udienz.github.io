@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-14 10:54:02+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/14/konfigurasi-fstab-di-debian-gnulinux.html
 slug: konfigurasi-fstab-di-debian-gnulinux
 title: KONFIGURASI FSTAB DI DEBIAN GNU/LINUX
 wordpress_id: 47

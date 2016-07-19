@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-01-19 19:11:55+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/01/19/install-libreoffice-di-ubuntu.html
 slug: install-libreoffice-di-ubuntu
 title: Install LibreOffice di Ubuntu
 wordpress_id: 483

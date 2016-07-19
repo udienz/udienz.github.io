@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-05-07 17:40:43+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/05/08/linux-bukan-hanya-milik-programmer.html
 slug: linux-bukan-hanya-milik-programmer
 title: Linux bukan hanya milik programmer
 wordpress_id: 184

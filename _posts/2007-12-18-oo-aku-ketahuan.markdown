@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-12-18 16:26:11+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/12/18/oo-aku-ketahuan.html
 slug: oo-aku-ketahuan
 title: oo... aku ketahuan...
 wordpress_id: 145

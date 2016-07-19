@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2014-10-31 07:07:12+00:00
 layout: post
-link: https://blog.mahyudd.in/2014/10/31/lab-pengaturan-dasar-bgp-di-cisco-mikrotik-dan-vyatta.html
 slug: lab-pengaturan-dasar-bgp-di-cisco-mikrotik-dan-vyatta
 title: '[LAB] Pengaturan dasar BGP di Cisco, Mikrotik dan Vyatta'
 wordpress_id: 855

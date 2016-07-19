@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2015-06-06 15:01:45+00:00
 layout: post
-link: https://blog.mahyudd.in/2015/06/06/re-nginx-uwsgi-php-pada-debian-jessie.html
 slug: re-nginx-uwsgi-php-pada-debian-jessie
 title: 'Re: NGINX, uWSGI, PHP pada Debian Jessie'
 wordpress_id: 948

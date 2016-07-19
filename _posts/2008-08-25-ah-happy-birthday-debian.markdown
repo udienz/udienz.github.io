@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-08-25 16:53:20+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/08/25/ah-happy-birthday-debian.html
 slug: ah-happy-birthday-debian
 title: ah... Happy birthday debian!
 wordpress_id: 215

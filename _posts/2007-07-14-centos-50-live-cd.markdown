@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-14 16:00:14+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/14/centos-50-live-cd.html
 slug: centos-50-live-cd
 title: CentOS 5.0 live CD
 wordpress_id: 389

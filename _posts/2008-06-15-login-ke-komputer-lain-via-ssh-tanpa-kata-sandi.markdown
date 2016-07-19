@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-06-15 12:00:35+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/06/15/login-ke-komputer-lain-via-ssh-tanpa-kata-sandi.html
 slug: login-ke-komputer-lain-via-ssh-tanpa-kata-sandi
 title: Login ke Komputer lain via SSH tanpa Kata sandi
 wordpress_id: 203

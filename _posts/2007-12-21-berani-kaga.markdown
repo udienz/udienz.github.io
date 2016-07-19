@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-12-21 13:57:38+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/12/21/berani-kaga.html
 slug: berani-kaga
 title: Berani kaga?
 wordpress_id: 147

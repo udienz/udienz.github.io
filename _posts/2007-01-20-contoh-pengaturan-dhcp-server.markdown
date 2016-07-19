@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-01-20 18:47:54+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/01/20/contoh-pengaturan-dhcp-server.html
 slug: contoh-pengaturan-dhcp-server
 title: Contoh pengaturan DHCP Server
 wordpress_id: 43

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-01-03 17:52:10+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/01/04/dewalinux-warnet-server-di-rilis.html
 slug: dewalinux-warnet-server-di-rilis
 title: Dewalinux Warnet Server Di rilis
 wordpress_id: 152

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2013-01-24 10:59:32+00:00
 layout: post
-link: https://blog.mahyudd.in/2013/01/24/which-ubuntu-repository-should-i-choose.html
 slug: which-ubuntu-repository-should-i-choose
 title: Which ubuntu repository should i choose?
 wordpress_id: 732

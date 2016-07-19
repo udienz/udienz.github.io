@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2015-06-04 17:06:57+00:00
 layout: post
-link: https://blog.mahyudd.in/2015/06/04/user-group-dengan-puppet.html
 slug: user-group-dengan-puppet
 title: User group dengan puppet
 wordpress_id: 942

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-03-10 16:33:40+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/03/10/seberapa-besar-bumi-kita.html
 slug: seberapa-besar-bumi-kita
 title: Seberapa besar bumi kita?
 wordpress_id: 310

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2015-02-03 11:58:46+00:00
 layout: post
-link: https://blog.mahyudd.in/2015/02/03/fix-permission-devkvm.html
 slug: fix-permission-devkvm
 title: Fix permission /dev/kvm
 wordpress_id: 888

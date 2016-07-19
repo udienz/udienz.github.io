@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-21 08:08:09+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/21/artikel-e-book-debian.html
 slug: artikel-e-book-debian
 title: Artikel, e-book Debian
 wordpress_id: 367

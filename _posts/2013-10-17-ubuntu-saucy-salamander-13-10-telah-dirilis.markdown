@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2013-10-17 14:50:15+00:00
 layout: post
-link: https://blog.mahyudd.in/2013/10/17/ubuntu-saucy-salamander-13-10-telah-dirilis.html
 slug: ubuntu-saucy-salamander-13-10-telah-dirilis
 title: Ubuntu Saucy Salamander 13.10 telah dirilis
 wordpress_id: 790

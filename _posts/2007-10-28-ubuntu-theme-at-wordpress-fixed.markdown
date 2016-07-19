@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-10-28 11:08:30+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/10/28/ubuntu-theme-at-wordpress-fixed.html
 slug: ubuntu-theme-at-wordpress-fixed
 title: ubuntu theme at wordpress fixed!!
 wordpress_id: 417

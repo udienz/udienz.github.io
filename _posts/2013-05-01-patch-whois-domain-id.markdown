@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2013-05-01 08:46:43+00:00
 layout: post
-link: https://blog.mahyudd.in/2013/05/01/patch-whois-domain-id.html
 slug: patch-whois-domain-id
 title: '[patch] whois domain ID'
 wordpress_id: 751

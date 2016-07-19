@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-05-10 17:09:56+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/05/11/di-balik-mirroring-3-mirror-opensuse.html
 slug: di-balik-mirroring-3-mirror-opensuse
 title: 'Di balik mirroring (3): Mirror OpenSUSE'
 wordpress_id: 446

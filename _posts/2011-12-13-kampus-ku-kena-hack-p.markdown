@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-12-13 15:13:25+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/12/13/kampus-ku-kena-hack-p.html
 slug: kampus-ku-kena-hack-p
 title: Kampus ku kena hack :p
 wordpress_id: 626

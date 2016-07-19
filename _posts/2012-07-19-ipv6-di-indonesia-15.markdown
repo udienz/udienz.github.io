@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2012-07-19 05:26:14+00:00
 layout: post
-link: https://blog.mahyudd.in/2012/07/19/ipv6-di-indonesia-15.html
 slug: ipv6-di-indonesia-15
 title: 'IPv6 di Indonesia: #15'
 wordpress_id: 37

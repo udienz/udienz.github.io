@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-20 10:19:24+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/20/ubuntu-704-telah-dirilis.html
 slug: ubuntu-704-telah-dirilis
 title: Ubuntu 7.04 telah dirilis
 wordpress_id: 666

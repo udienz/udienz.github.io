@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-04-18 04:16:54+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/04/18/new-job-new-spirit-new-home.html
 slug: new-job-new-spirit-new-home
 title: New job, new spirit, new home :)
 wordpress_id: 572

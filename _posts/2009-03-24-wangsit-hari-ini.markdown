@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-03-24 11:26:39+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/03/24/wangsit-hari-ini.html
 slug: wangsit-hari-ini
 title: Wangsit hari ini
 wordpress_id: 322

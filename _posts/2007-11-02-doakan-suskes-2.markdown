@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-02 07:43:51+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/11/02/doakan-suskes-2.html
 slug: doakan-suskes-2
 title: Doakan suskesâ€¦
 wordpress_id: 423

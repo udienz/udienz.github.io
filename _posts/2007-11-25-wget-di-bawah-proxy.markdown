@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-25 10:38:58+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/11/25/wget-di-bawah-proxy.html
 slug: wget-di-bawah-proxy
 title: wget di bawah proxy
 wordpress_id: 133

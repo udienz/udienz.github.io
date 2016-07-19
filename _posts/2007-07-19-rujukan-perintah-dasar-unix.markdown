@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-19 16:18:27+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/19/rujukan-perintah-dasar-unix.html
 slug: rujukan-perintah-dasar-unix
 title: rujukan perintah dasar unix
 wordpress_id: 390

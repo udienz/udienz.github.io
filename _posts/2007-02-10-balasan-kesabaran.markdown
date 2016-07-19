@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-02-10 14:49:08+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/02/10/balasan-kesabaran.html
 slug: balasan-kesabaran
 title: Balasan Kesabaran
 wordpress_id: 661

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-10-31 18:49:11+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/11/01/aoe-ata-over-ethernet-di-debianubuntu.html
 slug: aoe-ata-over-ethernet-di-debianubuntu
 title: AOE (ATA Over Ethernet) di Debian/Ubuntu
 wordpress_id: 227

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-06 06:29:56+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/11/06/dewalinux-go-to-public.html
 slug: dewalinux-go-to-public
 title: DewaLinux go to public!!!
 wordpress_id: 132

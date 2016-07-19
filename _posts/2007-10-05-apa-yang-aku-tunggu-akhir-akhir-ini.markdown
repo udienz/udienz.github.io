@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-10-05 15:29:33+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/10/05/apa-yang-aku-tunggu-akhir-akhir-ini.html
 slug: apa-yang-aku-tunggu-akhir-akhir-ini
 title: apa yang aku tunggu akhir-akhir ini??
 wordpress_id: 413

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-09-09 14:55:09+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/09/09/antara-mbak-windi-dian-dan-umi.html
 slug: antara-mbak-windi-dian-dan-umi
 title: antara Mbak Windi, Dian dan Umi
 wordpress_id: 219

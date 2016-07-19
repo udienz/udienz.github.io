@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2012-01-04 16:42:35+00:00
 layout: post
-link: https://blog.mahyudd.in/2012/01/04/menjadi-ubuntu-developer.html
 slug: menjadi-ubuntu-developer
 title: Menjadi Ubuntu Developer
 wordpress_id: 649

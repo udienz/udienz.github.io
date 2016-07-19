@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-04-12 09:23:28+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/04/12/catatan-motu-2-kenapa-sedikit.html
 slug: catatan-motu-2-kenapa-sedikit
 title: 'Catatan MOTU [2]: Kenapa sedikit?'
 wordpress_id: 567

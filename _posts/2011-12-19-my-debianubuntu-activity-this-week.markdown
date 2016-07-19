@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-12-19 16:21:57+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/12/19/my-debianubuntu-activity-this-week.html
 slug: my-debianubuntu-activity-this-week
 title: My Debian/Ubuntu activity this week
 wordpress_id: 640

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2010-02-05 20:54:55+00:00
 layout: post
-link: https://blog.mahyudd.in/2010/02/06/bagaimana-jika-partisi-root-full.html
 slug: bagaimana-jika-partisi-root-full
 title: Bagaimana jika partisi root (/) full?
 wordpress_id: 332

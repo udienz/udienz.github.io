@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-02 15:35:41+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/02/maafkan-aku-temen-temen.html
 slug: maafkan-aku-temen-temen
 title: maafkan aku temen-temen
 wordpress_id: 382

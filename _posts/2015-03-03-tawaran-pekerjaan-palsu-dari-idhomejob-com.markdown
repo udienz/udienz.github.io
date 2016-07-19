@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2015-03-03 08:28:41+00:00
 layout: post
-link: https://blog.mahyudd.in/2015/03/03/tawaran-pekerjaan-palsu-dari-idhomejob-com.html
 slug: tawaran-pekerjaan-palsu-dari-idhomejob-com
 title: Tawaran pekerjaan palsu dari idhomejob.com
 wordpress_id: 899

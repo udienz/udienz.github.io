@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-14 11:05:11+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/14/sebelas-karakter-orang-yang-mempunyai-konsep-diri-positif.html
 slug: sebelas-karakter-orang-yang-mempunyai-konsep-diri-positif
 title: Sebelas karakter orang yang mempunyai konsep diri positif
 wordpress_id: 49

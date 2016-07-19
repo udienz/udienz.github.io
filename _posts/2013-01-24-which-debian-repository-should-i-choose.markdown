@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2013-01-24 10:53:19+00:00
 layout: post
-link: https://blog.mahyudd.in/2013/01/24/which-debian-repository-should-i-choose.html
 slug: which-debian-repository-should-i-choose
 title: Which debian repository should i choose?
 wordpress_id: 728

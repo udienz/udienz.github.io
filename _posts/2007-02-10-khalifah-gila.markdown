@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-02-10 14:09:03+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/02/10/khalifah-gila.html
 slug: khalifah-gila
 title: Khalifah Gila
 wordpress_id: 11

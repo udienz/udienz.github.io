@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-12-12 15:19:14+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/12/12/rilis-cacti-di-debian.html
 slug: rilis-cacti-di-debian
 title: Rilis cacti di Debian
 wordpress_id: 623

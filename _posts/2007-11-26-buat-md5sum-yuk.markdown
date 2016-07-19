@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-26 16:53:19+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/11/26/buat-md5sum-yuk.html
 slug: buat-md5sum-yuk
 title: buat md5sum yukâ€¦.
 wordpress_id: 424

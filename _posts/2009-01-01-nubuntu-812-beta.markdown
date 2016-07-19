@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-01-01 12:22:43+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/01/01/nubuntu-812-beta.html
 slug: nubuntu-812-beta
 title: Nubuntu 8.12 Beta
 wordpress_id: 267

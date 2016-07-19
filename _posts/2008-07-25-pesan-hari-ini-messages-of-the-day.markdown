@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-07-25 16:45:06+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/07/25/pesan-hari-ini-messages-of-the-day.html
 slug: pesan-hari-ini-messages-of-the-day
 title: Pesan hari ini (Messages of the day)
 wordpress_id: 212

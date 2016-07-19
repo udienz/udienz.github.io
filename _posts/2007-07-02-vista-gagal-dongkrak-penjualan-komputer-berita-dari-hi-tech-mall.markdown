@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-02 17:01:35+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/03/vista-gagal-dongkrak-penjualan-komputer-berita-dari-hi-tech-mall.html
 slug: vista-gagal-dongkrak-penjualan-komputer-berita-dari-hi-tech-mall
 title: Vista Gagal Dongkrak Penjualan Komputer (berita dari hi-tech mall)
 wordpress_id: 383

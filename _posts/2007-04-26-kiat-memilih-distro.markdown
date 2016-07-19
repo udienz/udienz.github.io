@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-26 00:45:03+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/26/kiat-memilih-distro.html
 slug: kiat-memilih-distro
 title: Kiat Memilih Distro
 wordpress_id: 36

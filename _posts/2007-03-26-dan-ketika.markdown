@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-03-26 07:13:54+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/03/26/dan-ketika.html
 slug: dan-ketika
 title: dan ketika
 wordpress_id: 18

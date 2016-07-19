@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-07-01 14:48:49+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/07/01/ubuntu-still-nomero-uno-at-indonesia-and-east-java.html
 slug: ubuntu-still-nomero-uno-at-indonesia-and-east-java
 title: Ubuntu Still Nomero Uno at Indonesia (and East Java!)
 wordpress_id: 208

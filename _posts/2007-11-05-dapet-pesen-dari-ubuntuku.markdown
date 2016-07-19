@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-05 20:28:03+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/11/06/dapet-pesen-dari-ubuntuku.html
 slug: dapet-pesen-dari-ubuntuku
 title: Dapet Pesen dari Ubuntuku...
 wordpress_id: 131

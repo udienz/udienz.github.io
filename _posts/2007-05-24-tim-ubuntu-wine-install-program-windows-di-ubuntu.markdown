@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-24 14:21:36+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/24/tim-ubuntu-wine-install-program-windows-di-ubuntu.html
 slug: tim-ubuntu-wine-install-program-windows-di-ubuntu
 title: 'Tim Ubuntu-Wine: Install Program Windows di Ubuntu'
 wordpress_id: 58

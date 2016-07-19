@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-02-10 14:44:42+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/02/10/70-kali-memohon.html
 slug: 70-kali-memohon
 title: 70 Kali Memohon
 wordpress_id: 12

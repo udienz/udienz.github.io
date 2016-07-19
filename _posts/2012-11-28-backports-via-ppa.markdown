@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2012-11-28 14:37:48+00:00
 layout: post
-link: https://blog.mahyudd.in/2012/11/28/backports-via-ppa.html
 slug: backports-via-ppa
 title: Backports via PPA
 wordpress_id: 711

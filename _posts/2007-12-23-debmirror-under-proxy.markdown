@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-12-23 13:21:52+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/12/23/debmirror-under-proxy.html
 slug: debmirror-under-proxy
 title: debmirror
 wordpress_id: 148

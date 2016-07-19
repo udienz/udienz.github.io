@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-02-13 23:00:09+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/02/14/tinggal-sedikit.html
 slug: tinggal-sedikit
 title: Tinggal Sedikit..
 wordpress_id: 277

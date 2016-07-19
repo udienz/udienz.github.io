@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2013-05-01 04:12:53+00:00
 layout: post
-link: https://blog.mahyudd.in/2013/05/01/nginxphp5-cgi-di-ubuntudebian.html
 slug: nginxphp5-cgi-di-ubuntudebian
 title: nginx+php5-cgi di Ubuntu/Debian
 wordpress_id: 740

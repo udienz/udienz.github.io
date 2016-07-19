@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-09-06 17:45:04+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/09/07/kapan-lagi-bisa-kayak-gini.html
 slug: kapan-lagi-bisa-kayak-gini
 title: Kapan lagi bisa kayak gini?
 wordpress_id: 218

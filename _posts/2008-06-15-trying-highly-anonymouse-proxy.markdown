@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-06-15 11:50:27+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/06/15/trying-highly-anonymouse-proxy.html
 slug: trying-highly-anonymouse-proxy
 title: Trying anonymouse proxy
 wordpress_id: 201

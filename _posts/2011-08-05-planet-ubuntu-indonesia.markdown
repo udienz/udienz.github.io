@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-08-05 19:18:05+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/08/05/planet-ubuntu-indonesia.html
 slug: planet-ubuntu-indonesia
 title: Planet Ubuntu Indonesia
 wordpress_id: 596

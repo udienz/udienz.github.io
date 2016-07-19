@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-10-07 17:20:47+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/10/07/membuat-virtual-python.html
 slug: membuat-virtual-python
 title: Membuat Virtual Python
 wordpress_id: 612

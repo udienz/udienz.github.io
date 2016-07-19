@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-01-23 18:21:43+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/01/23/mengatasi-ftbfs-di-natty.html
 slug: mengatasi-ftbfs-di-natty
 title: Mengatasi FTBFS di Natty
 wordpress_id: 495

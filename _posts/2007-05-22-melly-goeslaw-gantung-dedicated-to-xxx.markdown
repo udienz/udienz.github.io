@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-22 15:39:37+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/22/melly-goeslaw-gantung-dedicated-to-xxx.html
 slug: melly-goeslaw-gantung-dedicated-to-xxx
 title: Melly Goeslaw - Gantung (dedicated to xXx)
 wordpress_id: 57

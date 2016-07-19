@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-26 05:06:27+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/26/source-code-ubuntu-mobile-dipublikasikan.html
 slug: source-code-ubuntu-mobile-dipublikasikan
 title: "â€œSource Codeâ€\x9D Ubuntu Mobile Dipublikasikan"
 wordpress_id: 60

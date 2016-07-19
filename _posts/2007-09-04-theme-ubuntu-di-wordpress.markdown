@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-09-04 09:00:50+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/09/04/theme-ubuntu-di-wordpress.html
 slug: theme-ubuntu-di-wordpress
 title: theme Ubuntu di wordpress
 wordpress_id: 405

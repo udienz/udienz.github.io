@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-01-21 09:12:23+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/01/21/jika-kamu-memancing-ikan.html
 slug: jika-kamu-memancing-ikan
 title: Jika kamu memancing ikan..
 wordpress_id: 10

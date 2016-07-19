@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2013-08-17 15:33:18+00:00
 layout: post
-link: https://blog.mahyudd.in/2013/08/17/planet-debian-indonesia.html
 slug: planet-debian-indonesia
 title: Planet Debian Indonesia
 wordpress_id: 773

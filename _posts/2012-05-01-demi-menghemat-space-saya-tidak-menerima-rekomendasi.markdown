@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2012-05-01 03:00:35+00:00
 layout: post
-link: https://blog.mahyudd.in/2012/05/01/demi-menghemat-space-saya-tidak-menerima-rekomendasi.html
 slug: demi-menghemat-space-saya-tidak-menerima-rekomendasi
 title: Demi menghemat space, saya tidak menerima rekomendasi
 wordpress_id: 28

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-03-02 02:59:27+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/03/02/tambah-gemuk.html
 slug: tambah-gemuk
 title: Tambah gemuk
 wordpress_id: 299

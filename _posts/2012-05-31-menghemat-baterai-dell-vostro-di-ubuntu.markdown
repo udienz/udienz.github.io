@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2012-05-31 08:30:31+00:00
 layout: post
-link: https://blog.mahyudd.in/2012/05/31/menghemat-baterai-dell-vostro-di-ubuntu.html
 slug: menghemat-baterai-dell-vostro-di-ubuntu
 title: Menghemat baterai Dell Vostro di Ubuntu
 wordpress_id: 32

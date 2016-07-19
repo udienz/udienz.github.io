@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-22 08:21:17+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/22/e-books-artikel-tentang-ubuntu-2.html
 slug: e-books-artikel-tentang-ubuntu-2
 title: e-Bookâ€™s, Artikel tentang Ubuntu
 wordpress_id: 30

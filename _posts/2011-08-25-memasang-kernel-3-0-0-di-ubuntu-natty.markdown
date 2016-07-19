@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-08-25 15:57:21+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/08/25/memasang-kernel-3-0-0-di-ubuntu-natty.html
 slug: memasang-kernel-3-0-0-di-ubuntu-natty
 title: Memasang kernel 3.0.0 di Ubuntu Natty
 wordpress_id: 600

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-04-07 20:00:34+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/04/08/down.html
 slug: down
 title: Down!
 wordpress_id: 439

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-01-25 09:02:25+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/01/25/kegunaan-lain-perintah-file.html
 slug: kegunaan-lain-perintah-file
 title: Kegunaan lain perintah file
 wordpress_id: 260

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-02-25 11:25:42+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/02/25/8-kado-terindah-2.html
 slug: 8-kado-terindah-2
 title: 8 kado Terindah
 wordpress_id: 662

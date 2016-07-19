@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2012-07-20 17:05:17+00:00
 layout: post
-link: https://blog.mahyudd.in/2012/07/21/agar-otentifikasi-ssh-key-di-centos-6-x-berjalan.html
 slug: agar-otentifikasi-ssh-key-di-centos-6-x-berjalan
 title: 'Agar otentifikasi ssh-key di Centos 6.x berjalan '
 wordpress_id: 682

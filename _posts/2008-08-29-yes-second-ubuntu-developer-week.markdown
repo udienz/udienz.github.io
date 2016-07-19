@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-08-29 14:05:01+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/08/29/yes-second-ubuntu-developer-week.html
 slug: yes-second-ubuntu-developer-week
 title: Yes! Second Ubuntu Developer week!
 wordpress_id: 216

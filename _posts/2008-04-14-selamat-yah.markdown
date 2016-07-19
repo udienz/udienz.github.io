@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-04-14 16:40:21+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/04/14/selamat-yah.html
 slug: selamat-yah
 title: Selamat yah....
 wordpress_id: 177

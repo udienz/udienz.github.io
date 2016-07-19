@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-08-07 09:47:48+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/08/07/feisty-jadi-ubuntu-muslim-edition.html
 slug: feisty-jadi-ubuntu-muslim-edition
 title: feisty jadi ubuntu Muslim Edition
 wordpress_id: 400

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-03-29 14:51:45+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/03/29/surat-cinta-dari-irgsh.html
 slug: surat-cinta-dari-irgsh
 title: surat cinta dari irgsh
 wordpress_id: 438

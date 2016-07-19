@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2014-11-10 09:12:00+00:00
 layout: post
-link: https://blog.mahyudd.in/2014/11/10/migrasi-ke-cloudflare.html
 slug: migrasi-ke-cloudflare
 title: Migrasi ke cloudflare
 wordpress_id: 868

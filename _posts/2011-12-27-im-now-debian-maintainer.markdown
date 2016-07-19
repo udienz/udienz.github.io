@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-12-27 08:31:06+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/12/27/im-now-debian-maintainer.html
 slug: im-now-debian-maintainer
 title: I'm now Debian Maintainer
 wordpress_id: 646

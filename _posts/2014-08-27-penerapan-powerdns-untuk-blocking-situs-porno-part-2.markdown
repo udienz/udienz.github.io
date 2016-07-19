@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2014-08-27 10:34:28+00:00
 layout: post
-link: https://blog.mahyudd.in/2014/08/27/penerapan-powerdns-untuk-blocking-situs-porno-part-2.html
 slug: penerapan-powerdns-untuk-blocking-situs-porno-part-2
 title: Penerapan Powerdns untuk blocking situs porno (part 2)
 wordpress_id: 825

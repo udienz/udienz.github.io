@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-10-05 15:18:02+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/10/05/setting-hp-sebagai-modem.html
 slug: setting-hp-sebagai-modem
 title: setting hp sebagai modem
 wordpress_id: 412

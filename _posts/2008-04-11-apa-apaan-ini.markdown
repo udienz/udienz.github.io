@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-04-11 06:04:41+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/04/11/apa-apaan-ini.html
 slug: apa-apaan-ini
 title: apa-apaan ini?
 wordpress_id: 176

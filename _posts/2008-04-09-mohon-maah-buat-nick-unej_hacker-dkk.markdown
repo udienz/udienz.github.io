@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-04-09 13:44:00+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/04/09/mohon-maah-buat-nick-unej_hacker-dkk.html
 slug: mohon-maah-buat-nick-unej_hacker-dkk
 title: Mohon maaf buat nick unej_hacker, dkk
 wordpress_id: 175

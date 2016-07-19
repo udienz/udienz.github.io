@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-09-14 16:14:53+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/09/14/terimakasih-dl2foss-idwebid.html
 slug: terimakasih-dl2foss-idwebid
 title: Terimakasih dl2.foss-id.web.id
 wordpress_id: 407

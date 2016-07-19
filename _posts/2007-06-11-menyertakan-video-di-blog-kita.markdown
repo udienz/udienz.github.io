@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-06-11 05:53:49+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/06/11/menyertakan-video-di-blog-kita.html
 slug: menyertakan-video-di-blog-kita
 title: Menyertakan Video di Blog kita
 wordpress_id: 65

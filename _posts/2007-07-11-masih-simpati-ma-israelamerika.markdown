@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-11 16:45:18+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/11/masih-simpati-ma-israelamerika.html
 slug: masih-simpati-ma-israelamerika
 title: Masih simpati ma Israel/Amerika??
 wordpress_id: 386

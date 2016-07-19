@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-14 11:06:14+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/14/al-balkhi-dan-si-burung-pincang.html
 slug: al-balkhi-dan-si-burung-pincang
 title: Al-Balkhi dan Si Burung Pincang
 wordpress_id: 50

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2015-02-26 09:15:09+00:00
 layout: post
-link: https://blog.mahyudd.in/2015/02/26/vagrant-box-di-buaya.html
 slug: vagrant-box-di-buaya
 title: vagrant box di buaya
 wordpress_id: 896

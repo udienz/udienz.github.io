@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-02-18 23:07:59+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/02/19/petuah-hamka.html
 slug: petuah-hamka
 title: Petuah HAMKA
 wordpress_id: 166

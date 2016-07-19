@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-06-04 05:06:50+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/06/04/today-is-my-birthday.html
 slug: today-is-my-birthday
 title: Today is my birthday
 wordpress_id: 199

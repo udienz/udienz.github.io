@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2012-04-22 08:46:03+00:00
 layout: post
-link: https://blog.mahyudd.in/2012/04/22/memilah-repository.html
 slug: memilah-repository
 title: Memilah repository
 wordpress_id: 19

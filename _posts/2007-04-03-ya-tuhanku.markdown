@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-03 06:55:42+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/03/ya-tuhanku.html
 slug: ya-tuhanku
 title: Ya tuhanku
 wordpress_id: 663

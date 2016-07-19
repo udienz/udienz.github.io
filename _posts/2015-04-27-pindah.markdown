@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2015-04-27 21:08:45+00:00
 layout: post
-link: https://blog.mahyudd.in/2015/04/27/pindah.html
 slug: pindah
 title: Pindah
 wordpress_id: 926

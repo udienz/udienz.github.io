@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-12 15:56:43+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/12/hati-hati-dengan-pecandu-linux.html
 slug: hati-hati-dengan-pecandu-linux
 title: Hati-hati dengan pecandu Linux
 wordpress_id: 388

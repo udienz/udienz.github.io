@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-26 15:32:56+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/26/pc-media-antivirus-pcmav-10-rc16.html
 slug: pc-media-antivirus-pcmav-10-rc16
 title: PC Media Antivirus (PCMAV) 1.0 RC16
 wordpress_id: 372

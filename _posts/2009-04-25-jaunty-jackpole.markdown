@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-04-25 07:00:40+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/04/25/jaunty-jackpole.html
 slug: jaunty-jackpole
 title: Jaunty Jackpole!
 wordpress_id: 440

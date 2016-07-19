@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-05-20 13:49:14+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/05/20/tanggapan-dari-pertanyaan-di-milis-tanya-jawab.html
 slug: tanggapan-dari-pertanyaan-di-milis-tanya-jawab
 title: Tanggapan dari pertanyaan di milis tanya jawab
 wordpress_id: 447

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-03 11:41:17+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/03/tip-dan-trik-ubuntu-feisty-yang-biasa-aku-lakukan.html
 slug: tip-dan-trik-ubuntu-feisty-yang-biasa-aku-lakukan
 title: Tip dan Trik Ubuntu Feisty (yang biasa aku lakukan)
 wordpress_id: 384

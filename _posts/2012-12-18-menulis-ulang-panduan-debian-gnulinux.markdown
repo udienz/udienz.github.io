@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2012-12-18 16:36:00+00:00
 layout: post
-link: https://blog.mahyudd.in/2012/12/18/menulis-ulang-panduan-debian-gnulinux.html
 slug: menulis-ulang-panduan-debian-gnulinux
 title: Menulis Ulang Panduan Debian GNU/Linux
 wordpress_id: 716

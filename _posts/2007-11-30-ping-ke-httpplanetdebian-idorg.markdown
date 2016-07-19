@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-30 08:00:11+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/11/30/ping-ke-httpplanetdebian-idorg.html
 slug: ping-ke-httpplanetdebian-idorg
 title: '!ping ke http://planet.debian-id.org'
 wordpress_id: 426

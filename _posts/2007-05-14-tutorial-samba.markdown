@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-14 11:00:49+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/14/tutorial-samba.html
 slug: tutorial-samba
 title: Tutorial Samba
 wordpress_id: 369

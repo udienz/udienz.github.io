@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-08-05 19:20:45+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/08/06/sourcelist-edisi-agustusan.html
 slug: sourcelist-edisi-agustusan
 title: source.list edisi agustusan
 wordpress_id: 398

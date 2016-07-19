@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-10-31 16:43:15+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/10/31/ubuntu-intrepid-ibex-is-out.html
 slug: ubuntu-intrepid-ibex-is-out
 title: Ubuntu Intrepid Ibex is out!
 wordpress_id: 226

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-02-28 13:18:08+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/02/28/ubuntu-developer-week.html
 slug: ubuntu-developer-week
 title: Ubuntu Developer Week
 wordpress_id: 548

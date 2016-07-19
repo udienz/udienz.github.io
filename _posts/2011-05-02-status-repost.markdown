@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-05-02 17:45:26+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/05/02/status-repost.html
 slug: status-repost
 title: Status (repost)
 wordpress_id: 574

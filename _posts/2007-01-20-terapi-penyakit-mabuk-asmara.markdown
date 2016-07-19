@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-01-20 18:32:21+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/01/20/terapi-penyakit-mabuk-asmara.html
 slug: terapi-penyakit-mabuk-asmara
 title: TERAPI PENYAKIT MABUK ASMARA
 wordpress_id: 42

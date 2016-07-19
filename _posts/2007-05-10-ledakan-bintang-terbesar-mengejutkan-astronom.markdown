@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-10 14:41:30+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/10/ledakan-bintang-terbesar-mengejutkan-astronom.html
 slug: ledakan-bintang-terbesar-mengejutkan-astronom
 title: Ledakan Bintang Terbesar Mengejutkan Astronom
 wordpress_id: 46

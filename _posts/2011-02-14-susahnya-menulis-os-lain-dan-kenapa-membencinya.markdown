@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-02-14 18:22:45+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/02/14/susahnya-menulis-os-lain-dan-kenapa-membencinya.html
 slug: susahnya-menulis-os-lain-dan-kenapa-membencinya
 title: Susahnya menulis OS lain dan kenapa membencinya?
 wordpress_id: 517

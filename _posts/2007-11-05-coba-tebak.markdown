@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-05 20:10:47+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/11/06/coba-tebak.html
 slug: coba-tebak
 title: coba tebak...
 wordpress_id: 130

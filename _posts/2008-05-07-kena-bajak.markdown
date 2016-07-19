@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-05-07 14:08:31+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/05/07/kena-bajak.html
 slug: kena-bajak
 title: Kena bajak...
 wordpress_id: 182

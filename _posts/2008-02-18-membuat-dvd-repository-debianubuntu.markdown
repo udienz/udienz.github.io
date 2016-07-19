@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-02-18 20:24:18+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/02/19/membuat-dvd-repository-debianubuntu.html
 slug: membuat-dvd-repository-debianubuntu
 title: Membuat DVD Repository Debian/Ubuntu
 wordpress_id: 164

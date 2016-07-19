@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-01-12 13:56:53+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/01/12/back-again.html
 slug: back-again
 title: Back Again!
 wordpress_id: 242

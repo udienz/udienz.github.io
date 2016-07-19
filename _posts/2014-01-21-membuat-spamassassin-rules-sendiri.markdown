@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2014-01-21 06:18:36+00:00
 layout: post
-link: https://blog.mahyudd.in/2014/01/21/membuat-spamassassin-rules-sendiri.html
 slug: membuat-spamassassin-rules-sendiri
 title: Membuat spamassassin rules sendiri
 wordpress_id: 808

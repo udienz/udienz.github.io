@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-26 17:39:11+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/11/26/ngecek-dulu.html
 slug: ngecek-dulu
 title: ngecek duluâ€¦.
 wordpress_id: 425

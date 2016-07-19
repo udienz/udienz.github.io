@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-05-16 07:53:12+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/05/16/dari-awal-mengenal-linux.html
 slug: dari-awal-mengenal-linux
 title: Dari awal mengenal linux
 wordpress_id: 430

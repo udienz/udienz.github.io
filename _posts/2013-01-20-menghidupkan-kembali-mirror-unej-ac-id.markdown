@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2013-01-20 09:06:03+00:00
 layout: post
-link: https://blog.mahyudd.in/2013/01/20/menghidupkan-kembali-mirror-unej-ac-id.html
 slug: menghidupkan-kembali-mirror-unej-ac-id
 title: Menghidupkan kembali mirror.UNEJ.ac.id
 wordpress_id: 725

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-12-14 06:30:45+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/12/14/blok-ip-spam-1.html
 slug: blok-ip-spam-1
 title: Blok IP spam [1]
 wordpress_id: 630

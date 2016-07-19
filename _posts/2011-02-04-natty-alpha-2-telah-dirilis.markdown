@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-02-04 02:39:52+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/02/04/natty-alpha-2-telah-dirilis.html
 slug: natty-alpha-2-telah-dirilis
 title: Natty alpha 2 telah dirilis
 wordpress_id: 505

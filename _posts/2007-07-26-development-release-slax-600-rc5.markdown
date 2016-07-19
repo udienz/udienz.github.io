@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-26 12:07:42+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/26/development-release-slax-600-rc5.html
 slug: development-release-slax-600-rc5
 title: 'Development Release: SLAX 6.0.0 RC5'
 wordpress_id: 393

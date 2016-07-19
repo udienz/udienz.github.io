@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-12-06 06:10:35+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/12/06/akhirnya-kelar-juga-download-vmware.html
 slug: akhirnya-kelar-juga-download-vmware
 title: akhirnya kelar juga download vmware...
 wordpress_id: 142

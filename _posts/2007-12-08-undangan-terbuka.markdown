@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-12-08 12:49:13+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/12/08/undangan-terbuka.html
 slug: undangan-terbuka
 title: Undangan terbuka
 wordpress_id: 427

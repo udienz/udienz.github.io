@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-08-15 06:37:23+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/08/15/about-launchpad.html
 slug: about-launchpad
 title: about launchpad
 wordpress_id: 401

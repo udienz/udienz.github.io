@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-09-05 13:32:07+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/09/05/pengajian-iktikaf-ramadhan.html
 slug: pengajian-iktikaf-ramadhan
 title: Pengajian I'ktikaf Ramadhan
 wordpress_id: 217

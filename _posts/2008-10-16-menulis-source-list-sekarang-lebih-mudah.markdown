@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-10-16 14:14:52+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/10/16/menulis-source-list-sekarang-lebih-mudah.html
 slug: menulis-source-list-sekarang-lebih-mudah
 title: Menulis Source list sekarang lebih mudah
 wordpress_id: 225

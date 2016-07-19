@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-26 00:54:58+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/26/pc-media-antivirus-pcmav-10-rc18-with-update-online.html
 slug: pc-media-antivirus-pcmav-10-rc18-with-update-online
 title: PC Media Antivirus PCMAV 1.0 RC18 with Update Online!
 wordpress_id: 392

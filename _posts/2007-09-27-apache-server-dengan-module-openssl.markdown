@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-09-27 20:53:21+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/09/28/apache-server-dengan-module-openssl.html
 slug: apache-server-dengan-module-openssl
 title: Apache server dengan module OpenSSL
 wordpress_id: 411

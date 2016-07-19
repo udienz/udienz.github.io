@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-05-01 10:29:48+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/05/01/update-poster-hrp-jember.html
 slug: update-poster-hrp-jember
 title: Update Poster HRP Jember
 wordpress_id: 181

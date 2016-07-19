@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-03-27 15:25:28+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/03/27/banner-ubuntu-jaunty-menghitung-hari.html
 slug: banner-ubuntu-jaunty-menghitung-hari
 title: Banner Ubuntu Jaunty, menghitung hari...
 wordpress_id: 437

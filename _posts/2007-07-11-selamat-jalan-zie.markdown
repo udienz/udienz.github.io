@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-11 07:04:18+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/11/selamat-jalan-zie.html
 slug: selamat-jalan-zie
 title: selamat jalan zie
 wordpress_id: 385

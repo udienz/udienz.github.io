@@ -3,7 +3,6 @@ author: udienz
 comments: false
 date: 2007-04-20 14:43:04+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/20/yogyafamily-code-download-more-tools-for-hacking.html
 published: false
 slug: yogyafamily-code-download-more-tools-for-hacking
 title: YogyaFamily Code Download (more tools for Hacking)

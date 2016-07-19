@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-06-19 15:05:41+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/06/19/pertamax-di-planet-ubuntu-id.html
 slug: pertamax-di-planet-ubuntu-id
 title: Pertamax di Planet Ubuntu id
 wordpress_id: 374

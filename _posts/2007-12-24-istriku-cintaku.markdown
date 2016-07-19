@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-12-24 21:32:00+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/12/25/istriku-cintaku.html
 slug: istriku-cintaku
 title: istriku, cintaku..
 wordpress_id: 149

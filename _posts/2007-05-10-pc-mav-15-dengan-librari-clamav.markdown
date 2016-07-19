@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-10 14:12:12+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/10/pc-mav-15-dengan-librari-clamav.html
 slug: pc-mav-15-dengan-librari-clamav
 title: PC MAV 15 dengan Librari ClamAV
 wordpress_id: 368

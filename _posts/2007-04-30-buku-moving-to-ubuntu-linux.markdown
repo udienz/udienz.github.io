@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-30 17:51:03+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/30/buku-moving-to-ubuntu-linux.html
 slug: buku-moving-to-ubuntu-linux
 title: buku Moving to Ubuntu Linux
 wordpress_id: 674

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-06-25 01:15:28+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/06/25/buat-xp-seperti-ubuntu.html
 slug: buat-xp-seperti-ubuntu
 title: buat xp seperti Ubuntu
 wordpress_id: 378

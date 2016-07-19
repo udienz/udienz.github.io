@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-27 09:39:13+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/11/27/akhirnya-kelar-juga.html
 slug: akhirnya-kelar-juga
 title: akhirnya kelar juga......
 wordpress_id: 136

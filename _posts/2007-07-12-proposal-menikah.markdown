@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-12 15:45:48+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/12/proposal-menikah.html
 slug: proposal-menikah
 title: Proposal Menikah
 wordpress_id: 387

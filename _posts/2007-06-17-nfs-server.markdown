@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-06-17 10:38:54+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/06/17/nfs-server.html
 slug: nfs-server
 title: NFS Server
 wordpress_id: 66

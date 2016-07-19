@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-12-02 19:07:15+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/12/03/server-buaya-di-hack.html
 slug: server-buaya-di-hack
 title: server buaya di hack !!
 wordpress_id: 141

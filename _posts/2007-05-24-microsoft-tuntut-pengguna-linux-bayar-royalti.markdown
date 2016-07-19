@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-24 14:26:17+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/24/microsoft-tuntut-pengguna-linux-bayar-royalti.html
 slug: microsoft-tuntut-pengguna-linux-bayar-royalti
 title: Microsoft Tuntut Pengguna Linux Bayar Royalti
 wordpress_id: 59

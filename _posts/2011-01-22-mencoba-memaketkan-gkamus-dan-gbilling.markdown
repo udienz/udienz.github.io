@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-01-22 20:54:24+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/01/22/mencoba-memaketkan-gkamus-dan-gbilling.html
 slug: mencoba-memaketkan-gkamus-dan-gbilling
 title: Mencoba memaketkan gKamus dan gBilling
 wordpress_id: 486

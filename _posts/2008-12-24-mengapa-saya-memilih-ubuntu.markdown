@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-12-24 06:29:18+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/12/24/mengapa-saya-memilih-ubuntu.html
 slug: mengapa-saya-memilih-ubuntu
 title: Mengapa saya memilih Ubuntu
 wordpress_id: 234

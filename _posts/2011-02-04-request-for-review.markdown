@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-02-04 10:45:06+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/02/04/request-for-review.html
 slug: request-for-review
 title: Request for review
 wordpress_id: 509

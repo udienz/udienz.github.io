@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-06-28 07:04:04+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/06/28/wwwstatcountercom.html
 slug: wwwstatcountercom
 title: www.statcounter.com
 wordpress_id: 380

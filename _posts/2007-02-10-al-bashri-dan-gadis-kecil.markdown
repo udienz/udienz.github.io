@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-02-10 14:47:57+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/02/10/al-bashri-dan-gadis-kecil.html
 slug: al-bashri-dan-gadis-kecil
 title: Al-Bashri dan Gadis Kecil
 wordpress_id: 365

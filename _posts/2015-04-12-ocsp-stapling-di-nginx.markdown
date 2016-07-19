@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2015-04-12 09:47:56+00:00
 layout: post
-link: https://blog.mahyudd.in/2015/04/12/ocsp-stapling-di-nginx.html
 slug: ocsp-stapling-di-nginx
 title: OCSP Stapling di nginx
 wordpress_id: 917

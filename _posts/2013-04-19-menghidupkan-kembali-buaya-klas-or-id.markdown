@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2013-04-19 12:44:57+00:00
 layout: post
-link: https://blog.mahyudd.in/2013/04/19/menghidupkan-kembali-buaya-klas-or-id.html
 slug: menghidupkan-kembali-buaya-klas-or-id
 title: Menghidupkan kembali BUAYA.klas.or.id
 wordpress_id: 735

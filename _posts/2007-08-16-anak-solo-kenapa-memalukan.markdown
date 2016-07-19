@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-08-16 14:43:12+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/08/16/anak-solo-kenapa-memalukan.html
 slug: anak-solo-kenapa-memalukan
 title: Anak Solo, kenapa Memalukan???
 wordpress_id: 402

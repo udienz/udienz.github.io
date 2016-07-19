@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-15 15:06:26+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/15/ubuntu-di-indonesia-ke-depan.html
 slug: ubuntu-di-indonesia-ke-depan
 title: Ubuntu di Indonesia ke depan
 wordpress_id: 51

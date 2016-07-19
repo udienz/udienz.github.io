@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2010-07-23 16:14:06+00:00
 layout: post
-link: https://blog.mahyudd.in/2010/07/23/lightsquid-dan-lighttpd-di-ubuntu.html
 slug: lightsquid-dan-lighttpd-di-ubuntu
 title: Lightsquid dan Lighttpd di Ubuntu
 wordpress_id: 463

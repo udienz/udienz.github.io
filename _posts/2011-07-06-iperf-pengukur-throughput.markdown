@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-07-06 17:24:10+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/07/06/iperf-pengukur-throughput.html
 slug: iperf-pengukur-throughput
 title: 'Iperf: Pengukur throughput'
 wordpress_id: 587

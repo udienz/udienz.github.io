@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-01-20 18:30:18+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/01/20/apt-source-list-asli.html
 slug: apt-source-list-asli
 title: APT, Source list asli
 wordpress_id: 6

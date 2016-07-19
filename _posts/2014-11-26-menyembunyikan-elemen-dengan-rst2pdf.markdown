@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2014-11-26 11:46:30+00:00
 layout: post
-link: https://blog.mahyudd.in/2014/11/26/menyembunyikan-elemen-dengan-rst2pdf.html
 slug: menyembunyikan-elemen-dengan-rst2pdf
 title: Menyembunyikan elemen dengan rst2pdf
 wordpress_id: 872

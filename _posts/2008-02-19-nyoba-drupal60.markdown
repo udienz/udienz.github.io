@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-02-19 01:21:19+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/02/19/nyoba-drupal60.html
 slug: nyoba-drupal60
 title: Nyoba Drupal6.0
 wordpress_id: 167

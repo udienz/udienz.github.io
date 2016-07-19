@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-04-27 16:20:01+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/04/27/alhamdulillah-we-made-it.html
 slug: alhamdulillah-we-made-it
 title: Alhamdulillah! we made it!
 wordpress_id: 180

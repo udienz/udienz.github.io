@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-08-14 08:53:58+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/08/14/lagi-sibuk.html
 slug: lagi-sibuk
 title: Lagi sibuk
 wordpress_id: 433

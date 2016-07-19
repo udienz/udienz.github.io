@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-11-06 15:40:05+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/11/06/sololinuxorid.html
 slug: sololinuxorid
 title: SOLO.linux.or.id
 wordpress_id: 229

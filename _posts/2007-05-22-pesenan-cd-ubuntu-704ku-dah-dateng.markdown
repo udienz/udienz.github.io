@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-22 04:06:38+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/22/pesenan-cd-ubuntu-704ku-dah-dateng.html
 slug: pesenan-cd-ubuntu-704ku-dah-dateng
 title: Pesenan CD Ubuntu 7.04ku dah dateng!!
 wordpress_id: 54

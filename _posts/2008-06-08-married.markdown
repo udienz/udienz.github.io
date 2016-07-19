@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-06-08 18:27:50+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/06/09/married.html
 slug: married
 title: married
 wordpress_id: 200

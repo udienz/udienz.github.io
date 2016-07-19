@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2013-12-23 06:07:38+00:00
 layout: post
-link: https://blog.mahyudd.in/2013/12/23/seminggu-minimal-satu-paket.html
 slug: seminggu-minimal-satu-paket
 title: Seminggu minimal satu paket
 wordpress_id: 803

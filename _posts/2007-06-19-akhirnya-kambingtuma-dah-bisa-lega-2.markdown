@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-06-19 15:15:44+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/06/19/akhirnya-kambingtuma-dah-bisa-lega-2.html
 slug: akhirnya-kambingtuma-dah-bisa-lega-2
 title: Akhirnya kambing/tuma dah bisaâ€¦ legaâ€¦
 wordpress_id: 75

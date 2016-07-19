@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-09-25 14:36:44+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/09/25/membuat-paket-debian.html
 slug: membuat-paket-debian
 title: Membuat Paket Debian
 wordpress_id: 224

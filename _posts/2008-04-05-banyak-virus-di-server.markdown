@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-04-05 12:19:26+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/04/05/banyak-virus-di-server.html
 slug: banyak-virus-di-server
 title: Banyak virus di Server
 wordpress_id: 429

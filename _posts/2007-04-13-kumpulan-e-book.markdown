@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-13 20:17:26+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/13/kumpulan-e-book.html
 slug: kumpulan-e-book
 title: Kumpulan e-book
 wordpress_id: 665

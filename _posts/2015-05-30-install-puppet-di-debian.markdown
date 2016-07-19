@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2015-05-30 15:08:46+00:00
 layout: post
-link: https://blog.mahyudd.in/2015/05/30/install-puppet-di-debian.html
 slug: install-puppet-di-debian
 title: Install puppet di Debian
 wordpress_id: 930

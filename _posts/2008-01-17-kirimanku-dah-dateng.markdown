@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-01-17 09:35:15+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/01/17/kirimanku-dah-dateng.html
 slug: kirimanku-dah-dateng
 title: Kirimanku dah dateng
 wordpress_id: 156

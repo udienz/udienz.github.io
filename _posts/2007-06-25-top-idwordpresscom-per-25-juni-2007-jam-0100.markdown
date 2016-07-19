@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-06-25 00:15:21+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/06/25/top-idwordpresscom-per-25-juni-2007-jam-0100.html
 slug: top-idwordpresscom-per-25-juni-2007-jam-0100
 title: top id.wordpress.com per 25 juni 2007 jam 01:00
 wordpress_id: 377

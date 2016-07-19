@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-02-23 23:37:47+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/02/23/pesan-error.html
 slug: pesan-error
 title: Pesan error
 wordpress_id: 544

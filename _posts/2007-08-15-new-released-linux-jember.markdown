@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-08-15 10:40:24+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/08/15/new-released-linux-jember.html
 slug: new-released-linux-jember
 title: 'New Released #linux-jember'
 wordpress_id: 103

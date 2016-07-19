@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-01-01 14:06:52+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/01/01/ngetes-kecepatan-loading-komputer.html
 slug: ngetes-kecepatan-loading-komputer
 title: ngetes kecepatan loading komputer
 wordpress_id: 151

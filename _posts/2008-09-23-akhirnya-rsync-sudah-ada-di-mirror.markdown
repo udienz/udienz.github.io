@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-09-23 14:22:00+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/09/23/akhirnya-rsync-sudah-ada-di-mirror.html
 slug: akhirnya-rsync-sudah-ada-di-mirror
 title: Akhirnya Rsync sudah ada di mirror
 wordpress_id: 222

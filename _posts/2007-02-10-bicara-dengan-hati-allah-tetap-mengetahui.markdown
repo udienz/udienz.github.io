@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-02-10 14:45:58+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/02/10/bicara-dengan-hati-allah-tetap-mengetahui.html
 slug: bicara-dengan-hati-allah-tetap-mengetahui
 title: Bicara dengan Hati, Allah Tetap Mengetahui
 wordpress_id: 13

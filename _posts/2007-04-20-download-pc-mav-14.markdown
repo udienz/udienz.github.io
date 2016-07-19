@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-20 13:34:23+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/20/download-pc-mav-14.html
 slug: download-pc-mav-14
 title: Download PC MAV 14
 wordpress_id: 668

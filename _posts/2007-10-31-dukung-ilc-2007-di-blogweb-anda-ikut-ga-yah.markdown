@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-10-31 05:11:19+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/10/31/dukung-ilc-2007-di-blogweb-anda-ikut-ga-yah.html
 slug: dukung-ilc-2007-di-blogweb-anda-ikut-ga-yah
 title: Dukung ILC 2007 di Blog/Web anda, ikut ga yah???
 wordpress_id: 421

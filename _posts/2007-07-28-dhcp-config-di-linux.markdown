@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-28 22:46:15+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/29/dhcp-config-di-linux.html
 slug: dhcp-config-di-linux
 title: DHCP Config di Linux
 wordpress_id: 396

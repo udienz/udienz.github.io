@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2014-08-28 06:11:21+00:00
 layout: post
-link: https://blog.mahyudd.in/2014/08/28/replikasi-master-slave-di-mysql.html
 slug: replikasi-master-slave-di-mysql
 title: Replikasi master slave di Mysql
 wordpress_id: 838

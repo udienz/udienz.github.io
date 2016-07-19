@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-10-28 16:13:22+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/10/28/xnet-a-new-hope-for-foss-movement.html
 slug: xnet-a-new-hope-for-foss-movement
 title: Xnet a new hope for foss movement
 wordpress_id: 418

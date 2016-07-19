@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-04-30 08:49:33+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/04/30/jrp-jember-release-party.html
 slug: jrp-jember-release-party
 title: JRP, Jember Release Party
 wordpress_id: 443

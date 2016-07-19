@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2016-07-01 20:49:23+00:00
 layout: post
-link: https://blog.mahyudd.in/2016/07/01/puppet-lint-as-docker.html
 slug: puppet-lint-as-docker
 title: puppet-lint as Docker
 wordpress_id: 963

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-02-10 14:48:41+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/02/10/bahkan-kepada-pemabuk-sekalipun-allah-tak-mengecualikan-kasih-nya.html
 slug: bahkan-kepada-pemabuk-sekalipun-allah-tak-mengecualikan-kasih-nya
 title: BAHKAN, KEPADA PEMABUK SEKALIPUN, ALLAH TAK MENGECUALIKAN KASIH-NYA
 wordpress_id: 660

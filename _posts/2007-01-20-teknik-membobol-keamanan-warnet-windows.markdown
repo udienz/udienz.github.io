@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-01-20 18:30:05+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/01/20/teknik-membobol-keamanan-warnet-windows.html
 published: false
 slug: teknik-membobol-keamanan-warnet-windows
 title: otak-atik vbs

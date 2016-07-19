@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-23 08:19:31+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/23/cinta-kepada-allah.html
 slug: cinta-kepada-allah
 title: Cinta Kepada Allah
 wordpress_id: 671

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-22 10:19:20+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/22/jangan-takut-kena-masalah.html
 slug: jangan-takut-kena-masalah
 title: Jangan Takut Kena masalah
 wordpress_id: 669

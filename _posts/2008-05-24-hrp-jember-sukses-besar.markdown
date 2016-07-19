@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-05-24 15:53:34+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/05/24/hrp-jember-sukses-besar.html
 slug: hrp-jember-sukses-besar
 title: HRP Jember Sukses Besar
 wordpress_id: 186

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-01-21 09:11:04+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/01/21/menambah-daftar-repository-di-ubuntudebian.html
 slug: menambah-daftar-repository-di-ubuntudebian
 title: menambah Daftar Repository di Ubuntu/Debian
 wordpress_id: 659

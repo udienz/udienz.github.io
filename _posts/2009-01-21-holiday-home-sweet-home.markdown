@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-01-21 23:59:52+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/01/22/holiday-home-sweet-home.html
 slug: holiday-home-sweet-home
 title: Holiday, Home sweet Home
 wordpress_id: 249

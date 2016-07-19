@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-03-05 14:53:47+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/03/05/blankon-tweak-ada-yang-mau-coba.html
 slug: blankon-tweak-ada-yang-mau-coba
 title: BlankOn tweak, ada yang mau coba?
 wordpress_id: 304

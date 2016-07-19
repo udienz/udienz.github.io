@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-30 17:49:25+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/30/official-ubuntu-book.html
 slug: official-ubuntu-book
 title: Official Ubuntu Book
 wordpress_id: 673

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-06-29 08:56:00+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/06/29/dual-boot-debian-dan-ubuntu.html
 slug: dual-boot-debian-dan-ubuntu
 title: Dual boot Debian dan Ubuntu
 wordpress_id: 581

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-22 15:33:44+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/22/panduan-install-wordpress-dengan-xampp-di-windows-xp.html
 slug: panduan-install-wordpress-dengan-xampp-di-windows-xp
 title: PANDUAN INSTALL WORDPRESS DENGAN XAMPP DI WINDOWS XP
 wordpress_id: 56

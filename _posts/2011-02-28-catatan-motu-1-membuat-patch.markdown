@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-02-28 15:41:11+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/02/28/catatan-motu-1-membuat-patch.html
 slug: catatan-motu-1-membuat-patch
 title: 'Catatan MOTU [1]: Membuat patch'
 wordpress_id: 553

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-04-28 13:07:14+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/04/28/di-balik-mirroring-2-dari-entah-berapa-tulisan.html
 slug: di-balik-mirroring-2-dari-entah-berapa-tulisan
 title: Di balik mirroring (2) dari (entah) berapa tulisan
 wordpress_id: 442

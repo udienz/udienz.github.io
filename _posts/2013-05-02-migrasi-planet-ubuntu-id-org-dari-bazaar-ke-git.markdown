@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2013-05-02 04:40:49+00:00
 layout: post
-link: https://blog.mahyudd.in/2013/05/02/migrasi-planet-ubuntu-id-org-dari-bazaar-ke-git.html
 slug: migrasi-planet-ubuntu-id-org-dari-bazaar-ke-git
 title: Migrasi planet.ubuntu-id.org dari bazaar ke git
 wordpress_id: 757

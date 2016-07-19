@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-30 21:58:22+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/12/01/walah-walah.html
 slug: walah-walah
 title: walah-walah
 wordpress_id: 138

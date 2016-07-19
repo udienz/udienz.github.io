@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2013-09-03 09:12:11+00:00
 layout: post
-link: https://blog.mahyudd.in/2013/09/03/sertifikat-baru-mtcre.html
 slug: sertifikat-baru-mtcre
 title: Sertifikat baru MTCRE
 wordpress_id: 778

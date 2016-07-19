@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-04 12:33:27+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/11/04/dewalinux.html
 slug: dewalinux
 title: DewaLinux
 wordpress_id: 127

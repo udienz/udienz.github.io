@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-10-01 07:40:49+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/10/01/bagaimana-jika-nge-ping-tapi-icmp-di-blok-server.html
 slug: bagaimana-jika-nge-ping-tapi-icmp-di-blok-server
 title: Bagaimana jika nge-ping tapi ICMP di blok server?
 wordpress_id: 608

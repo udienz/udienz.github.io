@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-04-11 13:46:25+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/04/11/hitungan-mundur-rilis-natty.html
 slug: hitungan-mundur-rilis-natty
 title: Hitungan mundur rilis Natty
 wordpress_id: 562

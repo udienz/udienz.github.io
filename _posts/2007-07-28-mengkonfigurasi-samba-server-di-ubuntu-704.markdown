@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-07-28 22:47:36+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/07/29/mengkonfigurasi-samba-server-di-ubuntu-704.html
 slug: mengkonfigurasi-samba-server-di-ubuntu-704
 title: Mengkonfigurasi samba server di Ubuntu 7.04
 wordpress_id: 397

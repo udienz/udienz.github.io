@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-06-28 05:28:30+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/06/28/download-iso-linux-via-upt-ti-unej.html
 slug: download-iso-linux-via-upt-ti-unej
 title: Download ISO Linux via UPT-TI Unej
 wordpress_id: 379

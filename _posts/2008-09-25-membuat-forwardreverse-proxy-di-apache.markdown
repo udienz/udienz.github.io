@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-09-25 14:32:25+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/09/25/membuat-forwardreverse-proxy-di-apache.html
 slug: membuat-forwardreverse-proxy-di-apache
 title: Membuat forward/reverse proxy di apache
 wordpress_id: 434

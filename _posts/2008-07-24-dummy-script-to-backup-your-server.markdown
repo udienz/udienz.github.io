@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-07-24 17:36:02+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/07/25/dummy-script-to-backup-your-server.html
 slug: dummy-script-to-backup-your-server
 title: Dummy Script to backup your server
 wordpress_id: 211

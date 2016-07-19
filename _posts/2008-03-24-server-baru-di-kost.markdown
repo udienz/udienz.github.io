@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-03-24 09:48:20+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/03/24/server-baru-di-kost.html
 slug: server-baru-di-kost
 title: Server baru di kost
 wordpress_id: 172

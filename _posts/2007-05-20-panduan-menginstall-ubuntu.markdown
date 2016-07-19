@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-20 08:53:50+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/20/panduan-menginstall-ubuntu.html
 slug: panduan-menginstall-ubuntu
 title: PANDUAN MENGINSTALL UBUNTU
 wordpress_id: 53

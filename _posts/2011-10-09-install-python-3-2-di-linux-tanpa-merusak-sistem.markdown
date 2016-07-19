@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-10-09 10:31:58+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/10/09/install-python-3-2-di-linux-tanpa-merusak-sistem.html
 slug: install-python-3-2-di-linux-tanpa-merusak-sistem
 title: Install Python 3.2 di Linux tanpa merusak sistem
 wordpress_id: 615

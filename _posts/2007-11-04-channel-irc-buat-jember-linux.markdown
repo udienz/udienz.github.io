@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-04 13:37:14+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/11/04/channel-irc-buat-jember-linux.html
 slug: channel-irc-buat-jember-linux
 title: Channel IRC buat Jember Linux
 wordpress_id: 129

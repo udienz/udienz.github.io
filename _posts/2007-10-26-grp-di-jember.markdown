@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-10-26 10:16:44+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/10/26/grp-di-jember.html
 slug: grp-di-jember
 title: GRP di Jember
 wordpress_id: 416

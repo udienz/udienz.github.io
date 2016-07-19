@@ -3,7 +3,6 @@ author: udienz
 comments: false
 date: 2007-06-17 10:49:34+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/06/17/download-hacking-tools-4.html
 published: false
 slug: download-hacking-tools-4
 title: Download Hacking Tools (4)

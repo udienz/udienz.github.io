@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-05-27 15:29:52+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/05/27/amburadul.html
 slug: amburadul
 title: Amburadul
 wordpress_id: 431

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-07-23 17:24:11+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/07/24/ubuntu-classroom-1-at-engineering-faculty.html
 slug: ubuntu-classroom-1-at-engineering-faculty
 title: 'Ubuntu Classroom #1 at Engineering Faculty'
 wordpress_id: 210

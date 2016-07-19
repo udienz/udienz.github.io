@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-01-17 09:49:32+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/01/17/facebook-ku.html
 slug: facebook-ku
 title: facebook-ku
 wordpress_id: 428

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-26 05:08:30+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/26/blankon-20-pindah-haluan.html
 slug: blankon-20-pindah-haluan
 title: 'BlankOn 2.0: Pindah Haluan?'
 wordpress_id: 371

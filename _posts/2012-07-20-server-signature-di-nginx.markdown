@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2012-07-20 17:16:16+00:00
 layout: post
-link: https://blog.mahyudd.in/2012/07/21/server-signature-di-nginx.html
 slug: server-signature-di-nginx
 title: Server signature di nginx
 wordpress_id: 686

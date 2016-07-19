@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-06-18 14:58:08+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/06/18/vista-vs-ubuntu-tak-selamanya-gratisan-itu-jelek.html
 slug: vista-vs-ubuntu-tak-selamanya-gratisan-itu-jelek
 title: Vista vs Ubuntu (tak selamanya gratisan itu jelek)
 wordpress_id: 72

@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-09-18 19:27:52+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/09/19/server-repository-baru-di-indonesia.html
 slug: server-repository-baru-di-indonesia
 title: Server Repository baru di Indonesia
 wordpress_id: 221

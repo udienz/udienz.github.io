@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-05-31 15:06:29+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/05/31/next-release-blankon-4.html
 slug: next-release-blankon-4
 title: Next Release BlankOn 4
 wordpress_id: 197

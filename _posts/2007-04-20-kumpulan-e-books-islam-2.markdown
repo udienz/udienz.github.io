@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-20 10:17:11+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/20/kumpulan-e-books-islam-2.html
 slug: kumpulan-e-books-islam-2
 title: Kumpulan e-bookâ€™s Islam
 wordpress_id: 23

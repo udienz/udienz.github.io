@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-09-27 20:33:52+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/09/28/membuat-dns-server-lokal.html
 slug: membuat-dns-server-lokal
 title: Membuat DNS Server Lokal
 wordpress_id: 410

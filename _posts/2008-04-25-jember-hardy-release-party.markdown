@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-04-25 09:10:48+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/04/25/jember-hardy-release-party.html
 slug: jember-hardy-release-party
 title: Jember Hardy Release Party
 wordpress_id: 179

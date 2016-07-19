@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-10-24 15:17:28+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/10/24/tau-nggak.html
 slug: tau-nggak
 title: tau nggak??
 wordpress_id: 414

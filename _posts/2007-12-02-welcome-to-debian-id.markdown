@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-12-02 19:02:22+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/12/03/welcome-to-debian-id.html
 slug: welcome-to-debian-id
 title: welcome to debian-id
 wordpress_id: 140

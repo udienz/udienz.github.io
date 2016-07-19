@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-11-04 13:22:03+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/11/04/warisan-dari-admin.html
 slug: warisan-dari-admin
 title: warisan dari admin
 wordpress_id: 128

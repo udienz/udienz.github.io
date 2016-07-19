@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-04-20 16:16:00+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/04/20/nge-routing-di-debian-gnulinux.html
 slug: nge-routing-di-debian-gnulinux
 title: Nge-routing di Debian GNU/Linux
 wordpress_id: 366

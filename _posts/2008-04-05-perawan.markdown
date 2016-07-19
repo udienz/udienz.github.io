@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-04-05 14:22:32+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/04/05/perawan.html
 slug: perawan
 title: Perawan?
 wordpress_id: 174

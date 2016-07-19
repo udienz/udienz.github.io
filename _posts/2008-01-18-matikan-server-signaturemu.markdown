@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-01-18 09:08:37+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/01/18/matikan-server-signaturemu.html
 slug: matikan-server-signaturemu
 title: Matikan Server Signaturemu!!
 wordpress_id: 160

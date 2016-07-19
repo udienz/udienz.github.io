@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2007-05-22 15:05:02+00:00
 layout: post
-link: https://blog.mahyudd.in/2007/05/22/dual-booting-windows-dan-ubuntu-fiesty.html
 slug: dual-booting-windows-dan-ubuntu-fiesty
 title: Dual Booting Windows dan Ubuntu Fiesty
 wordpress_id: 55

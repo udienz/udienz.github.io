@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-01-27 07:49:13+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/01/27/rrdtool-bermasalah-ketika-ganti-arsitektur.html
 slug: rrdtool-bermasalah-ketika-ganti-arsitektur
 title: RRDTOOL bermasalah ketika ganti arsitektur
 wordpress_id: 269

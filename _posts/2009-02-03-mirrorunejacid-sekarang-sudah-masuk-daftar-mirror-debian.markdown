@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2009-02-03 05:47:44+00:00
 layout: post
-link: https://blog.mahyudd.in/2009/02/03/mirrorunejacid-sekarang-sudah-masuk-daftar-mirror-debian.html
 slug: mirrorunejacid-sekarang-sudah-masuk-daftar-mirror-debian
 title: mirror.UNEJ.ac.id sekarang sudah masuk daftar Mirror Debian
 wordpress_id: 273

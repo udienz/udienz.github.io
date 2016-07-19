@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2011-02-15 08:24:59+00:00
 layout: post
-link: https://blog.mahyudd.in/2011/02/15/berpartisipasi-di-pengembangan-ubuntu-1-permintaan-sync.html
 slug: berpartisipasi-di-pengembangan-ubuntu-1-permintaan-sync
 title: 'Berpartisipasi di pengembangan Ubuntu [1]: Permintaan Sync'
 wordpress_id: 521

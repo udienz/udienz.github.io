@@ -3,7 +3,6 @@ author: udienz
 comments: true
 date: 2008-01-27 09:43:00+00:00
 layout: post
-link: https://blog.mahyudd.in/2008/01/27/sorry-bukanya-mau-bikin-macet.html
 slug: sorry-bukanya-mau-bikin-macet
 title: Sorry... bukanya mau bikin macet...
 wordpress_id: 162
