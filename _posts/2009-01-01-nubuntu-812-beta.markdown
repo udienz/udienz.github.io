@@ -1,0 +1,23 @@
+---
+author: udienz
+comments: true
+date: 2009-01-01 12:22:43+00:00
+layout: post
+link: https://blog.mahyudd.in/2009/01/01/nubuntu-812-beta.html
+slug: nubuntu-812-beta
+title: Nubuntu 8.12 Beta
+wordpress_id: 267
+categories:
+- Linux
+tags:
+- nubuntu
+- Release
+- ubuntu
+---
+
+Heya! very late to wrote this distro, i try at last -+ 2 weeks ago, and its great!
+Nubuntu have codemamed â€œ[8.12 Instigating Insecurity](http://en.emgent.org/index.php/elite/nubuntu/)â€œ, contains huge hacking tools, security and also much features too.
+__
+Download at here!
+* [Torrent](http://nubuntu.org/downloads/click.php?id=9)
+* [ISO](http://mirror.unej.ac.id/pub/iso/nubuntu/nubuntu-8.12-beta.iso)

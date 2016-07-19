@@ -1,0 +1,50 @@
+---
+author: udienz
+comments: true
+date: 2008-06-08 18:27:50+00:00
+layout: post
+link: https://blog.mahyudd.in/2008/06/09/married.html
+slug: married
+title: married
+wordpress_id: 200
+categories:
+- Linux
+tags:
+- apt
+- fun
+- Guyonan
+- just 4 fun
+- Linux
+- lucu
+- marry
+- nikah
+- ra penting
+---
+
+[do you want to marry?](http://en.tiraecol.net/modules/comic/comic.php?content_id=88)
+
+![](http://mirror7.escomposlinux.org/comic/ecol-160-e.png)
+
+_original http://mirror7.escomposlinux.org/comic/ecol-160-e.png_
+
+let's think again about marry...
+
+Solution:
+
+0. `$ sudo apt-get update`
+
+1. `$ sudo apt-get dist-upgrade`
+
+2.  `$ sudo apt-get  upgrade`
+
+still have a problem or dependency?
+
+3. check your life `$ uptime`
+
+4. check your log `$ dmesg | tail -f`
+
+STILL HAVE PROBLEM!
+
+5. `$ sudo halt`
+
+:D

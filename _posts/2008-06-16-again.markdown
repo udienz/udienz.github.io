@@ -1,0 +1,38 @@
+---
+author: udienz
+comments: true
+date: 2008-06-16 23:07:20+00:00
+layout: post
+link: https://blog.mahyudd.in/2008/06/17/again.html
+slug: again
+title: Again..
+wordpress_id: 205
+categories:
+- MySelf
+- Ubuntu
+tags:
+- cmd
+- joke
+- ngedumel
+- shell
+- ubuntu
+---
+
+i'm forget again...
+
+    
+    Microsoft Windows XP [Version 5.1.2600]
+    (C) Copyright 1985-2001 Microsoft Corp.
+    
+    C:Documents and Settingssmilecrew>ls
+    'ls' is not recognized as an internal or external command,
+    operable program or batch file.
+    
+    C:Documents and Settingssmilecrew>
+
+
+ups..... :D
+
+    
+    maybe this machine says "hi udienz this is not linux, it's not your computer it's internet cafe computer's"
+    Â 

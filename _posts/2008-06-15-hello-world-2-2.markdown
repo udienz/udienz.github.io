@@ -1,0 +1,73 @@
+---
+author: udienz
+comments: true
+date: 2008-06-15 11:58:58+00:00
+layout: post
+link: https://blog.mahyudd.in/2008/06/15/hello-world-2-2.html
+slug: hello-world-2-2
+title: Hello world
+wordpress_id: 202
+categories:
+- MySelf
+- Ubuntu
+tags:
+- membership
+- planet
+- ubuntu
+- ubuntu member
+- ubuntu-id
+---
+
+Bismillahirrohmanirrohiem
+
+if you read this post itâ€™s mean that iâ€™
+
+m approved to be [Ubuntu member](http://launchpad.net/%7Eubuntumember), and this post appear into [Planet Ubuntu](http://planet.ubuntu.com/). Currently Indonesia have 4 member of Ubuntu member he is [imtheface](http://skyisgrey.org), [Belutz](http://www.belutz.net/2008/06/17/new-ubuntu-members-from-indonesia), Takdir and me, Belutz and imtheface is founder ubuntu-id, me and Takdir just participant and help both person.
+
+Thanks to [Belutz](http://www.belutz.net), [RameTux](https://edge.launchpad.net/~rametux), [Takdir](http://takdir.blogspot.com/), [Amachu](http://amachu.net/), [persia](https://edge.launchpad.net/~persia), [lifeless](http://www.robertcollins.net/), Ekushy, [Zakame](http://www.zakame.net/), and all ubuntu board member who approved and supported me! Iâ€™
+
+m so glad!
+
+here is the log:
+
+
+<blockquote>12:32	Belutz	for all his contributions for ubuntu-id I could give him +1
+12:32	lifeless	so, any more questions to ask ?
+12:32	lifeless	(I have none)
+12:32	elkbuntu	nor i. +1
+12:33	persia	+1 from me, although Iâ€™d like to see more of the various projects more integrated with Ubuntu
+12:33	amachu__	neither too.. thats fair enough +1
+12:33	amachu__	neither me too..
+* elkbuntu agrees with persia
+12:33	amachu__	zakame: there?
+* udienz- still waiting
+12:34	lifeless	+1
+12:35 lifeless persia: I agree re the projects, but I think that that is largely orthogonal; he is contributing both directly and indirectly
+12:35	udienz-	lifeless: thanksâ€¦
+12:36 Belutz the problem in our country is that we still focus in gathering more FOSS users than FOSS developers, how can they be a developer if they doesnâ€™t use it
+12:36	zakame	+1 on the translation works, keep it up
+12:36 persia lifeless: Entirely. I believe udienz- deserves membership based on the strength of LoCo work and translations. Iâ€™d still like to see this membership used to help transition ubuntume and BlankOn into in-repo derivatives.
+12:36	amachu__	persia: i too would stress on that, overall Ok
+* Belutz congrats udienz-
+12:37	udienz-	hihihi
+* RameTux congrats udienz-
+12:37	amachu__	udienz-: Welcome
+12:37	Ekushey	congrats udienz-
+12:37	lifeless	congrats</blockquote>
+
+
+YES!....
+
+    
+    Don't stop me don't stop me don't stop me
+    Hey hey hey!
+    Don't stop me don't stop me
+    Ooh ooh ooh (I like it)
+    Don't stop me have a good time good time
+    Don't stop me don't stop me
+    Ooh ooh Alright
+    I'm burning through the skies Yeah!
+    Two hundred degrees
+    That's why they call me Mister Fahrenheit
+    I'm trav'ling at the speed of light
+    I wanna make a supersonic man of you ~ Queen (Don't Stop Me) Freddy Mercury

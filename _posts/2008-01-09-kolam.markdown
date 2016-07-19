@@ -1,0 +1,26 @@
+---
+author: udienz
+comments: true
+date: 2008-01-09 09:03:11+00:00
+layout: post
+link: https://blog.mahyudd.in/2008/01/09/kolam.html
+slug: kolam
+title: KOLAM
+wordpress_id: 154
+categories:
+- Linux
+tags:
+- Linux
+---
+
+[sekedar link](http://warnetubuntu.wordpress.com/about/#comment-405)
+
+[http://www.kolam-linukemalang.blogspot.com/](http://www.kolam-linukemalang.blogspot.com/)
+
+Namanya : KOLAM
+
+RealName: Komunitas Linux Arek Malang
+
+Asal : [Ngalam](http://id.wikipedia.org/wiki/Kota_Malang)
+
+Sex: 404 NOT Found

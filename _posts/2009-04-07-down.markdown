@@ -1,0 +1,27 @@
+---
+author: udienz
+comments: true
+date: 2009-04-07 20:00:34+00:00
+layout: post
+link: https://blog.mahyudd.in/2009/04/08/down.html
+slug: down
+title: Down!
+wordpress_id: 439
+categories:
+- Linux
+- Networking
+tags:
+- apache
+- bad sector
+- crash
+- debian.org
+- ftp
+- Linux
+- rsync
+- swap
+---
+
+aneh belakangan ini si [mirror](http://mirror.sebelah.web.id/wiki/Mirror.UNEJ.ac.id) sering down! saya lihat proses nya tidak terlalu berat, lalu? terakhir saya lihat salah satu [disk](http://en.wikipedia.org/wiki/Harddisk) nya ada yang [corrupt](http://en.wikipedia.org/wiki/Bad_sector), sepertinya di partisi swap. mengingat saat terakhir kemarin saya lihat di log menandakan kalo [swap](http://en.wikipedia.org/wiki/Swap_(computer_science)) "aneh" enggak tau lah itu bahasanya gimana :D
+
+Solusi ke depan adalah saya dan agus akan memisahkan traffic [rsync](http://en.wikipedia.org/wiki/Rsync) dan ftp ke fileserver02 alias [jayawijaya](http://en.wikipedia.org/wiki/Jayawijaya_Mountains), sedang traffic http masih tetap di mesin utama ([fileserver00](http://mirror.sebelah.web.id/wiki/Mirror.UNEJ.ac.id) alias [ijen](http://en.wikipedia.org/wiki/Ijen)). ini bertujuan agar supaya si mirror ini terkurangi bebannya, ini saya ilhami dari [server debian di swedia](http://ftp.se.debian.org/about/index.html).
+

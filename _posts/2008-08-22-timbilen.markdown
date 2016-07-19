@@ -1,0 +1,21 @@
+---
+author: udienz
+comments: true
+date: 2008-08-22 14:20:16+00:00
+layout: post
+link: https://blog.mahyudd.in/2008/08/22/timbilen.html
+slug: timbilen
+title: Timbilen
+wordpress_id: 214
+categories:
+- MySelf
+tags:
+- ga penting
+- story
+---
+
+Timbilen adalah penyakit di mata karena adanya benjolan kecil. kata orang jawa itu karena ngintip...
+
+nah saya kahir-akhir ini, atau lebih tepatnya 3 hari ini timbilen. jangan salah sangka lho yah, ini gara-gara kebanyakan ngebaca log nya server :p hehehe lha bagaimana lagi, log itu harus di analisis.. cobak silakan download dengan wget dengan file nyang banyak kemudian periksa satu-satauÂ  dan dengan kecepatan tertentu langsung bisa tau.
+
+duh... mataku rek...
