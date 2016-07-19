@@ -31,7 +31,7 @@ Contoh lain, puppet dapat melakukan manajemen user, sebuah perusahaan mempunyai 
 Pada tulisan kali ini, saya menggunakan Debian Jessie di Virtualbox, saya asumsikan bahwasanya Debian telah terpasang di Virtualbox. Domain yang akan saya pakai adalah puppet.id
 Note: Untuk mengakali proses dns resolving, kita dapat mengakali nya di berkas /etc/hosts. Berikut adalah isi dari /etc/hosts pada master:
 
-[code]
+```
 127.0.0.1       localhost
 127.0.1.1       puppet master puppet.puppet.id master.puppet.id
 
@@ -39,7 +39,7 @@ Note: Untuk mengakali proses dns resolving, kita dapat mengakali nya di berkas /
 ::1     localhost ip6-localhost ip6-loopback
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
-[/code]
+```
 
 
 
@@ -51,13 +51,13 @@ Tahap pertama adalah membuat puppet master,Â beberapa alternatif untuk membuat
 
 Silakan login ke server master untuk memulai pemasangan. Pada tahap ini kita akan melakukan refresh database paket dan pemasangan ntp.
 
-[code]
+```
 root@master:~# apt-get update && apt-get dist-upgrade -y && apt-get install ntp -y
-[/code]
+```
 
 Langkah selanjutnya adalah mengunduh binary untuk repository puppet dan pemasangan puppetmaster.
 
-[code]
+```
 root@master:~# cd /tmp/
 root@master:/tmp# wget http://apt.puppetlabs.com/puppetlabs-release-jessie.deb
 root@master:/tmp# dpkg -i puppetlabs-release-jessie.deb
@@ -66,17 +66,17 @@ Preparing to unpack puppetlabs-release-jessie.deb ...
 Unpacking puppetlabs-release (1.0-11) over (1.0-11) ...
 Setting up puppetlabs-release (1.0-11) ...
 root@master:/tmp# apt-get update && apt-get install puppetmaster -y
-[/code]
+```
 
 Matikan service puppet master terlebih dahulu:
-[code]
+```
 root@master:~# service puppetmaster stop
  * Stopping puppet master                                                [ OK ]
-[/code]
+```
 
 Langkah selanjutnya adalah mengatur pengaturan dari puppet yang terletak di /etc/puppet/puppet.conf, silakan buka berkas tersebut dan edit seperti pada tampilan dibawah:
 
-[code]
+```
 [main]
 logdir=/var/log/puppet
 vardir=/var/lib/puppet
@@ -92,7 +92,7 @@ dns_alt_names = master.puppet.id,puppet
 # and can safely be removed if webrick is used.
 ssl_client_header = SSL_CLIENT_S_DN
 ssl_client_verify_header = SSL_CLIENT_VERIFY
-[/code]
+```
 
 
 
@@ -102,10 +102,10 @@ ssl_client_verify_header = SSL_CLIENT_VERIFY
 
 Setelah kita mengatur puppet, langkah selanjutnya adalah membuat sertifikat SSL untuk puppet, puppet dalam proses nya akan menggunakan sertifikat dalam berkomunikasi dua arah dari master ke client. Untuk membuat sertifikat SSL dapat menggunakan perintah berikut,:
 
-[code]
+```
 root@master:/tmp# rm /var/lib/puppet/ssl/* -rf
 root@master:/tmp# puppet master --verbose --no-daemonize
-[/code]
+```
 
 Dari perintah tersebut puppet akan membuat SSL, dan tekan tomcol CTRL + C untuk menghentikan proses.
 
@@ -125,21 +125,21 @@ Notice: Removing file Puppet::SSL::CertificateRequest puppet.puppet.id at '/var/
 Notice: Removing file Puppet::SSL::CertificateRequest puppet.puppet.id at '/var/lib/puppet/ssl/certificate_requests/puppet.puppet.id.pem'
 Notice: Starting Puppet master version 3.7.2
 ^CNotice: Caught INT; calling stop
-[/code]
+```
 
 Jika tampilan shell menunjukkan tampilan seperti diatas berarti sertifikat SSL sudah dibuat, silakan pastikan dengan menggunakan perintah dibawah.
 
-[code]
+```
 root@master:/tmp# puppet cert list -all
 + "puppet.puppet.id" (SHA256) 36:68:90:27:2D:9B:17:5B:E1:57:E7:C4:9A:85:9C:1B:0D:40:DE:06:88:FC:68:96:60:F5:C9:00:2E:42:82:55 (alt names: "DNS:master.puppet.id", "DNS:puppet", "DNS:puppet.puppet.id")
-[/code]
+```
 
 Kemudian start daemon puppet dengan mengetikkan
-[code]
+```
 root@master:~# service puppetmaster start
  * Starting puppet master                                                [ OK ]
 root@master:~#
-[/code]
+```
 
 
 
@@ -149,15 +149,15 @@ root@master:~#
 
 Kita akan memasang puppet agent di node master dan di client. Untuk node master, kita dapat langsung ke tahap pemasangan puppet-agent.
 
-[code]
+```
 root@client1:/tmp# wget http://apt.puppetlabs.com/puppetlabs-release-jessie.deb
 root@client1:/tmp# dpkg -i puppetlabs-release-jessie.deb
 root@client1:/tmp# apt-get update && apt-get install puppet -y
-[/code]
+```
 
 Langkah selanjutnya adalah mengatur puppet agent agar terkoneksi ke puppet master. Silakan ubah berkas pada /etc/puppet/puppet.conf seperti pada tampilan dibawah.
 
-[code]
+```
 [main]
 logdir=/var/log/puppet
 vardir=/var/lib/puppet
@@ -174,12 +174,12 @@ ssl_client_verify_header = SSL_CLIENT_VERIFY
 
 [agent]
 server = master.puppet.id
-[/code]
+```
 
 Note:
 Apabila anda memiliki masalah dalam koneksi ke master, misalnya masalah dns maka untuk mengakalinya alah menambahkan IP master ke /etc/hosts. Dengan ip master adalah 192.168.2.1 maka isian dari /etc/hosts adalah sebagi berikut:
 
-[code]
+```
 127.0.0.1       localhost client1
 192.168.2.1  puppet master puppet.puppet.id master.puppet.id
 
@@ -187,11 +187,11 @@ Apabila anda memiliki masalah dalam koneksi ke master, misalnya masalah dns maka
 ::1     localhost ip6-localhost ip6-loopback
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
-[/code]
+```
 
 Langkah selanjutnya adalah membuat sertitikat pada client1 dan mendaftarkan sertifikat tersebut ke master. Untuk itu silakan ketik perintah seperti dibawah:
 
-[code]
+```
 root@client1:~# puppet agent --test
 Info: Creating a new SSL key for client1.puppet.id
 Info: Caching certificate for ca
@@ -200,33 +200,33 @@ Info: Creating a new SSL certificate request for client1.puppet.id
 Info: Certificate Request fingerprint (SHA256): 96:C2:9E:DF:AF:C5:CB:E6:73:D3:DC:CC:32:21:66:14:6C:42:EC:D5:EB:52:DD:E5:BC:1B:F7:FD:53:6F:F9:A0
 Info: Caching certificate for ca
 Exiting; no certificate found and waitforcert is disabled
-[/code]
+```
 
 Selanjutnya, pada sisi node master kita harus melakukan tanda tangan ke sertifikat client1, sebelumnya cek apakah ssl adalah benar yang dimaksud dengan perintah sebagai berikut:
 
-[code]
+```
 root@master:~# puppet cert list
   "client1.puppet.id" (SHA256) 96:C2:9E:DF:AF:C5:CB:E6:73:D3:DC:CC:32:21:66:14:6C:42:EC:D5:EB:52:DD:E5:BC:1B:F7:FD:53:6F:F9:A0
-[/code]
+```
 
 Terlihat bahwa fingerprint dari ssl client1 adalah sama, maka langkah selanjutnya adalah melakukan tanda tangan dengan perintah sebagai berikut:
 
-[code]
+```
 root@master:~# puppet cert sign client1.puppet.id
 Notice: Signed certificate request for client1.puppet.id
 Notice: Removing file Puppet::SSL::CertificateRequest client1.puppet.id at '/var/lib/puppet/ssl/ca/requests/client1.puppet.id.pem'
-[/code]
+```
 
 Cek kembali pada master, bahwa sertifikat tersebut sudah tertandatangani dengan tanda + di depah client1.puppet.id
 
-[code]
+```
 + "client1.puppet.id" (SHA256) 1D:22:8F:AF:74:4A:4A:45:AC:64:58:D3:65:15:00:32:E1:71:28:9C:41:C1:2C:33:06:34:F7:93:8F:14:BC:D3
 + "puppet.puppet.id"  (SHA256) 36:68:90:27:2D:9B:17:5B:E1:57:E7:C4:9A:85:9C:1B:0D:40:DE:06:88:FC:68:96:60:F5:C9:00:2E:42:82:55 (alt names: "DNS:master.puppet.id", "DNS:puppet", "DNS:puppet.puppet.id")
-[/code]
+```
 
 Kembali ke client1, silakan eksekusi puppet kembali untuk menerima sertifikat yang sudah di tanda tangani dengan perintah sebagai berikut:
 
-[code]
+```
 root@client1:~# puppet agent --test
 Info: Caching certificate for client1.puppet.id
 Info: Caching certificate_revocation_list for ca
@@ -237,15 +237,15 @@ Info: Caching catalog for client1.puppet.id
 Info: Applying configuration version '1432997774'
 Info: Creating state file /var/lib/puppet/state/state.yaml
 Notice: Finished catalog run in 0.02 seconds
-[/code]
+```
 
 Kemudian start daemon puppet agent
 
-[code]
+```
 root@master:~# service puppet restart
  * Restarting puppet agent                                               [ OK ]
 root@master:~#
-[/code]
+```
 
 Note: Apabila terdapat warning pada console tentang 'puppet not configured to start', silakan sunting berkas /etc/default/puppet dan ubah **START=no** menjadi **START=yes**
 Selamat client dan master sudah terkoneksi! Untuk pemasangan puppet agent pada master dapat mengikuti proses diatas.
@@ -258,30 +258,30 @@ Selamat client dan master sudah terkoneksi! Untuk pemasangan puppet agent pada m
 
 Langkah selanjutnya adalah membuat berkas pada semua node untuk memastikan bahwasanya puppet terpasang dengan baik. Kita akan membuat berkas di /home/HELLO dengan konten yang akan kita tentukan, untuk itu silakan buka berkas /etc/puppet/manifests/site.pp kemudian silakan tambahkan isian sebagai berikut:
 
-[code]
+```
 file { '/home/HELLO':
         ensure => present,
         content => 'Hello this is test file',
 }
-[/code]
+```
 
 Kemudian test dari client dan server dengan perintah sebagai berikut:
 
-[code]
+```
 Info: Retrieving pluginfacts
 Info: Retrieving plugin
 Info: Caching catalog for client1.puppet.id
 Info: Applying configuration version '1432998118'
 Notice: /Stage[main]/Main/File[/home/HELLO]/ensure: created
 Notice: Finished catalog run in 0.05 seconds
-[/code]
+```
 
 Dan pastikan bahwasanya isian dari berkas /home/HELLO adalah 'Hello this is test file'
 
-[code]
+```
 root@client1:~# cat /home/HELLO
 Hello this is test file
-[/code]
+```
 
 
 
