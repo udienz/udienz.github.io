@@ -24,15 +24,15 @@ wget -O - https://www.startssl.com/certs/ca.pem https://www.startssl.com/certs/s
 ```
 Langkah selanjutnya adalah menambahkan parameter di vhost nginx, karena saya menggunakan vhost domain **mahyudd.in** maka biasanya filenya akan terletak di _/etc/nginx/site-avaliable/mahyudd.in.conf_. Silakan sesuaikan dengan config anda.
 
-[code]
+```
   ssl_stapling              on;
   ssl_stapling_verify       on;
   ssl_trusted_certificate   /etc/nginx/ssl/ca-startssl.pem;
-[/code]
+```
 
 Simpan dan test dari terminal
 
-[code language="bash"]
+```
 $ echo QUIT | openssl s_client -connect mahyudd.in:443 -servername mahyudd.in -status 2> /dev/null | grep -A 17 'OCSP response'| grep -B 17 'Next Update'
 OCSP response:
 ======================================
@@ -51,7 +51,7 @@ OCSP Response Data:
     Cert Status: good
     This Update: Apr 11 13:33:15 2015 GMT
     Next Update: Apr 13 13:33:15 2015 GMT
-[/code]
+```
 
 Test secara online dapat dilakukan di [Qualys](https://www.ssllabs.com/ssltest/analyze.html?d=mahyudd.in&s=202.154.22.5). Hasilnya adalah sebagai berikut:
 

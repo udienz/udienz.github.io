@@ -22,20 +22,20 @@ Seperti yang kita tahu, [planet.ubuntu.or.id](http://planet.ubuntu.or.id) atau [
 
 Saya mau cerita bagaimana caranya migrasi dari bazaar (bzr) ke git. Langsung saja, silakan install bazaar dan gitnya dulu:
 
-[code lang="bash"]$ sudo apt-get install bzr-git bzr git[/code]
+```$ sudo apt-get install bzr-git bzr git```
 
 Kemudian copy repository bazaar dari launchpad ke komputer kita.
 
-[code lang="bash"]$ bzr branch lp:~ubuntu-id-council/ubuntu-id-web/planet-uid planet.ubuntu-id.org[/code]
+```$ bzr branch lp:~ubuntu-id-council/ubuntu-id-web/planet-uid planet.ubuntu-id.org```
 
 Kemudian buat repostory git di dalam repository bazaarnya.
 
-[code lang="bash"]$ cd planet.ubuntu-id.org
-$ git init[/code]
+```$ cd planet.ubuntu-id.org
+$ git init```
 
 Langkah selanjutnya adalah mengexport dari bazaar dan kemudian ditangkap oleh git, setelah itu buang direktori .bzr/ yang sudah tidak digunakan lagi karena kita sudah menggunakan git.
 
-[code lang="bash"]$ bzr fast-export $(pwd) | git fast-import
+```$ bzr fast-export $(pwd) | git fast-import
 11:20:49 Calculating the revisions to include ...
 11:20:49 Starting export of 17 revisions ...
 11:20:49 Exported 17 revisions in 0:00:00
@@ -64,14 +64,14 @@ pack_report: pack_mapped              =     466281 /     466281
 ---------------------------------------------------------------------
 $ git reset HEAD
 $ rm .bzr -rf
-[/code]
+```
 
 Kemudian tambahkan alamat repo git dan upload ke github
 
-[code lang="bash"]
+```
 $ git remote add github git@github.com:ubuntu-id/planet.git
 $ git push -u github master
-[/code]
+```
 
 Done, silakan lihat ke halaman [githubnya](https://github.com/ubuntu-id/planet).
 

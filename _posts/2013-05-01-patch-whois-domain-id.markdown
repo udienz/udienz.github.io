@@ -17,65 +17,73 @@ tags:
 
 Pada rilis Ubuntu kita tidak bisa melakukan whois dari terminal, hal ini dikarenakan server whois yang terdaftar di paket whois melakukan query ke whois.pandi.or.id yang (tidak tau kenapa) tidak bisa memberikan informasi whois :(
 
-[code lang="plain"]
+```
 $ whois udienz.web.id
 Not found: -V Md5.0 udienz.web.id
-[/code]
+```
 Intip intip kode sumber whois, akhirnya saya melakukan patching pada berkas yang mencantumkan server whois PANDI. Jika mau silakan unduh paket whois berikut:
 
 **Lucid 64bit**:
 
-[code lang="bash"]wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.0ubuntu3.0~ppa1_amd64.deb
-[/code]
+```
+wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.0ubuntu3.0~ppa1_amd64.deb
+```
 
 
 **Lucid 32bit**:
 
-[code lang="bash"]wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.0ubuntu3.0~ppa1_i386.deb
-[/code]
+```
+wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.0ubuntu3.0~ppa1_i386.deb
+```
 
 **Precise 64bit**:
 
-[code lang="bash"]wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.15ubuntu2.0.1~ppa2_amd64.deb
-[/code]
+```
+wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.15ubuntu2.0.1~ppa2_amd64.deb
+```
 
 
 **Precise 32bit**:
 
-[code lang="bash"]wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.15ubuntu2.0.1~ppa2_i386.deb
-[/code]
+```
+wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.15ubuntu2.0.1~ppa2_i386.deb
+```
 
 **Quantal 64bit**:
 
-[code lang="bash"]wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.19ubuntu0.1~ppa1_amd64.deb
-[/code]
+```
+wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.19ubuntu0.1~ppa1_amd64.deb
+```
 
 
 **Quantal 32bit**:
 
-[code lang="bash"]wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.19ubuntu0.1~ppa1_i386.deb
-[/code]
+```
+wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.19ubuntu0.1~ppa1_i386.deb
+```
 
 **Raring 64bit**:
 
-[code lang="bash"]wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.20ubuntu1.0~ppa1_amd64.deb
-[/code]
+```
+wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.20ubuntu1.0~ppa1_amd64.deb
+```
 
 
 **Raring 32bit**:
 
-[code lang="bash"]wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.20ubuntu1.0~ppa1_i386.deb
-[/code]
+```
+wget http://ppa.launchpad.net/udienz/ngoprek/ubuntu/pool/main/w/whois/whois_5.0.20ubuntu1.0~ppa1_i386.deb
+```
 
 As usual, Kemudian install via dpkg
 
-[code lang="bash"]
+```
 sudo dpkg -i whois_*.deb
-[/code]
+```
 
 Cek pada sebuah domain, contohnya udienz.my.id
 
-[code]
+```
 whois udienz.my.id
 Whois Results for "udienz.my.id".
 
@@ -98,7 +106,7 @@ Access to WHOIS information is provided to assist persons in determining
 the contents of a domain name registration record in the registry database.
 The data in this record is provided for informational purposes only without
 any accuracy guarantee.
-[/code]
+```
 
 Sudah berhasil bukan?
 

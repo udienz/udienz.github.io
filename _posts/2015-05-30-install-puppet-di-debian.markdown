@@ -109,7 +109,7 @@ root@master:/tmp# puppet master --verbose --no-daemonize
 
 Dari perintah tersebut puppet akan membuat SSL, dan tekan tomcol CTRL + C untuk menghentikan proses.
 
-[code language="bash"]
+```
 Info: Creating a new SSL key for ca
 Info: Creating a new SSL certificate request for ca
 Info: Certificate Request fingerprint (SHA256): E2:B6:CB:85:41:BE:57:66:9F:4C:0B:E7:72:BD:B3:7E:7B:DB:9D:BD:84:B1:19:7F:CD:85:C1:58:18:67:BB:AE
@@ -135,6 +135,7 @@ root@master:/tmp# puppet cert list -all
 ```
 
 Kemudian start daemon puppet dengan mengetikkan
+
 ```
 root@master:~# service puppetmaster start
  * Starting puppet master                                                [ OK ]

@@ -114,7 +114,7 @@ Langkah selanjutnya adalah mengubah harga dari variabel berikut:
 
 Dan berikut adalah perbedaan dari pengaturan yang saya buat
 
-[code language="diff"]
+```
 udienz@master:~$ diff -Nurp /etc/mysql/my.cnf.orig /etc/mysql/my.cnf
 --- /etc/mysql/my.cnf.orig	2014-08-28 11:48:09.054434158 +0700
 +++ /etc/mysql/my.cnf	2014-08-28 11:50:40.920524933 +0700
@@ -148,11 +148,11 @@ udienz@master:~$ diff -Nurp /etc/mysql/my.cnf.orig /etc/mysql/my.cnf
  #binlog_do_db		= include_database_name
  #binlog_ignore_db	= include_database_name
  #
-[/code]
+```
 
 Kemudian cek kondisi master dengan perintah berikut:
 
-[code language="sql"]
+```
 mysql> show master status;
 +------------------+----------+--------------+--------------------------------------------------+
 | File             | Position | Binlog_Do_DB | Binlog_Ignore_DB                                 |
@@ -160,7 +160,7 @@ mysql> show master status;
 | mysql-bin.000001 |      969 |              | information_schema,phpmyadmin,performance_schema |
 +------------------+----------+--------------+--------------------------------------------------+
 1 row in set (0.01 sec)
-[/code]
+```
 
 Dari hasil diatas mohon untuk mengingat hasil dari File yaitu **mysql-bin.000001** dan Position yaitu **969** karena nantinya akan berguna bagi slave.
 
@@ -187,7 +187,7 @@ Langkash selanjutnya adalah mengexport database yang ada pada mesin master untuk
 
 Silakan mengatur mysql di slave, pada intinya hampir sama dengan master, namun terdapat penambahan opsi relay-log dan server-id yang berbeda. Pada slave saya perbedaan dari config awal adalah sebagai berikut:
 
-[code language="diff"]
+```
 udienz@slave:~$ diff -Nurp /etc/mysql/my.cnf.orig /etc/mysql/my.cnf
 --- /etc/mysql/my.cnf.orig	2014-08-28 12:25:37.864440783 +0700
 +++ /etc/mysql/my.cnf	2014-08-28 12:27:19.495167636 +0700
@@ -220,20 +220,21 @@ udienz@slave:~$ diff -Nurp /etc/mysql/my.cnf.orig /etc/mysql/my.cnf
  #binlog_do_db		= include_database_name
  #binlog_ignore_db	= include_database_name
  #
-[/code]
+```
 
 Restart daemon dari mysql dan import database dari master.
-[code language="bash"]
+
+```
 udienz@slave:~$ scp -r 192.168.57.27:~/pdns.sql . 
 The authenticity of host '192.168.57.27 (192.168.57.27)' can't be established.
 ECDSA key fingerprint is 4a:2b:a5:69:ee:98:72:f2:7a:e1:ff:22:09:83:ee:73.
 Are you sure you want to continue connecting (yes/no)? yes
 Warning: Permanently added '192.168.57.27' (ECDSA) to the list of known hosts.
 udienz@192.168.57.27's password: 
-pdns.sql                                                                                                                          100% 5827     5.7KB/s   00:00    
+pdns.sql                                        100% 5827     5.7KB/s   00:00    
 udienz@slave:~$ sudo /etc/init.d/mysql restart
- * Stopping MySQL database server mysqld                                                           [ OK ] 
- * Starting MySQL database server mysqld                                                                                                                     [ OK ] 
+ * Stopping MySQL database server mysqld                           [ OK ] 
+ * Starting MySQL database server mysqld                           [ OK ] 
  * Checking for tables which need an upgrade, are corrupt or were 
 not closed cleanly.
 udienz@slave:~$ mysql -u root -p
@@ -246,7 +247,8 @@ mysql&gt; exit
 Bye
 udienz@slave:~$ mysql -u root -p pdns &lt; pdns.sql 
 Enter password: 
-[/code]
+```
+
 Masuk lagi ke mysql di slave untuk mengatur server master yang akan di replika
 
 
@@ -343,12 +345,14 @@ Jika terdapat problem silakan ketik
 Bagaimana membuktikan kalau replikasi master-slave nya berhasil? silakan membuat database baru di master, atau membuat record baru di master. maka akan tampil di slave.
 
 master
-[code language="sql"]
+```
 mysql> INSERT INTO domains (id, name, master, last_check, type, notified_serial, account) VALUES ('', 'ubuntu-xxx.com', NULL, NULL, 'NATIVE', NULL, NULL);
 Query OK, 1 row affected, 1 warning (0.10 sec)
-[/code]
+```
+
 slave
-[code language="sql"]
+
+```
 mysql> select * from domains;
 +----+----------------+--------+------------+--------+-----------------+---------+
 | id | name           | master | last_check | type   | notified_serial | account |
@@ -356,4 +360,4 @@ mysql> select * from domains;
 |  2 | ubuntu-xxx.com | NULL   |       NULL | NATIVE |            NULL | NULL    |
 +----+----------------+--------+------------+--------+-----------------+---------+
 1 row in set (0.00 sec)
-[/code]
+```

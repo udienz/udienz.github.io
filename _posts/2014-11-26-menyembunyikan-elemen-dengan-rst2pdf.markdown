@@ -21,7 +21,7 @@ Namun ada beberapa catatan yang mengganjal yaitu bagaimana caranya saya ingin me
 
 Menurut [pengembangnya](http://ralsina.me/weblog/posts/new-rst2pdf-feature-strip-elements-with-class.html) kita bisa menyembunyikan elemen tersebut dengan opsi `--strip-elements-with-class`. Contoh
 
-[code]
+```
 nge-blog
 -----------
 
@@ -38,10 +38,12 @@ Teks ini hilang
 .. class:: tampil
 
 Jika hanya ada dua baris berarti ada yang **hilang**
-[/code]
+```
 
 Untuk menyembunyikan elemen 'hilang', pada saat menkompile dengan rst2pdf bisa menggunakan opti `--strip-elements-with-class=hilang`. Contoh:
-[code]
-rst2pdf --strip-elements-with-class=hilang blog.rst.[/code]
+
+```
+rst2pdf --strip-elements-with-class=hilang blog.rst.
+```
 
 Hasil keluarannya akan menghasilkan berkas blog.pdf yang hanya akan berisi 4 baris saja.

@@ -23,7 +23,7 @@ Biasanya saya lupa untuk nulis di blog, mumpung ada ide jadi saya mau nulis tent
 
 Kemudian buat berkas /etc/init.d/php5-cgi dan buat seperti ini:
 
-[code lang="bash"]
+```
 #!/bin/bash
 ### BEGIN INIT INFO
 # Provides:          php-fcgi
@@ -76,18 +76,18 @@ case "$1" in
   ;;
 esac
 exit $RETVAL
-[/code]
+```
 
 Kemudian buat agar script ini dapat dieksekusi dan running ketika mesin up.
 
-[code lang="bash"]
+```
 sudo chmod +x /etc/init.d/php5-cgi
 sudo update-rc.d -f php5-cgi defaults
-[/code]
+```
 
 Trus masukkan juga di pengaturan nginx, karena di laptop saya tidak ada virtual host jadi ya saya pake 'default' saja.
 
-[code lang="bash"]
+```
 server {
 	listen 80;
 	listen [::]:80 default_server ipv6only=on;
@@ -111,17 +111,17 @@ server {
 				include fastcgi_params;
 			}
 }
-[/code]
+```
 
 Reload nginx dan buat berkas phpinfo.php untuk memastikan php nya jalan.
 
-[code lang="bash"]
+```
 sudo /etc/init.d/nginx reload
-[/code]
+```
 
 Untuk isi berkas phpinfo.php adalah sebagai berikut
-[code lang="php"]
+```
 <?php
 phpinfo();
 ?>
-[/code]
+```
