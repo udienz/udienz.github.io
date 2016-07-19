@@ -17,12 +17,11 @@ Dalam artikel ini saya akan mengaktifkan OCSP Stapling di nginx, syaratnya nginx
 
 Saya menggunakan startSSL dalam praktek kali ini. Baiklah kita mulai dengan mengunduh CA bundle dari startSSL.
 
-[code language="bash"]
+```
 mkdir /etc/nginx/ssl
 cd /etc/nginx/ssl
 wget -O - https://www.startssl.com/certs/ca.pem https://www.startssl.com/certs/sub.class1.server.ca.pem | tee -a ca-startssl.pem> /dev/null
-[/code]
-
+```
 Langkah selanjutnya adalah menambahkan parameter di vhost nginx, karena saya menggunakan vhost domain **mahyudd.in** maka biasanya filenya akan terletak di _/etc/nginx/site-avaliable/mahyudd.in.conf_. Silakan sesuaikan dengan config anda.
 
 [code]
@@ -56,7 +55,7 @@ OCSP Response Data:
 
 Test secara online dapat dilakukan di [Qualys](https://www.ssllabs.com/ssltest/analyze.html?d=mahyudd.in&s=202.154.22.5). Hasilnya adalah sebagai berikut:
 
-[![ocsp](https://blog.mahyudd.in/wp-content/uploads/2015/04/ocsp.png)](https://blog.mahyudd.in/wp-content/uploads/2015/04/ocsp.png)
+[![ocsp](https://udienz.github.io/images/ocsp.png)](https://udienz.github.io/images/ocsp.png)
 
 
 
