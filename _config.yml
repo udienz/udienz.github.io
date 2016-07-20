@@ -5,7 +5,7 @@ reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: "https://udienz.github.io"
+url: "http://jk.mahyudd.in"
 
 # Owner/author information
 owner:
@@ -24,6 +24,8 @@ owner:
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
   google_plus: +MahyuddinSusanto
+
+share: true
 
 # Background image to be tiled on all pages
 #background: 
@@ -44,6 +46,9 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  - jekyll-coffeescript
+  - jekyll-watch
+  - jekyll-assets
 sass:
   sass_dir: _sass
   style: compressed

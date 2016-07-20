@@ -95,6 +95,7 @@ ubuntu:~$ mysql -u pdns -p17agustus pdns -e 'select type,content from records wh
 ```
 
 Cek juga dengan dig
+
 ```
 ubuntu:~$ dig any @localhost 0--sex.dk
 
