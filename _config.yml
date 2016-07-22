@@ -1,11 +1,11 @@
-title: '[b]log'
+title: '[b]log.mahyudd.in'
 description: 'mahyuddin@localhost:~ $'
 disqus_shortname: blogudienzwebid
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: "http://jk.mahyudd.in"
+url: "https://mahyudd.in"
 
 # Owner/author information
 owner:
@@ -27,11 +27,28 @@ owner:
 
 share: true
 
+# Default extension for new posts and pages
+post_ext: markdown
+page_ext: html
+#
+# # Default templates for posts and pages
+# # Found in _templates/
+post_layout: post
+page_layout: page
+#
+# # Format titles with titlecase?
+#titlecase: true
+#
+# # Change default template file (in _templates/)
+post_template: post
+page_template: page
+draft_template: draft
+
 # Background image to be tiled on all pages
 #background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: 'UA-1991459-7'
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -46,9 +63,6 @@ gems:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
-  - jekyll-coffeescript
-  - jekyll-watch
-  - jekyll-assets
 sass:
   sass_dir: _sass
   style: compressed

@@ -45,13 +45,14 @@ ubuntu:/tmp/blacklists/porn$ egrep -v -e '[0-9]$' -e '^\.' domain-dump |  sed -e
 ```
 
 Penjelasan: 
-- Egrep merupakan perintah untuk menampilkan kontent dengan kondisi tertentu
-- -v merupakan kebalikan dari match, contoh secara umum bila kita ingin mengetahui ada kata linux di berkas, cukup dengan perintah `'grep linux *'`.
-  Jadi bila menerapkan -v maka yang terjadi adalah 'semua dimunculkan kecuali xxxx'
-- -e '[0-9]$', merupakan regex yang memastikan bahwa tidak ada dalam daftar yang mempunyai akhiran numerik. Ini untuk mengantisipasi dalam daftar mengandung IP address
-- -e '^\.', expresi ini akan mencari kondi dimana dalam daftar tersebut mempunyai awalan `'\.'` dibaca 'slash dan titik'. contoh `\.udienz.my.id`
-- domain-dump, berkas yang berisikan daftar domain
-- `sed -e '/\//d'`, merupakan perintah untuk membuang karakter / di akhiran domain, contoh: udienz.my.id/
+
+1. egrep merupakan perintah untuk menampilkan kontent dengan kondisi tertentu
+2. `-v` merupakan kebalikan dari match, contoh secara umum bila kita ingin mengetahui ada kata linux di berkas, cukup dengan perintah `'grep linux *'`.
+   Jadi bila menerapkan -v maka yang terjadi adalah '**semua dimunculkan kecuali xxxx'**
+3. `-e '[0-9]$'`, merupakan regex yang memastikan bahwa tidak ada dalam daftar yang mempunyai akhiran numerik. Ini untuk mengantisipasi dalam daftar mengandung IP address
+4. `-e '^\.'`, expresi ini akan mencari kondi dimana dalam daftar tersebut mempunyai awalan `'\.'` dibaca '**slash dan titik'**. contoh `\.udienz.my.id`
+5. `domain-dump`, berkas yang berisikan daftar domain
+6. `sed -e '/\//d'`, merupakan perintah untuk membuang karakter / di akhiran domain, contoh: udienz.my.id/
 
 Langkah selanjutnya adalah bagaimana caranya dari daftar domain berikut (dalam hal ini isi dari berkas domains) diimport ke powerdns. Dikarenakan powerdns menggunakan mysql record dalam melakukan tugasnya, maka kita tinggal membuat membuat semacam database untuk daftar domain porno. Saya membuat [bash script kecil kecilan](https://gist.github.com/udienz/335f96a6a72ea9bd93fd) untuk import domain ke database.
 
