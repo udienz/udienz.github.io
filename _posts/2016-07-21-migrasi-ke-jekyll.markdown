@@ -10,6 +10,8 @@ tags:
  - wordpress
 ---
 
+Migrasi ke Jekyll
+
 Sudah lama saya menggunakan wordpress, dan saat ini saya memutuskan untuk menggunakan jekyll. Saya
 memilih jekyll karena jekyll sangat cepat (karena static) dan support markdown (bahasa yang saya
 suka). Beberapa pertimbangan lain yang ada adalah hosting situs ini menggunakan shared hosting, jadi

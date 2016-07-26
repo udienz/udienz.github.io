@@ -13,7 +13,9 @@ tags:
 - spamasassin
 ---
 
-Ada berbagai spam yang terkirim ke beberapa email client dan saya, salah satunya adalah spam tentang tawaran pekerjaan. Informasi tentang spam ini pernah di buat olehÂ [dynamoo diÂ blog nya](http://blog.dynamoo.com/2015/03/fake-job-offer-ukhomejobcom-and-many.html).
+Ada berbagai spam yang terkirim ke beberapa email client dan saya, salah satunya
+adalah spam tentang tawaran pekerjaan. Informasi tentang spam ini pernah di buat
+oleh [dynamoo di blog nya](http://blog.dynamoo.com/2015/03/fake-job-offer-ukhomejobcom-and-many.html).
 
 Tipikan dari spam ini adalah:
 
