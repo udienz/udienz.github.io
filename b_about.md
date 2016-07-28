@@ -1,13 +1,10 @@
 ---
-author: udienz
-comments: true
-date: 2012-02-13 11:57:50+00:00
 layout: page
-link: https://blog.mahyudd.in/about
-slug: about
 title: About
-wordpress_id: 5
+comments: yes
+permalink: /about/
 ---
+
 
 Who am i?
 

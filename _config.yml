@@ -1,122 +1,123 @@
-title: 'mahyuddin blog'
-name: 'mahyuddin blog'
-description: 'mahyuddin@localhost:~ $'
-disqus_shortname: blogudienzwebid
-reading_time:     true
-words_per_minute: 200
-# Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-url: "https://mahyudd.in"
+### Site info:
+title: mahyuddin
+tagline: yet another personal blog
+author: Mahyuddin Susanto
+email: udienz@gmail.com
+description: "mahyuddin personal blog" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "Jekyll, theme, Freshman21"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://mahyudd.in" # the base hostname & protocol for your site
+locale: en_US
 
-# Owner/author information
-owner:
-  name:           Mahyuddin Susanto
-  avatar:         avatar.jpg
-  bio:            "Ordinary people"
-  email:          udienz@gmail.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter: udienz 
-  facebook: udienz.net 
-  github: udienz
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  # google plus id, include the '+', eg +mmistakes
-  google_plus: +MahyuddinSusanto
-  source: 'https://github.com/udienz/udienz.github.io'
+### Personal info and site tools info:
+twitter_username: udienz
+github_username:  udienz
+disqus_shortname: udienzwebid
+favicon:     "/images/favicon.ico"
+aboutme: Another ordinary people, a DevOps, developer, and a father.  # these are shown on aboutme-sidebar.
+aboutme_photo: https://launchpadlibrarian.net/71635822/64.jpg
+google_analytics_key: UA-1991459-7 # put YOUR key here to enable tracking! (blank to disable)
 
-share: true
-
-# Default extension for new posts and pages
-post_ext: markdown
-page_ext: html
-#
-# # Default templates for posts and pages
-# # Found in _templates/
-post_layout: post
-page_layout: page
-#
-# # Format titles with titlecase?
-#titlecase: true
-#
-# # Change default template file (in _templates/)
-post_template: post
-page_template: page
-draft_template: draft
-
-# Background image to be tiled on all pages
-#background: 
-
-# Analytics and webmaster tools stuff goes here
-google_analytics: 'UA-1991459-7'
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Jakarta
-future:      true
-highlighter: rouge
-markdown:    kramdown
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-feed
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:year/:month/:day/:title.html
-#permalink:   /:categories/:title/
-
-# Amount of post to show on home page
-paginate: 5
-
+### Build settings
+markdown: kramdown
+#highlighter: pygments
 kramdown:
-  input: GFM
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+        input: GFM
+        syntax_highlighter: rouge
+gems: 
+    - jekyll-paginate
+    - jekyll-gist
+paginate: 5
+excerpt_separator: <!-- more -->
 
-include: 
-  - .htaccess
-exclude: 
-  - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - config
-  - gulpfile.js
-  - lib
-  - log
-  - node_modules
-  - package.json
-  - spec
-  - tmp
-  - "*.orig"
+### Site setting:
+ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp) and Polish (pl)
 
-# Octopress
-# Default extensions
-post_ext: md
-page_ext: md
-# Found in _templates/
-post_layout: post
-page_layout: page
-# Format titles with titlecase?
-titlecase: true
+locales:
+    en:
+      Aboutme: "About Me"
+      Archives: "Archives"
+      Blogroll: "Blogroll"
+      Categories: "Categories"
+      Copyright_Notice: "Copyright Notice"
+      Recent_Posts: "Recent Posts"
+      Tags: "Tags"
+      Previous: "Older"
+      Next: "Newer"
+      PostedInCategories: "Posted in"
+      Taggedwith: "and tagged"
+      PostDate: "on "
+      Google_search: "Site Search"
+      Home: "Home"
+      About: "About"
+      Guestbook: "Guestbook"
+      Subscribe: "Subscribe"
+    cn:
+      Aboutme: "关于我"
+      Archives: "存档"
+      Blogroll: "良师益友"        
+      Categories: "分类目录"    
+      Copyright_Notice: "版权声明"
+      Recent_Posts: "近期文章"
+      Tags: "标签" 
+      Previous: "前一页"
+      Next: "后一页"
+      PostedInCategories: "目录:"   
+      Taggedwith: "| 标签:"
+      PostDate: "| 发表时间: "
+      Google_search: "站内搜索"
+      Home: "首页"
+      About: "关于"
+      Guestbook: "留言"
+      Subscribe: "订阅"
+    jp:
+      Aboutme: "著者"
+      Archives: "アーカイブ"
+      Blogroll: "ブログロール"
+      Categories: "カテゴリー"
+      Copyright_Notice: "著作権表示"
+      Recent_Posts: "最近の投稿"
+      Tags: "タグ"
+      Previous: "前の記事"
+      Next: "次の記事"
+      PostedInCategories: "カテゴリー："
+      Taggedwith: "| タグ："
+      PostDate: "| 投稿日時: "
+      Google_search: "サイト内検索"
+      Home: "ホーム"
+      About: "このブログについて"
+      Guestbook: "メッセージ"
+      Subscribe: "購読"
+    pl:
+      Aboutme: "O mnie"
+      Archives: "Archiwum"
+      Blogroll: "Odnośniki"
+      Categories: "Kategorie"
+      Copyright_Notice: "Prawa autorskie"
+      Recent_Posts: "Najnowsze wpisy"
+      Tags: "Tagi"
+      Previous: "Starsze"
+      Next: "Nowsze"
+      PostedInCategories: "Kategoria"
+      Taggedwith: "tagi"
+      PostDate: "on "
+      Google_search: "Wyszukiwarka"
+      Home: "Strona główna"
+      About: "O mnie"
+      Guestbook: "Księga gości"
+      Subscribe: "Subskrypcja"
+
+### your Blogroll info, only name can shown on the page.
+
+Blogroll:
+      - name: Freshman
+        href: http://yulijia.net/freshman
+        title: Another Jekyll blog theme
+      - name: author's website
+        href: http://yulijia.net/
+        title: Lijia Yu's website
+
+
+

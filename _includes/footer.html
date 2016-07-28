@@ -1,1 +1,23 @@
-<span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://mademistakes.com/work/hpstr-jekyll-theme/" rel="nofollow">HPSTR Theme</a>. Source of this blog can be found at <a href="https://github.com/udienz/udienz.github.io">github</a></span>
+<footer class="site-footer">
+
+  <p>Copyright &copy; <a href="{{ site.baseurl }}/">{{site.title}}</a></p>
+  <p>Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a> 
+  on 
+  {% if site.github_username %}
+  <a href="https://github.com/">Github</a>
+  {% else %}
+  GitHub 
+  {% endif %}
+  | Theme <a href="https://github.com/yulijia/freshman21/">Freshman21</a> Design by <a href="http://yulijia.net">Lijia Yu</a>  
+
+
+  <div id="totop" style="position:fixed;bottom:150px;right:50px;cursor: pointer;">
+    <a title="Back To Top"><img src="{{ "/images/topbutton.png" | prepend: site.baseurl }}"/></a>
+  </div>
+
+  <script src="{{ "/js/jquery-1.9.1.min.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/js/totop.js" | prepend: site.baseurl }}"></script>  
+
+
+
+</footer>

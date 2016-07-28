@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git, Delete Brach Local dan Remote"
+title: "Git, Delete branch Local dan Remote"
 date: 2016-07-28T05:47:33+07:00
 categories:
  - linux
@@ -11,10 +11,10 @@ tags:
 
 ## How to delete git branch local and remote?
 
-To delete local brach:
+To delete local branch:
 
 ```
-git brach -d branch_name
+git branch -d branch_name
 ```
 
 To delete remote branch:
@@ -31,12 +31,12 @@ Then, in the other machine, you can sync it with remote with:
 git fetch --all --prune
 ```
 
-## Bagaimana cara membuang brach di remote dan local?
+## Bagaimana cara membuang branch di remote dan local?
 
 Untuk membuang local branch:
 
 ```
-git brach -d branch_name
+git branch -d branch_name
 ```
 
 Untuk membuang remote branch:
