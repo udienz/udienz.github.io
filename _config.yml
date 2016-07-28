@@ -12,7 +12,7 @@ locale: en_US
 ### Personal info and site tools info:
 twitter_username: udienz
 github_username:  udienz
-disqus_shortname: udienzwebid
+disqus_shortname: blogudienzwebid
 favicon:     "/images/favicon.ico"
 aboutme: Another ordinary people, a DevOps, developer, and a father.  # these are shown on aboutme-sidebar.
 aboutme_photo: https://launchpadlibrarian.net/71635822/64.jpg
