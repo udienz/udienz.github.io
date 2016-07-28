@@ -6,23 +6,43 @@ permalink: /about/
 ---
 
 
-### Freshman21 is a Jekyll theme.
+Who am i?
 
-A tribute to Twenty Twelve and Twenty eleven.
+well i’m to lazy to describe myself, please refer to your search engine. :) Ok let me try to describe myself.
 
-I like wordpress's theme Twenty Twelve and Twenty eleven very much. 
-So I called my Jekyll theme Freshman21 (Freshman <q>twenty-first</q> , it means twenty-first century, not twenty-one), this theme is based on my former theme [Freshman](https://github.com/yulijia/freshman/).
+Mahyuddin Susanto aka udienz is a  system and network administrator since 2007 also known as Ubuntu Developer. 
+I was operating many servers with different services just like web servers, ftp servers, storage servers mail servers, etc. I'm working at 
+[Wowrack](https://www.wowrack.com) as linux system administrator
 
-Freshman21 have two main page format, one is [single column](http://yulijia.net/en/  "see demo"), the other is two columns. For more details, please see the articles on the site.
+Skills:
 
-<cite>Proudly enjoy using Freshman21 theme.</cite> <code>;)</code>
+ 1. Mail server
+    > spamassassin, postfix, DKIM, OpenDMARF, etc
+    * DKIM key
+    * barracuda
+ 2. Database
+    * MySQL
+      > clustering, replication, etc
+ 2. Webservers
+    > Load Balancer, proxy, etc
+ 3. Webhosting
+    > cpanel, ispconfig, etc
+ 4. Networking
+    > OSPF, BGP, WAN, Cisco, Catalyst, Vyatta, Quagga, Mikrotik
+ 5. Cloud
+    > Openstack, proxmox, Cloudstack
+ 6. Puppet, ansible
+ 7. And other sysadmin boring stuff...
 
-<img title="麋鹿" src="https://i.imgur.com/Mdc4szJl.jpg" alt="麋鹿" width="580" height="668" />
+Specialties: Network Management, Networking, Linux Server, Linux Based Networking, Organization, Security, Cisco, Vyatta, Mikrotik, Monitoring
 
-#### Hi, the picture you have seen in the sample-page is a Père David's deer photoed by my friend at Beijing Milu Park, China.
+Contact:
+ > email: udienz@gmail.com
+ > location, Surabaya, Indonesia
 
+Links:
 
-Milu(麋鹿) is the chinese name of Père David's deer.
-
-All photos on this website are copyrighted material and all rights are reserved.
+1. [Debian QA:](http://qa.debian.org/developer.php?login=udienz%40ubuntu.com)
+2. [Ubuntu at Launchpad](https://launchpad.net/~udienz/+related-software)
+3. [GPGKey](http://keyserver.ubuntu.com:11371/pks/lookup?search=0xC66C603A15F8B1B071F01B3AB9876EB090B36C5B&op=index)
 
