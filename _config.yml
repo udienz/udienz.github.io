@@ -8,6 +8,8 @@ keywords: "Jekyll, theme, Freshman21"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://mahyudd.in" # the base hostname & protocol for your site
 locale: en_US
+permalink:   /:year/:month/:day/:title.html
+timezone:    Asia/Jakarta
 
 ### Personal info and site tools info:
 twitter_username: udienz

@@ -37,12 +37,31 @@ Skills:
 Specialties: Network Management, Networking, Linux Server, Linux Based Networking, Organization, Security, Cisco, Vyatta, Mikrotik, Monitoring
 
 Contact:
- > email: udienz@gmail.com
- > location, Surabaya, Indonesia
+
+<a href="mailto:udienz@gmail.com" title="mailto: udienz@localhost">
+<i class="fa fa-envelope fa-3x"></i>
+</a>&nbsp;
+<a href="https://github.com/udienz" title="GithubID: udienz">
+    <i class="fa fa-github fa-3x"></i>
+</a>&nbsp;
+<a href="https://twitter.com/udienz" title="TwitterID: udienz">
+<i class="fa fa-twitter fa-3x"></i>
+</a>&nbsp;
+<a href="https://facebook.com/udienz.net" title="Facebook">
+<i class="fa fa-facebook fa-3x"></i>
+</a>&nbsp;
+<a href="https://plus.google.com/+MahyuddinSusanto" title="G+">
+<i class="fa fa-google-plus fa-3x"></i>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/udienz" title="G+">
+<i class="fa fa-linkedin fa-3x"></i>
+</a>&nbsp;
 
 Links:
 
-1. [Debian QA:](http://qa.debian.org/developer.php?login=udienz%40ubuntu.com)
-2. [Ubuntu at Launchpad](https://launchpad.net/~udienz/+related-software)
-3. [GPGKey](http://keyserver.ubuntu.com:11371/pks/lookup?search=0xC66C603A15F8B1B071F01B3AB9876EB090B36C5B&op=index)
+ 1. [Debian QA:](http://qa.debian.org/developer.php?login=udienz%40ubuntu.com)
+ 2. [Ubuntu at Launchpad](https://launchpad.net/~udienz/+related-software)
+ 3. [GPGKey](http://keyserver.ubuntu.com:11371/pks/lookup?search=0xC66C603A15F8B1B071F01B3AB9876EB090B36C5B&op=index)
+
+
 
