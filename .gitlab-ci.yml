@@ -10,6 +10,7 @@ deploy_site:
   only:
     - master
   script:
+    - export LANG=en_US.UTF-8
     - bundle install --path=vendor/
     - bundle exec jekyll build --future # The server is in another timezone..
   artifacts:

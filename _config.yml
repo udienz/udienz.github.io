@@ -148,3 +148,6 @@ exclude:
   - script
   - ".travis.yml"
   - ".gitlab-ci.yml"
+
+liquid:
+  error_mode: lax
