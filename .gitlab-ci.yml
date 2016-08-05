@@ -1,0 +1,18 @@
+image: ruby:2.3
+stages:
+  - deploy
+
+before_script:
+  - gem install bundler
+
+deploy_site:
+  stage: deploy
+  only:
+    - master
+  script:
+    - bundle install --path=vendor/
+    - bundle exec jekyll build --future # The server is in another timezone..
+  artifacts:
+    paths:
+      - _site/
+
