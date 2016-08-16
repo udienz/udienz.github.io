@@ -131,3 +131,18 @@ docker-compose -v
 docker-compose version 1.7.1, build 6c29830
 ```
 
+## Bagaimana memasang docker-machine? (tambahan)
+
+Seperti docker-compose, docker machine juga peralatan pendukung untuk docker.
+Docker machine sangat berguna bagi anda yang ingin melakukan memanajemen docker
+host dari tempat lain secara remote.
+
+berikut adalah cara pemasangannya:
+
+```bash
+mkdir $HOME/bin
+curl -L https://github.com/docker/machine/releases/download/v0.7.0/docker-machine-`uname -s`-`uname -m` > $HOME/bin/docker-machine
+chmod +x $HOME/bin/docker-machine
+```
+
+it is done, next post saya akan menulis tenang memulai menggunakan docker
