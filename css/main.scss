@@ -1,10 +1,11 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
 @charset "utf-8";
 
-
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css');
+
+@import
+        "base",
+        "layout",
+        "_syntax-highlighting-native"; // "syntax-highlighting"
 
 // Our variables
 $base-font-family: 'Open Sans', Helvetica, Arial, sans-serif !important;
@@ -12,8 +13,7 @@ $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.6em;
 
-//$spacing-unit:     15px;
-$spacing-unit:     5px;
+$spacing-unit:     15px;
 
 $text-color:       #111;
 $background-color: #f9f9f9;
@@ -26,8 +26,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 $code-backgroud-color: #29281e;
-$code-font-color:  #eee;  
-
+$code-font-color:  #eee;
 
 // Width of the content area
 $content-width:    960px;
@@ -35,29 +34,3 @@ $page-width:       1000px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
-
-
-
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
-}
-
-
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "_syntax-highlighting-native" // "syntax-highlighting"
-;
-
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
