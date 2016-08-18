@@ -50,7 +50,7 @@ login dengan passwordless
 Untuk melakukan setup sshkey silakan ketik:
 
 ```
-ssh-keygen -t ecdsa
+$ ssh-keygen -t ecdsa
 Generating public/private ecdsa key pair.
 Enter file in which to save the key (/home/ubuntu/.ssh/id_ecdsa):
 Enter passphrase (empty for no passphrase): 
@@ -77,7 +77,7 @@ The key's randomart image is:
 Selanjutnya silakan copy ssh key ke mesin manager dan worker dengan perintah berikut:
 
 ```
-ssh-key-id 192.168.0.11
+$ ssh-key-id 192.168.0.11
 ```
 
 Anda akan dimintai password untuk login. silakan masukkan password dari user anda
@@ -85,14 +85,14 @@ Anda akan dimintai password untuk login. silakan masukkan password dari user and
 Selanjutnya adalah melakukan pemasangan dengan docker-machine:
 
 ```
-docker-machine create --driver generic --generic-ip-address=$IP-ADDPRESS \
+$ docker-machine create --driver generic --generic-ip-address=$IP-ADDPRESS \
  --generic-ssh-key ~/.ssh/$KEY --generic-ssh-user $USER manager-1
 ```
 
 Contoh bila ingin menginstall manager-1 dengan user ubuntu dan ssh ecdsa contohnya adalah sebagai berikut:
 
 ```
-docker-machine create --driver generic --generic-ip-address=192.168.0.11 \
+$ docker-machine create --driver generic --generic-ip-address=192.168.0.11 \
  --generic-ssh-key ~/.ssh/id_ecdsa --generic-ssh-user ubuntu manager-1
 ```
 Silakan ulangi pada manager-2 dan worker1 sampai worker-3, kemudian verifikasi dengan perintah berikut:
@@ -114,7 +114,7 @@ Untuk memulainya, silakan login di node yang bertugas sebiagai manager,
 dan ketikkan perintah dibawah ini:
 
 ```
-docker swarm init --advertise-addr 192.168.0.11
+$ docker swarm init --advertise-addr 192.168.0.11
 ```
 
 Hasilnya:
@@ -201,8 +201,8 @@ $ docker swarm join \
 Setelah melakukan testing dari semua manager dan node, silakan
 verifikasi dari manager dengan perintah berikut:
 
-```
-eval $(docker-machine env --swarm manager-1)
+```bash
+$ eval $(docker-machine env --swarm manager-1)
 $ docker info
 Containers: 6
  Running: 2
@@ -287,7 +287,7 @@ Setelah membuat cluster swarm, kita akan mencoba membuat service di swarm. kita
 akan membuat nginx di cluster. Silakan login di manager-1
 
 ```
-docker service create --replicas 3 --name nginx nginx
+$ docker service create --replicas 3 --name nginx nginx
 ```
 
 Berikut adalah hasil dari docker services diatas:
