@@ -118,6 +118,7 @@ $ docker swarm init --advertise-addr 192.168.0.11
 ```
 
 Hasilnya:
+
 ```
 Swarm initialized: current node (erk63hyz95hy7s1giwd0mjjmp) is now a manager.
 
@@ -129,6 +130,7 @@ To add a worker to this swarm, run the following command:
 
 To add a manager to this swarm, run 'docker swarm join-token manager' and follow the instructions.
 ```
+
 hanya itu? ya hanya itu, perintah diatas untuk membuat inisial dari docker swarm di manager.
 
 Verifikasi dengan perintah docker info
