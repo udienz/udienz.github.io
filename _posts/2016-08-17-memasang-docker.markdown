@@ -148,4 +148,4 @@ curl -L https://github.com/docker/machine/releases/download/v0.7.0/docker-machin
 chmod +x $HOME/bin/docker-machine
 ```
 
-it is done, next post saya akan menulis tenang memulai menggunakan docker
+it is done, next post saya akan menulis tentang memulai menggunakan docker
