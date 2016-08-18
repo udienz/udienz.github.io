@@ -3,7 +3,7 @@ layout: post
 title: "Memasang Docker di Linux"
 date: 2016-08-17T06:27:46+07:00
 categories:
- - linux
+ - Linux
 tags:
  - docker
  - virtualization

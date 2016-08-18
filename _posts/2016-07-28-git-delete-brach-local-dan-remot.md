@@ -3,8 +3,8 @@ layout: post
 title: "Git, Delete branch Local dan Remote"
 date: 2016-07-28T05:47:33+07:00
 categories:
- - linux
- - myself
+ - Linux
+ - Myself
 tags:
  - git
 ---
