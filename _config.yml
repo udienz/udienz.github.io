@@ -1,155 +1,33 @@
-### Site info:
-title: mahyuddin
-tagline: yet another personal blog
-author: Mahyuddin Susanto
-email: udienz@gmail.com
-description: "mahyuddin personal blog" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://mahyudd.in" # the base hostname & protocol for your site
-locale: en_US
-permalink:   /:year/:month/:day/:title.html
-timezone:    Asia/Jakarta
-
-### Personal info and site tools info:
-twitter_username: udienz
-github_username:  udienz
-disqus_shortname: blogudienzwebid
-favicon:     "/images/favicon.ico"
-aboutme: Another ordinary people, a DevOps, developer, and a father.  # these are shown on aboutme-sidebar.
-aboutme_photo: https://launchpadlibrarian.net/71635822/64.jpg
-google_analytics_key: UA-1991459-7 # put YOUR key here to enable tracking! (blank to disable)
-
-### Build settings
+# Dependencies
 markdown: kramdown
-#highlighter: pygments
-kramdown:
-        input: GFM
-        syntax_highlighter: rouge
+highlighter: rouge
+
+# Permalinks
+permalink: /:year/:month/:day/:title.html
+
+# Setup
+title: udienz
+tagline:          'mahyuddin susanto'
+description:      'personal blog, talk about life, and other stuff'
+url:              https://udienz.web.id
+baseurl:          /
+
+author:
+  name:           'Mahyudddin Susanto'
+  url:            https://twitter.com/udienz
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/udienz
+
 plugins: 
     - jekyll-paginate
     - jekyll-gist
     - jekyll-feed
 
 paginate: 5
-excerpt_separator: <!-- more -->
 
-### Site setting:
-ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
-default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp) and Polish (pl)
-
-locales:
-    en:
-      Aboutme: "About Me"
-      Archives: "Archives"
-      Blogroll: "Blogroll"
-      Categories: "Categories"
-      Copyright_Notice: "Copyright Notice"
-      Recent_Posts: "Recent Posts"
-      Tags: "Tags"
-      Previous: "Older"
-      Next: "Newer"
-      PostedInCategories: "Posted in"
-      Taggedwith: "and tagged"
-      PostDate: "on "
-      Google_search: "Site Search"
-      Home: "Home"
-      About: "About"
-      Guestbook: "Guestbook"
-      Subscribe: "Subscribe"
-    cn:
-      Aboutme: "关于我"
-      Archives: "存档"
-      Blogroll: "良师益友"        
-      Categories: "分类目录"    
-      Copyright_Notice: "版权声明"
-      Recent_Posts: "近期文章"
-      Tags: "标签" 
-      Previous: "前一页"
-      Next: "后一页"
-      PostedInCategories: "目录:"   
-      Taggedwith: "| 标签:"
-      PostDate: "| 发表时间: "
-      Google_search: "站内搜索"
-      Home: "首页"
-      About: "关于"
-      Guestbook: "留言"
-      Subscribe: "订阅"
-    jp:
-      Aboutme: "著者"
-      Archives: "アーカイブ"
-      Blogroll: "ブログロール"
-      Categories: "カテゴリー"
-      Copyright_Notice: "著作権表示"
-      Recent_Posts: "最近の投稿"
-      Tags: "タグ"
-      Previous: "前の記事"
-      Next: "次の記事"
-      PostedInCategories: "カテゴリー："
-      Taggedwith: "| タグ："
-      PostDate: "| 投稿日時: "
-      Google_search: "サイト内検索"
-      Home: "ホーム"
-      About: "このブログについて"
-      Guestbook: "メッセージ"
-      Subscribe: "購読"
-    pl:
-      Aboutme: "O mnie"
-      Archives: "Archiwum"
-      Blogroll: "Odnośniki"
-      Categories: "Kategorie"
-      Copyright_Notice: "Prawa autorskie"
-      Recent_Posts: "Najnowsze wpisy"
-      Tags: "Tagi"
-      Previous: "Starsze"
-      Next: "Nowsze"
-      PostedInCategories: "Kategoria"
-      Taggedwith: "tagi"
-      PostDate: "on "
-      Google_search: "Wyszukiwarka"
-      Home: "Strona główna"
-      About: "O mnie"
-      Guestbook: "Księga gości"
-      Subscribe: "Subskrypcja"
-
-### your Blogroll info, only name can shown on the page.
-
-Blogroll:
-      - name: Freshman
-        href: http://yulijia.net/freshman
-        title: Another Jekyll blog theme
-      - name: author's website
-        href: http://yulijia.net/
-        title: Lijia Yu's website
-
-exclude: 
-  - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - config
-  - gulpfile.js
-  - lib
-  - log
-  - node_modules
-  - package.json
-  - spec
-  - tmp
-  - vendor
-  - script
-  - ".travis.yml"
-  - ".gitlab-ci.yml"
-
-liquid:
-  error_mode: lax
