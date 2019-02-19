@@ -1,14 +1,13 @@
 image: ruby:latest
 stages:
+  - build
   - deploy
 
 before_script:
   - gem install bundler
 
 deploy_site:
-  stage: deploy
-  only:
-    - master
+  stage: build
   script:
     - export LANG=en_US.UTF-8
     - bundle install --path=vendor/
@@ -17,3 +16,8 @@ deploy_site:
     paths:
       - _site/
 
+createmerge:
+ stage: deploy
+ script:
+     - HOST=${CI_PROJECT_URL} CI_PROJECT_ID=${CI_PROJECT_ID} CI_COMMIT_REF_NAME=${CI_COMMIT_REF_NAME} GITLAB_USER_ID=${GITLAB_USER_ID} PRIVATE_TOKEN=${PRIVATE_TOKEN} $CI_PROJECT_DIR/script/merge.sh
+ when: on_success
