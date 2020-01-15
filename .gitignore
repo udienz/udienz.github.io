@@ -48,3 +48,5 @@ codekit-config.json
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+.jekyll-cache/
+vendor/
