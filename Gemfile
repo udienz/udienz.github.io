@@ -2,11 +2,12 @@ source "https://rubygems.org"
 
 gem "jekyll", ">= 3.8.5"
 
-# Ruby 3.4 removed csv and base64 from the default gems; jekyll (via
-# safe_yaml) still requires them directly, so they must be declared
-# explicitly.
+# Ruby 3.4 removed csv, base64, and bigdecimal from the default gems;
+# jekyll and its dependencies (safe_yaml, liquid) still require them
+# directly, so they must be declared explicitly.
 gem "csv"
 gem "base64"
+gem "bigdecimal"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
