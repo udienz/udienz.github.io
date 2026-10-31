@@ -1,60 +1,40 @@
 ---
 layout: page
 title: About Me
-description: This is what I do.
-background: '/img/bg-about.jpg'
+description: Strategic Network Leader | Infrastructure Architect
 ---
 
 Who am i?
 
-well i’m to lazy to describe myself, please refer to your search engine. :) Ok let me try to describe myself.
+well i'm to lazy to describe myself, please refer to your search engine. :) Ok let me try to describe myself.
 
-Mahyuddin Susanto aka udienz is a  system and network administrator since 2007 also known as Ubuntu Developer. 
-I was operating many servers with different services just like web servers, ftp servers, storage servers mail servers, etc. I'm working at 
-[Wowrack](https://www.wowrack.com) as linux system administrator
+Mahyuddin Susanto aka udienz is a **Senior Principal Network Engineer at [Blibli](https://www.blibli.com)**, with over 15 years of experience in large-scale network infrastructure. I act as the bridge between complex technical execution and high-level management — architecting high-availability backbones, directing network governance, and leading engineering teams to deliver 99.999% uptime.
+
+Before Blibli, I was Network Operation Lead at WOWNET, and spent 5+ years at [Wowrack](https://www.wowrack.com) as Senior Network Engineer (and before that, Senior Linux Administrator, System Engineer). I'm also known as an **Ubuntu Developer (MOTU)** since 2008, and previously a Debian Maintainer.
 
 Skills:
 
- 1. Mail server
-    > spamassassin, postfix, DKIM, OpenDMARF, etc
-    * DKIM key
-    * barracuda
- 2. Database
-    * MySQL
-      > clustering, replication, etc
- 2. Webservers
-    > Load Balancer, proxy, etc
- 3. Webhosting
-    > cpanel, ispconfig, etc
- 4. Networking
-    > OSPF, BGP, WAN, Cisco, Catalyst, Vyatta, Quagga, Mikrotik
- 5. Cloud
-    > Openstack, proxmox, Cloudstack
- 6. Puppet, ansible
- 7. And other sysadmin boring stuff...
+ 1. Network Leadership & Strategy
+    > translating infrastructure needs into business roadmaps, managing escalations
+ 2. Network Architecture
+    > MPLS, BGP/OSPF routing, Site-to-Site VPN, traffic/bandwidth optimization
+ 3. Multi-vendor Infrastructure
+    > Cisco (Nexus/Catalyst/ASA), Juniper (MX/SRX), Dell Force10, Fortigate, Mikrotik, Vyatta
+ 4. Hybrid Cloud
+    > Google Cloud Platform, Openstack, Proxmox, VMware, Cloudstack
+ 5. Security & Reliability
+    > DDoS mitigation, high-availability design
+ 6. Observability
+    > Cacti, Nagios, Zabbix
+ 7. Automation
+    > Ansible
+ 8. And other sysadmin boring stuff...
 
-Specialties: Network Management, Networking, Linux Server, Linux Based Networking, Organization, Security, Cisco, Vyatta, Mikrotik, Monitoring
+Specialties: Network Management, Network Architecture, Infrastructure Leadership, Linux Server, Security, Cisco, Juniper, Mikrotik, Cloud Infrastructure, Monitoring
 
-Contact:
+Education: University of Jember — Electrical, Electronics and Communications Engineering (2003–2008)
 
-<a href="mailto:udienz@gmail.com" title="mailto: udienz@localhost">
-<i class="fa fa-envelope fa-3x"></i>
-</a>&nbsp;
-<a href="https://github.com/udienz" title="GithubID: udienz">
-    <i class="fa fa-github fa-3x"></i>
-</a>&nbsp;
-<a href="https://twitter.com/udienz" title="TwitterID: udienz">
-<i class="fa fa-twitter fa-3x"></i>
-</a>&nbsp;
-<a href="https://facebook.com/udienz.net" title="Facebook">
-<i class="fa fa-facebook fa-3x"></i>
-</a>&nbsp;
-<a href="https://plus.google.com/+MahyuddinSusanto" title="G+">
-<i class="fa fa-google-plus fa-3x"></i>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/udienz" title="G+">
-<i class="fa fa-linkedin fa-3x"></i>
-</a>&nbsp;
+You can reach me by email or on any of the social links in the footer below.
 
 Links:
 

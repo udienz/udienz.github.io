@@ -1,2 +1,36 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+
+// Categories page
+.tag-cloud {
+    .badge {
+        margin: 0 .4rem .5rem 0;
+        padding: .5em 1em;
+        font-size: .9rem;
+        font-weight: 400;
+
+        .tag-count {
+            opacity: .75;
+            font-size: .8em;
+        }
+
+        &:hover,
+        &:focus {
+            text-decoration: none;
+            opacity: .85;
+        }
+    }
+}
+
+.category-section {
+    .category-title {
+        margin-top: 3rem;
+        padding-bottom: .5rem;
+        border-bottom: 2px solid $primary;
+    }
+
+    .list-group-item {
+        border-left: 0;
+        border-right: 0;
+    }
+}

@@ -4,23 +4,28 @@ title: Categories
 permalink: /categories/
 ---
 
-<ul class="tags-box">
-{% if site.posts != empty %}
-{% for cat in site.categories %}
-<a href="#{{ cat[0] }}" title="{{ cat[0] }}" rel="{{ cat[1].size }}">{{ cat[0] | join: "/"}}<span class="size"> {{ cat[1].size }}</span></a>
-{% endfor %}
-</ul>
+{% assign cats = site.categories | sort %}
 
-<ul class="tags-box">
-{% for cat in site.categories %}
-<li id="{{ cat[0] }}">{{ cat[0]}}</li>
-{% for post in cat[1] %}
-<time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time> &raquo;
-<a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br />
-{% endfor %}
+{% if site.posts.size > 0 %}
+<div class="tag-cloud mb-5">
+  {% for cat in cats %}
+  <a href="#{{ cat[0] | slugify }}" class="badge badge-primary badge-pill" title="{{ cat[1].size }} post{% if cat[1].size != 1 %}s{% endif %}">{{ cat[0] }} <span class="tag-count">{{ cat[1].size }}</span></a>
+  {% endfor %}
+</div>
+
+{% for cat in cats %}
+<section id="{{ cat[0] | slugify }}" class="category-section">
+  <h2 class="category-title">{{ cat[0] }} <small class="text-muted">({{ cat[1].size }})</small></h2>
+  <ul class="list-group list-group-flush mb-5">
+    {% for post in cat[1] %}
+    <li class="list-group-item d-flex justify-content-between align-items-start px-0">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="text-muted small text-nowrap ml-3">{{ post.date | date: "%Y-%m-%d" }}</time>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
 {% endfor %}
 {% else %}
-<span>No posts</span>
+<p>No posts yet.</p>
 {% endif %}
-</ul>
-
