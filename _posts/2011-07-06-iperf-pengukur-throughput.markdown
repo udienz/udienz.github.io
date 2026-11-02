@@ -5,6 +5,7 @@ date: 2011-07-06 17:24:10+00:00
 layout: post
 slug: iperf-pengukur-throughput
 title: 'Iperf: Pengukur throughput'
+description: "Mengukur throughput jaringan antar dua server dengan iperf: cara pakai, contoh pengujian, dan membaca hasilnya."
 wordpress_id: 587
 categories:
 - Debian

@@ -6,25 +6,18 @@ title: Posts
 {% for post in paginator.posts %}
 
 <article class="post-preview">
-  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+  <a href="{{ post.url | relative_url }}" class="post-link">
     <h2 class="post-title">{{ post.title }}</h2>
-    {% if post.subtitle %}
-    <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-    {% else %}
-    <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
-    {% endif %}
   </a>
-  <p class="post-meta">Posted by
-    {% if post.author %}
-    {{ post.author }}
-    {% else %}
-    {{ site.author }}
-    {% endif %}
-    on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+  <p class="post-meta">
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%d %B %Y' }}</time> &middot; {% include read_time.html content=post.content %}
+    {% if post.categories.size > 0 %}&middot; <a href="{{ '/categories/' | relative_url }}#{{ post.categories.first | slugify }}">{{ post.categories.first }}</a>{% endif %}
+  </p>
+  <p class="post-excerpt">
+    {% if post.description %}{{ post.description }}{% elsif post.subtitle %}{{ post.subtitle }}{% else %}{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 }}{% endif %}
+    <a class="read-more" href="{{ post.url | relative_url }}">Read more &rarr;</a>
   </p>
 </article>
-
-<hr>
 
 {% endfor %}
 

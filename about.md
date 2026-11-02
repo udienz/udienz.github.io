@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 description: Network & Infrastructure Leader | Architect | Open Source Contributor
+background: '/img/bg-about.jpg'
 ---
 
 # Who am I?

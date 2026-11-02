@@ -5,6 +5,7 @@ date: 2016-07-01 20:49:23+00:00
 layout: post
 slug: puppet-lint-as-docker
 title: puppet-lint as Docker
+description: "Menjalankan puppet-lint lewat container Docker untuk memeriksa syntax module Puppet tanpa memasang Ruby."
 wordpress_id: 963
 categories:
 - Linux

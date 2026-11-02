@@ -5,6 +5,7 @@ date: 2007-01-21 09:11:04+00:00
 layout: post
 slug: menambah-daftar-repository-di-ubuntudebian
 title: menambah Daftar Repository di Ubuntu/Debian
+description: "Cara mengumpulkan paket .deb yang sudah diunduh menjadi repository pribadi di Debian/Ubuntu dengan dpkg, agar mudah dipakai di komputer lain."
 wordpress_id: 659
 categories:
 - Debian

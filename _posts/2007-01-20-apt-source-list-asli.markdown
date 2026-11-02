@@ -5,6 +5,7 @@ date: 2007-01-20 18:30:18+00:00
 layout: post
 slug: apt-source-list-asli
 title: APT, Source list asli
+description: "Daftar isi sources.list asli Ubuntu Edgy untuk mengembalikan repository ke kondisi default setelah terlalu banyak menambah repo."
 wordpress_id: 6
 categories:
 - Linux

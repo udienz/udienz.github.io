@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Memasang Docker di Linux"
+description: "Cara memasang Docker Engine di Linux, mulai dari persiapan kernel hingga perangkat lunak pendukung."
 date: 2016-08-17T06:27:46+07:00
 categories:
  - Linux

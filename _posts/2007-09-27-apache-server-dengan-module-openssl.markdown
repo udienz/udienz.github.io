@@ -5,6 +5,7 @@ date: 2007-09-27 20:53:21+00:00
 layout: post
 slug: apache-server-dengan-module-openssl
 title: Apache server dengan module OpenSSL
+description: "Memasang Apache2 di Ubuntu/Debian dan mengaktifkan modul SSL (OpenSSL) agar web server bisa melayani HTTPS."
 wordpress_id: 411
 categories:
 - Debian

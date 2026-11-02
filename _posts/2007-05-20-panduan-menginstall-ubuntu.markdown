@@ -5,6 +5,7 @@ date: 2007-05-20 08:53:50+00:00
 layout: post
 slug: panduan-menginstall-ubuntu
 title: PANDUAN MENGINSTALL UBUNTU
+description: "Panduan step-by-step menginstall Ubuntu Edgy lengkap dengan langkah partisi dan pengaturan awal, dipraktikkan di VMware Workstation."
 wordpress_id: 53
 categories:
 - Linux

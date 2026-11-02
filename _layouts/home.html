@@ -3,11 +3,8 @@ layout: default
 ---
 
 <!-- Page Header -->
-{% if page.background %}
-<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
-  {% else %}
-  <header class="masthead">
-    {% endif %}
+{% assign hero = page.background | default: '/img/bg-index.jpg' %}
+<header class="masthead" style="background-image: url('{{ hero | relative_url }}')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
@@ -29,33 +26,35 @@ layout: default
 
         {{ content }}
 
+        <!-- Topics -->
+        {% assign top_cats = site.categories | sort %}
+        <nav class="topic-chips" aria-label="Browse by topic">
+          <span class="topic-label">Topics</span>
+          {% for cat in top_cats %}{% if cat[1].size > 30 %}
+          <a class="badge badge-pill badge-light" href="{{ '/categories/' | relative_url }}#{{ cat[0] | slugify }}">{{ cat[0] }} <span class="tag-count">{{ cat[1].size }}</span></a>
+          {% endif %}{% endfor %}
+          <a class="badge badge-pill badge-light" href="{{ '/categories/' | relative_url }}">All &rarr;</a>
+        </nav>
+
         <!-- Home Post List -->
-        {% for post in site.posts limit : 5 %}
+        {% for post in site.posts limit : 8 %}
 
         <article class="post-preview">
-          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+          <a href="{{ post.url | relative_url }}" class="post-link">
             <h2 class="post-title">{{ post.title }}</h2>
-            {% if post.subtitle %}
-            <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-            {% else %}
-            <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 100 }}</h3>
-            {% endif %}
           </a>
-          <p class="post-meta">Posted by
-            {% if post.author %}
-            {{ post.author }}
-            {% else %}
-            {{ site.author }}
-            {% endif %}
-            on
-            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
+          <p class="post-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%d %B %Y' }}</time> &middot; {% include read_time.html content=post.content %}
+            {% if post.categories.size > 0 %}&middot; <a href="{{ '/categories/' | relative_url }}#{{ post.categories.first | slugify }}">{{ post.categories.first }}</a>{% endif %}
+          </p>
+          <p class="post-excerpt">
+            {% if post.description %}{{ post.description }}{% elsif post.subtitle %}{{ post.subtitle }}{% else %}{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 40 }}{% endif %}
+            <a class="read-more" href="{{ post.url | relative_url }}">Read more &rarr;</a>
           </p>
         </article>
 
-        <hr>
-
         {% endfor %}
-        
+
         <!-- Pager -->
         <div class="clearfix">
           <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>

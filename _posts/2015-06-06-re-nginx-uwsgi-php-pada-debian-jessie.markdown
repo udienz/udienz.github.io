@@ -5,6 +5,7 @@ date: 2015-06-06 15:01:45+00:00
 layout: post
 slug: re-nginx-uwsgi-php-pada-debian-jessie
 title: 'Re: NGINX, uWSGI, PHP pada Debian Jessie'
+description: "Mengatur Nginx, uWSGI, dan PHP di Debian Jessie memakai module Puppet, sebagai tanggapan atas tulisan Om JP."
 wordpress_id: 948
 categories:
 - Linux

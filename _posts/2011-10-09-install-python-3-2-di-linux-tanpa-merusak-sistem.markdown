@@ -5,6 +5,7 @@ date: 2011-10-09 10:31:58+00:00
 layout: post
 slug: install-python-3-2-di-linux-tanpa-merusak-sistem
 title: Install Python 3.2 di Linux tanpa merusak sistem
+description: "Memasang Python 3.2 berdampingan dengan Python bawaan distro Linux tanpa merusak paket sistem yang bergantung padanya."
 wordpress_id: 615
 categories:
 - Linux

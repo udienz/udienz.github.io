@@ -5,6 +5,7 @@ date: 2008-01-18 09:08:37+00:00
 layout: post
 slug: matikan-server-signaturemu
 title: Matikan Server Signaturemu!!
+description: "Cara menyembunyikan versi Apache, PHP, dan modul lain dari server signature agar informasi server tidak terbuka ke publik."
 wordpress_id: 160
 categories:
 - Debian

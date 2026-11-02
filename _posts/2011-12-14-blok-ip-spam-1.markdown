@@ -5,6 +5,7 @@ date: 2011-12-14 06:30:45+00:00
 layout: post
 slug: blok-ip-spam-1
 title: Blok IP spam [1]
+description: "Cara memblok IP pengirim spam di mail server Linux untuk mengurangi beban dan kiriman email sampah."
 wordpress_id: 630
 categories:
 - Linux

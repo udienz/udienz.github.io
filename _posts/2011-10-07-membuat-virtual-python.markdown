@@ -5,6 +5,7 @@ date: 2011-10-07 17:20:47+00:00
 layout: post
 slug: membuat-virtual-python
 title: Membuat Virtual Python
+description: "Membuat virtual Python tanpa hak root agar bisa memasang modul sendiri dan menjaga sistem tetap bersih."
 wordpress_id: 612
 categories:
 - Debian

@@ -5,6 +5,7 @@ date: 2012-04-22 08:46:03+00:00
 layout: post
 slug: memilah-repository
 title: Memilah repository
+description: "APT pinning di Debian dan turunannya: memasang paket dari testing atau unstable tanpa mengupgrade seluruh sistem."
 wordpress_id: 19
 categories:
 - Debian

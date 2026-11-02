@@ -5,6 +5,7 @@ date: 2008-02-18 20:24:18+00:00
 layout: post
 slug: membuat-dvd-repository-debianubuntu
 title: Membuat DVD Repository Debian/Ubuntu
+description: "Cara membuat repository lokal Debian/Ubuntu dan memecahnya menjadi ukuran DVD untuk distribusi tanpa koneksi internet."
 wordpress_id: 164
 categories:
 - Debian

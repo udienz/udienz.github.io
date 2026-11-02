@@ -5,6 +5,7 @@ date: 2009-05-09 12:26:27+00:00
 layout: post
 slug: nginx-dari-nol
 title: nginx, dari nol
+description: "Memasang dan mengatur Nginx dari nol di Debian/Ubuntu, web server ringan dan cepat untuk melayani file statis."
 wordpress_id: 444
 categories:
 - Debian

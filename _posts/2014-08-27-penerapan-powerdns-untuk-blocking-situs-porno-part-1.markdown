@@ -5,6 +5,7 @@ date: 2014-08-27 08:32:18+00:00
 layout: post
 slug: penerapan-powerdns-untuk-blocking-situs-porno-part-1
 title: Penerapan Powerdns untuk blocking situs porno (part 1)
+description: "Bagian 1: menyiapkan sistem dan memasang PowerDNS di Ubuntu sebagai dasar pemblokiran situs porno lewat DNS."
 wordpress_id: 817
 categories:
 - Linux

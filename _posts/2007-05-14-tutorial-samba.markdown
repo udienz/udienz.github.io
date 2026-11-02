@@ -5,6 +5,7 @@ date: 2007-05-14 11:00:49+00:00
 layout: post
 slug: tutorial-samba
 title: Tutorial Samba
+description: "Tutorial Samba untuk menghubungkan Linux dan Windows dalam satu jaringan: instalasi, berbagi folder, dan akses dari klien."
 wordpress_id: 369
 categories:
 - Linux

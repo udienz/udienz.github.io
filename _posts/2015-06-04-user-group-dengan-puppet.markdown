@@ -5,6 +5,7 @@ date: 2015-06-04 17:06:57+00:00
 layout: post
 slug: user-group-dengan-puppet
 title: User group dengan puppet
+description: "Mengelola user dan group di banyak server sekaligus dengan Puppet, termasuk menghapus user di 100 node."
 wordpress_id: 942
 categories:
 - Linux

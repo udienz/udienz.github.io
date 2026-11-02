@@ -34,3 +34,130 @@
         border-right: 0;
     }
 }
+
+// ---- Design audit additions ----
+
+// Home / posts list: readable card-style entries instead of giant light subtitles
+.post-preview {
+    padding: 1.25rem 0 1.5rem;
+    border-bottom: 1px solid #e9ecef;
+
+    .post-link { text-decoration: none; }
+
+    .post-title {
+        font-size: 1.6rem;
+        margin: 0 0 .35rem;
+        &:hover { color: $primary; }
+    }
+
+    .post-meta {
+        font-size: .85rem;
+        margin: 0 0 .6rem;
+        a { color: $primary; }
+    }
+
+    .post-excerpt {
+        font-size: 1rem;
+        line-height: 1.6;
+        color: #495057;
+        margin-bottom: 0;
+    }
+
+    .read-more {
+        white-space: nowrap;
+        font-weight: 600;
+        font-family: $headings-font-family;
+        font-size: .85rem;
+    }
+}
+
+// Topic chips
+.topic-chips {
+    margin: 1.5rem 0 .5rem;
+
+    .badge {
+        margin: 0 .25rem .5rem 0;
+        padding: .45em .9em;
+        border: 1px solid #dee2e6;
+        font-weight: 600;
+        &:hover { background: $primary; color: #fff; text-decoration: none; }
+    }
+    .tag-count { opacity: .6; }
+}
+
+.topic-label {
+    font-family: $headings-font-family;
+    font-size: .75rem;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #868e96;
+    margin-right: .75rem;
+}
+
+// Post page
+.post-content img { max-width: 100%; height: auto; }
+.post-content pre { overflow-x: auto; max-width: 100%; }
+.post-tags .badge { margin-right: .25rem; padding: .45em .8em; }
+.post-tags .badge-light { border: 1px solid #dee2e6; }
+
+.share {
+    margin: 1.5rem 0;
+    a {
+        display: inline-block;
+        margin-right: .5rem;
+        padding: .35rem .9rem;
+        border: 1px solid $primary;
+        border-radius: 2rem;
+        font-family: $headings-font-family;
+        font-size: .8rem;
+        font-weight: 600;
+        &:hover { background: $primary; color: #fff; text-decoration: none; }
+    }
+}
+
+// Footer links
+.footer-nav {
+    margin-bottom: 1rem;
+    font-family: $headings-font-family;
+    font-size: .85rem;
+    a { color: #6c757d; &:hover { color: $primary; } }
+}
+
+// Darker hero overlay keeps white titles legible on the photo backgrounds
+.masthead .overlay { opacity: .55; }
+
+// Keyboard focus + reduced motion
+a:focus-visible, button:focus-visible { outline: 3px solid rgba($primary, .6); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+
+// Self-hosted "Fork me on GitHub" corner ribbon (bottom-right, clear of the fixed navbar)
+.fork-ribbon-wrap {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    pointer-events: none;
+    z-index: 1040;
+}
+.github-fork-ribbon {
+    position: absolute;
+    right: -42px;
+    bottom: 32px;
+    width: 200px;
+    padding: .3em 0;
+    pointer-events: auto;
+    background: #0b6a7e;
+    color: #fff;
+    text-align: center;
+    font: 700 .75rem/1.4 "Open Sans", sans-serif;
+    text-decoration: none;
+    transform: rotate(-45deg);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, .35);
+    border-top: 1px dashed rgba(255, 255, 255, .6);
+    border-bottom: 1px dashed rgba(255, 255, 255, .6);
+    &:hover, &:focus { color: #fff; background: #08505f; text-decoration: none; }
+}
+@media print { .fork-ribbon-wrap { display: none; } }

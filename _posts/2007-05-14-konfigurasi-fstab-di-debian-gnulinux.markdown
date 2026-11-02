@@ -5,6 +5,7 @@ date: 2007-05-14 10:54:02+00:00
 layout: post
 slug: konfigurasi-fstab-di-debian-gnulinux
 title: KONFIGURASI FSTAB DI DEBIAN GNU/LINUX
+description: "Penjelasan penamaan disk dan partisi di Linux serta cara mengatur /etc/fstab agar partisi otomatis termount di Debian/Ubuntu."
 wordpress_id: 47
 categories:
 - Linux

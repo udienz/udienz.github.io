@@ -5,6 +5,7 @@ date: 2014-01-21 06:18:36+00:00
 layout: post
 slug: membuat-spamassassin-rules-sendiri
 title: Membuat spamassassin rules sendiri
+description: "Menulis rules SpamAssassin sendiri untuk memblok email dengan header atau kata tertentu yang lolos dari filter bawaan."
 wordpress_id: 808
 categories:
 - Linux

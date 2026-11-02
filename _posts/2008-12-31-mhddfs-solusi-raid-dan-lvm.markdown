@@ -5,6 +5,7 @@ date: 2008-12-31 13:09:23+00:00
 layout: post
 slug: mhddfs-solusi-raid-dan-lvm
 title: 'MHDDFS: solusi RAID dan LVM'
+description: "mhddfs menggabungkan beberapa hardisk menjadi satu partisi besar, alternatif sederhana untuk RAID dan LVM di Debian/Ubuntu."
 wordpress_id: 238
 categories:
 - Linux

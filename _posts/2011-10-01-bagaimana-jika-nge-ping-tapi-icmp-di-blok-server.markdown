@@ -5,6 +5,7 @@ date: 2011-10-01 07:40:49+00:00
 layout: post
 slug: bagaimana-jika-nge-ping-tapi-icmp-di-blok-server
 title: Bagaimana jika nge-ping tapi ICMP di blok server?
+description: "Tetap bisa mengecek server hidup atau mati saat ICMP diblokir, misalnya dengan memeriksa port TCP yang terbuka."
 wordpress_id: 608
 categories:
 - Networking

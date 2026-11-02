@@ -5,6 +5,7 @@ date: 2008-10-31 18:49:11+00:00
 layout: post
 slug: aoe-ata-over-ethernet-di-debianubuntu
 title: AOE (ATA Over Ethernet) di Debian/Ubuntu
+description: "Memakai ATA over Ethernet (AoE) di Debian/Ubuntu untuk mengakses hardisk lewat jaringan: modul kernel, vblade, dan klien."
 wordpress_id: 227
 categories:
 - Debian
