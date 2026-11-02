@@ -3,11 +3,8 @@ layout: default
 ---
 
 <!-- Page Header -->
-{% if page.background %}
-<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
-  {% else %}
-  <header class="masthead">
-    {% endif %}
+{% assign hero = page.background | default: '/img/bg-post.jpg' %}
+<header class="masthead" style="background-image: url('{{ hero | relative_url }}')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
@@ -32,9 +29,26 @@ layout: default
     <div class="row">
       <div class="col mx-auto">
 
+        <article class="post-content" itemprop="articleBody">
         {{ content }}
+        </article>
 
         <hr>
+
+        {% if page.tags.size > 0 or page.categories.size > 0 %}
+        <p class="post-tags">
+          {% for c in page.categories %}<a class="badge badge-primary" href="{{ '/categories/' | relative_url }}#{{ c | slugify }}">{{ c }}</a> {% endfor %}
+          {% for tg in page.tags %}<span class="badge badge-light">#{{ tg }}</span> {% endfor %}
+        </p>
+        {% endif %}
+
+        <div class="share" aria-label="Share this post">
+          <span class="topic-label">Share</span>
+          <a rel="noopener" target="_blank" href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}">Twitter</a>
+          <a rel="noopener" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}">Facebook</a>
+          <a rel="noopener" target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url | url_encode }}">LinkedIn</a>
+          <a rel="noopener" target="_blank" href="https://wa.me/?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}">WhatsApp</a>
+        </div>
         
         <div class="clearfix">
         {% if page.categories.size > 0 %}
