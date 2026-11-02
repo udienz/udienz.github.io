@@ -130,3 +130,34 @@
 // Keyboard focus + reduced motion
 a:focus-visible, button:focus-visible { outline: 3px solid rgba($primary, .6); outline-offset: 2px; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+
+// Self-hosted "Fork me on GitHub" corner ribbon (bottom-right, clear of the fixed navbar)
+.fork-ribbon-wrap {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    pointer-events: none;
+    z-index: 1040;
+}
+.github-fork-ribbon {
+    position: absolute;
+    right: -42px;
+    bottom: 32px;
+    width: 200px;
+    padding: .3em 0;
+    pointer-events: auto;
+    background: #0b6a7e;
+    color: #fff;
+    text-align: center;
+    font: 700 .75rem/1.4 "Open Sans", sans-serif;
+    text-decoration: none;
+    transform: rotate(-45deg);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, .35);
+    border-top: 1px dashed rgba(255, 255, 255, .6);
+    border-bottom: 1px dashed rgba(255, 255, 255, .6);
+    &:hover, &:focus { color: #fff; background: #08505f; text-decoration: none; }
+}
+@media print { .fork-ribbon-wrap { display: none; } }
