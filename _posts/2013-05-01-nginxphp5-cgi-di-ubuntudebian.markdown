@@ -5,6 +5,7 @@ date: 2013-05-01 04:12:53+00:00
 layout: post
 slug: nginxphp5-cgi-di-ubuntudebian
 title: nginx+php5-cgi di Ubuntu/Debian
+description: "Memasang Nginx dengan PHP5-CGI di Debian/Ubuntu, termasuk skrip init untuk menjalankan php-cgi."
 wordpress_id: 740
 categories:
 - Debian

@@ -5,6 +5,7 @@ date: 2008-09-25 14:36:44+00:00
 layout: post
 slug: membuat-paket-debian
 title: Membuat Paket Debian
+description: "Langkah membuat paket .deb dari skrip atau kode sumber sendiri di Debian/Ubuntu, dari struktur direktori sampai build."
 wordpress_id: 224
 categories:
 - Debian

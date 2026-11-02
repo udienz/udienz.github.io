@@ -5,6 +5,7 @@ date: 2007-12-23 13:21:52+00:00
 layout: post
 slug: debmirror-under-proxy
 title: debmirror
+description: "Mirror repository Debian/Ubuntu dengan debmirror, termasuk saat harus melewati proxy, untuk repository lokal."
 wordpress_id: 148
 categories:
 - Debian

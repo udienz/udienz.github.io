@@ -13,7 +13,7 @@ instagram_username:  udienz
 linkedin_username: udienz
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-1991459-8 # out your google-analytics code
+google_analytics:   # GA4 measurement ID, e.g. G-XXXXXXXXXX (the old UA- ID no longer collects data)
 
 # Build settings
 markdown:           kramdown

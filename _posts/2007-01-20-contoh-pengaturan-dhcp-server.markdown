@@ -5,6 +5,7 @@ date: 2007-01-20 18:47:54+00:00
 layout: post
 slug: contoh-pengaturan-dhcp-server
 title: Contoh pengaturan DHCP Server
+description: "Contoh file konfigurasi dhcpd.conf lengkap untuk DHCP server di Linux: lease time, subnet, gateway, DNS, dan range alamat IP."
 wordpress_id: 43
 categories:
 - Linux

@@ -5,6 +5,7 @@ date: 2014-08-27 10:34:28+00:00
 layout: post
 slug: penerapan-powerdns-untuk-blocking-situs-porno-part-2
 title: Penerapan Powerdns untuk blocking situs porno (part 2)
+description: "Bagian 2: memakai daftar blacklist URL dan mengatur PowerDNS agar situs porno ter-blok di level DNS."
 wordpress_id: 825
 categories:
 - Linux

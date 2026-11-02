@@ -5,6 +5,7 @@ date: 2009-03-05 14:40:18+00:00
 layout: post
 slug: pantau-jaringan-via-vnstat
 title: Pantau jaringan via vnstat
+description: "Memantau pemakaian bandwidth dengan vnStat di Debian, Ubuntu, dan CentOS: instalasi, membuat database, dan membaca laporan."
 wordpress_id: 302
 categories:
 - Debian

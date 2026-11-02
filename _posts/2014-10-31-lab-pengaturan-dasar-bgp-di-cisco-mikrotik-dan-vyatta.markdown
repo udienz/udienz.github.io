@@ -5,6 +5,7 @@ date: 2014-10-31 07:07:12+00:00
 layout: post
 slug: lab-pengaturan-dasar-bgp-di-cisco-mikrotik-dan-vyatta
 title: '[LAB] Pengaturan dasar BGP di Cisco, Mikrotik dan Vyatta'
+description: "Lab dasar BGP dengan GNS3 yang menghubungkan router Cisco, MikroTik, dan Vyatta untuk bertukar tabel routing."
 wordpress_id: 855
 categories:
 - Networking

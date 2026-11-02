@@ -5,6 +5,7 @@ date: 2011-06-29 08:56:00+00:00
 layout: post
 slug: dual-boot-debian-dan-ubuntu
 title: Dual boot Debian dan Ubuntu
+description: "Pengalaman dan cara menjalankan Debian dan Ubuntu dalam satu komputer dengan dual boot."
 wordpress_id: 581
 categories:
 - Debian

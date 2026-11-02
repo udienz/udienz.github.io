@@ -5,6 +5,7 @@ date: 2007-05-22 15:33:44+00:00
 layout: post
 slug: panduan-install-wordpress-dengan-xampp-di-windows-xp
 title: PANDUAN INSTALL WORDPRESS DENGAN XAMPP DI WINDOWS XP
+description: "Panduan memasang WordPress di komputer lokal Windows XP memakai XAMPP, dari menyiapkan database sampai blog siap dipakai."
 wordpress_id: 56
 categories:
 - Komputer

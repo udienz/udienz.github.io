@@ -5,6 +5,7 @@ date: 2015-05-30 15:08:46+00:00
 layout: post
 slug: install-puppet-di-debian
 title: Install puppet di Debian
+description: "Memasang Puppet di Debian untuk mengotomatisasi pengelolaan banyak server: master, agent, dan sertifikat."
 wordpress_id: 930
 categories:
 - Linux

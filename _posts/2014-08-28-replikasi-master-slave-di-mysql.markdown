@@ -5,6 +5,7 @@ date: 2014-08-28 06:11:21+00:00
 layout: post
 slug: replikasi-master-slave-di-mysql
 title: Replikasi master slave di Mysql
+description: "Langkah replikasi master-slave MySQL di Ubuntu/Debian dengan dua server, dari konfigurasi sampai pengecekan sinkronisasi."
 wordpress_id: 838
 categories:
 - Linux

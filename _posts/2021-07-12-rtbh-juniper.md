@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "RTBH (Remote Trigger Black Hole) trigger via BGP di Juniper"
+description: "Remote Triggered Black Hole (RTBH) lewat BGP di Juniper untuk menangani DDoS dengan memblackhole IP target di upstream."
 date: 2021-07-12
 categories:
     - Networking

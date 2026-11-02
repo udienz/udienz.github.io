@@ -5,6 +5,7 @@ date: 2007-09-27 20:33:52+00:00
 layout: post
 slug: membuat-dns-server-lokal
 title: Membuat DNS Server Lokal
+description: "Membuat DNS server lokal di Ubuntu dengan BIND: konfigurasi primary server, zone, dan pengujian resolusi nama."
 wordpress_id: 410
 categories:
 - Debian

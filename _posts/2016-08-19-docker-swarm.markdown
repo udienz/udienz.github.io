@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bagaimana cara menginstall Docker-swarm"
+description: "Setup Docker Swarm mode (Docker 1.12) dengan mudah: membuat cluster, menambah node, dan menjalankan service."
 date: 2016-08-19T05:39:53+07:00
 categories:
     - Linux

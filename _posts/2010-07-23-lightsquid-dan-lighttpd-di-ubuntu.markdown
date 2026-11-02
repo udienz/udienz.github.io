@@ -5,6 +5,7 @@ date: 2010-07-23 16:14:06+00:00
 layout: post
 slug: lightsquid-dan-lighttpd-di-ubuntu
 title: Lightsquid dan Lighttpd di Ubuntu
+description: "Memasang LightSquid, pembuat laporan log Squid, memakai Lighttpd di Ubuntu sebagai pengganti Apache."
 wordpress_id: 463
 categories:
 - Debian

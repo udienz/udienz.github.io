@@ -5,6 +5,7 @@ date: 2008-09-25 14:32:25+00:00
 layout: post
 slug: membuat-forwardreverse-proxy-di-apache
 title: Membuat forward/reverse proxy di apache
+description: "Membuat forward/reverse proxy di Apache2 agar akses ke satu server diteruskan ke web server lain di jaringan internal."
 wordpress_id: 434
 categories:
 - Debian

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Catatan untuk mengaktifkan interface logical tunnel di Juniper"
+description: "Mengaktifkan interface logical tunnel (lt-0/0/0) di router Juniper, lengkap dengan perintah konfigurasi dan verifikasi."
 date: 2021-07-11
 categories:
     - Networking

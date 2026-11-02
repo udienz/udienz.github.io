@@ -14,7 +14,7 @@ title: Posts
     {% if post.categories.size > 0 %}&middot; <a href="{{ '/categories/' | relative_url }}#{{ post.categories.first | slugify }}">{{ post.categories.first }}</a>{% endif %}
   </p>
   <p class="post-excerpt">
-    {% if post.subtitle %}{{ post.subtitle }}{% else %}{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 }}{% endif %}
+    {% if post.description %}{{ post.description }}{% elsif post.subtitle %}{{ post.subtitle }}{% else %}{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 }}{% endif %}
     <a class="read-more" href="{{ post.url | relative_url }}">Read more &rarr;</a>
   </p>
 </article>

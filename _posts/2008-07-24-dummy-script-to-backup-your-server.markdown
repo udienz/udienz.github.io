@@ -5,6 +5,7 @@ date: 2008-07-24 17:36:02+00:00
 layout: post
 slug: dummy-script-to-backup-your-server
 title: Dummy Script to backup your server
+description: "Skrip shell sederhana untuk membackup server dan mengirim laporannya lewat email, dengan contoh yang bisa langsung dipakai."
 wordpress_id: 211
 categories:
 - Komputer

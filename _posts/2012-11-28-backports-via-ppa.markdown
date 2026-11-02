@@ -5,6 +5,7 @@ date: 2012-11-28 14:37:48+00:00
 layout: post
 slug: backports-via-ppa
 title: Backports via PPA
+description: "Membuat backports paket server dan compiler lewat PPA Launchpad untuk Ubuntu, berikut cara memakainya."
 wordpress_id: 711
 categories:
 - Linux

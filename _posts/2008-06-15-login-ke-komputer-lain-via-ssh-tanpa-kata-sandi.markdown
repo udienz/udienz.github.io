@@ -5,6 +5,7 @@ date: 2008-06-15 12:00:35+00:00
 layout: post
 slug: login-ke-komputer-lain-via-ssh-tanpa-kata-sandi
 title: Login ke Komputer lain via SSH tanpa Kata sandi
+description: "Login SSH tanpa kata sandi dengan SSH key: membuat key, menyalin ke server, dan langsung masuk tanpa mengetik password."
 wordpress_id: 203
 categories:
 - Linux

@@ -5,6 +5,7 @@ date: 2015-02-03 11:58:46+00:00
 layout: post
 slug: fix-permission-devkvm
 title: Fix permission /dev/kvm
+description: "Mengatasi error permission denied pada /dev/kvm saat menjalankan qemu-kvm atau Packer dengan akselerasi KVM."
 wordpress_id: 888
 categories:
 - Debian

@@ -5,6 +5,7 @@ date: 2012-07-20 17:05:17+00:00
 layout: post
 slug: agar-otentifikasi-ssh-key-di-centos-6-x-berjalan
 title: 'Agar otentifikasi ssh-key di Centos 6.x berjalan '
+description: "Login SSH key tidak jalan di CentOS 6? Penyebabnya SELinux mode enforcing; ini cara mengatasinya."
 wordpress_id: 682
 categories:
 - Linux

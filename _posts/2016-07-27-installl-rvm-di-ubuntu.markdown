@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Install RVM di Ubuntu"
+description: "Memasang RVM di Ubuntu 14.04 untuk mendapatkan Ruby versi baru, contohnya agar Jekyll bisa berjalan."
 date: 2016-07-27T01:46:14+07:00
 categories:
  - Linux

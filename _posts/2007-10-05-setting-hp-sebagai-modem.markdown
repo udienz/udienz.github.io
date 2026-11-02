@@ -5,6 +5,7 @@ date: 2007-10-05 15:18:02+00:00
 layout: post
 slug: setting-hp-sebagai-modem
 title: setting hp sebagai modem
+description: "Cara memakai ponsel SonyEricsson sebagai modem GPRS di Ubuntu Feisty untuk koneksi internet lewat operator seluler."
 wordpress_id: 412
 categories:
 - Linux

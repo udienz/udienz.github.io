@@ -5,6 +5,7 @@ date: 2015-04-12 09:47:56+00:00
 layout: post
 slug: ocsp-stapling-di-nginx
 title: OCSP Stapling di nginx
+description: "Mengaktifkan OCSP Stapling di Nginx untuk mempercepat verifikasi sertifikat SSL, lengkap dengan konfigurasi vhost."
 wordpress_id: 917
 categories:
 - Linux

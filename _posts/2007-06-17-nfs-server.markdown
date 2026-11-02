@@ -5,6 +5,7 @@ date: 2007-06-17 10:38:54+00:00
 layout: post
 slug: nfs-server
 title: NFS Server
+description: "Cara memasang dan mengatur NFS server di Ubuntu/Debian: instalasi paket, file /etc/exports, hingga mounting dari klien."
 wordpress_id: 66
 categories:
 - Debian
