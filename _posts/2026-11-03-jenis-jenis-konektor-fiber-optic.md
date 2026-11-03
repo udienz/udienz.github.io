@@ -124,6 +124,8 @@ Langkahnya sederhana: inspeksi dulu dengan scope sebelum mengawinkan konektor, b
 
 Aturan praktisnya: pilih konektor mengikuti port perangkat, lalu pilih polish mengikuti jenis layanan, dan terakhir cocokkan warna dengan jenis serat. Kalau ragu, baca datasheet transceiver atau ODF yang akan dipakai sebelum memesan patch cord.
 
+Konektor APC dipakai di PON/FTTx (lihat bagian UPC vs APC di atas). Untuk melihat posisinya dalam arsitektur jaringan PON, baca [Mengenal GPON](/2026/11/03/mengenal-gpon-fungsi-manfaat-arsitektur.html).
+
 ## Sumber
 
 Hampir semua sumber di bawah adalah dokumentasi vendor atau asosiasi industri (FOA). Standar TIA dan IEC berbayar, jadi saya merujuknya lewat sumber-sumber ini dan bukan membaca dokumennya langsung. Untuk desain atau pengadaan, cek ke dokumen standar dan datasheet produknya.
