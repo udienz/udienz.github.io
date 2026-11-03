@@ -161,3 +161,24 @@ a:focus-visible, button:focus-visible { outline: 3px solid rgba($primary, .6); o
     &:hover, &:focus { color: #fff; background: #08505f; text-decoration: none; }
 }
 @media print { .fork-ribbon-wrap { display: none; } }
+
+// Related posts: compact list (max 5)
+.related {
+    margin: 2rem 0;
+    clear: both;
+
+    h2 { font-size: 1.4rem; margin-bottom: .75rem; }
+
+    .related-posts {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+
+        li {
+            padding: .55rem 0;
+            border-bottom: 1px solid #e9ecef;
+            line-height: 1.4;
+        }
+        small { display: block; font-size: .78rem; }
+    }
+}
