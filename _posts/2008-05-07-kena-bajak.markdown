@@ -22,6 +22,6 @@ Created by: NOINDRA ADERNALIN</blockquote>
 
 
 
-akhirnya [tulisanku](http://udienz.wordpress.com/2007/05/20/panduan-menginstall-ubuntu/) kena [bajak](http://indratea.wordpress.com/2008/05/05/5/) :( sebenarnya semua tulisanku di sini baik itu panduan maupun artikel mempunyai lisensi gpl, dalam artian anda boleh mengopi semua yang saya tulis, memodifikasi, merubah dan melakukan perbaikan. banyak sekali sudah orang yang mengkopi tulisan saya ini, tetapi sudah minta ijin dulu, ini yang saya sukai.
+akhirnya [tulisanku](/2007/05/20/panduan-menginstall-ubuntu) kena [bajak](http://indratea.wordpress.com/2008/05/05/5/) :( sebenarnya semua tulisanku di sini baik itu panduan maupun artikel mempunyai lisensi gpl, dalam artian anda boleh mengopi semua yang saya tulis, memodifikasi, merubah dan melakukan perbaikan. banyak sekali sudah orang yang mengkopi tulisan saya ini, tetapi sudah minta ijin dulu, ini yang saya sukai.
 
 mohon bila mau menyalin dan kemudian mau mempampangkan di blognya silakan ijin dulu yah!

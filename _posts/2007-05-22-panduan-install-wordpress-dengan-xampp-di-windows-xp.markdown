@@ -77,7 +77,7 @@ Pertama-tama  hal yang dilakukan setelah mendownlad **XAMM** dan **Wordpress** a
 
 
 
-[![clip_image002_0001.jpg](http://udienz.files.wordpress.com/2007/05/clip_image002_0001.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image002_0001.jpg)
+_(gambar tidak tersedia: clip_image002_0001.jpg)_
 
 
 
@@ -87,7 +87,7 @@ Pada gambar anda diatas disuruh untuk memilih konfigurasi bahasa yang akan digun
 
 
 
-[![clip_image004_0001.jpg](http://udienz.files.wordpress.com/2007/05/clip_image004_0001.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image004_0001.jpg)
+_(gambar tidak tersedia: clip_image004_0001.jpg)_
 
 
 
@@ -97,7 +97,7 @@ Jika sudah muncul klik **Next**, sehingga muncul tampilan sebagai  berikut:
 
 
 
-[![clip_image006_0001.jpg](http://udienz.files.wordpress.com/2007/05/clip_image006_0001.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image006_0001.jpg)
+_(gambar tidak tersedia: clip_image006_0001.jpg)_
 
 
 
@@ -107,7 +107,7 @@ Disinikita akan disuruh untuk menentukan lokasi intaller kita di windows, secara
 
 
 
-[![clip_image008_0001.jpg](http://udienz.files.wordpress.com/2007/05/clip_image008_0001.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image008_0001.jpg)
+_(gambar tidak tersedia: clip_image008_0001.jpg)_
 
 
 
@@ -117,7 +117,7 @@ Disini anda di beri opsi instalasi XAMPP, sesuaikan  dengan gambar diatas dan kl
 
 
 
-[![clip_image010.jpg](http://udienz.files.wordpress.com/2007/05/clip_image010.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image010.jpg)
+_(gambar tidak tersedia: clip_image010.jpg)_
 
 
 
@@ -127,7 +127,7 @@ Tunggu sebentar lagi hingga muncul gambar sebagai  berikut
 
 
 
-[![clip_image012_0001.jpg](http://udienz.files.wordpress.com/2007/05/clip_image012_0001.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image012_0001.jpg)
+_(gambar tidak tersedia: clip_image012_0001.jpg)_
 
 
 
@@ -137,7 +137,7 @@ Tunggu sebentar lagi hingga muncul gambar sebagai  berikut
 
 
 
-[![clip_image014_0001.jpg](http://udienz.files.wordpress.com/2007/05/clip_image014_0001.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image014_0001.jpg)
+_(gambar tidak tersedia: clip_image014_0001.jpg)_
 
 
 
@@ -147,7 +147,7 @@ Kilk **ok**
 
 
 
-[![clip_image016.jpg](http://udienz.files.wordpress.com/2007/05/clip_image016.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image016.jpg)
+_(gambar tidak tersedia: clip_image016.jpg)_
 
 
 
@@ -157,7 +157,7 @@ Klik **NO**.  Dan sekarang buka Browser Favorit anda (kalo saya Firefox), pada a
 
 
 
-[![clip_image018.jpg](http://udienz.files.wordpress.com/2007/05/clip_image018.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image018.jpg)
+_(gambar tidak tersedia: clip_image018.jpg)_
 
 
 
@@ -167,7 +167,7 @@ Jikaproses intalasi anda berhasil dan seperti diatas maka akan muncul sebagaiman
 
 
 
-[![clip_image020.jpg](http://udienz.files.wordpress.com/2007/05/clip_image020.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image020.jpg)
+_(gambar tidak tersedia: clip_image020.jpg)_
 
 
 
@@ -177,7 +177,7 @@ Cari di panel kiri bawah pada pilihan **TOOLS** dan klik **PHPMyAdmin**, sehingg
 
 
 
-[![clip_image022.jpg](http://udienz.files.wordpress.com/2007/05/clip_image022.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image022.jpg)
+_(gambar tidak tersedia: clip_image022.jpg)_
 
 
 
@@ -187,7 +187,7 @@ Pada tampilan ini kita akan membuat database blog kita, maka dari itu isikan nam
 
 
 
-[![clip_image024.jpg](http://udienz.files.wordpress.com/2007/05/clip_image024.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image024.jpg)
+_(gambar tidak tersedia: clip_image024.jpg)_
 
 
 
@@ -197,7 +197,7 @@ Pada tampilan ini kita akan membuat database blog kita, maka dari itu isikan nam
 
 
 
-[![clip_image026.jpg](http://udienz.files.wordpress.com/2007/05/clip_image026.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image026.jpg)
+_(gambar tidak tersedia: clip_image026.jpg)_
 
 
 
@@ -207,7 +207,7 @@ Perlu diketahui bahwasanya server Apache2 akan  menmproses di tampilan [http://l
 yang terdapat di direktory C:xampphtdocs gampanganya apapun yang ada di direktori tersebut akan ditampilkan di localhost anda. Bila sudah maka buka browser anda dan ketikkan [http://localhost/wordpress](http://localhost/wordpress) sehingga tampilanya akan muncul sebagai berikut
 
 
-[![clip_image028.jpg](http://udienz.files.wordpress.com/2007/05/clip_image028.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image028.jpg)
+_(gambar tidak tersedia: clip_image028.jpg)_
 
 
 
@@ -220,7 +220,7 @@ Tampilan ini menandakan bahwasanya  anda belum menkonfigurasi file **wp-config.p
 
 
 
-[![clip_image029.gif](http://udienz.files.wordpress.com/2007/05/clip_image029.gif)](http://udienz.files.wordpress.com/2007/05/clip_image029.gif)
+_(gambar tidak tersedia: clip_image029.gif)_
 
 
 
@@ -230,7 +230,7 @@ Pada tampilan ini anda harus mengetahui nama  database yang akan dipakai, userna
 
 
 
-[![clip_image031_0001.jpg](http://udienz.files.wordpress.com/2007/05/clip_image031_0001.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image031_0001.jpg)
+_(gambar tidak tersedia: clip_image031_0001.jpg)_
 
 
 
@@ -240,7 +240,7 @@ Isikan nama database yang telah anda buat tadi, untuk  usernamenya masukkan **ro
 
 
 
-[![clip_image033_0001.jpg](http://udienz.files.wordpress.com/2007/05/clip_image033_0001.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image033_0001.jpg)
+_(gambar tidak tersedia: clip_image033_0001.jpg)_
 
 
 
@@ -250,7 +250,7 @@ Sekali lagi anda telah berhasil membuat singkronisasi  database SQL dan wordpres
 
 
 
-[![clip_image035.jpg](http://udienz.files.wordpress.com/2007/05/clip_image035.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image035.jpg)
+_(gambar tidak tersedia: clip_image035.jpg)_
 
 
 
@@ -260,7 +260,7 @@ Kilk **FIRST  STEP**
 
 
 
-[![clip_image037.jpg](http://udienz.files.wordpress.com/2007/05/clip_image037.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image037.jpg)
+_(gambar tidak tersedia: clip_image037.jpg)_
 
 
 
@@ -270,7 +270,7 @@ Isikan nama blog anda dan email anda dan klik **CONTINUE TO SECOND STEP**
 
 
 
-[![clip_image038.gif](http://udienz.files.wordpress.com/2007/05/clip_image038.gif)](http://udienz.files.wordpress.com/2007/05/clip_image038.gif)
+_(gambar tidak tersedia: clip_image038.gif)_
 
 
 
@@ -280,7 +280,7 @@ Ok! Anda elah berhasil kali ini, dan catat username  dan password yang tertera d
 
 
 
-[![clip_image040_0001.jpg](http://udienz.files.wordpress.com/2007/05/clip_image040_0001.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image040_0001.jpg)
+_(gambar tidak tersedia: clip_image040_0001.jpg)_
 
 
 
@@ -290,7 +290,7 @@ Masukkan username anda tadi beserta passwordnya
 
 
 
-[![clip_image042_0001.jpg](http://udienz.files.wordpress.com/2007/05/clip_image042_0001.jpg)](http://udienz.files.wordpress.com/2007/05/clip_image042_0001.jpg)
+_(gambar tidak tersedia: clip_image042_0001.jpg)_
 
 
 
@@ -332,7 +332,7 @@ _Mantan  Ketua LPP Ikatan Mahasiswa Muhammadiyah Komisariat Tawang Alun Universi
 
 
 
-_url: [http://udienz.net](http://udienz.wordpress.com/)_
+_url: [http://udienz.net](/)_
 
 
 

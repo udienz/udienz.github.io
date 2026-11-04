@@ -18,6 +18,6 @@ Saya mempunyai kapasitas hardisk yang mepet, ceritanya dulu saya lupa untuk memp
 
 
 
-[caption id="attachment_278" align="aligncenter" width="466" caption="du"]![du](http://udienz.files.wordpress.com/2009/02/screenshot.png)[/caption]
+[caption id="attachment_278" align="aligncenter" width="466" caption="du"]_(gambar tidak tersedia: du)_[/caption]
 
 oh santai saja itu yang terbesar berasal dari berkas `Thunderbird (email klient)` dan `public_html (website)`,berkas dokumen, untuk <del>video</del> ada di tempat lain kok

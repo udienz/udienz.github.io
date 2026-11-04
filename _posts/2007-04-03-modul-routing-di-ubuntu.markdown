@@ -17,4 +17,4 @@ tags:
 - ubuntu
 ---
 
-[routing.ppt](http://udienz.files.wordpress.com/2007/04/routing.ppt)
+routing.ppt
