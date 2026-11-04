@@ -18,7 +18,9 @@ Pada September 2026, BYD Atto 1 tercatat 4.840 unit dalam data Gaikindo, peringk
 
 Tulisan ini menjelaskan apa itu mobil listrik dan apa bedanya dengan hybrid, bagaimana mobil itu bekerja dari colokan sampai roda, dan mobil listrik mana yang paling banyak tercatat penjualannya di Indonesia sepanjang 2026, lengkap dengan harga, kapasitas baterai, dan klaim jarak tempuhnya. Setiap harga dan angka penjualan saya beri tanggal sumbernya, karena angkanya berubah cepat dan beberapa media menulis angka berbeda untuk model yang sama.
 
-![Ilustrasi mobil listrik putih yang terhubung lewat kabel oranye ke tiang pengisian daya di tepi jalan](/img/mobil-listrik-pengertian-jenis-cara-kerja.png)
+![Mobil listrik putih yang sedang diisi daya lewat kabel dari wall charger di depan gedung kaca](/img/mobil-listrik-pengertian-jenis-cara-kerja.jpg)
+
+*Foto: [JUICE](https://unsplash.com/photos/a-white-car-plugged-in-to-a-charging-station-JkTjKEVcckg) di [Unsplash](https://unsplash.com).*
 
 > **Poin Penting**
 >
@@ -748,5 +750,6 @@ Saya Mahyuddin Susanto, penulis blog ini. Latar belakang saya di jaringan dan in
 - Listrik Indonesia, [Atto 1](https://listrikindonesia.com/detail/17430/mengupas-kapasitas-baterai-dan-jarak-tempuh-byd-atto-1) (2 Agustus 2025), [Jaecoo J5 EV](https://listrikindonesia.com/detail/17505/membedah-perbedaan-fitur-jaecoo-j5-ev-standard-vs-premium) (10 Agustus 2025), [Denza D9](https://listrikindonesia.com/detail/15468/harganya-bikin-alphard-ketar-ketir-ini-spesifikasi-byd-denza-d9) (24 Januari 2025), [VinFast VF 3](https://listrikindonesia.com/detail/15531/siap-ramaikan-pasar-ev-indonesia-ini-spesifikasi-vf-3) (31 Januari 2025), dan [insentif pajak](https://listrikindonesia.com/detail/19930/insentif-pajak-dihapus-kapan-waktu-yang-tepat-beli-mobil-listrik) (1 Mei 2026)
 - Carmudi, [Geely EX2](https://www.carmudi.co.id/journal/harga-geely-ex2-setelah-resmi-meluncur-di-indonesia-mulai-segini/) (21 Januari 2026), [uji EX2](https://www.carmudi.co.id/journal/test-drive-jakarta-cianjur-berapa-konsumsi-listrik-dan-daya-geely-ex2/) (3 Februari 2026), [uji EX5](https://www.carmudi.co.id/journal/test-drive-jakarta-bandung-segini-konsumsi-daya-geely-ex5/) (20 Mei 2025), [BYD M6](https://www.carmudi.co.id/journal/harga-rp395-juta-ini-pembaruan-byd-m6-ev-2026-varian-standard-di-giias-2026/) (31 Juli 2026), dan [BYD Sealion 7](https://www.carmudi.co.id/journal/spesifikasi-byd-sealion-7-sanggup-tempuh-567-km-sekali-cas/) (16 Februari 2025)
 - IDX Channel, [spesifikasi Geely EX5](https://www.idxchannel.com/technology/hadir-kembali-di-pasar-otomotif-ri-geely-hadirkan-mobil-listrik-dengan-segudang-teknologi), 22 Februari 2025
+- Foto hero: [JUICE](https://unsplash.com/photos/a-white-car-plugged-in-to-a-charging-station-JkTjKEVcckg) di [Unsplash](https://unsplash.com), dipotong ke 1200 x 630
 - IEA, [Global EV Outlook 2026](https://www.iea.org/reports/global-ev-outlook-2026); BPK, [Perpres 55/2019](https://peraturan.bpk.go.id/Details/116973/perpres-no-55) dan [Perpres 79/2023](https://peraturan.bpk.go.id/Details/273447)
 - Zigwheels, [harga BYD Sealion 7](https://www.zigwheels.co.id/en/mobil-baru/byd/sealion-7/harga/), dan [BYD Indonesia](https://www.byd.com/id), keduanya dibuka 4 November 2026
