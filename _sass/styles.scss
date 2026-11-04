@@ -201,3 +201,45 @@ a:focus-visible, button:focus-visible { outline: 3px solid rgba($primary, .6); o
         small { display: block; font-size: .78rem; }
     }
 }
+
+// Series (multi-part posts)
+.series-nav {
+    margin: 0 0 2rem;
+    padding: 1rem 1.25rem;
+    border: 1px solid rgba(128, 128, 128, .3);
+    border-radius: .25rem;
+
+    ol { margin: .5rem 0 0; padding-left: 1.25rem; }
+    li.current { font-weight: 700; }
+}
+.series-pager { margin: 2rem 0; }
+
+// Table of contents inside a post
+.post-content details.toc {
+    margin: 0 0 2rem;
+    padding: .75rem 1.25rem;
+    border: 1px solid rgba(128, 128, 128, .3);
+    border-radius: .25rem;
+
+    summary { cursor: pointer; font-weight: 700; }
+    ul { margin: .5rem 0 0; }
+}
+
+// Back to top
+.back-to-top {
+    position: fixed;
+    right: 1rem;
+    bottom: 1rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    text-align: center;
+    border-radius: 50%;
+    background: #0085a1;
+    color: #fff;
+    text-decoration: none;
+    opacity: .85;
+    z-index: 1000;
+
+    &:hover { color: #fff; opacity: 1; text-decoration: none; }
+}
