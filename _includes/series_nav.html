@@ -1,0 +1,13 @@
+{% if page.series %}
+{% assign parts = site.posts | where: "series", page.series | sort: "part" %}
+<nav class="series-nav" aria-label="Daftar bagian seri">
+  <span class="topic-label">Seri &middot; Bagian {{ page.part }} dari {{ parts.size }}</span>
+  <ol>
+    {% for p in parts %}
+    <li{% if p.url == page.url %} class="current" aria-current="page"{% endif %}>
+      {% if p.url == page.url %}{{ p.title }}{% else %}<a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+</nav>
+{% endif %}

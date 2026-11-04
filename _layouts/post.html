@@ -29,9 +29,24 @@ layout: default
     <div class="row">
       <div class="col mx-auto">
 
+        {% include series_nav.html %}
+
         <article class="post-content" itemprop="articleBody">
         {{ content }}
         </article>
+
+        {% if page.series %}
+        {% assign parts = site.posts | where: "series", page.series | sort: "part" %}
+        {% assign prev_part = page.part | minus: 1 %}
+        {% assign next_part = page.part | plus: 1 %}
+        <div class="series-pager clearfix">
+          {% for p in parts %}
+            {% if p.part == prev_part %}<a class="btn btn-outline-primary float-left" href="{{ p.url | relative_url }}">&larr; Bagian {{ p.part }}</a>{% endif %}
+            {% if p.part == next_part %}<a class="btn btn-primary float-right" href="{{ p.url | relative_url }}">Bagian {{ p.part }} &rarr;</a>{% endif %}
+          {% endfor %}
+        </div>
+        {% include series_nav.html %}
+        {% endif %}
 
         <hr>
 
@@ -90,7 +105,7 @@ layout: default
         
         <div class="clearfix">
         {% if page.categories.size > 0 %}
-        {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" | where_exp: "post", "post.categories contains page.categories.first" %}
+        {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" | where_exp: "post", "post.series == nil or post.series != page.series" | where_exp: "post", "post.categories contains page.categories.first" %}
         {% endif %}
         {% if related_posts.size > 0 %}
         <section class="related" aria-labelledby="related-title">
@@ -105,17 +120,18 @@ layout: default
           </ul>
         </section>
         {% endif %}
-          {% if page.previous.url %}
+          {% if page.previous.url and page.series == nil %}
           <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline">
               Post</span></a>
           {% endif %}
-          {% if page.next.url %}
+          {% if page.next.url and page.series == nil %}
           <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline">
               Post</span> &rarr;</a>
           {% endif %}
 
         </div>
 			{% include comments.html %}
+      <a href="#" class="back-to-top" aria-label="Kembali ke atas" title="Kembali ke atas">&uarr;</a>
       </div>
 
       
