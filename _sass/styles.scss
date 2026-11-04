@@ -98,6 +98,9 @@
 // Post page
 .post-content img { max-width: 100%; height: auto; }
 .post-content pre { overflow-x: auto; max-width: 100%; }
+// Tabel dan SVG lebar menggulir di dalam wadahnya sendiri, bukan melebarkan halaman di ponsel
+.post-content table { display: block; max-width: 100%; overflow-x: auto; }
+.post-content svg { max-width: 100%; height: auto; }
 .post-tags .badge { margin-right: .25rem; padding: .45em .8em; }
 .post-tags .badge-light { border: 1px solid #dee2e6; }
 
