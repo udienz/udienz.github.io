@@ -15,7 +15,7 @@ tags:
 
 Target 100 Mbps untuk fixed broadband bisa terbaca seolah itu kecepatan yang dijanjikan ke setiap rumah. Faktanya itu target rata-rata nasional dengan tenggat 2028 atau 2029, jadi belum ada yang gagal. Jaraknya ke 100 Mbps memang masih lebar: median fixed broadband Indonesia pada Agustus 2026 ada di 51,4 Mbps menurut Ookla, peringkat ke-113 dunia dan ke-9 dari 10 negara ASEAN.
 
-Tulisan ini menjelaskan apa yang sebenarnya ditargetkan, apa yang menghambatnya, dan apa artinya untuk paket internet di rumahmu. Fixed broadband di sini berarti internet rumah berkabel (di berita sering ditulis "internet tetap" atau "pita lebar tetap"). Beberapa angka dari berita saling bertentangan, jadi saya tandai mana yang sudah saya cek ke dokumen resmi dan mana yang masih dari pemberitaan.
+Tulisan ini menjelaskan apa yang sebenarnya ditargetkan, apa yang menghambatnya, dan apa artinya untuk paket internet di rumahmu. Fixed broadband di sini berarti internet rumah berkabel (di berita sering ditulis "internet tetap" atau "pita lebar tetap"). Beberapa angka dari berita saling bertentangan, jadi tiap angka saya sebut lengkap dengan sumbernya, apakah dokumen resmi atau pemberitaan.
 
 ![Dua batang perbandingan: median fixed broadband Indonesia 51,4 Mbps dan target Komdigi 100 Mbps](/img/target-100-mbps-fixed-broadband.png)
 
@@ -31,7 +31,7 @@ Tulisan ini menjelaskan apa yang sebenarnya ditargetkan, apa yang menghambatnya,
 
 ## Apa sebenarnya yang ditargetkan?
 
-Target kecepatan ada di Rencana Strategis (Renstra) Kementerian Komunikasi dan Digital 2025–2029. Laporan Kinerja Komdigi 2025 memuat indikator "Kecepatan Internet Jaringan Pita Lebar Tetap (Fixed Broadband)" dengan target 2025 sebesar 37 Mbps ([Kementerian Komdigi, Laporan Kinerja 2025](https://eppid.komdigi.go.id/attachments/cb1d2d05a0d09902a340a09882b2eae56e6462ed88f3e3f688372c5053ed086a/fa1898f3b7f2672c03afd8682a6187d1ece86d3114c6a1a52d8a51fe86a81ae0.pdf), tabel indikator program, hlm. 90). Target tahun-tahun berikutnya tidak terbaca jelas di dokumen itu, jadi untuk 2026 sampai 2029 saya bergantung pada pemberitaan, dan dua media menulis jalur yang berbeda:
+Target kecepatan ada di Rencana Strategis (Renstra) Kementerian Komunikasi dan Digital 2025–2029. Laporan Kinerja Komdigi 2025 memuat indikator "Kecepatan Internet Jaringan Pita Lebar Tetap (Fixed Broadband)" dengan target 2025 sebesar 37 Mbps ([Kementerian Komdigi, Laporan Kinerja 2025](https://eppid.komdigi.go.id/attachments/cb1d2d05a0d09902a340a09882b2eae56e6462ed88f3e3f688372c5053ed086a/fa1898f3b7f2672c03afd8682a6187d1ece86d3114c6a1a52d8a51fe86a81ae0.pdf), tabel indikator program, hlm. 90). Target tahun-tahun berikutnya tidak terbaca jelas di dokumen itu, jadi untuk 2026 sampai 2029 rujukannya pemberitaan, dan dua media menulis jalur yang berbeda:
 
 | Tahun | detikInet (7 Jan 2026) | Bisnis.com (5 Jan 2026) |
 |---|---|---|
@@ -48,7 +48,7 @@ Kalau kamu menemukan judul berita yang menulis "64 Mbps di 2026", baca isinya du
 
 ## Seberapa jauh jaraknya sekarang?
 
-Ookla Speedtest Global Index mencatat median download fixed broadband Indonesia 51,40 Mbps pada Agustus 2026, peringkat 113 dunia dan ke-9 dari 10 negara ASEAN ([Bisnis.com, 14 Oktober 2026](https://teknologi.bisnis.com/read/20261014/101/2012346/peringkat-kecepatan-internet-ri-merangkak-di-global-agustus-2026-berkat-5g), mengutip Ookla). Saya tidak bisa membuka halaman Ookla langsung dari sini, jadi angka ini saya ambil dari pemberitaan.
+Ookla Speedtest Global Index mencatat median download fixed broadband Indonesia 51,40 Mbps pada Agustus 2026, peringkat 113 dunia dan ke-9 dari 10 negara ASEAN ([Bisnis.com, 14 Oktober 2026](https://teknologi.bisnis.com/read/20261014/101/2012346/peringkat-kecepatan-internet-ri-merangkak-di-global-agustus-2026-berkat-5g), mengutip Ookla).
 
 Komdigi punya angka sendiri. Laporan Kinerja 2025 menulis rata-rata kecepatan unduh fixed broadband nasional 51,84 Mbps, diukur di 20 kota, dan menyatakan angka itu melampaui target 2025 sebesar 37 Mbps (hlm. 106). Di bagian latar belakang laporan yang sama, rata-rata fixed broadband tertulis 28,37 Mbps dengan merujuk ke Renstra ([Laporan Kinerja Komdigi 2025](https://eppid.komdigi.go.id/attachments/cb1d2d05a0d09902a340a09882b2eae56e6462ed88f3e3f688372c5053ed086a/fa1898f3b7f2672c03afd8682a6187d1ece86d3114c6a1a52d8a51fe86a81ae0.pdf), hlm. 20).
 
@@ -102,7 +102,7 @@ Grafik ini memakai median, bukan rata-rata. Seasia.co mengutip Ookla, jadi angga
 
 ## Apa yang menghambat?
 
-Tidak ada satu penyebab tunggal. Dari sumber yang saya baca, hambatannya berlapis.
+Tidak ada satu penyebab tunggal. Hambatannya berlapis.
 
 ### Banyak rumah belum terjangkau, dan banyak yang terjangkau belum berlangganan
 
@@ -146,7 +146,9 @@ Alasan dari sisi calon pelanggan sejalan. Dalam survei APJII 2026, 47,2% yang ti
 
 ### Standar minimum 100 Mbps yang pernah disiapkan
 
-Pada Januari 2024, Kementerian Kominfo (sekarang Komdigi) pernah menyiapkan standar minimum 100 Mbps untuk fixed broadband. Direktur Jenderal Informasi dan Komunikasi Publik saat itu menyatakan penerapannya sangat tergantung kesiapan industri dan tidak akan dipaksakan kalau industri belum siap ([Bisnis.com, 25 Januari 2024](https://teknologi.bisnis.com/read/20240125/101/1735592/internet-fixed-broadband-100-mbps-kemenkominfo-tergantung-kesiapan-industri)). Sejauh yang bisa saya temukan, belum ada aturan berlaku yang mewajibkan kecepatan minimum atau membatasi klaim "hingga" pada paket rumahan. Saya belum memeriksa JDIH Komdigi satu per satu, jadi anggap ini temuan sementara.
+Pada Januari 2024, Kementerian Kominfo (sekarang Komdigi) pernah menyiapkan standar minimum 100 Mbps untuk fixed broadband. Direktur Jenderal Informasi dan Komunikasi Publik saat itu menyatakan penerapannya sangat tergantung kesiapan industri dan tidak akan dipaksakan kalau industri belum siap ([Bisnis.com, 25 Januari 2024](https://teknologi.bisnis.com/read/20240125/101/1735592/internet-fixed-broadband-100-mbps-kemenkominfo-tergantung-kesiapan-industri)).
+
+Ada satu kewajiban yang mendekati, tapi bukan standar minimum untuk paket rumahan. Pada lelang pita frekuensi 1,4 GHz, Komdigi menyebut pemenang harus menyediakan akses pita lebar nirkabel dengan kecepatan "sampai dengan" 100 Mbps, dengan harga paling tinggi 10% di atas rata-rata konsumsi rumah tangga ([Bisnis.com, 3 Agustus 2025](https://teknologi.bisnis.com/read/20250803/101/1898837/komdigi-ungkap-sederet-kewajiban-pemenang-lelang-14-ghz)). Kewajiban itu berlaku selama masa izin pita frekuensi dan mengikat pemenang lelang, bukan semua penyedia internet.
 
 ## Apa artinya buat kamu di rumah?
 
@@ -177,7 +179,7 @@ Keempat, tidak semua rumah perlu 100 Mbps. Hampir separuh yang tidak berlanggana
 - Jalur target 2026 sampai 2029 per tahun. Dokumen Renstra lengkapnya belum saya baca, jadi saya hanya tahu dua versi dari berita.
 - Apakah 100 Mbps dicapai pada 2028 atau 2029.
 - Angka Ookla langsung dari halaman resminya.
-- Data resmi kecepatan nyata dibanding kecepatan di kontrak, yang memuat paket "hingga". Saya tidak menemukan data terbarunya.
+- Data resmi kecepatan nyata dibanding kecepatan di kontrak, yang memuat paket "hingga". Data terbarunya belum ada di sumber yang dipakai tulisan ini.
 
 Kalau kamu punya dokumen atau data yang menutup salah satu celah itu, kirim lewat [halaman kontak](/contact.html) dan tulisan ini saya perbarui.
 
