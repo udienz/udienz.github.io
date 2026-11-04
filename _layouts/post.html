@@ -48,7 +48,43 @@ layout: default
           <a rel="noopener" target="_blank" aria-label="Bagikan ke Facebook" title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
           <a rel="noopener" target="_blank" aria-label="Bagikan ke LinkedIn" title="LinkedIn" href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url | url_encode }}"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a>
           <a rel="noopener" target="_blank" aria-label="Bagikan ke WhatsApp" title="WhatsApp" href="https://wa.me/?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
+          <a rel="noopener" target="_blank" aria-label="Bagikan ke Telegram" title="Telegram" href="https://t.me/share/url?url={{ page.url | absolute_url | url_encode }}&text={{ page.title | url_encode }}"><i class="fab fa-telegram" aria-hidden="true"></i></a>
+          <a rel="noopener" target="_blank" aria-label="Bagikan ke Bluesky" title="Bluesky" href="https://bsky.app/intent/compose?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"><i class="fab fa-bluesky" aria-hidden="true"></i></a>
+          <a rel="noopener" target="_blank" aria-label="Bagikan ke Threads" title="Threads" href="https://www.threads.com/intent/post?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"><i class="fab fa-threads" aria-hidden="true"></i></a>
+          <a aria-label="Kirim lewat email" title="Email" href="mailto:?subject={{ page.title | url_encode | replace: '+', '%20' }}&body={{ page.url | absolute_url | url_encode | replace: '+', '%20' }}"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+          <button type="button" class="share-copy" aria-label="Salin tautan" title="Salin tautan" data-url="{{ page.url | absolute_url }}"><i class="fas fa-link" aria-hidden="true"></i></button>
+          <span class="share-copied" role="status" aria-live="polite" hidden></span>
         </div>
+        <script>
+        (function () {
+          var btn = document.querySelector('.share-copy');
+          var note = document.querySelector('.share-copied');
+          if (!btn || !note) { return; }
+          function done(ok) {
+            note.textContent = ok ? 'Tautan disalin' : 'Gagal menyalin, salin dari bilah alamat';
+            note.hidden = false;
+            setTimeout(function () { note.hidden = true; }, 2500);
+          }
+          btn.addEventListener('click', function () {
+            var url = btn.getAttribute('data-url');
+            if (navigator.clipboard && window.isSecureContext) {
+              navigator.clipboard.writeText(url).then(function () { done(true); }, function () { done(false); });
+              return;
+            }
+            var ta = document.createElement('textarea');
+            ta.value = url;
+            ta.setAttribute('readonly', '');
+            ta.style.position = 'absolute';
+            ta.style.left = '-9999px';
+            document.body.appendChild(ta);
+            ta.select();
+            var ok = false;
+            try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
+            document.body.removeChild(ta);
+            done(ok);
+          });
+        })();
+        </script>
         
         <div class="clearfix">
         {% if page.categories.size > 0 %}

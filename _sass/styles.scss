@@ -106,7 +106,7 @@
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    a {
+    a, button {
         display: inline-flex;
         align-items: center;
         justify-content: center;
@@ -118,6 +118,17 @@
         border-radius: 50%;
         font-size: .95rem;
         &:hover { background: $primary; color: #fff; text-decoration: none; }
+    }
+    button {
+        background: transparent;
+        color: $primary;
+        cursor: pointer;
+        line-height: 1;
+        &:focus-visible { outline: 2px solid $primary; outline-offset: 2px; }
+    }
+    .share-copied {
+        font-size: .8rem;
+        color: #6c757d;
     }
 }
 
