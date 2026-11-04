@@ -2,6 +2,7 @@
 layout: post
 title: "Mobil Listrik (1/3): Pengertian dan Jenis-Jenisnya"
 description: "Apa itu mobil listrik dan apa bedanya dengan hybrid: pengertian, BEV, PHEV, HEV, dan FCEV, dengan data penjualan Indonesia 2026."
+image: "/img/mobil-listrik-pengertian-jenis-cara-kerja.jpg"
 date: 2026-11-04 00:00:03
 series: mobil-listrik
 part: 1

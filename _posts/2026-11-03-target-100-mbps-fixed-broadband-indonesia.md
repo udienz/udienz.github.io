@@ -2,6 +2,7 @@
 layout: post
 title: "Target 100 Mbps Fixed Broadband: Kenapa Masih Jauh"
 description: "Target Komdigi 100 Mbps fixed broadband masih jauh: median Ookla 51,4 Mbps, hambatan biaya dan aturan daerah, dan artinya buat paket internet rumahmu."
+image: "/img/target-100-mbps-fixed-broadband.png"
 date: 2026-11-03
 categories:
     - Komputer
@@ -27,7 +28,7 @@ Tulisan ini menjelaskan apa yang sebenarnya ditargetkan, apa yang menghambatnya,
 > - Median Ookla (51,4 Mbps, Agustus 2026) dan hasil ukur Komdigi (51,84 Mbps di 20 kota, 2025) memakai metode berbeda. Jangan dibandingkan langsung.
 > - Hambatan yang disebut pelaku industri dan laporan Komdigi: jangkauan fiber yang belum merata, aturan dan retribusi daerah, harga bahan kabel yang naik, dan harga langganan yang masih tinggi untuk banyak rumah tangga.
 > - Dua paket 100 Mbps berbayar penuh yang dibandingkan Bisnis.com berharga Rp233 ribu dan Rp279 ribu per bulan sebelum pajak pertambahan nilai (PPN), per Januari 2026.
-> - Kecepatan di perangkatmu tetap ditentukan ONT (perangkat fiber di rumah; lihat [arsitektur GPON](/2026/11/03/mengenal-gpon-fungsi-manfaat-arsitektur.html)), WiFi, dan kabel.
+> - Kecepatan di perangkatmu tetap ditentukan ONT (perangkat fiber di rumah), WiFi, dan kabel.
 
 ## Apa sebenarnya yang ditargetkan?
 
@@ -170,7 +171,7 @@ Ketiga, kalau kamu sudah berlangganan 100 Mbps tapi hasilnya jauh lebih rendah, 
 1. **Tes dengan kabel.** Colok laptop langsung ke port LAN ONT (perangkat fiber di rumahmu) atau router dan jalankan tes kecepatan. Kalau angkanya jauh lebih tinggi daripada lewat WiFi, masalahnya ada di WiFi.
 2. **Cek port.** Port Fast Ethernet (100 Mbps) di salah satu perangkat pada jalur itu menjadi batas atas, dan hasil nyatanya biasanya di bawah 100 Mbps. Cari port Gigabit.
 3. **Tes di jam berbeda.** Kalau angkanya turun terus di jam padat, catat waktunya sebagai bahan laporan.
-4. **Lihat redaman optik** di ONT bila kamu bisa mengaksesnya. Konsep dasarnya ada di tulisan saya tentang [arsitektur GPON](/2026/11/03/mengenal-gpon-fungsi-manfaat-arsitektur.html), dan soal konektor ada di [jenis konektor fiber optic](/2026/11/03/jenis-jenis-konektor-fiber-optic.html).
+4. **Lihat redaman optik** di ONT bila kamu bisa mengaksesnya. Konsep dasarnya ada di tulisan saya tentang [arsitektur GPON](/2026/11/03/mengenal-gpon-fungsi-manfaat-arsitektur), dan soal konektor ada di [jenis konektor fiber optic](/2026/11/03/jenis-jenis-konektor-fiber-optic).
 
 Keempat, tidak semua rumah perlu 100 Mbps. Hampir separuh yang tidak berlangganan merasa seluler sudah cukup, dan itu masuk akal untuk penggunaan ringan. Paket yang lebih kencang baru terasa kalau ada beberapa perangkat yang dipakai bersamaan untuk streaming, unggah berkas besar, atau kerja jarak jauh.
 
@@ -181,9 +182,9 @@ Keempat, tidak semua rumah perlu 100 Mbps. Hampir separuh yang tidak berlanggana
 - Angka Ookla langsung dari halaman resminya.
 - Data resmi kecepatan nyata dibanding kecepatan di kontrak, yang memuat paket "hingga". Data terbarunya belum ada di sumber yang dipakai tulisan ini.
 
-Kalau kamu punya dokumen atau data yang menutup salah satu celah itu, kirim lewat [halaman kontak](/contact.html) dan tulisan ini saya perbarui.
+Kalau kamu punya dokumen atau data yang menutup salah satu celah itu, kirim lewat [halaman kontak](/contact) dan tulisan ini saya perbarui.
 
-Saya [Mahyuddin Susanto](/about.html), insinyur jaringan dan infrastruktur dengan pengalaman lebih dari 15 tahun di lingkungan jaringan skala besar dan sistem Linux. Tulisan ini merangkum dokumen dan berita yang disebut di atas, tanpa pengukuran saya sendiri. Kalau ada yang keliru, kabari lewat halaman kontak, dan koreksinya saya cantumkan di tulisan ini lengkap dengan tanggalnya.
+Saya [Mahyuddin Susanto](/about), insinyur jaringan dan infrastruktur dengan pengalaman lebih dari 15 tahun di lingkungan jaringan skala besar dan sistem Linux. Tulisan ini merangkum dokumen dan berita yang disebut di atas, tanpa pengukuran saya sendiri. Kalau ada yang keliru, kabari lewat halaman kontak, dan koreksinya saya cantumkan di tulisan ini lengkap dengan tanggalnya.
 
 ## Sumber
 
