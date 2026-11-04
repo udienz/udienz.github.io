@@ -6,7 +6,8 @@
 
   {% assign page_title = page.title | default: site.title %}
   {% assign page_desc = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 %}
-  {% assign page_img = page.background | default: "/img/bg-index.jpg" | absolute_url %}
+  {% assign page_img = page.image | default: page.background | default: "/img/bg-index.jpg" | absolute_url %}
+  {% assign page_url = page.url | replace:'index.html','' | absolute_url %}
 
   <title>{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }} - {{ site.description | escape }}{% endif %}</title>
 
@@ -18,11 +19,14 @@
   <meta property="og:site_name" content="{{ site.title | escape }}">
   <meta property="og:title" content="{{ page_title | escape }}">
   <meta property="og:description" content="{{ page_desc | escape }}">
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <meta property="og:url" content="{{ page_url }}">
   <meta property="og:image" content="{{ page_img }}">
   <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
   {% if page.layout == 'post' %}<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">{% endif %}
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page_title | escape }}">
+  <meta name="twitter:description" content="{{ page_desc | escape }}">
+  <meta name="twitter:image" content="{{ page_img }}">
   {% if site.twitter_username %}<meta name="twitter:site" content="@{{ site.twitter_username }}">{% endif %}
 
   {% if page.layout == 'post' %}
@@ -31,11 +35,24 @@
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": {{ page.title | jsonify }},
+    "description": {{ page_desc | jsonify }},
     "datePublished": "{{ page.date | date_to_xmlschema }}",
     "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
-    "author": { "@type": "Person", "name": {{ page.author | default: site.author | jsonify }} },
+    "author": { "@type": "Person", "name": {{ page.author | default: site.author | jsonify }}, "url": "{{ '/about' | absolute_url }}" },
+    "publisher": { "@type": "Organization", "name": {{ site.title | jsonify }}, "url": "{{ '/' | absolute_url }}" },
     "image": "{{ page_img }}",
-    "mainEntityOfPage": "{{ page.url | absolute_url }}"
+    "mainEntityOfPage": "{{ page_url }}"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ '/' | absolute_url }}" },
+      { "@type": "ListItem", "position": 2, "name": "Posts", "item": "{{ '/posts/' | absolute_url }}" },
+      { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ page_url }}" }
+    ]
   }
   </script>
   {% endif %}
@@ -47,7 +64,7 @@
   <script defer src="https://use.fontawesome.com/releases/v6.7.2/js/all.js" crossorigin="anonymous"></script>
 
   <link rel="stylesheet" href="{{"/assets/main.css" | relative_url }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="canonical" href="{{ page_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ "/img/apple-touch-icon-144-precomposed.png" | relative_url }}">

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Mobil Listrik (3/3): 10 Model Terlaris dan Cara Memilih"
-description: "10 mobil listrik terlaris di Indonesia 2026 beserta harga, baterai, dan klaim jarak, cara memilih yang tepat, tanya jawab, dan sumber."
+description: "10 mobil listrik terlaris di Indonesia 2026 beserta harga, kapasitas baterai, dan klaim jarak tempuh, plus cara memilih sesuai jarak harian dan akses pengisian."
+image: "/img/mobil-listrik-pengertian-jenis-cara-kerja.jpg"
 date: 2026-11-04 00:00:01
 series: mobil-listrik
 part: 3

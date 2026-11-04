@@ -3,7 +3,7 @@ email:              udienz@gmail.com
 description:        A personal blog, talk about life, and other stuff
 author:             Mahyuddin Susanto
 baseurl:            "/"
-url:                "https://www.udienz.web.id/"
+url:                "https://www.udienz.web.id"
 
 # Social Profiles
 twitter_username:   udienz
@@ -27,6 +27,6 @@ plugins:
   - jekyll-gist
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
-permalink: /:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title
 exclude:
   - README.md

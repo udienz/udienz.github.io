@@ -2,6 +2,7 @@
 layout: post
 title: "Jenis Konektor Fiber Optic: SC, LC, FC, ST, MPO, VSFF"
 description: "Panduan jenis konektor fiber optic untuk teknisi: SC, LC, FC, ST, MPO/MTP, VSFF, beda UPC vs APC, kode warna, insertion loss, dan cara memilihnya."
+image: "/img/jenis-konektor-fiber-optic-ferrule.png"
 date: 2026-11-03
 categories:
     - Komputer
@@ -124,7 +125,7 @@ Langkahnya sederhana: inspeksi dulu dengan scope sebelum mengawinkan konektor, b
 
 Aturan praktisnya: pilih konektor mengikuti port perangkat, lalu pilih polish mengikuti jenis layanan, dan terakhir cocokkan warna dengan jenis serat. Kalau ragu, baca datasheet transceiver atau ODF yang akan dipakai sebelum memesan patch cord.
 
-Konektor APC dipakai di PON/FTTx (lihat bagian UPC vs APC di atas). Untuk melihat posisinya dalam arsitektur jaringan PON, baca [Mengenal GPON](/2026/11/03/mengenal-gpon-fungsi-manfaat-arsitektur.html).
+Konektor APC dipakai di PON/FTTx (lihat bagian UPC vs APC di atas). Untuk melihat posisinya dalam arsitektur jaringan PON, baca [Mengenal GPON](/2026/11/03/mengenal-gpon-fungsi-manfaat-arsitektur). Kondisi internet rumah berbasis fiber di Indonesia saya bahas di [target 100 Mbps fixed broadband](/2026/11/03/target-100-mbps-fixed-broadband-indonesia).
 
 ## Sumber
 
@@ -139,4 +140,4 @@ Hampir semua sumber di bawah adalah dokumentasi vendor atau asosiasi industri (F
 - [Rosenberger OSI, VSFF connector in 400 and 800 Gigabit applications](https://osi.rosenberger.com/us/news-media/blog-vlog/vsff-connector-in-400-and-800-gigabit-applications/)
 - [AMPCOM Tech Lab, MPO/MTP Polarization Types Explained](https://www.ampcom.com/blogs/tech-lab/mpo-mtp-polarization-types-explained-type-a-b-c) (10 Juli 2026, blog vendor)
 
-Penulis: [Mahyuddin Susanto](https://www.udienz.web.id/about.html). Koreksi atau tambahan bisa dikirim lewat [halaman kontak](https://www.udienz.web.id/contact.html).
+Penulis: [Mahyuddin Susanto](/about). Koreksi atau tambahan bisa dikirim lewat [halaman kontak](/contact).
