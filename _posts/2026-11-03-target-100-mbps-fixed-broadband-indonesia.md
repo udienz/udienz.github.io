@@ -148,6 +148,8 @@ Alasan dari sisi calon pelanggan sejalan. Dalam survei APJII 2026, 47,2% yang ti
 
 Pada Januari 2024, Kementerian Kominfo (sekarang Komdigi) pernah menyiapkan standar minimum 100 Mbps untuk fixed broadband. Direktur Jenderal Informasi dan Komunikasi Publik saat itu menyatakan penerapannya sangat tergantung kesiapan industri dan tidak akan dipaksakan kalau industri belum siap ([Bisnis.com, 25 Januari 2024](https://teknologi.bisnis.com/read/20240125/101/1735592/internet-fixed-broadband-100-mbps-kemenkominfo-tergantung-kesiapan-industri)).
 
+Ada satu kewajiban yang mendekati, tapi bukan standar minimum untuk paket rumahan. Pada lelang pita frekuensi 1,4 GHz, Komdigi menyebut pemenang harus menyediakan akses pita lebar nirkabel dengan kecepatan "sampai dengan" 100 Mbps, dengan harga paling tinggi 10% di atas rata-rata konsumsi rumah tangga ([Bisnis.com, 3 Agustus 2025](https://teknologi.bisnis.com/read/20250803/101/1898837/komdigi-ungkap-sederet-kewajiban-pemenang-lelang-14-ghz)). Kewajiban itu berlaku selama masa izin pita frekuensi dan mengikat pemenang lelang, bukan semua penyedia internet.
+
 ## Apa artinya buat kamu di rumah?
 
 Pertama, target rata-rata tidak menjamin apa pun untuk satu rumah. Kamu bisa berada di atas atau di bawah angkanya, tergantung jangkauan ISP di lokasimu, jenis paketnya, dan kondisi jaringan di dalam rumah.
