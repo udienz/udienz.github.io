@@ -16,7 +16,7 @@ tags:
 - ubuntu
 ---
 
-[![jaunty-jackalope-photoshopped-image1](http://udienz.files.wordpress.com/2009/04/jaunty-jackalope-photoshopped-image1.jpg)](http://udienz.files.wordpress.com/2009/04/jaunty-jackalope-photoshopped-image1.jpg)
+_(gambar tidak tersedia: jaunty-jackalope-photoshopped-image1)_
 
 
 <blockquote>_Faster boot speed, enhanced application suite and more visual appeal -- give users more reasons than ever to choose Ubuntu_

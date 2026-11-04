@@ -18,7 +18,7 @@ E-book's ini memunyai format hlp, anda tidak perlu tambahan aplikasi untuk membu
 
 [Sejarah Nabi Muhammad SAW](http://www.geocities.com/mahyuddin_s/muhammad.hlp)
 
-[Sejarah Nabi Muhammad SAW (2nd)](https://udienz.wordpress.com/wp-admin/Sejarah%20Nabi%20Muhammad%20SAW)
+Sejarah Nabi Muhammad SAW (2nd)
 
 [Kisah-kisah para nabi](http://www.geocities.com/mahyuddin_s/kisah-para-nabi.hlp)
 

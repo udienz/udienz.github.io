@@ -58,6 +58,6 @@ Btw, ini bukan merek switch/router lho, ini aseli paket :p
 
 Reboot dan lihat hasilnya, di saya menunjukkan hasil hampir 2x lipat.
 
-[![](http://log.udienz.web.id/wp-content/uploads/2012/05/Screenshot-from-2012-05-31-1501081.png)](http://log.udienz.web.id/wp-content/uploads/2012/05/Screenshot-from-2012-05-31-1501081.png)
+[![](/wp-content/uploads/2012/05/Screenshot-from-2012-05-31-1501081.png)](/wp-content/uploads/2012/05/Screenshot-from-2012-05-31-1501081.png)
 
 Cukup mudah?

@@ -10,7 +10,7 @@ categories:
 - Tak Berkategori
 ---
 
-[![udienz-balnkon_640.jpg](http://udienz.files.wordpress.com/2007/08/udienz-balnkon_640.jpg)](http://udienz.files.wordpress.com/2007/08/udienz-balnkon_640.jpg)
+_(gambar tidak tersedia: udienz-balnkon_640.jpg)_
 
 perkenalkan koordinator [tim dokumentasi](https://launchpad.net/~blankon-doc) [BlankOn](https://launchpad.net/blankon)
 

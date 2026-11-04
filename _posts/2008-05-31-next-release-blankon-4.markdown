@@ -20,6 +20,6 @@ tags:
 
 ![](http://cecunguk.blankonlinux.or.id/~alie/logo/logo-blangkon2.png)
 
-[Blankon](http://cdimage.blankonlinux.or.id/) linux has been released [last month ago](http://udienz.immteknik.org/2008/04/alhamdulillah-we-made-it.html), and code name for next release isÂ `MeuligÃ¶e` this name taken from [Aceh culture](http://sites.google.com/a/bungker.org/meuligoe/Home). but at branch/[launchpad](https://launchpad.net/blankon) (repository) we got `Meuligoe`. why? see this [link](http://groups.google.com/group/BlankOn/msg/e32cbf1bda7b6492%5C).
+[Blankon](http://cdimage.blankonlinux.or.id/) linux has been released [last month ago](/2008/04/27/alhamdulillah-we-made-it), and code name for next release isÂ `MeuligÃ¶e` this name taken from [Aceh culture](http://sites.google.com/a/bungker.org/meuligoe/Home). but at branch/[launchpad](https://launchpad.net/blankon) (repository) we got `Meuligoe`. why? see this [link](http://groups.google.com/group/BlankOn/msg/e32cbf1bda7b6492%5C).
 
 Do you want to participate or just proposed idea for BlankOn Linux Project? click this [link](http://wiki.ubuntu-id.org/BlankOn/Partisipasi).

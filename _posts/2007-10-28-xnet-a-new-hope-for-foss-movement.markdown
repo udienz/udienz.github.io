@@ -19,7 +19,7 @@ tags:
 
 ![](http://bp3.blogger.com/_gvMYE_EOXi8/Rxroa-ao_HI/AAAAAAAAAAU/g6XR3AGonHM/s1600-h/Dewalinux.jpg)
 
-[![blogheader2.jpg](http://udienz.files.wordpress.com/2007/11/blogheader2.jpg)](http://udienz.wordpress.com/2007/10/28/xnet-a-new-hope-for-foss-movement//)
+_(gambar tidak tersedia: blogheader2.jpg)_
 
 harapan?? iya betul sekali...
 

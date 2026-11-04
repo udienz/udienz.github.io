@@ -17,7 +17,7 @@ tags:
 - ubuntu
 ---
 
-Created by: [Mahyuddin Susanto](http://udienz.wordpress.com/2007/05/20/panduan-menginstall-ubuntu/)
+Created by: Mahyuddin Susanto
 
 
 Disini akan di jelaskan secara step by step cara menginstall Ubuntu Edgy. Sebagai catatan harddisk yang digunakan adalah 10Gb (belum di partisi) memory 256MB, Prosesor Intel P4 2.4GHz dan proses penginstallasian ini menggunakan VMware Workstation

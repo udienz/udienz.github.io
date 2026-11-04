@@ -16,7 +16,7 @@ tags:
 - MySelf
 ---
 
-entah apa yang sedang terjadi di hidupku [bulan ini](http://udienz.wordpress.com/2008/03/04/ternyata-aku/), setelah mengalami [cobaan](http://udienz.wordpress.com/2008/03/20/qoute-of-the-day/) yang terjadi [kemarin](http://udienz.wordpress.com/2008/03/20/qoute-of-the-day/), komputerku ikutan [rewel](http://udienz.wordpress.com/2008/03/24/dapet-messages-dari-temen/). ceritanya komputerku tidak bisa di hidupkan. beberapa faktor sudah di analisis sedemikian rupa dan akhirnya di temukan jawaban bahwasanya yang rusak adalah motherboard. motherboardku ini terbilang cukup rakus dalam mengkonsumsi daya. oleh sebab itu akhirnya aku beli lagi Motherboard baru, tentunya harus di upgrading dong :p, dan akhirnya aku putuskan untuk membeli Pentium Dual Core 1.6 MHz dengan Memory 1 GB DDR2 Visipro dan menggunakan motherboard Intel 946 GCNL (ICH7).
+entah apa yang sedang terjadi di hidupku [bulan ini](/2008/03/04/ternyata-aku), setelah mengalami [cobaan](/2008/03/20/qoute-of-the-day) yang terjadi [kemarin](/2008/03/20/qoute-of-the-day), komputerku ikutan [rewel](/2008/03/24/dapet-messages-dari-temen). ceritanya komputerku tidak bisa di hidupkan. beberapa faktor sudah di analisis sedemikian rupa dan akhirnya di temukan jawaban bahwasanya yang rusak adalah motherboard. motherboardku ini terbilang cukup rakus dalam mengkonsumsi daya. oleh sebab itu akhirnya aku beli lagi Motherboard baru, tentunya harus di upgrading dong :p, dan akhirnya aku putuskan untuk membeli Pentium Dual Core 1.6 MHz dengan Memory 1 GB DDR2 Visipro dan menggunakan motherboard Intel 946 GCNL (ICH7).
 
 ![](http://farm3.static.flickr.com/2046/2356844937_482810eec5.jpg)
 
