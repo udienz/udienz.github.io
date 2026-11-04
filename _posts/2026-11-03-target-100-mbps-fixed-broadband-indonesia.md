@@ -146,7 +146,7 @@ Alasan dari sisi calon pelanggan sejalan. Dalam survei APJII 2026, 47,2% yang ti
 
 ### Standar minimum 100 Mbps yang pernah disiapkan
 
-Pada Januari 2024, Kementerian Kominfo (sekarang Komdigi) pernah menyiapkan standar minimum 100 Mbps untuk fixed broadband. Direktur Jenderal Informasi dan Komunikasi Publik saat itu menyatakan penerapannya sangat tergantung kesiapan industri dan tidak akan dipaksakan kalau industri belum siap ([Bisnis.com, 25 Januari 2024](https://teknologi.bisnis.com/read/20240125/101/1735592/internet-fixed-broadband-100-mbps-kemenkominfo-tergantung-kesiapan-industri)). Dalam sumber yang dipakai tulisan ini, belum ada aturan berlaku yang mewajibkan kecepatan minimum atau membatasi klaim "hingga" pada paket rumahan.
+Pada Januari 2024, Kementerian Kominfo (sekarang Komdigi) pernah menyiapkan standar minimum 100 Mbps untuk fixed broadband. Direktur Jenderal Informasi dan Komunikasi Publik saat itu menyatakan penerapannya sangat tergantung kesiapan industri dan tidak akan dipaksakan kalau industri belum siap ([Bisnis.com, 25 Januari 2024](https://teknologi.bisnis.com/read/20240125/101/1735592/internet-fixed-broadband-100-mbps-kemenkominfo-tergantung-kesiapan-industri)).
 
 ## Apa artinya buat kamu di rumah?
 
