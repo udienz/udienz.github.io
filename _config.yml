@@ -19,6 +19,8 @@ google_analytics:   # GA4 measurement ID, e.g. G-XXXXXXXXXX (the old UA- ID no l
 markdown:           kramdown
 kramdown:
   toc_levels:       2..3
+sass:
+  style:            compressed
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
