@@ -7,7 +7,7 @@ categories:
 tags:
  - jekyll
  - ruby
- - wordpress
+ - Wordpress
 ---
 
 Migrasi ke Jekyll

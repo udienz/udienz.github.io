@@ -11,7 +11,7 @@ categories:
 tags:
 - vagrant
 - virtualbox
-- Virtualization
+- virtualization
 ---
 
 Pada saat ini buaya.klas.or.id telah menyediakan box untuk [vagrant](https://www.vagrantup.com/) [0] dengan provider [virtualbox](https://www.virtualbox.org/). Hingga detik ini, beberapa distro yang didukung adalah Centos 5/6/7, Debian 7, OpenSUSE, Ubuntu, Lubuntu dan FreeBSD.
