@@ -9,7 +9,7 @@ categories:
 tags:
     - fiber optic
     - konektor
-    - networking
+    - Networking
     - ftth
     - datacenter
 ---

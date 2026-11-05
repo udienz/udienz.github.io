@@ -19,6 +19,8 @@ google_analytics:   # GA4 measurement ID, e.g. G-XXXXXXXXXX (the old UA- ID no l
 markdown:           kramdown
 kramdown:
   toc_levels:       2..3
+sass:
+  style:            compressed
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
@@ -26,6 +28,13 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-archives
+
+# Halaman /tag/<nama>/ per tag. Tidak ada di daftar plugin GitHub Pages,
+# jadi hanya dibangun di Cloudflare Pages (Jekyll 4).
+jekyll-archives:
+  enabled:
+    - tags
 
 permalink: /:year/:month/:day/:title
 exclude:
