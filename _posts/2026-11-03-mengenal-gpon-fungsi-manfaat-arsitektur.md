@@ -2,6 +2,7 @@
 layout: post
 title: "Mengenal GPON: Fungsi, Manfaat, dan Arsitekturnya"
 description: "Mengenal GPON untuk teknisi: standar ITU-T G.984, arsitektur OLT-ODN-ONT, kecepatan, panjang gelombang, split ratio, cara kerja, dan manfaatnya di FTTH."
+image: "/img/mengenal-gpon-arsitektur.png"
 date: 2026-11-03
 categories:
     - Komputer
@@ -15,7 +16,7 @@ tags:
 
 Kalau kamu pernah melihat kotak kecil berlampu di rumah pelanggan fiber, itu ujung dari sebuah jaringan GPON. Di seberangnya, entah beberapa kilometer jauhnya, ada satu perangkat yang melayani puluhan kotak seperti itu lewat satu serat. Di antaranya hanya ada kaca dan splitter, tanpa listrik.
 
-Tulisan ini membahas apa itu GPON, standar yang mendasarinya, arsitektur dan cara kerjanya, serta apa gunanya dibanding jaringan fiber biasa. Untuk bagian konektor, saya tautkan ke [pembahasan jenis konektor fiber optic](/2026/11/03/jenis-jenis-konektor-fiber-optic.html) yang terbit sebelumnya.
+Tulisan ini membahas apa itu GPON, standar yang mendasarinya, arsitektur dan cara kerjanya, serta apa gunanya dibanding jaringan fiber biasa. Untuk bagian konektor, saya tautkan ke [pembahasan jenis konektor fiber optic](/2026/11/03/jenis-jenis-konektor-fiber-optic) yang terbit sebelumnya.
 
 ![Diagram arsitektur GPON: satu OLT terhubung lewat serat dan splitter pasif ke banyak ONT](/img/mengenal-gpon-arsitektur.png)
 
@@ -106,7 +107,7 @@ Frame downstream berdurasi 125 mikrodetik, menurut Cisco.
 
 ## Fungsi dan manfaat
 
-Fungsi utama GPON adalah menghantarkan broadband lewat fiber sampai ke pelanggan (FTTH). Satu port OLT melayani banyak ONT, jadi satu jaringan distribusi dipakai bersama.
+Fungsi utama GPON adalah menghantarkan broadband lewat fiber sampai ke pelanggan (FTTH). Satu port OLT melayani banyak ONT, jadi satu jaringan distribusi dipakai bersama. Seberapa cepat internet rumah di Indonesia saat ini dibanding target pemerintah saya bahas di [target 100 Mbps fixed broadband](/2026/11/03/target-100-mbps-fixed-broadband-indonesia).
 
 ### GPON dibanding satu serat per pelanggan
 
@@ -125,7 +126,7 @@ Harga dari pembagian itu adalah kapasitas bersama. Sebagai gambaran kasar: satu 
 
 ## Konektor dan pengukuran di lapangan
 
-Konektor di jaringan PON umumnya memakai polish APC (hijau). Alasannya dibahas di artikel konektor: [pembahasan UPC vs APC](/2026/11/03/jenis-jenis-konektor-fiber-optic.html) menjelaskan return loss APC sekitar 60 dB atau lebih dan kenapa APC lazim di PON/FTTx dengan overlay video. Tapi saya tidak menemukan standar yang mewajibkan APC, jadi ini praktik industri.
+Konektor di jaringan PON umumnya memakai polish APC (hijau). Alasannya dibahas di artikel konektor: [pembahasan UPC vs APC](/2026/11/03/jenis-jenis-konektor-fiber-optic) menjelaskan return loss APC sekitar 60 dB atau lebih dan kenapa APC lazim di PON/FTTx dengan overlay video. Tapi saya tidak menemukan standar yang mewajibkan APC, jadi ini praktik industri.
 
 Untuk pengukuran, ada power meter khusus PON yang memeriksa panjang gelombang 1310, 1490, dan 1550 nm secara in-service. Saya hanya menemukan spesifikasi produk vendor untuk ini, jadi cek datasheet alat yang kamu pakai.
 
@@ -160,4 +161,4 @@ Banyak angka detail di atas berasal dari dokumentasi vendor (Cisco, Omada) karen
 - [ITU-T G.989.1](https://www.itu.int/rec/T-REC-G.989.1)
 - [Yokogawa, OTDR for PON testing](https://www.epdtonthenet.net/article/28695/OTDR-for-PON-testing.aspx) (dimuat di EPDT, 13 Oktober 2009)
 
-Penulis: [Mahyuddin Susanto](https://www.udienz.web.id/about.html). Koreksi atau tambahan bisa dikirim lewat [halaman kontak](https://www.udienz.web.id/contact.html).
+Penulis: [Mahyuddin Susanto](/about). Koreksi atau tambahan bisa dikirim lewat [halaman kontak](/contact).

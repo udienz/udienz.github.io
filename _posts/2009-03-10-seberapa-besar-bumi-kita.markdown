@@ -21,13 +21,13 @@ tags:
 
 Sudah lama ga nulis tentang astronomi, baiklah saya mau tanya-tanya, Seberapa besarkah bumiÂ ini? _klik pada gambar bila terlalu kecil_
 
-gambar di bawah adalah perbandingan antara bumi, venus, mars dan planet "kecil" lainya [![size1](http://udienz.files.wordpress.com/2009/03/size1.jpg)](http://udienz.files.wordpress.com/2009/03/size1.jpg)
+gambar di bawah adalah perbandingan antara bumi, venus, mars dan planet "kecil" lainya _(gambar tidak tersedia: size1)_
 
 gambar selanjutnya adalah pebandingan bumi di antara teman-temanya (termasuk matahari)
-[![size3](http://udienz.files.wordpress.com/2009/03/size3.jpg)](http://udienz.files.wordpress.com/2009/03/size3.jpg)
+_(gambar tidak tersedia: size3)_
 
 Besar sekali matahari! namun belum seberapa bila di bandingkan dengan bintang lainya di tata surya
-[![size5](http://udienz.files.wordpress.com/2009/03/size5.jpg)](http://udienz.files.wordpress.com/2009/03/size5.jpg)
+_(gambar tidak tersedia: size5)_
 
 Jadi seberapa "besar" bumi kita?, baiklah jika itu terlalu arogant, pertanyaan akan saya ubah menjadi "seberapa besar manusia?"
 Bila manusia hanyalah setitik di bumi, maka seberapa "kecil" nya di tata surya?

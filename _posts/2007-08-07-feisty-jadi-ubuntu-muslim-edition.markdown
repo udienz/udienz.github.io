@@ -617,6 +617,6 @@ Alhamdulillah, dah jadi.... Gampang kan
 
 ni hasilnya:
 
-[![ubuntu-mepng.png](http://udienz.files.wordpress.com/2007/08/ubuntu-mepng.png)](http://udienz.files.wordpress.com/2007/08/ubuntu-mepng.png)
+_(gambar tidak tersedia: ubuntu-mepng.png)_
 
 Wassalam

@@ -14,15 +14,15 @@ tags:
 
 Setelah [mendengar kabar](http://okto.silaban.net/2008/02/linux/drupal-60-telah-tersedia/) bahwa [drupal telah di rilis](http://drupal.org/drupal-6.0) akhirnya aku langsung ngacir untuk [mendownloadnya,](http://ftp.osuosl.org/pub/drupal/files/projects/drupal-6.0.tar.gz) maklum saya adalah penggemar berat drupal. kitalihat bersama-sama drupal 6.0 yuk
 
-[![1.png](http://udienz.files.wordpress.com/2008/02/1.thumbnail.png)](http://udienz.wordpress.com/2008/02/19/nyoba-drupal60/295/)
+_(gambar tidak tersedia: 1.png)_
 
 kalo yang diatas tuh gambar administrasi, kalo yang ini gambar
 
-[![screenshot-1.png](http://udienz.files.wordpress.com/2008/02/screenshot-1.thumbnail.png)](http://udienz.files.wordpress.com/2008/02/screenshot-1.png)
+_(gambar tidak tersedia: screenshot-1.png)_
 
 fitur yang menarik karena dapat mengatur tataletak konten dengan hanya drag n drop. dan yang ini adalah
 
-[![screenshot.png](http://udienz.files.wordpress.com/2008/02/screenshot.thumbnail.png)](http://udienz.files.wordpress.com/2008/02/screenshot.png)
+_(gambar tidak tersedia: screenshot.png)_
 
 halaman report sistem, lumayan banyak yang di informasikan
 

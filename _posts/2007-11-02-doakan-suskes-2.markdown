@@ -23,5 +23,5 @@ doakan sukses ya!!!!
 
 [![](http://bp0.blogger.com/_gvMYE_EOXi8/Ryp4JeBvmYI/AAAAAAAAACQ/VBBFTMEL8kQ/s320/CD_ubuntu_GutsyGibbon.jpg)](http://bp0.blogger.com/_gvMYE_EOXi8/Ryp4JeBvmYI/AAAAAAAAACQ/VBBFTMEL8kQ/s1600-h/CD_ubuntu_GutsyGibbon.jpg)
 
-ni file presentasi nya ["presentasi GRP"
-](http://udienz.files.wordpress.com/2007/11/presentasi.ppt)
+ni file presentasi nya "presentasi GRP"
+

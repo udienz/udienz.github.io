@@ -23,7 +23,7 @@ tags:
 
 ![](http://farm3.static.flickr.com/2085/2470769958_064eb6e4c6_o.png)
 
-silakan download updatenya di sini [browsersniff update](http://udienz.files.wordpress.com/2008/05/browsersniff.doc) jangan lupa rename nama file tersebut dari browsersniff.doc menjadi browsersniff.zip :D (tanya kenapa?). file tersebut sudah termasuk gambar logo dari distro yang bersangkutan
+silakan download updatenya di sini browsersniff update jangan lupa rename nama file tersebut dari browsersniff.doc menjadi browsersniff.zip :D (tanya kenapa?). file tersebut sudah termasuk gambar logo dari distro yang bersangkutan
 
 yng di update antara lain
 

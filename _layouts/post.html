@@ -105,7 +105,9 @@ layout: default
         
         <div class="clearfix">
         {% if page.categories.size > 0 %}
-        {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" | where_exp: "post", "post.series == nil or post.series != page.series" | where_exp: "post", "post.categories contains page.categories.first" %}
+        {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" | where_exp: "post", "post.categories contains page.categories.first" %}
+        {% comment %}Jekyll 3 (GitHub Pages) does not support "or" in where_exp, so filter the series separately{% endcomment %}
+        {% if page.series %}{% assign related_posts = related_posts | where_exp: "post", "post.series != page.series" %}{% endif %}
         {% endif %}
         {% if related_posts.size > 0 %}
         <section class="related" aria-labelledby="related-title">

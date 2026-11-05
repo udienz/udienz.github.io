@@ -13,7 +13,7 @@ tags:
 - ubuntu
 ---
 
-Menyambung [tulisan sebelumnya tentang debian](http://blog.udienz.web.id/2013/01/24/which-debian-repository-should-i-choose.html), kita lanjut mbahas Ubuntu.
+Menyambung [tulisan sebelumnya tentang debian](/2013/01/24/which-debian-repository-should-i-choose), kita lanjut mbahas Ubuntu.
 
 Di Ubuntu juga bisa di sesuaikan, asalkan repository tersebut terdaftar di Launchpad, maka sangat mungkin kita diarahkan ke server indonesia. Untuk pengaturanya bisa dengan mengubah sources.listnya dengan isian seperti berikut:
 

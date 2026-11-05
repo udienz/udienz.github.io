@@ -17,7 +17,7 @@ tags:
 
 Menghidupkan mirror bersejarah yang sempat tidur...
 
-Setelah menghidupkan [mirror.unej.ac.id](http://log.udienz.web.id/2013/01/20/menghidupkan-kembali-mirror-unej-ac-id.html), kali ini saya punya kesempatan untuk menghidupkan kembali server [buaya](http://buaya.klas.or.id)Â yang sempat down karena bermasalah pada harddisknya. Saat ini, server ini memiliki harrdisk 3TB dan sudah menyediakan layanan www/ftp dan rsync untuk menyebarkan konten di dalamnya.Â Buaya mempunyai bandwidth total 100mbps, hal ini dikarenakan ethernet satu gigabitnya rusak :(.
+Setelah menghidupkan [mirror.unej.ac.id](/2013/01/20/menghidupkan-kembali-mirror-unej-ac-id), kali ini saya punya kesempatan untuk menghidupkan kembali server [buaya](http://buaya.klas.or.id)Â yang sempat down karena bermasalah pada harddisknya. Saat ini, server ini memiliki harrdisk 3TB dan sudah menyediakan layanan www/ftp dan rsync untuk menyebarkan konten di dalamnya.Â Buaya mempunyai bandwidth total 100mbps, hal ini dikarenakan ethernet satu gigabitnya rusak :(.
 
 Server buaya juga membuka donasi untuk publik yang dapat dialamatkan ke [sini](https://www.facebook.com/groups/KLAS.Activity/permalink/10151451313403500/?comment_id=10151462059943500&offset=0&total_comments=60). Ingin tau dalaman buaya? cek link pada gambar dibawah ini:
 

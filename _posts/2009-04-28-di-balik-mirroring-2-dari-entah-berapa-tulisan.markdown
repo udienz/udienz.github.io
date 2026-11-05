@@ -28,7 +28,7 @@ Setelah Ubuntu Juanty di rilis, mirror.unej.ac.id mengalami beban yang sangat be
 
 jika mencapai angka 450 maka sudah penuh slot yang di sediakan, nah ini bukan hanya berlangsung satu atau dua jam lho, tapi seharian! nah bagaimana solusinya? ya akhirnya apache di ganti dengan nginx. alhamdulillah nginx selama ini sukses menerima request yang padat. dan alhamdulillah pula akhirnya funsi dari server kedua mirror sudah bisa di nyalakan, fungsinya kali ini untuk menghandle semua request rsync, jadi jika ada request rsync akan di alihkankan ke server kedua mirror.Â  mari kita lihat trafficnya
 
-.[![screenshot-1](http://udienz.files.wordpress.com/2009/04/screenshot-1.png)](http://udienz.files.wordpress.com/2009/04/screenshot-1.png)
+._(gambar tidak tersedia: screenshot-1)_
 
 kalau di lihat2 kenaikan pada saat hari jum'at, atau pas rilis ubuntu dan sempat crashnya yaitu ahad dinihari. dan hari ahad pula di ganti menjadi nginx
 

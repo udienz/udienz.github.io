@@ -20,11 +20,11 @@ tags:
 [mode romatis ON]
 Masih ingatkah kau akan janji Ku padamu
 
-Masih ingatkah kau akan [komitmen](http://udienz.wordpress.com/2007/10/24/tau-nggak/#comment-3711) Ku padamu
+Masih ingatkah kau akan [komitmen](/2007/10/24/tau-nggak) Ku padamu
 
-Masih ingatkah kau akan [kasih sayang](http://udienz.wordpress.com/2007/10/24/tau-nggak/) Ku padamu
+Masih ingatkah kau akan [kasih sayang](/2007/10/24/tau-nggak) Ku padamu
 
-Masih ingatkah kau [akan rasa cinta](http://udienz.wordpress.com/2008/02/13/kutemukan-dirimu/) Ku padamu
+Masih ingatkah kau [akan rasa cinta](/2008/02/13/kutemukan-dirimu) Ku padamu
 
 masihkah ada kata sayangmu pada Ku?
 
@@ -36,19 +36,19 @@ masihkah adakah rasa cintamu pada Ku?
 
 Sayang..
 
-entah dengan apalagi aku [ungkapkan rasa](http://udienz.wordpress.com/2007/12/01/walah-walah/) di dada ku ini
+entah dengan apalagi aku [ungkapkan rasa](/2007/12/01/walah-walah) di dada ku ini
 
 entah dengan apalagi aku ungkapkan cintaku ini padamu
 
-entah dengan apalagi [aku ungkapkan](http://udienz.wordpress.com/2007/10/24/karena-cinta/) setiaku padamu
+entah dengan apalagi [aku ungkapkan](/2007/10/24/karena-cinta) setiaku padamu
 
 Hanya rasa rinduku ini
 
-hanya rasa [sayangku](http://udienz.wordpress.com/2008/01/18/2-vs-1-one-isnt-one/) ini
+hanya rasa [sayangku](/2008/01/18/2-vs-1-one-isnt-one) ini
 
 hanya rasa cintaku ini
 
-yang akan [ku pelihara](http://udienz.wordpress.com/2008/02/19/petuah-hamka/) hingga ujung waktu
+yang akan [ku pelihara](/2008/02/19/petuah-hamka) hingga ujung waktu
 
 Midnight 26-05-2006
 [mode romatis OFF]

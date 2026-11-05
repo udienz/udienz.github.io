@@ -2,6 +2,7 @@
 layout: post
 title: "Mobil Listrik (2/3): Cara Kerja, Pengisian Daya, dan Harga"
 description: "Cara kerja mobil listrik dari colokan sampai roda, baterai, pengisian AC dan DC, biaya di rumah dan SPKLU, serta kenapa harganya berubah-ubah."
+image: "/img/mobil-listrik-pengertian-jenis-cara-kerja.jpg"
 date: 2026-11-04 00:00:02
 series: mobil-listrik
 part: 2

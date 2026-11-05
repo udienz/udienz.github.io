@@ -17,12 +17,12 @@ tags:
 kemarin saya pulang ke kampung halaman tercinta salah satunya adalah ngisi acara SLC 2009 di UNS. Di Solo saya tidak lama-lama just 4 days ajah. silakan lihat photonya
 
 
-![n549849792_1156514_9386](http://udienz.files.wordpress.com/2009/01/n549849792_1156514_9386.jpg)
+_(gambar tidak tersedia: n549849792_1156514_9386)_
 
 
 
 
-![n1561738105_1664449_907](http://udienz.files.wordpress.com/2009/01/n1561738105_1664449_907.jpg)
+_(gambar tidak tersedia: n1561738105_1664449_907)_
 
 
 

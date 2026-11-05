@@ -31,19 +31,19 @@ memakai prosesor intel pentium 3 800 MHz, memory cuman 96MB, Harddisk 120GB.  di
 
 
 	
-  1. [DNS Server](http://udienz.wordpress.com/2007/09/28/membuat-dns-server-lokal/)
+  1. [DNS Server](/2007/09/28/membuat-dns-server-lokal)
 
 	
-  2. [DHCP Server](http://udienz.wordpress.com/2007/01/20/contoh-pengaturan-dhcp-server/)
+  2. [DHCP Server](/2007/01/21/contoh-pengaturan-dhcp-server)
 
 	
-  3. [Samba Server](http://udienz.wordpress.com/2007/05/14/tutorial-samba/)
+  3. [Samba Server](/2007/05/14/tutorial-samba)
 
 	
   4. Mail Server
 
 	
-  5. [Web Server](http://udienz.wordpress.com/2007/09/28/apache-server-dengan-module-openssl/)
+  5. [Web Server](/2007/09/28/apache-server-dengan-module-openssl)
 
 
 cukup mekso sihâ€¦.
@@ -52,4 +52,4 @@ cukup mekso sihâ€¦.
 
 ![](http://farm3.static.flickr.com/2293/2357662252_a56a43d4f7.jpg)
 
-server ini digunakan sebagai simulai Internet di Kost kami (Sekret IMM Teknik),  dan juga berguna sebagai [file server](http://udienz.wordpress.com/2007/05/14/tutorial-samba/) untuk menyimpan data-data kami.
+server ini digunakan sebagai simulai Internet di Kost kami (Sekret IMM Teknik),  dan juga berguna sebagai [file server](/2007/05/14/tutorial-samba) untuk menyimpan data-data kami.

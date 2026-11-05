@@ -16,7 +16,7 @@ tags:
 - unej
 ---
 
-setelah [diluncurkan kemarin](http://udienz.immteknik.org/2008/09/server-repository-baru-di-indonesia.html) akhirnya [mirror.unej.ac.id](http://mirror.unej.ac.id) suah dilengkapi dengan fasilitas [rsync](http://packages.ubuntu.com/hardy/rsync), namun hanya pengguna yang terdaftar saja yang boleh mengakses karena kami sebagai pihak admin ingin memberikan pelayanan yang memuaskan :D. dan PR selanjutnya adalah pengediaan FTP bagi [mirror.unej.ac.id](http://mirror.unej.ac.id) doakan lancar yah!
+setelah [diluncurkan kemarin](/2008/09/19/server-repository-baru-di-indonesia) akhirnya [mirror.unej.ac.id](http://mirror.unej.ac.id) suah dilengkapi dengan fasilitas [rsync](http://packages.ubuntu.com/hardy/rsync), namun hanya pengguna yang terdaftar saja yang boleh mengakses karena kami sebagai pihak admin ingin memberikan pelayanan yang memuaskan :D. dan PR selanjutnya adalah pengediaan FTP bagi [mirror.unej.ac.id](http://mirror.unej.ac.id) doakan lancar yah!
 
 mari kita coba:
 

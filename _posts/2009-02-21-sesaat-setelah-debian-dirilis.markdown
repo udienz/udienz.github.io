@@ -16,9 +16,9 @@ tags:
 - webalizer
 ---
 
-Sesaaat setelah [debian lenny dirilis](http://blog.udienz.net/2009/02/lenny-di-rilis.html), traffic ke [mirror](http://mirror.unej.ac.id) naik drastis. hm... mungkin pada jalain upgrade yah?
+Sesaaat setelah [debian lenny dirilis](/2009/02/16/lenny-di-rilis), traffic ke [mirror](http://mirror.unej.ac.id) naik drastis. hm... mungkin pada jalain upgrade yah?
 
-[![screenshot1](http://udienz.files.wordpress.com/2009/02/screenshot1.png)](http://udienz.files.wordpress.com/2009/02/screenshot1.png)
+_(gambar tidak tersedia: screenshot1)_
 
 Catatan:
 
