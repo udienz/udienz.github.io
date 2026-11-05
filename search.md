@@ -59,7 +59,7 @@ permalink: /search/
     hits.slice(0, 50).forEach(function (h) {
       var d = docs[h.ref];
       var li = document.createElement('li');
-      li.className = 'list-group-item px-0';
+      li.className = 'list-group-item px-0 text-break';
       li.innerHTML =
         '<div class="d-flex justify-content-between align-items-start">' +
         '<a href="' + esc(d.url) + '">' + highlight(esc(d.title), terms) + '</a>' +
