@@ -53,7 +53,7 @@ layout: default
         {% if page.tags.size > 0 or page.categories.size > 0 %}
         <p class="post-tags">
           {% for c in page.categories %}<a class="badge badge-primary" href="{{ '/categories/' | relative_url }}#{{ c | slugify }}">{{ c }}</a> {% endfor %}
-          {% for tg in page.tags %}<span class="badge badge-light">#{{ tg }}</span> {% endfor %}
+          {% for tg in page.tags %}<a class="badge badge-light" href="{{ tg | slugify | prepend: '/tag/' | append: '/' | relative_url }}">#{{ tg }}</a> {% endfor %}
         </p>
         {% endif %}
 
