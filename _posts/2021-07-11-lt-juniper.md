@@ -59,6 +59,8 @@ Kita akan membuat simulai bagaimana main router berkomunikasi dengan logical sys
 kalau di Linux bisa dikatakan sebuat vitual Router, yang ebrdiri sendiri dan mempunyai
 tabel routing yang berbeda dari master
 
+<!--more-->
+
 Hal yang perlu diperhattikan,
  - Kita akam membuat ip /30 untuk berkomunikasi. Kita akan menggunakan 5.0.255.0/30
  - Kita akan menggunakan 2403:5:1:255::255:0/127 untuk ipv6 nya

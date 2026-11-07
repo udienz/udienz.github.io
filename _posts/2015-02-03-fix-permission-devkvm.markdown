@@ -27,6 +27,8 @@ Problem ini sangat umum ketika kita memasang qemu-kvm, contohnya ketika akan mel
 
 Atau error seperti berikut
 
+<!--more-->
+
 
     
     2015 /02/03 18:33:37 packer-builder-qemu: 2015/02/03 18:33:37 Qemu stderr: Could not access KVM kernel module: Permission denied

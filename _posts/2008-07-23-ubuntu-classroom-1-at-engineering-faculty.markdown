@@ -24,6 +24,8 @@ We studied dual boot installation and make connection to repositories server. Th
 
 Next meeting in engineering faculty at 27th July 2008 at 7pm and will dicussing about installation and basic terminal
 
+<!--more-->
+
 [![DSC00060](http://farm4.static.flickr.com/3015/2695599663_9bb1eebf6b.jpg)](http://www.flickr.com/photos/udienz/2695599663/)
 
 hey lookâ€™s at the picture! he is [ashadebi](http://blog.sapisuper.org/)

@@ -27,6 +27,8 @@ saya kira kita terlalu munafik bila kita selalu berkata kita **anti zionis**, **
 
 sekedar pengenalan, Linux memang buatan Linus Trovald namun dia secara ikhlas membolehkan semua orang mengutak-atik kernel miliknya. bandingkan dengan *icrosoft??? kita di bombardir dengan alasan security, padahal setiap orang berhak mngetahui apa yang harus ia lindungi!!
 
+<!--more-->
+
 **Saran**
 
 Gunakan linux jika anda benar-benar pengen lepas dari Israel/Amrik.

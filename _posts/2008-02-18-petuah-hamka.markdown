@@ -31,6 +31,8 @@ dan ini
 HAMKA, Haji Abdul Malik Karim Amrullah
 Kiyai favorit saya
 
+<!--more-->
+
 kemudian teman saya menambahkan
 
 

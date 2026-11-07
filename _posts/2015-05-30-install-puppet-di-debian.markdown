@@ -32,6 +32,8 @@ Contoh lain, puppet dapat melakukan manajemen user, sebuah perusahaan mempunyai 
 Pada tulisan kali ini, saya menggunakan Debian Jessie di Virtualbox, saya asumsikan bahwasanya Debian telah terpasang di Virtualbox. Domain yang akan saya pakai adalah puppet.id
 Note: Untuk mengakali proses dns resolving, kita dapat mengakali nya di berkas /etc/hosts. Berikut adalah isi dari /etc/hosts pada master:
 
+<!--more-->
+
 ```
 127.0.0.1       localhost
 127.0.1.1       puppet master puppet.puppet.id master.puppet.id

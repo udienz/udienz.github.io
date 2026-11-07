@@ -25,6 +25,8 @@ yak sekarang dah ada di repository resmi BlankOn, silahkan di ujicoba. gimana ca
 
 nah silahkan cari bug yang ada di blankon-tweak dan silahkan laporkan ke developer blankon bila ada bug :D. oh iyah, bila ingin melakukan tweak sendiri silahkan sangat terbuka untuk umum kok, hehehe. caranya?
 
+<!--more-->
+
     
     $ dget http://arsip.blankonlinux.or.id/blankon/pool/main/b/blankon-tweak/blankon-tweak_0.4.5-7.dsc
     $ tar -xzvf blankon-tweak_0.4.5-7.tar.gz

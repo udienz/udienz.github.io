@@ -33,6 +33,8 @@ terima kasih a.k.a thank's a lot to [ubuntued](http://www.ubuntued.com/?page_id=
 
 theme ini juga di pakai oleh
 
+<!--more-->
+
 1. [Dr Small's Blog](http://php.8ez.com/drsmall/blog/?page_id=2)
 
 2. [Deidas](http://blog.gohost.de/?page_id=16)

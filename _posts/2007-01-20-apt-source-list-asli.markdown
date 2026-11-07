@@ -54,6 +54,8 @@ celakanya kita bingung untuk kembali ke daftar repository asli, nah ini adalah r
 
 lha itukan reponya server luar negeri, kalo dalam negeri???
 
+<!--more-->
+
 gampang, cukup ganti aja  semua yang berbau id.archive.ubuntu.com/ubuntu seperti....
 
 deb http://id.archive.ubuntu.com/ubuntu/ edgy-backports main restricted universe multiverse

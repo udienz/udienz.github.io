@@ -36,4 +36,6 @@ Pernah tau [nice](http://mikrotik.co.id/getfile.php?nf=nice.rsc)? sangat berguna
 
 Selanjutnya silakan unduh di mikrotik anda dan pada prinsipnya penerapannya hampir sama dengan petunjuk yang ada di [situs mikrotik](http://mikrotik.co.id/artikel_lihat.php?id=23).
 
+<!--more-->
+
 Silakan mencoba!

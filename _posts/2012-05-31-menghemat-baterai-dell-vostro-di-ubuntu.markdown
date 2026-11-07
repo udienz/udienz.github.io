@@ -29,6 +29,8 @@ Saya sebenarnya kurang paham kenapa hal ini terjadi, di rilis 12.04 ini memang t
 
 Silakan buka berkas /etc/default/grub, kemudian pada baris GRUB_CMDLINE_LINUX_DEFAULT, buat seperti dibawah ini:
 
+<!--more-->
+
     
     GRUB_CMDLINE_LINUX_DEFAULT="quiet pcie_aspm=force i915.i915_enable_rc6=1 i915.i915_enable_fbc=1"
 

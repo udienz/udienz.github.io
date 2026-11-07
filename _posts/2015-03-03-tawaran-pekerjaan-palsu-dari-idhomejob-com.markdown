@@ -32,6 +32,8 @@ Tipikan dari spam ini adalah:
 
 Contoh:
 
+<!--more-->
+
 
     
     From: saya

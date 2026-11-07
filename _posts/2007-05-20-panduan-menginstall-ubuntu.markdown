@@ -26,6 +26,8 @@ Disini akan di jelaskan secara step by step cara menginstall Ubuntu Edgy. Sebaga
 
 Sebelum meng-install Ubuntu pada BIOS harus di set Boot Device Priority-nya dulu, dalam menginstall Ubuntu Boot Device Priority harus di arahkan ke CDROM. Untuk masuk ke BIOS tiap Motherboard mempunyai standart sendiri. Namun sebagian besar tinggal menekan tombol **delete** atau **F2. **Ketika membooting pertama kali tekan F2 atau del untuk masuk BIOS, anda harus menekan nya dengan cepat, sebab bila tidak komputer akan masuk ke OS di hardisk. Apabila anda â€œlebih cepatâ€ dari loading komputer anda maka tampilanya akan muncul sebagai berikut:
 
+<!--more-->
+
 
 ![1](http://www.geocities.com/mahyuddin_s/panduan_files/image002.jpg)
 

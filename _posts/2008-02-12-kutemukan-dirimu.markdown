@@ -23,6 +23,8 @@ tak kusangkal, tak ku ingkari
 
 buku yang bagus  untuk jiwa yang mencari jawaban (like me?)
 
+<!--more-->
+
 gambar asli:
 
 http://goenprast.blogs.friendster.com/goen/images/kutemukan_engkau.jpg

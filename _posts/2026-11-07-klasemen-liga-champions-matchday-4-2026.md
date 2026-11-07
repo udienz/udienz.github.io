@@ -52,6 +52,8 @@ Delapan belas laga dimainkan dalam dua malam. Skor di bawah mengikuti daftar res
 
 Tim tamu memenangi sembilan dari delapan belas laga, tuan rumah delapan. Hanya satu pertandingan yang berakhir seri, yaitu Bodø/Glimt melawan Lille.
 
+<!--more-->
+
 ## Detail pertandingan
 
 Jam ditulis dalam WIB dengan waktu Eropa Tengah (CET) di dalam kurung, sehingga laga Selasa malam di Eropa jatuh pada Rabu dini hari di Indonesia. Pencetak gol, menit, dan kartu merah mengikuti papan skor [ESPN untuk 3 November](https://www.espn.com/soccer/scoreboard/_/date/20261103/league/uefa.champions) dan [4 November](https://www.espn.com/soccer/scoreboard/_/date/20261104/league/uefa.champions), sedangkan kartu kuning mengikuti halaman susunan pemain Sky Sports untuk tiap laga. Tanda ⚽ menandai gol, 🟨 kartu kuning, dan 🟥 kartu merah.

@@ -21,6 +21,8 @@ ini adalah link kumpulan e-Book, Artikel tentang Ubuntu
 
 [Prentice Hall PTR - The Official Ubuntu Book Aug 2006 (chm)](http://www.divshare.com/download/454813-e7b)
 
+<!--more-->
+
 [Ubuntu Desktop Guide (pdf)](http://www.divshare.com/download/454816-253)
 
 [Ubuntu Server Guide (pdf) ](http://www.divshare.com/download/454815-18e)

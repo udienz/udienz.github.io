@@ -25,6 +25,8 @@ Setelah dapet kiriman DVD Repo dari NinthOcean akhirnya aku cek terminalku denga
     
     udienz@local:~$
 
+<!--more-->
+
 
 dan... eh sudah berubah..... namun sayang ada beberapa file yang hilang di DVD ini antara lain:
 

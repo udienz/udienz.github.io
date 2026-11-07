@@ -29,6 +29,8 @@ downloadnya [disini](http://www.deviantart.com/download/18591720/ClearLooks_2_2.
 
 ni ada lagi
 
+<!--more-->
+
 ![](http://tn3-2.deviantart.com/fs11/300W/i/2006/232/9/5/Human_for_Windows_by_FioreSSj.jpg)
 
 downloadnya [disini](http://www.deviantart.com/download/37743373/Human.zip)

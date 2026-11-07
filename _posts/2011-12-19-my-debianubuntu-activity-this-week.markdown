@@ -38,6 +38,8 @@ Here is my Debian activity:
 
 And here is my Ubuntu activity:
 
+<!--more-->
+
 	
   1. <del>[905662](https://launchpad.net/bugs/905662)</del>, Merge dasher 4.11-1.1 (universe) from Debian testing (main)
 

@@ -41,6 +41,8 @@ Beberapa perubahan lain adalah dirilisnya arsitektur [arm64](http://www.arm.com/
 
 Untuk mengupgrade Ubuntu dari sistem 13.04 kita dapat melakukanya dengan cara:
 
+<!--more-->
+
 
 
 	

@@ -23,6 +23,8 @@ versi tidak salah tercampur. Hal ini mirip dengan python virtual environment.
 
 Berikut adalah langkah-langkah cara pemasangan RVM di Ubuntu.
 
+<!--more-->
+
 ## Persiapan
 
 ### Pengaturan repository

@@ -36,6 +36,8 @@ logikanya adalah.. sebagai berikut jika ada dua hardisk normalnya gambaranya ada
         +- file3          |
                           +- file6
 
+<!--more-->
+
 
 jika menggunakan mhddfs maka hasilnya adalah..
 

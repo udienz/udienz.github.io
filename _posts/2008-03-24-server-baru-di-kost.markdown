@@ -48,6 +48,8 @@ memakai prosesor intel pentium 3 800 MHz, memory cuman 96MB, Harddisk 120GB.  di
 
 cukup mekso sihâ€¦.
 
+<!--more-->
+
 ![](http://farm3.static.flickr.com/2264/2357662250_05e4ef5973.jpg)
 
 ![](http://farm3.static.flickr.com/2293/2357662252_a56a43d4f7.jpg)

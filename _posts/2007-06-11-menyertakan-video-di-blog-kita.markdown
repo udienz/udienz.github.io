@@ -25,6 +25,8 @@ Media streaming sekarang ni dah banyak bin menjamur di dunia maya ini, tak hanya
 
 oke saya akan menampilkan videonya slank di Empat mata mas Thukul arwana
 
+<!--more-->
+
 pertama coba anda buka [_youtube.com_](http://www.youtube.com) dan cari video slank (apapun boleh saja sih) trus buat posting baru di wordpress.
 
 oke balik lagi di _youtube.com_.... kalo dah selesai milih video favorit kamu lihat box di sebelah kiri yang judulnya embed, blok dan kopi semua yang ada di kotak itu dan paste di notepad.

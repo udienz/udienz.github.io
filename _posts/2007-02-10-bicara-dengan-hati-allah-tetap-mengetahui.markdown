@@ -31,6 +31,8 @@ Rasulullah bergegas menuju ke rumah sahabatnya itu. Sebab, ia seorang mukmin yan
 Katakanlah illallah," desak Nabi. Masih juga orang itu memandang kosong.
 "Katakanlah Allah," Nabi berbisik kembali. Orang itu tetap bengong. Lalu, menghembuskan napas penghabisan. 
 
+<!--more-->
+
 
 Para sahabat menjerit kecil. Mereka sangat sedih menyaksikan rekan setia itu mengakhiri hidup di dunianya tanpa mampu melafalkan kalimat tauhid. Namun, anehnya Nabi malah tersenyum ceria dan wajahnya bersinar cerah. Tentu saja para sahabat keheranan. Di antara mereka, ada yang tidak tahan untuk segera melontarkan pertanyaan.
 

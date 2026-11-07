@@ -24,6 +24,8 @@ Kemudian silakan [install puppet yang sudah saya jabarkan di blog ini](https://b
     
     root@server: ~# puppet module install jfryman-nginx
 
+<!--more-->
+
 
 
 Dengan asumsi hanya menggunakan satu server (tidak menggunakan node definition ataupun class dan module) maka silakan sunting berkas /etc/puppet/manifests/site.pp. Dan isikan seperti berikut:

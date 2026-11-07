@@ -29,6 +29,8 @@ Beberapa fitur yang di tawarkan dalam versi terbaru ini antara lain:
 
 Berikut adalah ScreenShootnya
 
+<!--more-->
+
 <!-- more -->
 
 ![](http://bp0.blogger.com/_gvMYE_EOXi8/R3JHLMP0R1I/AAAAAAAAAD0/cqRsYct5PBs/s1600/blue.png)

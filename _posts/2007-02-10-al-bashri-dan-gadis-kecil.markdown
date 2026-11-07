@@ -31,6 +31,8 @@ Di antara tangisan gadis itu terdengar kata-kata yang menggambarkan kesedihan ha
 "Ayah, baru kali ini aku mengalami peristiwa seperti ini."
 Hasan al-Bashri menyahut ucapan sang gadis kecil, "Ayahmu juga sebelumnya tak mengalami peristiwa seperti ini."
 
+<!--more-->
+
 
 Keesokan harinya, usai salat subuh, ketika matahari menampakkan dirinya di ufuk timur, sebagaimana biasanya Al-Bashri duduk di teras rumahnya. Sejurus kemudian, gadis kecil kemarin melintas ke arah makan ayahnya. "Gadis kecil yang bijak," gumam Al-Bashri. "Aku akan ikuti gadis kecil itu."
 

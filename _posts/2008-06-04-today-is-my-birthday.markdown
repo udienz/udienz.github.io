@@ -21,6 +21,8 @@ Many thanks to Allah SWT, Muhammad SAW, My (lovely) Parents, all my friends, my�
 
 _(gambar tidak tersedia: My Happy Birthday shirt from InterMilan)_
 
+<!--more-->
+
 hehehehe, dapet langsung dari [InterMilan](http://inter.it)
 
 Â 

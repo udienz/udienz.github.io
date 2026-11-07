@@ -26,6 +26,8 @@ deb-src mirror://mirrors.ubuntu.com/mirrors.txt precise-backports main restricte
 deb mirror://mirrors.ubuntu.com/mirrors.txt precise-security main restricted universe multiverse
 deb-src mirror://mirrors.ubuntu.com/mirrors.txt precise-updates main restricted universe multiverse[/sourcecode]
 
+<!--more-->
+
 Dan lakukan update
 
 [sourcecode language="plain"]$ sudo apt-get update

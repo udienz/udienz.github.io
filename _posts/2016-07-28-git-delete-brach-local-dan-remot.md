@@ -25,6 +25,8 @@ git push origin --delete branch_name
 
 Note: `origin` is a remote name, please use remote name with yours
 
+<!--more-->
+
 Then, in the other machine, you can sync it with remote with:
 
 ```

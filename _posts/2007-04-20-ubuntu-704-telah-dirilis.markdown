@@ -44,6 +44,8 @@ Beberapa fitur baru yang tersedia pada Ubuntu 7.04 Desktop:
 
 Beberapa fitur baru yang tersedia pada Ubuntu 7.04 Server:
 
+<!--more-->
+
 **Kernel Virtual Machine:** Pada sistem yang memiliki ekstensi Intel VT atau AMD-V, dukungan Kernel-based Virtual Machine (KVM) membuat Anda dapat menjalankan Linux di dalam beberapa _virtual machine_ secara bersamaan.  Setiap _virtual machine_ akan memiliki _virtual hardware_ tersendiri: kartu jaringan, disk, kartu grafis dan sebagainya. Ubuntu juga merupakan distro Linux pertama yang memiliki dukungan Para-Ops dan VMI, agar Anda dapat mengoptimalkan _performance_ di VMware.
 
 **Management tool untuk server:** Mempermudah Anda melakukan _upgrade_ ke rilis terbaru Ubuntu secara otomatis.

@@ -26,6 +26,8 @@ coba lihat gambar berikut
 
 ini client pake windows xp servernya pake BlankOn di pasang dengan LDAP, tapi ketika mau konek ke ldap server hasilnya gini padahal di linux lancar tuh, tanya kenapa?
 
+<!--more-->
+
 nb: firewal di windows udah di matiin
 
 gambar yang lebih besar: [http://farm4.static.flickr.com/3170/2404302721_eee4f6f615_o.png](http://farm4.static.flickr.com/3170/2404302721_eee4f6f615_o.png)

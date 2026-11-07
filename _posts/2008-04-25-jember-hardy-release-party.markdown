@@ -26,4 +26,6 @@ Jember akan melakukan pesta rilis Ubuntu Hardy pada tanggal 10 Mei 2006, info le
 
 Poster sementara :D
 
+<!--more-->
+
 [![Ubuntu Hardy Rilis Party Poster (RC_1)](http://farm4.static.flickr.com/3072/2439915661_e0dea2d148.jpg)](http://www.flickr.com/photos/udienz/2439915661/)

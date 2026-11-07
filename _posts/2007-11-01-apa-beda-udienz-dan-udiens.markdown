@@ -24,6 +24,8 @@ menurut anda apa yang beda?? perkiraan [rinnie](http://udiens.wordpress.com/2007
 
 duh, pengen tau rinnie tanya ma dukun mana yah??? tapi ada sedikit yang mau saya tambahkan tentang udienz vs [udiens](http://udiens.wordpress.com/), kira-kira tambahan adalah sebagai berikut:
 
+<!--more-->
+
 1. sama sama makai [debian](http://www.debian.org) (aku pake debian juga lho... walau itu tuk serverku)
 
 2. sama-sama daftarin diri di planetarium. [udiens](http://udiens.wordpress.com/) di [Planet Indocisc](http://planet.indocisc.com/) dan aku di [Planet Ubuntu-id](http://planet.ubuntu-id.org)

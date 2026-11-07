@@ -33,6 +33,8 @@ Hanya sebuah repost untuk pengingat :)
     --------------enig429CCA66996AF2D42C65B63A
     Content-Type: text/plain; charset=ISO-8859-1
     Content-Transfer-Encoding: quoted-printable
+
+<!--more-->
     
     Selamat malam,
     

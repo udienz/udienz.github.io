@@ -23,6 +23,8 @@ mohon feedbacknya.. biar tambah lebih kerenan lagi
 
 [tpik yang sesuai: http://ubuntuforums.org/showthread.php?p=3300914#poststop ](http://ubuntuforums.org/showthread.php?p=3300914#poststop)
 
+<!--more-->
+
 screenshot:
 
 ![](https://wiki.ubuntu.com/Udienz/WordpressUbuntuTheme?action=AttachFile&do=get&target=screenshot.png)

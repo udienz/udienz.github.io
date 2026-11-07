@@ -43,6 +43,8 @@ Penyadapan kepala negara sudah berkali-kali terjadi. Presiden Indonesia sendiri 
 
 Kasus yang pelakunya negara lain hampir semuanya selesai lewat jalur politik dan diplomasi, karena pelakunya berada di luar jangkauan hukum negara korban. Kasus yang terjadi di dalam negeri punya pilihan jalur pidana, meski pilihan itu tidak selalu diambil. Bagian-bagian berikut menelusuri kasus-kasus itu satu per satu. Kasus Yunani sengaja ditaruh terakhir sebelum kasus 2026 karena modusnya paling dekat.
 
+<!--more-->
+
 ## Watergate dan Moorer-Radford: ketika Gedung Putih jadi medan pengintaian
 
 Dini hari 17 Juni 1972, lima orang ditangkap di dalam kantor Komite Nasional Partai Demokrat di kompleks Watergate, Washington. Mereka datang untuk membetulkan alat sadap yang sudah dipasang sebelumnya dan memotret dokumen. Penyelidikan kemudian menelusuri uang dan perintahnya sampai ke tim kampanye pemilihan ulang Presiden Richard Nixon ([National Archives](https://www.archives.gov/research/investigations/watergate)).

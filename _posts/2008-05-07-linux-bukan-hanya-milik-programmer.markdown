@@ -25,6 +25,8 @@ Sesuatu yang dapat di banggakan sekali bagi rakyat indonesia karena indonesia da
 
 ini menandakan bahwasanya di dunia opensource sendiri bukan hanya milik programmer saja bukan? saya banyak menemukan kasus baik itu di milis ataupun dalam chatting saya ada yang mengeluhkan tentang kemampuanya dalam dunia opensource dimana banyak yang beranggapan bahwa linux/opensource adalah milik programmer. ketika saya mengkomandoni tim dokumentasi pada BlankOn Konde banyak yang memahami bahwa untuk masuk tim BlankOn haruslah programmer, saya tau itu salah dan salah besar :D.
 
+<!--more-->
+
 menjawab pertanyaan lewat email, memberikan solusi di milis, ikut aktif di forum, menyebarkan cd linux, atau hanya ikut menyemarakkan seminar linux merupakan salah satu wujud bentuk pertisipasi kita terhadap dunia opensource. Cukup hanya seperti itu kan?
 saya punya teman di BlankOn Linux, namanya [Alie Kusnadi](http://dodolboks.wordpress.com/about/) dan [Farhan perdana](http://blackclaw.wordpress.com/about/). kedua orang ini boleh di kata lebih suka mengotak-atik Inkshape dari pada melakukan coding, dengan itu kedua orang ini malah menjadi pionner di BlankOn linux! sungguh sesuatu yang di luar perkiraan kita bukan?
 

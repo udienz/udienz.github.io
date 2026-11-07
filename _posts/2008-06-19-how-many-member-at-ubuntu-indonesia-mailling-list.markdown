@@ -22,4 +22,6 @@ hm.... how much member at Ubuntu Indonesia Mailling list?
 
 with highly activity, and overall per-day we have 30 email delivery or 2000+ per mounth!
 
+<!--more-->
+
 [![activity](http://farm4.static.flickr.com/3096/2593499712_a2aac9c732_o.jpg)](http://www.flickr.com/photos/udienz/2593499712/)

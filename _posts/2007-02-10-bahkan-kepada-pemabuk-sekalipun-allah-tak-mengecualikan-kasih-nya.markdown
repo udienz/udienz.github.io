@@ -28,6 +28,8 @@ Tengah asyik-asyiknya ia mengucek ( mencucui ) pakaian, ia melihat ada seekor ka
 
 Ditengah rasa cemasnya itu, berdoa`lah Dzunun kepada Allah. Ia memohon kiranya Allah S.W.T mau melindungi dirinya dari sengatan hewan itu.Doa`nya didengar Allah S.W.T. Tiba-tiba sang kalajengking tersebut berbalik dan menjauhi dirinya. 
 
+<!--more-->
+
 
 
 

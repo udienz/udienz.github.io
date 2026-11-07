@@ -54,6 +54,8 @@ Admin Yogyafree
 
 Ultra Edition dikhususkan untuk para donator, yntuk login ke Gold  Ultra Edition maka [klik disini](http://www.yogyafree.net/superlogin.htm).
 
+<!--more-->
+
 Walaupun begitu Gold  tetap 100% GRATIS untuk didownload dan tidak perlu donasi.
 Harap Maklum.
 

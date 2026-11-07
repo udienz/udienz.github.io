@@ -35,4 +35,6 @@ Seakan-akan membenci Microsoft dan hanya lancar mengatakan Linux (saya bener-ben
 
 Saya sendiri adalah pengguna Linux dan sekarang aktif di Pengembangan Ubuntu, namun saya **tidak** membenci OS lain, terutama Microsoft Windows, Aplle Mac OSX, FreeBSD, dll.Anggapan saya, saya masih menghormati orang-orang yang bekerja di perusahaan tersebut, jujur saja, saya dulu adalah pengguna Windows walau sekarang sudah tidak lagi. Otomatis saya juga belajar banyak darinya, tidak sedikit ilmu yang saya dapat.
 
+<!--more-->
+
 Nah pertanyaanya mengapa banyak yang susah menuliskan Microsoft Windows, Mac OSX?

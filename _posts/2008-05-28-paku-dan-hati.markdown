@@ -25,6 +25,8 @@ Si anak tersebut mengeluh pada bapaknya karena dirinya belum bisa merubah kelaku
 
 Anak perempuan itu setuju dengan saran dari bapaknya, maka di terimalah cinta lelaki itu. pada awal pacaran mereka berdua adem ayem loh jinawiâ€¦. selang beberapa bulan perempuan itu membuat kesalahan, satu paku ia tancapkan di dinding. esoknya ketika bangun dari tidurnya perempuan itu melihat diding kamarnya di dalam hatinya ia berpikir â€œah baru satu paku kok, masih banyak ruang yang tersisaâ€ kemudian pagi itu juga dia mulai berbong untuk meutupi kesalahanya kemarin, begitu juga selanjutnya. kebohongan yang dia buat sungguh banyak hingga paku yang di tancapkan sangatlah banyak.
 
+<!--more-->
+
 Karena risih dan kasihan dengan lelaki itu maka si perempuan itu berterus terang dengan lelaki tersebut. Lelaki itu akhirnya memaafkan kesalahan perempuan itu dan perempuan itu berjanji tidak akan melukai lelaki itu lagi. senyuman dan perhatian yang lebih ia tujukan kepada lelaki itu, amat berbunga-bunga hati lelaki itu. maka satu demi satu paku ia cabuti, meski belum semua paku ia cabut tapi hanya sedikit paku yang menancap di dinding paku. Hari demi hari ia lalui dengan rasa cintanya pada lelaki pujaan hatinya, dan semakin sedikit paku yang menancap sekarang.
 
 Di pagi hari ketika bangun dia tersenyum melihat paku yang menancap di dinding kamarnya â€œsungguh sedikit oeyâ€ begitu hatinya berbicara, â€œaku bangga pada diriku sendiriâ€

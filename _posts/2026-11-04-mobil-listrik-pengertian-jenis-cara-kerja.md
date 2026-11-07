@@ -44,6 +44,8 @@ Tulisan ini menjelaskan apa itu mobil listrik dan apa bedanya dengan hybrid, bag
 
 Mobil listrik adalah mobil yang digerakkan oleh motor listrik, bukan mesin pembakaran. Departemen Energi Amerika Serikat menyebut jenis yang paling murni sebagai all-electric vehicle atau battery electric vehicle (BEV): mobilnya punya baterai yang diisi dengan mencolokkan kendaraan ke peralatan pengisian, dan selalu berjalan dalam mode listrik penuh ([U.S. DOE, Alternative Fuels Data Center](https://afdc.energy.gov/vehicles/electric)). Tidak ada tangki bensin, pompa bahan bakar, atau saluran bahan bakar. Kendaraan seperti ini juga tidak mengeluarkan gas buang dari knalpot ([U.S. DOE](https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work)).
 
+<!--more-->
+
 Dalam aturan Indonesia, istilah resminya Kendaraan Bermotor Listrik Berbasis Baterai atau KBLBB. Istilah itu dipakai dalam [Perpres 55 Tahun 2019](https://peraturan.bpk.go.id/Details/116973/perpres-no-55) tentang percepatan program KBLBB untuk transportasi jalan, yang kemudian diubah dengan [Perpres 79 Tahun 2023](https://peraturan.bpk.go.id/Details/273447). Di dealer dan di media otomotif, kamu akan lebih sering mendengar singkatan BEV atau sebutan "mobil listrik" saja.
 
 ### Kenapa orang beralih

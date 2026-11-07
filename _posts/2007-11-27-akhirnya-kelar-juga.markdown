@@ -27,6 +27,8 @@ sebagai informasi, kalo mau download iso dengan jidgo lebih baik download dulu f
 
 dan arahkan ke website http://arsip.blankonlinux.or.id/blankon dan kambing.ui.edu/ubuntu hingga muncul tulisan ini...
 
+<!--more-->
+
     
     FINISHED --23:23:12--
     Downloaded: 15,278,488 bytes in 10 files

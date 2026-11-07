@@ -18,6 +18,8 @@ Mama dan Papaku tersayang, semoga Allah selalu memberkahilangkah-langkah kita da
 
 Mama dan Papa sebagai hamba Allah, anakmu ini telah diberi berbagai nikmat. Diantaranya adalah fitrah kebutuhan biologis, saling membutuhkan terhadap lawan jenis. Fitrah merupakan pemberian Allah yang telah melekat secara inheren dengan kehidupan manusia itu sendiri.Hanyalah kehancuran yang didapatkan jika manusia melanggar fitrah pemberian Allah itu. Sungguh, kebutuhan ini wajar bagi manusia normal, selain untuk kebahagiaan manusia itu sendiri.
 
+<!--more-->
+
 Mama dan Papaku, melihat kehidupan remaja dewasa itu sungguh amat memprihatinkan. Mereka seolah tanpa sadar melakukan perbuatan-perbuatan maksiat kepada Allah. Seolah-olah, dikepala mereka yang ada hanya pikiran-pikiran yang mengarah kepada kebahagiaan semu dan sesaat. Belum lagi kalau ditanyakan kepada mereka tentang menikah. "Saya nggak sempat mikirin kawin, sibuk sih, lagian saya masih ngumpulin barang dulu," begitu kata sebagian dari mereka. Padahal , kurang apa sih mereka. Wallahua'lamu, mudah-mudahan saja mereka bisa bertahan untuk tidak berbuat maksiat.
 
 Mama dan Papaku tersayang, bercerita tentang pergaulan remaja umumnya, rasanya tidak cukup tinta ini untuk ditorehkan. Setiap saya menulis peristiwa remaja, pada saat yang sama, terjadi pula peristiwa baru yang menuntut perhatian kita.

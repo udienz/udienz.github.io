@@ -34,6 +34,8 @@ Dari:
 
 Ke
 
+<!--more-->
+
     
     # This file controls the state of SELinux on the system.
     # SELINUX= can take one of these three values:

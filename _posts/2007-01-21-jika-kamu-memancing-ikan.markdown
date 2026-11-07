@@ -20,6 +20,8 @@ Begitulah juga setelah kamu memberi banyak pengharapan kepada seseorang... Setel
 
 Jika kamu menadah air biarlah berpada, jangan terlalu mengharap pada takungannya dan janganlah menganggap ia begitu teguh.... cukuplah sekadar keperluanmu.... Apabila sekali ia retak.... tentu sukar untuk kamu menambalnya semula.... Akhirnya ia dibuang.... Sedangkan jika kamu coba membaikinya mungkin ia masih dapat dipergunakan lagi....
 
+<!--more-->
+
 Begitu juga jika kamu memiliki seseorang, terimalah seadanya.... Janganlah kamu terlalu mengaguminya dan janganlah kamu menganggapnya begitu istimewa.... Anggaplah dia manusia biasa, Apabila sekali dia melakukan kesilapan bukan mudah bagi kamu untuk menerimanya.... akhirnya kamu kecewa dan meninggalkannya. Sedangkan jika kamu memaafkannya boleh jadi hubungan kamu akan terus hingga ke akhirnya....
 
 Jika kamu telah memiliki sepinggan nasi... yang kamu pasti baik untuk dirimu. Mengenyangkan. Berkhasiat. Mengapa kamu berlengah, coba mencari makanan yang lain.. Terlalu ingin mengejar kelezatan. Kelak, nasi itu akan basi dan kamu tidak boleh memakannya. Kamu akan menyesal.

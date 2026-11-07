@@ -33,6 +33,8 @@ Konfigurasi ulang portmasp agar bind tidak mengakses kartu jaringan loopback:
     
     sudo dpkg-reconfigure portmap
 
+<!--more-->
+
 
 
     

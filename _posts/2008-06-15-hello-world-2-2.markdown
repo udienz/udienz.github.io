@@ -23,6 +23,8 @@ if you read this post itâ€™s mean that iâ€™
 
 m approved to be [Ubuntu member](http://launchpad.net/%7Eubuntumember), and this post appear into [Planet Ubuntu](http://planet.ubuntu.com/). Currently Indonesia have 4 member of Ubuntu member he is [imtheface](http://skyisgrey.org), [Belutz](http://www.belutz.net/2008/06/17/new-ubuntu-members-from-indonesia), Takdir and me, Belutz and imtheface is founder ubuntu-id, me and Takdir just participant and help both person.
 
+<!--more-->
+
 Thanks to [Belutz](http://www.belutz.net), [RameTux](https://edge.launchpad.net/~rametux), [Takdir](http://takdir.blogspot.com/), [Amachu](http://amachu.net/), [persia](https://edge.launchpad.net/~persia), [lifeless](http://www.robertcollins.net/), Ekushy, [Zakame](http://www.zakame.net/), and all ubuntu board member who approved and supported me! Iâ€™
 
 m so glad!

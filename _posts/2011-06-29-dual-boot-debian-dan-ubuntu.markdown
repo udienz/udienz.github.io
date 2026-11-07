@@ -38,6 +38,8 @@ Dual boot, dalam perngertian saya bukan hanya menanamkan dua OS (<del>umumnya li
 
 trus bagaimana partisinya? bagi saya / (root) tidak besar besar, cukup 7GB, swap 1GB, selebihnya $HOME. FYI, berikut hasil tangkapan layarnya:
 
+<!--more-->
+
 [![](http://tripledin.files.wordpress.com/2011/06/screenshot.png)](http://tripledin.files.wordpress.com/2011/06/screenshot.png)
 
 Hm.. namun saya <del>agak gimana</del> tentang konsep ini, ada masukan?

@@ -22,6 +22,8 @@ ini doa yang sangat-sangat mekso, dulu saya pernah baca yang kayak gini, tapi in
     gak tahu ni yg ngarang sp, q dapet dari fs temenq, coba diresapi artinya, cool...
     
     Ya Tuhan semoga dia menjadi isteriku. Kalau dia memang jodohku,dekatkanlahâ€¦
+
+<!--more-->
     
     Tapi kalau bukan jodohku, Jodohkanlahâ€¦.
     Jika dia tidak berjodoh denganku,maka jadikanlah kami berjodoh..

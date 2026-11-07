@@ -42,6 +42,8 @@ tulisan ini terinspirasi dari http://majalah-linux.baliwae.com/
 
 apabila anda terhubung dengan internet via DHCP server maka lakukan konfigurasi seperti ini:
 
+<!--more-->
+
 
     
     <span style="font-size:10pt;line-height:150%;font-family:Verdana;">gksu gedit /etc/network/interfaces</span>

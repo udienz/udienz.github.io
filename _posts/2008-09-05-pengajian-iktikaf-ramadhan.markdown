@@ -21,4 +21,6 @@ Semoga akhir Ramadhan nggak ada kegiatan sehingga bisa daftar, ikutan yuk!
 
 Infonya ada di sini:
 
+<!--more-->
+
 [http://sharemeaning.wordpress.com/2008/09/03/info-kegiatan-pengajian-iktikaf-ramadhan-pir-xxvi/](http://sharemeaning.wordpress.com/2008/09/03/info-kegiatan-pengajian-iktikaf-ramadhan-pir-xxvi/)

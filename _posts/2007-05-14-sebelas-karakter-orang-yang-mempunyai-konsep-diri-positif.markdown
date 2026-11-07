@@ -68,5 +68,7 @@ Demikian karakter lelaki yang mempunyai konsip diri yang positif.
 
 Sumber Memahami Pikiran Lelaki:Allan
 
+<!--more-->
+
 
 <!-- more -->

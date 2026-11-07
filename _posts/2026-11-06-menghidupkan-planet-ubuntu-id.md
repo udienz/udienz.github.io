@@ -29,6 +29,8 @@ README lama menyuruh memasang `python-libxslt1`, `python-genshi`, dan sejenisnya
 
 `build.py` membaca `config.ini`, mengambil semua feed secara paralel, mengambil maksimal 5 entri per feed dan 20 entri untuk halaman utama, lalu menulis `index.html`, `rss20.xml`, dan `opml.xml` ke folder `public/`.
 
+<!--more-->
+
 `feedparser.parse(url)` (feedparser 6.0.14) macet saat menyambung ke beberapa host blogspot, padahal `curl` dan `urllib` lancar di mesin yang sama. Jalan keluarnya, unduh feed sendiri dengan timeout eksplisit, lalu serahkan isinya ke `feedparser`:
 
 ```python

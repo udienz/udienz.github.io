@@ -18,4 +18,6 @@ untuk lebih jelasnya silakan baca [Rilis Resminya](ftp://ftp.slax.org/SLAX-6.x/r
 
 anda dapat mendownlad Slax6 [disini ](ftp://ftp.linux.cz/pub/linux/slax/SLAX-6.x/rc5/)atau bila anda ingin mendownload Slax5 [di sini ](http://http://tuma.ui.edu/pub/slax/SLAX-5.x/)
 
+<!--more-->
+
 ![](http://www.slax.org/ss/user/image20070723080640.jpg)

@@ -23,6 +23,8 @@ so if you want to upgrade into Intrepid Ibex just upgrade your system via:
     sudo echo "deb http://archive.ubuntu.com/ubuntu intrepid main restricted universe multiverse" >> /etc/apt/sources.list"
     $ sudo apt-get dist-upgrade
 
+<!--more-->
+
 
 and welcome to Intrepid Ibex :D
 

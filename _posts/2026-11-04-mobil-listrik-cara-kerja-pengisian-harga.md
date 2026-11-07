@@ -44,6 +44,8 @@ Ikuti satu siklus penuh dengan komponen di atas. Malam hari kamu mencolokkan mob
 
 Paginya, saat kamu menekan pedal gas, pengendali elektronika daya mengambil energi dari baterai dan menyalurkannya ke motor dalam jumlah yang sesuai posisi pedal. Motor memutar roda lewat transmisi listrik. Pada saat yang sama, konverter DC/DC menurunkan tegangan sebagian energi untuk lampu, layar, dan aksesori. Sistem termal menjaga semua bagian itu tetap dalam suhu kerjanya, karena baterai dan elektronika daya sama-sama tidak nyaman bekerja terlalu panas.
 
+<!--more-->
+
 Saat kamu melepas pedal dan mobil melambat, arahnya berbalik sebagian: motor menjadi generator dan mengirim sedikit energi kembali ke baterai.
 
 ### Baterai: kWh adalah "tangki"-nya

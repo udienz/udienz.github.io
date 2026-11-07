@@ -25,6 +25,8 @@ Pada tulisan kali ini saya akan membahas tentang manajemen user dengan puppet.
 
 Untuk menambahkan user atau sekedar memastikan properti dari user, puppet sangat mendukung. Contohnya dalam code berikut user ani akan dibuang di semua server:
 
+<!--more-->
+
 
     
     user { 'ani':

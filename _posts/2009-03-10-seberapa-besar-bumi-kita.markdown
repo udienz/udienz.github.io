@@ -26,6 +26,8 @@ gambar di bawah adalah perbandingan antara bumi, venus, mars dan planet "kecil" 
 gambar selanjutnya adalah pebandingan bumi di antara teman-temanya (termasuk matahari)
 _(gambar tidak tersedia: size3)_
 
+<!--more-->
+
 Besar sekali matahari! namun belum seberapa bila di bandingkan dengan bintang lainya di tata surya
 _(gambar tidak tersedia: size5)_
 

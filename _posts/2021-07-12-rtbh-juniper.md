@@ -21,6 +21,8 @@ saya dengar malah di jadikan komersil, haha~~
 Kita kaan mensimulasikan bagaimana RTBH ini bekerja, saya menggunakan topologi antara upstream
 dan downstream
 
+<!--more-->
+
 ## Topologi
 ```
 Customer AS101 <---- network 5.0.2.4/30 ----> PE1

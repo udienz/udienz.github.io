@@ -23,6 +23,8 @@ Syaikh Muhammad bin Abdul Wahhab
 Firman Allah Ta'ala (artinya):
 "Patutkah mereka berbuat syirik (dengan menyembah selain Allah) yang tak dapat menciptakan apa-apa? Padahal selain Allah itu adalah ciptaan(Nya). Dan sembahan-sembahan selain Allah itu tidak mampu memberi pertolongan kepada orang-orang musyrik, dan kepada dirinya sendiri pun sembahan-sembahan itu tidak dapat memberi pertolongan." (Al-A'raf: 191-192)
 
+<!--more-->
+
 "... Dan sembahan-sembahan yang kamu seru, selain Allah, tidak memiliki apa-apa walaupun setipis kulit ari. Jika kamu menyeru mereka, mereka tidak akan mendengar seruanmu itu; kalaupun mereka mendengar, mereka tidak dapat memperkenankan permintaanmu; dan pada hari Kiamat mereka mengingkari kemusyrikanmu, dan tiada yang dapat memberikan keterangan kepadamu sebagai yang diberikan oleh Yang Maha Mengetahui." (Fathir: 13-14)
 
 Diriwayatkan dalam Shahih (Al-Bukhari dan Muslim) dari Anas Radhiyallahu 'anhu katanya: "Pada waktu peperangan Uhud, Nabi shallallahu 'alaihi wa sallam terluka di bagian kepala dan gigi taringnya. Maka beliau bersabda: "Bagaimana akan beruntung suatu kaum yang melukai Nabi mereka?" Lalu turun ayat: "Tak ada apa-apa bagimu (untuk campur tangan) dalam urusan mereka itu. (Ali Imran: 128)."

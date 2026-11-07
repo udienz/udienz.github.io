@@ -24,6 +24,8 @@ Following great post from [Harry Sufehmi](http://harry.sufehmi.com/archives/2007
 
 when ask password just typing **cepat123**, if your terminal doesnâ€™t appear anything it mean yau sucsess connected to proxy. example:
 
+<!--more-->
+
     
     $ ssh -o "CompressionLevel=9" -C -D 9999 -p 222 -N net@cepat.abangadek.com
     Password:

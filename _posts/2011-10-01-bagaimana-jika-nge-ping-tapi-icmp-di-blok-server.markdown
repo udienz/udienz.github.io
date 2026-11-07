@@ -18,6 +18,8 @@ Umumnya ping menggunakan port icmp, tapi kita bisa menggunakan port lain. sepert
     
     sudo apt-get install hping3
 
+<!--more-->
+
 
 Kita ambil suatu server yang di blok icmpnya, contohnya adalah www.unej.ac.id. server tersebut di blok icmp nya. tapi untuk memastikan server tersebut hidup atau tidak kita bisa cek apakah port 80 (yang dibukak oleh server tersbut) up atau tidak. caranya adalah sebagai berikut:
 

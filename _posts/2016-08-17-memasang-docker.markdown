@@ -27,6 +27,8 @@ Beberapa perangkat lunak yang perlu dipasang saat pemasangan adalah `curl`
 atau `wget`. untuk pemasangan, sialakan mengikuti prosedur pemasangan dari
 distro anda.
 
+<!--more-->
+
 Contoh apabila menggunakan Debian base:
 
 ```bash

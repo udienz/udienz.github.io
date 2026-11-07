@@ -27,6 +27,8 @@ Akhirnya kami sepakat untuk mengadakan acara ini pada tanggal 17 mei 2008 jam 08
 
 [![banner depan](http://farm3.static.flickr.com/2333/2516482226_52123de0ca.jpg)](http://www.flickr.com/photos/udienz/2516482226/)
 
+<!--more-->
+
 _ini adalah gedung yang di gunakan saat [HRP](http:<a href=)_
 
 Gedung yang dipakai adalah gedung PKM [Universitas Jember](http://www.unej.ac.id), gedung ini merupakan dedikasi Unej untuk mahasiswanya.. ssstttt saya pinjemnya gratis :D

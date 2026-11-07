@@ -31,6 +31,8 @@ Tulisan ini merangkum jenis konektor fiber optic yang paling sering ketemu di la
 
 Sebuah konektor fiber memegang serat di dalam ferrule, yaitu tabung kecil dengan lubang tepat di tengah. Dua ferrule dipertemukan di dalam adapter, dan kualitas pertemuan itulah yang menentukan loss. Ada tiga hal yang membedakan konektor.
 
+<!--more-->
+
 Pertama, diameter ferrule. SC, FC, dan ST memakai ferrule 2,5 mm, sedangkan LC dan MU memakai 1,25 mm sehingga bodinya bisa jauh lebih kecil ([FOA, Connector Identifier](https://thefoa.org/tech/connID.htm)). Kedua, mekanisme kopling: snap-in (SC), bayonet (ST), ulir (FC), atau push-on dengan pin pemandu (MPO). Ketiga, polish ujung ferrule, rata (PC/UPC) atau miring 8 derajat (APC), yang saya bahas tersendiri di bawah.
 
 ## Konektor satu ukuran 2,5 mm: SC, FC, ST

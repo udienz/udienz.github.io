@@ -34,6 +34,8 @@ Angka Gaikindo adalah angka distribusi dari pabrik ke dealer (wholesales), bukan
 
 Jadi urutan di bawah mencerminkan pengiriman ke dealer, yang biasanya sejalan dengan pembelian tetapi tidak persis sama.
 
+<!--more-->
+
 Total sepuluh model ini 89.502 unit pada sembilan bulan pertama 2026. Grafik di bawah menunjukkan sebaran per model.
 
 <figure class="blog-chart">

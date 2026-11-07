@@ -37,6 +37,8 @@ Ditambahkan, database pengenal dan pembersih 72 virus lokal/asing/varian baru ya
 
 Improvisasi, error handling yang lebih baik untuk engine ClamAV.
 
+<!--more-->
+
 
 
 

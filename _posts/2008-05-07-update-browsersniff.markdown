@@ -27,6 +27,8 @@ silakan download updatenya di sini browsersniff update jangan lupa rename nama f
 
 yng di update antara lain
 
+<!--more-->
+
 - kemampuan membaca ubuntu terbaru sampai versi 8.10 (Intrepid Ibex)
 
 - kemampuan membaca BlankOn terbaru sampai versi Lontara

@@ -22,6 +22,8 @@ Distro ini adalah kebanggan para aktifis [Open Source Jember](http://josscenter.
 
 Sebagai catatan distro ini telah di terapkan secara penuh di warnet xnet lho.... dan mungkin akn di gunakan di banyak warnet lainya. namun bukan berarti distro ini khusus warnet, menurut kabar dari Asisten Labolatorium Komputer dan Labolatorium Informatika Teknik Elektro Universitas Jember, akan menggunakan DewaLinux ini sebagai distro di Labolatorium mereka. Dari sini kita dapat ambil kesimpulan sementara bahwa ketangguhan/kenyamanan dari distro ini tidak di ragukan lagi.
 
+<!--more-->
+
 Selamat mencoba!!!
 
 thx to temen2 di [JOSSC](http://josscenter.blogspot.com/)

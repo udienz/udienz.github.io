@@ -44,6 +44,8 @@ Nah setelah ganti sistem ada masalah yang sedikit mengganggu, yaitu file rrd tid
     ERROR: This RRD was created on another architecture
     ERROR: This RRD was created on another architecture
 
+<!--more-->
+
 
 ini menandakan kalau berkas rrd tidak bisa di produksi lagi bukan? ya kalau menurut tulisan diatas karena file rrd sebelumnya di produksi oleh system dengan arsitektur yang berbeda. nah bagaimana pemecahanya?
 

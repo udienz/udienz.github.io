@@ -21,6 +21,8 @@ Pada hari ini saya sangat senang sekali karena akhirnya [pengajuan saya](https:/
 
 Saya tidak tahu harus berterimakasih kepada siap, karena terlalu banyak orang yang sudah mendukung dan membelajari saya menjadi demikian. Namun saya sangat berterimakasih sebesar besarnya kepada [Komunitas Ubuntu Indonesia](http://www.ubuntu-id.org) dan Tim [Pengembang BlankOn](http://www.blankonlinux.or.id) yang karena didikan mereka saya belajar banyak.
 
+<!--more-->
+
 Menjadi Developer sebenarnya tidak lah terlalu rumit, rahasia saya adalah membaca dan ikhtiar. Sebenarnya saya merasa tidak mampu, namun berkat masukan dari teman Developer lain akhirnya saya berani lho :D.
 
 Mau menyusul menjadi MOTU'ers ke dua di Indonesia? silakan lihat halaman berikut:

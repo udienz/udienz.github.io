@@ -50,6 +50,8 @@ Wordpress mempunyai prinsip open source dimana script nya di buka bebas untuk um
 
 Di tulisan ini saya akan menunjukkan bagaimana cara membuat blog di komputer sendiri tanpa terhubung di internet. Program yang diperlukan adalah:
 
+<!--more-->
+
 
 
 

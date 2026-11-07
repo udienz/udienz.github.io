@@ -21,6 +21,8 @@ Sebagai seseorang yang berkecimpung dengan mail server, tentunya dunia spam sang
 
 Salah satu yang saya suka adalah teknik firewalling. Karena dengan teknik ini resource cpu bisa berkurang. Kenapa begitu? hal in dikarenakan bila menggunakan filtering IP maka akan melewati beberapa proses. Proses filtering adalah sebagai berikut:
 
+<!--more-->
+
 IP Pengirim -> [ firewall ]Â  -> [ filter via dns ] - [ smtpÂ  ]
 
 Jika ip pengirim ada di zone dns RBL maka akan di blok dan tidak boleh melakukan koneksi smtp. Nah proses ini butuh **query dns** ke (contohnya saya pake SORBS) dnsbl.sorbs.net. berarti perlu dua proses bukan dan ada delay bukan? Kalau pake firewalling kita cuman butuh satu langkah. namun kekurangan nya terkadang tidak up to date (tergantung dari anda).

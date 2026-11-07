@@ -31,6 +31,8 @@ Jikalau tidak bisa
     
     dpkg --clear-avail
 
+<!--more-->
+
 
 
 Jika MASIH tetep ga bisa (urget!) silakan cari pengaturan paketnya di `/var/lib/dpkg/info/.postrm` atau  `/var/lib/dpkg/info/.prerm`

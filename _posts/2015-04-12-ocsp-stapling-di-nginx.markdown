@@ -33,6 +33,8 @@ Langkah selanjutnya adalah menambahkan parameter di vhost nginx, karena saya men
 
 Simpan dan test dari terminal
 
+<!--more-->
+
 ```
 $ echo QUIT | openssl s_client -connect mahyudd.in:443 -servername mahyudd.in -status 2> /dev/null | grep -A 17 'OCSP response'| grep -B 17 'Next Update'
 OCSP response:

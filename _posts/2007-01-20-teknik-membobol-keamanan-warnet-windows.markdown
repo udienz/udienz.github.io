@@ -22,6 +22,8 @@ buka notepad, (bener2 keterlaluan kalo notepad aja di blok!!!)  cut n paste scri
     On error resume next
     Dim Reg
     Set Reg = CreateObject("WScript.Shell")
+
+<!--more-->
     
     if msgbox("Kembalikan menu Run ?" , VbOkCancel) = VbOK then
     Reg.RegWrite "HKEY_CURRENT_USERSoftwareMicrosoftWindowsCurrentVersionPoliciesExplorerNoRun", "0", "REG_DWORD"

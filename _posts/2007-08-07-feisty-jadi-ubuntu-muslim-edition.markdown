@@ -16,6 +16,8 @@ Di [Linux](http://) kita bisa mengoprek system sesuka kita (tp harus jadi root),
 
 oke akhirnya saya pengen membuat Ubuntu feisty saya menjadi Ubuntu-ME, pertimbangan:
 
+<!--more-->
+
 1. ribet install ulang
 
 2. males konfigurasi ulang

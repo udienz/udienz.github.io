@@ -20,4 +20,6 @@ kayaknya ini gak mungkin deh! sepertinya terjadi kesalahan. saya nggak percaya s
 
 lha wong koneksi max aja ga sampe 14MB kok! aneh deh....
 
+<!--more-->
+
 ada yang lebih valid dari ini ga?

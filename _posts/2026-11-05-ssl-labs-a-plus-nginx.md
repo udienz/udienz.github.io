@@ -20,6 +20,8 @@ This guide walks through each piece, gives you a config you can paste, and cover
 
 The configuration below was tested on nginx 1.26.3 with OpenSSL 3.5.7, using the stock Debian 13 `nginx.conf` with its two SSL lines commented out and the files from this guide added, and checked with `openssl s_client` and `curl`.
 
+<!--more-->
+
 **Baca dalam Bahasa Indonesia:** [Cara Mendapat A+ di SSL Labs dengan nginx]({% post_url 2026-11-05-ssl-labs-a-plus-nginx-id %}). Running Apache? See [How to Get an A+ on SSL Labs with Apache httpd]({% post_url 2026-11-05-ssl-labs-a-plus-apache %}).
 
 ![SSL Labs grade ladder for nginx: what caps a server at B or A-, and what an A+ needs](/img/ssl-labs-a-plus-nginx.png)

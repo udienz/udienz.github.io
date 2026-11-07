@@ -22,6 +22,8 @@ _(gambar tidak tersedia: screenshot1)_
 
 Catatan:
 
+<!--more-->
+
 
 
 	

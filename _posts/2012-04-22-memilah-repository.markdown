@@ -22,6 +22,8 @@ Saya biasa menggunakan metode ini untuk memecahkan masalah ketika bermain-main p
 
 Di berkas `/etc/apt/sources.list` saya adalah sebegai berikut:
 
+<!--more-->
+
     
     deb http://kambing.ui.ac.id/debian testing main contrib non-free
     deb http://kambing.ui.ac.id/debian unstable main contrib non-free

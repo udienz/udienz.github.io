@@ -25,6 +25,8 @@ tapi ini di khususkan buat yang punya bandwith lebih ke internet lho (walaupun s
 
 debmirror ini di buat untuk me-mirrorkan paket debian yang terdapat dalam server, server di sini bukan hanya server internet tapi juga server lokal.. jadi seumpama kita mau me-mirrorkan kompi kita dengan mirror `kambing.ui.edu` dengan rincian:
 
+<!--more-->
+
 <!-- more -->
 
 distro: `Ubuntu Gutsy`

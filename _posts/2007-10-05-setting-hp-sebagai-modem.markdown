@@ -30,6 +30,8 @@ ceritanya begini, saya punya HP SonyEricsson K510i dan Ubuntu Feisty. saya penge
 
 so Jadi gimana tahap2 nya...???
 
+<!--more-->
+
 1. Isi Pulsa!!! mutlak itu..... :D
 
 2. apakah anda punya setingan yang benar?? kalo belum silakan [merujuk ke sini ](http://www.sonyericsson.com/spg.jsp?cc=id&lc=id&ver=4000&template=ps3&zone=ps)(salut buat SonyEricsson buat suppot yang bagus)

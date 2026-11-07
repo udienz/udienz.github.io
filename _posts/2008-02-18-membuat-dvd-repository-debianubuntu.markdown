@@ -34,6 +34,8 @@ Silakan buat dulu [Repository lokal](http://wiki.ubuntu-id.org/DokumentasiKomuni
 
 Ukuran Repository yang terlalu besar menjadi kendala bagi kite semua, apalagi yang mempunyai bandwith pas-pasan. untuk pendistribusian repository, di indonesia telah di kembangkan DVD nya, hal ini membuat kesempatan bagi kita semua untuk menikmati repository. tetapi untuk memecah lagi repo di butuhkan suatu tool yaitu debpartial untuk itu install dulu deb partialnya
 
+<!--more-->
+
     
     sudo apt-get install debpartial
 

@@ -34,6 +34,8 @@ Dulu Umar sering menangis sendirian sesudah selesai menunaikan salat. Dantiba-ti
 
 Abdurrahman bin Auf, sebagai salah seorang sahabat Umar yang paling akrab,merasa tersinggung dan sangat murung mendengar tuduhan itu. Apalagi, hampirsemua rakyat Madinah telah sepakat menganggap Umar betul-betul sinting. Dan,sudah tentu, orang sinting tidak layak lagi memimpin umat atau negara.
 
+<!--more-->
+
 
 
 

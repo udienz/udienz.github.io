@@ -22,4 +22,6 @@ di [planet debian-id.org](http://planet.debian-id.org)
 
 tambah semangat lagi nih...
 
+<!--more-->
+
 go!!....Go!!!!...Go!!!!

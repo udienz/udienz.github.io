@@ -41,6 +41,8 @@ Nah langkah-langkah diatas benar, namun sangat tidak efisien dikarenakan membuan
     
     $ sudo apt-get install ubuntu-dev-tools
 
+<!--more-->
+
 
 Selanjutnya, kita akan membuat patch untuk paket [smpeg](http://packages.qa.debian.org/s/smpeg.html) yang mengalami gagal dibangun di [natty](http://people.ubuntuwire.org/~lucas/ubuntu-nbs/32/smpeg_0.4.5+cvs20030824-2.2_lubuntu32.buildlog) dan [wheezy](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=556351). Hal ini dikarenakan [persoalan klasik transisi binutils-gold](http://tripledin.wordpress.com/2011/01/23/mengatasi-ftbfs-di-natty/). Jika dilihat dari log terakhir yaitu:
 

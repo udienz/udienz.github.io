@@ -21,4 +21,6 @@ Setelah menghidupkan [mirror.unej.ac.id](/2013/01/20/menghidupkan-kembali-mirror
 
 Server buaya juga membuka donasi untuk publik yang dapat dialamatkan ke [sini](https://www.facebook.com/groups/KLAS.Activity/permalink/10151451313403500/?comment_id=10151462059943500&offset=0&total_comments=60). Ingin tau dalaman buaya? cek link pada gambar dibawah ini:
 
+<!--more-->
+
 [![](http://buaya.klas.or.id/status/mrtg/localhost_2-day.png)[![](http://buaya.klas.or.id/status/www/daily_usage_201304.png)](http://buaya.klas.or.id/status/www/)[![](http://buaya.klas.or.id/status/mirror-size/+all.month.png)](http://buaya.klas.or.id/status/)](http://buaya.klas.or.id/status/mrtg/localhost_2.html)

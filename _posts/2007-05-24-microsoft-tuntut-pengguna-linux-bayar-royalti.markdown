@@ -23,6 +23,8 @@ Dalam sebuah wawancara dengan majalah _Fortune_, Brad Smith, perwakilan dari Mic
 
 Smith mengungkapkan bahwa Microsoft menemukan setidaknya 42 pelanggaran atas paten Microsoft yang ditemukan di dalam kernel Linux, 65 selanjutnya pada tampilan antar muka pemakai. Dia juga mengklaim kalau aplikasi Open Office telah melanggar 45 paten, aplikasi email 15 paten, dan perangkat lunak open source lainnya sebanyak 68 paten.
 
+<!--more-->
+
 Microsoft tampaknya selalu menggunakan isu hak paten untuk menyerang lawan-lawannya khususnya kubu Linux dan open source sejak dulu. Namun belakangan ini Microsoft tampak lebih _intens _menggalang kekuatan untuk menekan dominasi open source, diataranya melalui perjanjian dengan [Novel](http://www.novell.com/) - yg notabene perusahaan pembuat distro suse linux - pada akhir tahun lalu, yang isinya mengijinkan pertukaran penggunaan paten antar masing-masing pihak. Didalamnya juga dinyatakan perusahaan mengganti rugi klaim hak paten Microsoft atas Linux. selanjutnya pada bulan April tahun ini Microsoft melakukan perjanjian serupa dengan salah satu produsen perangkat keras Samsung Electronic, yang isinya juga tentang persetujuan penggunaan silang lisensi, masing-masing, yang didalamnya termasuk klausa yang menyatakan ganti rugi Samsung atas klaim terhadap paten di Linux. Dan minggu lalu Dell, ikut bergabung dalam perjanjian tersebut, menjadikannya vendor perangkat keras dan perakit komputer pertama yang melakukannya.
 
 

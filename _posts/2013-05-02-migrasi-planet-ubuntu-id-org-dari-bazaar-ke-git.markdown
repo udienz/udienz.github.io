@@ -30,6 +30,8 @@ Kemudian copy repository bazaar dari launchpad ke komputer kita.
 
 Kemudian buat repostory git di dalam repository bazaarnya.
 
+<!--more-->
+
 ```$ cd planet.ubuntu-id.org
 $ git init```
 

@@ -22,6 +22,8 @@ Sebenarnya kenapa kami tidak mendaftarkan ke official mirror sekalian? jikalau d
 
 Dan tak lupa termakasih selalu kami ucapkan kepada:
 
+<!--more-->
+
 
 
 	

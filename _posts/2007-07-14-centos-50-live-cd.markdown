@@ -22,6 +22,8 @@ OpenOffice.org 2.0.4, Firefox 1.5.0.10, Thunderbird 1.5.0.10, Gaim 2.0.0, Scribu
 CenOS menyediakan 6 CD Installer dengan instalasi secara grafis dengan default desktop GNome, sedangkan kernel yang di pakai adalah 2.6.18
 anda dapat mendownload CentOS di [Tuma](http://tuma.vlsm.org/pub/centos/5.0/isos/i386/) atau di [Unej](http://www.unej.ac.id/upt/ti/downloads/CentOS/)
 
+<!--more-->
+
 sumber http://lists.centos.org/pipermail/centos-announce/2007-July/014018.html
 
 ![](http://majalah-linux.baliwae.com/wp-content/uploads/2007/04/centos5-shot3.jpg)

@@ -28,6 +28,8 @@ nah untuk melihat extensi berkas (MIME) yang sebenarnya kita dapat menggunakan p
     -rw------- 1 udienz udienz 5438385 2009-01-24 22:10 FlashiagAST
     -rw------- 1 udienz udienz 3793886 2009-01-24 22:06 FlashWkqub4
 
+<!--more-->
+
 
 
 nah berkas diatas tidak punya ekstensi. dara ngeceknya gini

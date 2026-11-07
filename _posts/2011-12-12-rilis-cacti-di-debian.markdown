@@ -20,6 +20,8 @@ Nah tugas saya kali ini adalah merilis versi cacti 0.8.7i yang baru saja di rili
 
 Jika anda ingin membantu kami, anda bisa mengunduh kode sumber kedua paket tersebut dengan cara:
 
+<!--more-->
+
 **Untuk Cacti**
 
     

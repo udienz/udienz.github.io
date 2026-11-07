@@ -25,4 +25,6 @@ harapan?? iya betul sekali...
 
 di xnet jember menggunakan OS Ubuntu linux yang telah di modif sedemikian rupa menjadi sangat familiar banget.... warnet ini terletak di Ruko Pesona Jawa B-3 Jember.
 
+<!--more-->
+
 di sini kita dapat berbagi ilmu, tidak hanya ngenet saja lho.... sangat menarik bukan??? jadi kalo anda bingung tentang linux langsung aja meluncur kesitu atau ke [website](http://www.xnet.com/) nya atau ke [sini](http://josscenter.blogspot.com/)

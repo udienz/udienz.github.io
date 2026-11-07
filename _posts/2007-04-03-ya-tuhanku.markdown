@@ -32,6 +32,8 @@ ketika aku meminta harta
 engkau memberiku hutang
 hingga aku dapat belajar memanajemen uang
 
+<!--more-->
+
 ya tuhanku
 ketika aku meminta kesehatan
 engkau memberiku penyakit

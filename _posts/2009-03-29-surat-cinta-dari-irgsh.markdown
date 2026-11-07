@@ -24,6 +24,8 @@ yak, beberapa hari ini saya di ingetin sama [irgsh](http://irgsh.blankonlinux.or
     Paket        : system-config-printer (nanggar)
     Versi BlankOn: 1.1.3+git20090218-0ubuntu13+blankon1
     Versi Ubuntu : 1.1.3+git20090218-0ubuntu14
+
+<!--more-->
     
     Silakan segera kirimkan paket terbarunya ke saya. Terima kasih.
     Surat ini akan terus dikirim hingga Anda mengirimkan paketnya.

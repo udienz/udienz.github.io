@@ -29,6 +29,8 @@ andaikata kita udah menginstall dengan sukses Apache dan modulnya (SSL+PHP,dll) 
 lha itu sebenernya bisa di hilangkan lho...
 caranya mudah sekali silakan buka konfigurasi file apache anda di
 
+<!--more-->
+
     
     /etc/apache2/sites-available/default
 

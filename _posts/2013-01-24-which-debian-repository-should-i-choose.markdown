@@ -30,6 +30,8 @@ Untuk **Debian**, silakan mengunjugi keÂ [http://http.debian.net](http://http.
 
 Test dengan mengunduh berkas di server.
 
+<!--more-->
+
 
     
     udienz@debian:~$ wget http://http.debian.net/debian/ls-lR.gz

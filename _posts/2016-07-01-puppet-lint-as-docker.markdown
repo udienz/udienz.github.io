@@ -32,6 +32,8 @@ Just want to let you know that i have created a docker container for puppet synt
 
 To check your module just type below in your terminal
 
+<!--more-->
+
 
     
     $ docker run -v $(pwd):/code udienz/puppet-lint

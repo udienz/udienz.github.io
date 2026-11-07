@@ -22,6 +22,8 @@ Untuk mengunduh box, dapat dilihat pada halaman berikut:
 Untuk kode sumber builder dapat ditemukan pada halaman github berikut:
 [https://github.com/udienz/packer](https://github.com/udienz/packer)
 
+<!--more-->
+
 Contoh penggunaan;
 
 

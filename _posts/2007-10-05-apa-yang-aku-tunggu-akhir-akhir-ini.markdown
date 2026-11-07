@@ -22,4 +22,6 @@ gimana yah wajah Ubuntu di balut CompizFusion???
 
 jadi totalnya saya harus menunggu 27 hari untuk menikmati Gutsy... lho kok??? coba deh lihat thread ini [http://groups.google.com/group/id-ubuntu/browse_thread/thread/a727a40d9d86ae99/fde9522832452c66#fde9522832452c66](http://groups.google.com/group/id-ubuntu/browse_thread/thread/a727a40d9d86ae99/fde9522832452c66#fde9522832452c66)
 
+<!--more-->
+
 sabar... orang sabar di sayang Tuhan

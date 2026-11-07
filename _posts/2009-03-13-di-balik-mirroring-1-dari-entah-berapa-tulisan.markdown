@@ -27,6 +27,8 @@ Koneksi pak surip adalah 128kbps, di ingin mendownload [dvd repository ubuntung]
 
 saya googling sampe ujung amrik, alhamdulillah akhirnya nemu modul apache2 yang bagus yaitu [mod-limitipconn](http://elonen.iki.fi/code/unofficial-debs/mod-limitipconn/), lha tapi si modul ini menurut saya sering over acting dalam mereject koneksi, alhasil saya sendiri sering menemukan halaman **SERVICES TEMPORARY UNAVALIABLE** aka STU!. lah kok :(Â  ya sudah akhirnya ngoprek lagi modul lain, alhasil saya nemuin modul yang lumayan bagus yaitu [mod_bw](http://packages.debian.org/stable/libapache2-mod-bw) dan ada lagi mod_cband tapi saya ga pake cband :D
 
+<!--more-->
+
 nah pengaturanya gimana? sebentar saya login dulu ke mirror :D
 
     

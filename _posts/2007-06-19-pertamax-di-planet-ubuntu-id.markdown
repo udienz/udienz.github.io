@@ -21,6 +21,8 @@ salam,
 
 Ijinkan aku ngawali tulisan ini yang nyambung ke  situs http://planet.ubuntu-id.org/ ![](http://planet.ubuntu-id.org/img/idlogo.png)
 
+<!--more-->
+
 sebelumnya dan sesudahnya aku akan terus ngoprek-oprek ni situs termasuk wiki.ubuntu-id.org biar semua tau kalo Linux itu mudah, tul ga???
 
 akhirnya terucap terima kasih buat webmaster nya ubuntu-id.org (om [AndyApdhani](http://wiki.ubuntu-id.org/AndyApdhani) ![](https://launchpadlibrarian.net/7336776/sue64.jpg), benar??) dan semua staff BlankOn2, millis id-ubuntu, BlankOn dan semua linux'er dech...

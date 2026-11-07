@@ -78,6 +78,8 @@ CrackersKit (Pengen jadi crackers program ? kamu harus punya ini tools, karena f
 - [CrackersKit (Paket software crack terlengkap) Disk 5 ](http://www.yogyafree.net/crackerskit.part5.rar)
 - [CrackersKit (Paket software crack terlengkap) Disk 6 ](http://www.yogyafree.net/crackerskit.part6.rar)
 
+<!--more-->
+
 Beat The Clock + Tutor (Warnet Hacking)
 - [Download Beat The Clock - Disk 1](http://www.yogyafree.net/beattheclock.part1.rar)
 - [Download Beat The Clock - Disk 2](http://www.yogyafree.net/beattheclock.part2.rar)

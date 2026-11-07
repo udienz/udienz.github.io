@@ -37,6 +37,8 @@ ngecek dulu system kita yuk....
     udienz@ardienz:~$ cat /etc/issue.net
     Ubuntu 7.10
 
+<!--more-->
+
 
 3. Code-name nya apa?
 

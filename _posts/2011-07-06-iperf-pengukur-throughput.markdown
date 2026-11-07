@@ -30,6 +30,8 @@ Seperti yang kita tahu, kecepatan jaringan dapat dipengaruhi oleh beberapa hal, 
 
 Praktikum, baiklah kita praktikum. Saya mempunyai dua buah mesin terhubung dengan jaringan Gigabit, mesin ini akan bertindak sebagai server dan client. Tentu saja sebelumnya harus di install dulu iperf.
 
+<!--more-->
+
 
     
     $ sudo apt-get install iperf

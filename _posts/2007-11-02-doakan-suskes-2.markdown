@@ -19,6 +19,8 @@ saya akan di temani oleh teman2 [FOSS Jember](http://www.josscenter.blogspot.com
 
 InsyaAllah file presentasinya akan saya publish di sini, silakan tunggu
 
+<!--more-->
+
 doakan sukses ya!!!!
 
 [![](http://bp0.blogger.com/_gvMYE_EOXi8/Ryp4JeBvmYI/AAAAAAAAACQ/VBBFTMEL8kQ/s320/CD_ubuntu_GutsyGibbon.jpg)](http://bp0.blogger.com/_gvMYE_EOXi8/Ryp4JeBvmYI/AAAAAAAAACQ/VBBFTMEL8kQ/s1600-h/CD_ubuntu_GutsyGibbon.jpg)

@@ -21,6 +21,8 @@ hubunganya baik baik saja :) mau bukti. coba lihat [http://wiki.ubuntu-id.org/GR
 
 terima kasih buat mas nanang dan mas yoyok yang menjadi motor GRP ini...
 
+<!--more-->
+
 [![](http://www.ubuntu-id.org/arsip/710countdown_release.png)](http://www.ubuntu.com)
 
 Sumber [http://josscenter.blogspot.com/2007/10/gutsy-release-party.html ](http://josscenter.blogspot.com/2007/10/gutsy-release-party.html)

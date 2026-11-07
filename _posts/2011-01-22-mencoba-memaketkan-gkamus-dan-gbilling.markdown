@@ -26,6 +26,8 @@ Nah kenapa dalam pembuatan paket debianya sempat tertunda? ini dikarenakan ada s
 
 Dimana saya dapat mengambil paket debiannya? di sini
 
+<!--more-->
+
 `https://launchpad.net/~garuda-id/+archive/pkg-misc`
 
 rencananya saya akan menempatkan paket-paket aseli buatan orang Indonesia di situ, jadi agar orang luar tau bahwa kita juga bisa :). oke, selanjutnya apa saja yang saya ubah di kedua paket ini?

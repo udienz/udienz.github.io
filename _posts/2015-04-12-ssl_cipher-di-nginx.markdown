@@ -31,6 +31,8 @@ Jika harus memilih saya lebih memilih yang modern karena hanya mendukung TLSv1.1
 
 [![protocol support](https://blog.mahyudd.in/wp-content/uploads/2015/04/protocol-support-300x123.png)](https://blog.mahyudd.in/wp-content/uploads/2015/04/protocol-support.png)
 
+<!--more-->
+
 
 
 Setelah membaca [dokumentasi ](https://www.ssllabs.com/downloads/SSL_Server_Rating_Guide.pdf)dari Qualys, maka saya membuang dukungan untuk key yang kurang dari 128 bit. Dan berikut daftar nya beserta config di nginx:

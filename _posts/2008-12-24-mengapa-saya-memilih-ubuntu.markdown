@@ -32,6 +32,8 @@ maka jawaban saya adalah berikut:
 
 kira-kira begitu..
 
+<!--more-->
+
 oh iyah komunitas Debian juga sangat baik dan mungkin kalo boleh saya menyebutnyaâ€ Debian isâ€™nt Ubuntu but Ubuntu and Debian like brother and sister, Ubuntu and Debian work together, if you love Ubuntu you love Debian, if you love Debian you love Ubuntu tooâ€
 
 Bagaimana dengan anda?

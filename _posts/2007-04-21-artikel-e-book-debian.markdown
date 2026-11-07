@@ -21,4 +21,6 @@ tags:
 
 [Learning Debian GNU Linux - O'Reilly (pdf)](http://www.divshare.com/download/445370-323)
 
+<!--more-->
+
 [Debian Guide - Dwarfs (pdf)](http://www.divshare.com/download/445368-dee)

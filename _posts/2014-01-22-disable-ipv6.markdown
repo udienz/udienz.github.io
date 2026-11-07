@@ -20,6 +20,8 @@ Nah cara untuk mendisable nya adalah:
     
     sudo sysctl -w net.ipv6.conf.all.disable_ipv6=1
 
+<!--more-->
+
 
 
 Silakan dicoba

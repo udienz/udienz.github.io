@@ -22,6 +22,8 @@ hahâ€¦ ada-ada saja kerjaan virus, ceritanya gini gi [server](/2008/03/24/se
 
 cape dehâ€¦.
 
+<!--more-->
+
 solusinyaâ€¦ ternyata tinggal mode file diganti ke 755 dengan kepemilikan root aja biar selamet..
 
 

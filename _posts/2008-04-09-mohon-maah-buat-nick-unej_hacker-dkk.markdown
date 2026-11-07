@@ -19,6 +19,8 @@ saya secara pribadi tidak memusuhi windows, siapa bilang saya memusuhi windows? 
 
 saya juga minta maaf waktu buka [komen sampeyan](https://web.archive.org/web/20080409000000/http://udienz.wordpress.com/guest-books/#comment-4652)Â di pagi hari rasanya hari ini terbakar, karena semalaman saya ga berhasil konekkan windows ke LDAP Server, huh sungguh aneh! akhirnya muncullah rasa jengkel ke windows... :D
 
+<!--more-->
+
 Jadi dengan terang-terangan dan dengan semua kekurangan saya, dengan ini saya mohon maaf yang sebesar-besarnya kepada ang bersangkutan
 
 soal 031... saya edit karena rentang akan keamanan, dan untuk masalah download saya sudah meneruskan permasalahan ini ke pihak yang berwenang (baca atasan UPT) kira2 sudah 1,5 bulan yang lalu namun belum ada reaksi, mungkin lagi sibuk. mari kita doakan semoga bapak2 itu punya waktu untuk memperbaikinya. Amin...

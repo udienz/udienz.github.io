@@ -27,6 +27,8 @@ originally uploaded by [udienz](http://www.flickr.com/people/8293846@N08/).
 
 	alhamdulillah... dah dateng sebulan yang lalu :D
 
+<!--more-->
+
 
 isi 10CD
 8 installer i386

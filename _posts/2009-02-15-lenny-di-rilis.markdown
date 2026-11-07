@@ -31,6 +31,8 @@ Adeodato SimÃ³, on behalf of the release team, sent a [release update](http://
 
 With the recent [second release candidate](http://lists.debian.org/debian-devel-announce/2008/12/msg00006.html) of the debian-installer for lenny, the archive has now gone into deep freeze, which means that only packages fixing release critical bugs will be allowed to enter Lenny. People wanting to help can fix these bugs, test the debian-installer, or help with the [release notes](http://lists.debian.org/debian-doc/2008/11/msg00034.html).</blockquote>
 
+<!--more-->
+
 
 
 Dari dari [sini](http://blog.ganneff.de/blog/2009/02/14/lenny-release.html):

@@ -20,6 +20,8 @@ Tulisan ini memberi konfigurasi yang bisa langsung dipasang di Apache Debian ata
 
 Konfigurasi di bawah sudah diuji di Apache 2.4.69 dengan OpenSSL 3.5.7, memakai layout `/etc/apache2` bawaan Debian 13 dengan modul, `tls.conf`, dan file site dari tulisan ini diaktifkan, lalu dicek dengan `openssl s_client` dan `curl`.
 
+<!--more-->
+
 **Read in English:** [How to Get an A+ on SSL Labs with Apache httpd]({% post_url 2026-11-05-ssl-labs-a-plus-apache %}). Pakai nginx? Lihat [Cara Mendapat A+ di SSL Labs dengan nginx]({% post_url 2026-11-05-ssl-labs-a-plus-nginx-id %}).
 
 ![Tangga grade SSL Labs untuk Apache: apa yang menahan server di B atau A-, dan syarat A+](/img/ssl-labs-a-plus-apache-id.png)

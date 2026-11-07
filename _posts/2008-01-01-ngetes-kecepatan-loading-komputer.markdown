@@ -24,6 +24,8 @@ cukup menarik sekali karena si program ini dapat menghitung dengan akurat dan me
 
 program ini tersedia dalam paket repository debian/ubuntu, untuk instalasinya tinggal ketikkan
 
+<!--more-->
+
 `# apt-get install bootchart`
 
 paket lainya juga tersedia dalam bentuk distro Suse, Mandriva. dan ada juga dalam bentuk source nya (tarball)

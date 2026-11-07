@@ -22,6 +22,8 @@ Dulu pernah ngalami pesan error yang kocak tapi sekarang sudah tidak :) Berikut 
 
 operasi berhasil tapi error, benar-benar membingungkan :)
 
+<!--more-->
+
 
 
 [![](http://lh3.ggpht.com/_-A4vw5BwqxA/SjNkpPRnL8I/AAAAAAAACk8/yc4XM7dUBvQ/windows_12.jpg)](http://funevil.blogspot.com/)
