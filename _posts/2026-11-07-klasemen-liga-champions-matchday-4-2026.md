@@ -273,6 +273,27 @@ Persaingan di zona delapan besar sangat rapat. Liverpool di peringkat 8 dan Dort
 
 Di bawah, garis peringkat 24 juga padat. Enam tim mengumpulkan 4 poin, dari Roma di peringkat 20 sampai Bodø/Glimt di peringkat 25, dan delapan tim lagi tertinggal satu poin dengan 3 poin. Atlético Madrid (peringkat 23) baru sekali menang dan dua kali kalah. Napoli (27) dan Porto (26) berada di luar zona play-off, begitu juga RB Leipzig (29). Masih ada empat laga tersisa, jadi posisi ini belum menentukan, tetapi ruang kesalahan untuk mereka semakin sempit.
 
+## Top skor sampai matchday 4
+
+Anastasios Douvikas dari Como memimpin daftar pencetak gol dengan 6 gol setelah hat-trick di Lens. Erling Haaland dan Nicolò Tresoldi menyusul dengan 5 gol, dan sembilan pemain lain mengoleksi 4 gol ([UEFA](https://www.uefa.com/uefachampionsleague/news/02a9-218f8e669a0a-debba167a199-1000--champions-league-top-scorer-tasos-douvikas-leads-erling-ha/); [ESPN](https://www.espn.com/soccer/stats/_/league/uefa.champions)). Kolom terakhir menunjukkan jumlah gol tiap pemain di matchday 4.
+
+| # | Pemain | Klub | Gol | Gol di MD4 |
+|---:|---|---|:---:|:---:|
+| 1 | Anastasios Douvikas | Como | **6** | 3 |
+| 2 | Erling Haaland | Manchester City | **5** | 1 |
+| 2 | Nicolò Tresoldi | Club Brugge | **5** | 1 |
+| 4 | Aleksey Batrakov | Galatasaray | 4 | 2 |
+| 4 | Raphinha | Barcelona | 4 | 2 |
+| 4 | Fabián Ruiz | Paris Saint-Germain | 4 | 2 |
+| 4 | Kylian Mbappé | Real Madrid | 4 | 1 |
+| 4 | Donyell Malen | Roma | 4 | 1 |
+| 4 | Ermedin Demirović | Stuttgart | 4 | 0 |
+| 4 | Serhou Guirassy | Borussia Dortmund | 4 | 0 |
+| 4 | Harry Kane | Bayern München | 4 | 0 |
+| 4 | Luis Suárez | Sporting CP | 4 | 0 |
+
+Pemain dengan jumlah gol sama diberi peringkat yang sama. Tiga pemain di kelompok 4 gol (Batrakov, Raphinha, dan Fabián Ruiz) naik ke kelompok itu berkat dua gol di pekan ini, sedangkan Kane, Guirassy, Demirović, dan Suárez tidak mencetak gol di matchday 4.
+
 ## Jadwal matchday 5
 
 Matchday 5 dimainkan Selasa dan Rabu, 24-25 November 2026 ([UEFA](https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/)). Beberapa laga yang mempertemukan tim dari papan atas atau tim yang sedang terancam:
@@ -293,6 +314,8 @@ Laga Brugge melawan Liverpool mempertemukan dua tim yang sama-sama mengoleksi 9 
 
 - UEFA, [2026/27 Champions League: All the league phase fixtures and results](https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/), diakses 7 November 2026.
 - ESPN, [Soccer Scores 3 November 2026](https://www.espn.com/soccer/scoreboard/_/date/20261103/league/uefa.champions) dan [4 November 2026](https://www.espn.com/soccer/scoreboard/_/date/20261104/league/uefa.champions), papan skor Liga Champions.
+- UEFA, [Champions League top scorer: Tasos Douvikas leads Erling Haaland and Nicolò Tresoldi](https://www.uefa.com/uefachampionsleague/news/02a9-218f8e669a0a-debba167a199-1000--champions-league-top-scorer-tasos-douvikas-leads-erling-ha/), November 2026.
+- ESPN, [UEFA Champions League Stats, 2026-27 Season](https://www.espn.com/soccer/stats/_/league/uefa.champions).
 - Sky Sports, halaman susunan pemain tiap laga (kartu kuning dan merah), diakses dari jadwal [3 November 2026](https://www.skysports.com/football-scores-fixtures/2026-11-03) dan [4 November 2026](https://www.skysports.com/football-scores-fixtures/2026-11-04).
 - Yahoo Sports, [UEFA confirm Matheus Cunha's fate after red card in Man United's sensational Roma comeback](https://sports.yahoo.com/articles/uefa-confirm-matheus-cunha-fate-080000709.html), November 2026.
 - LiveScore, [laporan pertandingan FC Porto 4-1 Napoli](https://www.livescore.com/en/news/football/serie-a/ucl-fc-porto-4-1-napoli-error-prone-partenopei-collapse-in-porto-football-italia/), November 2026.
