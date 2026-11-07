@@ -294,6 +294,24 @@ Anastasios Douvikas dari Como memimpin daftar pencetak gol dengan 6 gol setelah 
 
 Pemain dengan jumlah gol sama diberi peringkat yang sama. Tiga pemain di kelompok 4 gol (Batrakov, Raphinha, dan Fabián Ruiz) naik ke kelompok itu berkat dua gol di pekan ini, sedangkan Kane, Guirassy, Demirović, dan Suárez tidak mencetak gol di matchday 4.
 
+## Assist terbanyak sampai matchday 4
+
+Nico Paz memimpin daftar assist dengan 5 assist dari empat laga, salah satunya umpan untuk gol ketiga Douvikas di Lens ([Flashscore](https://www.flashscore.nl/news/soccer-champions-league-lens-como-report-04-11-2026/lvjDmted/)). Lamine Yamal menyusul dengan 4 assist, lalu tujuh pemain mengoleksi 3 assist ([ESPN](https://www.espn.com/soccer/stats/_/league/uefa.champions)).
+
+| # | Pemain | Klub | Main | Assist |
+|---:|---|---|:---:|:---:|
+| 1 | Nico Paz | Como | 4 | **5** |
+| 2 | Lamine Yamal | Barcelona | 4 | **4** |
+| 3 | Ousmane Dembélé | Paris Saint-Germain | 3 | 3 |
+| 3 | Brahim Díaz | Real Madrid | 3 | 3 |
+| 3 | Y. Dibango | LASK | 3 | 3 |
+| 3 | Maghnes Akliouche | Paris Saint-Germain | 4 | 3 |
+| 3 | Kostas Tsimikas | Liverpool | 4 | 3 |
+| 3 | Zlatko Tripić | Viking | 4 | 3 |
+| 3 | Harry Kane | Bayern München | 4 | 3 |
+
+Penghitungan assist bisa berbeda antar penyedia data karena definisinya tidak seragam. Tabel di atas mengikuti ESPN. Dembélé, Brahim Díaz, dan Dibango mencapai 3 assist hanya dalam tiga penampilan.
+
 ## Jadwal matchday 5
 
 Matchday 5 dimainkan Selasa dan Rabu, 24-25 November 2026 ([UEFA](https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/)). Beberapa laga yang mempertemukan tim dari papan atas atau tim yang sedang terancam:
