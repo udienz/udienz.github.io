@@ -35,6 +35,8 @@ karena saya suka menggunakan mc dan pico perintah pengeditanya seperti ini
 
 `$ pico /etc/wgetrc`
 
+<!--more-->
+
 kalo sudah simpan dan siap di uji coba boz.....
 
 referensi:

@@ -26,6 +26,8 @@ pengen lihat pengaturanya, silakan lihat di [http://www.ubuntu-id.org/news/mirro
 
 kita lihat trafficnya....
 
+<!--more-->
+
     
     # sudo apt-get update
     Get:1 http://dl2.foss-id.web.id feisty Release.gpg [191B]

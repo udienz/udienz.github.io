@@ -75,6 +75,8 @@ Bagaimana derita yang mereka tanggung. Bagaimana hidup mereka yang dikucilkan ol
 
 Demikanlah di antaranya obat-obat yang dapat menangkal dan menyembuhkan penyakit mabuk asmara. Seperti yang telah disebutkan di atas, semua obat ini tidak akan manjur bila yang melakukannya tidak berusaha dengan sungguh-sungguh ingin sembuh dari penyakitnya. Kita bermohon kepada Allah agar menjauhkan kita dari jalan-jalan kehancuran dan membimbing kita kepada kebaikan dunia dan akhirat.
 
+<!--more-->
+
 Wallahu aâ€™lam
 *Diringkas dari kitab Al-â€™isyq, Bila Hati Dimabuk Cinta karya Muhammad
 Ibrahim Al-Hamd, penerbit Pustaka At Tibyan Solo

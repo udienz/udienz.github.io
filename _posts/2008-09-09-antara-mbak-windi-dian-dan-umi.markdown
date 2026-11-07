@@ -53,6 +53,8 @@ tentu saja dia mempunyai innner beauty, hehehe. akhirnya aku temenan
 baik dengan mbak Dian walau waktu itu aku juga jalan dengan mbak
 Windi.
 
+<!--more-->
+
 mbak Dian sepertinya jarang sakit dan tidak rewel, aku semakin
 bingung dengan ke dua wanita ini. mbak Windi akhirnya ku jauhi dan ku
 dekati mbak Dian. anehnya sebenarnya mbak Dian tau kalau aku juga

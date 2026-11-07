@@ -25,6 +25,8 @@ akhirnya kelar juga, setelah menunggu hampir seharian, akhirnya kelar juga.. mak
     debian:/home/udienz# wget -c http://archive.canonical.com/pool/partner/v/vmware- server/vmware-server_1.0.4-1gutsy2_i386.deb  --17:06:42 --
     
     http://archive.canonical.com/pool/partner/v/vmware-server/vmware-s erver_1.0.4-1gutsy2_i386.deb
+
+<!--more-->
     
     => `vmware-server_1.0.4-1gutsy2_i386.deb'
     

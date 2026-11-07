@@ -37,6 +37,8 @@ Nama paket [speech-dispatcher](https://launchpad.net/ubuntu/+source/speech-dispa
     make: *** [binary-install/python-speechd] Error 2
     dpkg-buildpackage: error: /usr/bin/fakeroot debian/rules binary gave error exit status 2
 
+<!--more-->
+
 
 Solusinya? jangan menuliskan secara manual versi python. berikut adalah patchnya:
 

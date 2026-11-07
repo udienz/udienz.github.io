@@ -48,6 +48,8 @@ silakan koreksi bila perintah di atas salah. nah tapi saya pengen install dari s
 
 sebentar saya break dulu, seperti biasa instalasi melalui source entah itu dari berkas `tar.gz` atu `tar.bz2` itu insya Allah tidak jauh jauh dari
 
+<!--more-->
+
     
     $ ./configure
     $ make

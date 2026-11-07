@@ -109,6 +109,8 @@ cara nya sangat mudah, silakan kopi dan pastr di komputer anda. silakan anda bua
 
 baru kemudian di jalanin
 
+<!--more-->
+
     
      sudo ./install-blankon.sh
 

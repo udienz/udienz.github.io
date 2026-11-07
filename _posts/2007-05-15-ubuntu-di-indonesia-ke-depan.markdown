@@ -20,4 +20,6 @@ naum di balik itu semua tentunya saya sendiri sangat bangga, karena dengan berke
 
 apakah anda sekarang masih pengen ke Vista??? perlu diketahui vista sangatlah tamak karena menghabisakan memory resouce yang sangat banyak. dan yang perlu gigaris bawahi adalah vista memerlukan komputer yang mempunyai spek yang tinggi!!!
 
+<!--more-->
+
 So, tunggu apalagi di sini Ubuntu di sana Debian di situ Suse di samping Mandriva di depan Redhat dan di mana-mana LINUX

@@ -20,6 +20,8 @@ alhamdulillah akhirnya bisa bulis lagi... setelah bingung mikiri proyek plus ban
     
     deb http://id.archive.ubuntu.com/ubuntu/ feisty restricted main multiverse universe
 
+<!--more-->
+
 
 
     

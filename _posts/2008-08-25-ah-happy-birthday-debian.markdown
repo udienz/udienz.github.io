@@ -23,4 +23,6 @@ I Love Debian and Debian based! Sure currently I'm waiting Lenny to be stable re
 
 "And Happy Birthday Debian!"
 
+<!--more-->
+
 [please see this (first release)](http://groups.google.com/group/comp.os.linux.development/msg/a32d4e2ef3bcdcc6?output=gplain)

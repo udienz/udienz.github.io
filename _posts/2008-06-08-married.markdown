@@ -28,6 +28,8 @@ _original http://mirror7.escomposlinux.org/comic/ecol-160-e.png_
 
 let's think again about marry...
 
+<!--more-->
+
 Solution:
 
 0. `$ sudo apt-get update`

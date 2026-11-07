@@ -23,6 +23,8 @@ nah silakan cobak buka halaman ini [http://arsip.ubuntu-id.org/a/sources.list/](
 
 jadi diharapkan tidak ada lagi kebingungan dalam menulis sources.list. terimakasih om [iang](http://fajran.web.id)...
 
+<!--more-->
+
 referensi:
 
 http://groups.google.com/group/id-ubuntu/browse_thread/thread/d51fd61d4d40e4c7

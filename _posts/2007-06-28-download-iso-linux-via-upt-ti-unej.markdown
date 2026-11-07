@@ -25,6 +25,8 @@ Alhamdulillah akhirnya mahasiswa Unej dah dapet [download ISO Linux ](http://www
 
 untuk alamatnya, [klik di sini untuk melihat](http://www.unej.ac.id/upt/ti/downloads/)
 
+<!--more-->
+
 dan tak lupa ucapan terima kasih dari saya untuk pak Maududie, pak Kahar, pak Slamin dan semuanya yang telah nyediakan iso Linux di kampus Unej ini
 
 ** what's Next**

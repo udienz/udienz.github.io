@@ -35,6 +35,8 @@ Oke, kita akan membuat paket debian dari kode sumber milik kita sendiri untuk it
 
 hal-hal yang perlu diperhatikan adalah:
 
+<!--more-->
+
 
 
 

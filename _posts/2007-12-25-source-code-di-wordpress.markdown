@@ -20,6 +20,8 @@ oke lanjut... silakan baca[ tutorialnya ](http://faq.wordpress.com/2007/09/03/ho
 
 jadi kita bisa memasukkan source code program dalam blog kita, tampilanaya baik, simpel dan terstruktur..  dan yang paling saya suka, ada penomorannya...  untuk menampilkanya anda harus memulai source_code nya dengan statemen `**[****sourcecode language='Bahasa_Pemrogramannya'] Isi_Source_code [/sourcecode] **` bahasa pemrograman yang di dukung adalah
 
+<!--more-->
+
 <!-- more -->
 
 

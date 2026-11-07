@@ -24,6 +24,8 @@ Setelah [di rilis](https://plus.google.com/102150693225130002912/posts/CJpyYdCqB
     $ sudo add-apt-repositoryÂ <strong>ppa:udienz/lucid-bpo</strong>
     
     $ sudo apt-get update
+
+<!--more-->
     
     $ sudo apt-get installÂ <strong><strong>linux-headers-3.0.0-8-genericÂ <strong>linux-image-3.0.0-8-generic</strong></strong></strong>
     

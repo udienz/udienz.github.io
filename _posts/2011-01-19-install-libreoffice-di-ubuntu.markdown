@@ -18,6 +18,8 @@ Seperti yang kita ketahui, libreoffice adalah paket (kalau saya menyebutnya) tur
 
 Nah bagaimana acara install LibreOffice? Silakan ketik di terminal yang terletak di Applications>Accesories>Terminal, kemudian ketik
 
+<!--more-->
+
 `sudo add-apt-repository ppa:libreoffice/ppa`
 
 **Kemudian:**

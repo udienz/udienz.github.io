@@ -28,6 +28,8 @@ Pada lab kali ini topologi yang akan digunakan adalah sebagai berikut:
 
 [![lab-bgp-basic1](https://blog.mahyudd.in/wp-content/uploads/2014/10/lab-bgp-basic1.png)](https://blog.mahyudd.in/wp-content/uploads/2014/10/lab-bgp-basic1.png)
 
+<!--more-->
+
 Untuk mesin vyatta akan menggukan sebutan Router 1 (R1), untuk cisco menggunakan sebutan Router 2 (R2) dan dan Router 3 (R3) untuk Mikrotik. Sedangkan network yang akan digunakan adalah network 192.168.0.0/16, dengan rincian sebagai berikut:
 
 

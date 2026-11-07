@@ -43,6 +43,8 @@ Dalam halaman ini akan di jelaskan bagaimana cara membuat Live CD yang berbasisk
 
 Paket squashfs-tools, dchroot dan mkisofs
 
+<!--more-->
+
 
 
 

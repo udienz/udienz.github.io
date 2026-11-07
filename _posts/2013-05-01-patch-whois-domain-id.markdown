@@ -83,6 +83,8 @@ sudo dpkg -i whois_*.deb
 
 Cek pada sebuah domain, contohnya udienz.my.id
 
+<!--more-->
+
 ```
 whois udienz.my.id
 Whois Results for "udienz.my.id".

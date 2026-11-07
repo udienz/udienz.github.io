@@ -24,6 +24,8 @@ engkau mengenalkanku kesetiaan
 ketika aku mencari kecantikan
 engkau mengenalkanku kehidupan
 
+<!--more-->
+
 ketika aku mencari perhatiannya
 engkau mengenalkanku kasih sayang
 

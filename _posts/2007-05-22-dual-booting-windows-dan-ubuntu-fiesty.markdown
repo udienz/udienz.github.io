@@ -28,6 +28,8 @@ Pada blog sebelumnya ([PANDUAN MENGINSTALL UBUNTU](/2007/05/20/panduan-menginsta
 
 system Windows XP
 
+<!--more-->
+
 Partition Magic
 
 CD Ubuntu Fiesty

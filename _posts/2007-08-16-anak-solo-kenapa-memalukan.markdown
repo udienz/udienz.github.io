@@ -24,6 +24,8 @@ sangat ironis!!!! bagaimana mungkin saya bisa diam ketika TanahKelahiran menenta
 
 kalau melihat alasan dari berita di atas:
 
+<!--more-->
+
 
 
 	

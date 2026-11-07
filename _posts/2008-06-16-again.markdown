@@ -26,6 +26,8 @@ i'm forget again...
     C:Documents and Settingssmilecrew>ls
     'ls' is not recognized as an internal or external command,
     operable program or batch file.
+
+<!--more-->
     
     C:Documents and Settingssmilecrew>
 

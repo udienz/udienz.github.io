@@ -25,6 +25,8 @@ Silakan ditambahkan di website anda :)
 
 `<a href="http://www.ubuntu.com/"><img src="http://www.ubuntu.com/countdown/banner1.png" border="0" alt="The next version of Ubuntu is coming soon" width="180" height="150" /></a>`
 
+<!--more-->
+
 
 ## Pilihan 2:
 

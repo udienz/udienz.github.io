@@ -27,6 +27,8 @@ seperti yang kita ketahui md5sum merupakan tool untuk mengecek ke_valid_an dari 
 
 contohnya saya akan membuat file md5sum dari file udienz.asc yang terletak di /home/udienz, maka perintahnya adalah
 
+<!--more-->
+
     
     udienz@ardienz:~$ pwd
     /home/udienz

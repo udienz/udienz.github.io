@@ -21,4 +21,6 @@ coba deh lihat halaman ini
 
 ni di buat ma pak andika... waktu baca tuh posting, yang kulihat pertama kali adalah cewek blankon,terus di pikiranku timbul pertanyaan, ni cewek OP nya server BlankOn yah??? enak tenan jadi developer blankon....
 
+<!--more-->
+
 ![](http://yeyen.blankonlinux.or.id/blankyen.jpg)

@@ -29,6 +29,8 @@ menolaknya.
 Cowokku bener-bener mabuk dan muntah di
 lantai, sungguh lelah membersihkannya.
 
+<!--more-->
+
 Ada yang pinjem uang sama cowokku, aku
 takut mereka tak bayar, sungguh lelah
 mencemaskannya.

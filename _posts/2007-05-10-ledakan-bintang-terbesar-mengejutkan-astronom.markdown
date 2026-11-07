@@ -24,6 +24,8 @@ WASHINGTON, SELASA - Di antara ledakan bintang atau supernova yang pernah tereka
 
 Ledakan terjadi pada bintang SN 2006gy di galaksi NGC 1260 yang terletak 240 juta tahun cahaya dari Bumi. Ledakannya pertama kali diketahui pada September tahun 2006. Sinar yang dipancarkan bintang akibat ledakan terus menguat selama 70 hari dan pada puncaknya mencapai 50 miliar kali kekuatan cahaya Matahari atau 10 kali lipat kekuatan cahaya yang dihasilkan pusat galaksinya. Peristiwa ini sangat langka karena supernova pada umumnya hanya berlangsung dalam hitungan hari atau beberapa minggu.
 
+<!--more-->
+
 ![](http://a52.g.akamaitech.net/f/52/827/1d/www.space.com/images/sn2006gy_main_02.jpg)
 
 Gambaran baru

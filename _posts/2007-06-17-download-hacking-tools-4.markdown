@@ -28,6 +28,8 @@ Download Magic Login ++ (Crack All of Version Yahoo Messenger, MultiLogin, and A
 Download kumpulan hasil deface terkenal (seperti adulttv.com, angelfire.com, japan.co.jp, milw0rm, nasa-hacked, dsb)
 - [Download kumpulan hasil deface terkenal](http://www.yogyafree.net/kumpulan_hasil_deface_terkenal.zip)
 
+<!--more-->
+
 <!-- more -->
 
 Download Perfect Keylogger (Keylogger yang bisa digabung dengan file executable lain)

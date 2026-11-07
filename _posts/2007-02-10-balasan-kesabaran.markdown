@@ -28,6 +28,8 @@ Dalam riwayat Al-Bukhari, Sufyan bin Uyainah berkata : "_Seorang laki-laki dari 
 
 Dalam riwayat lain (Riwayat ini disebutkan oleh Thahir bin Muhammad Al-Haddad dalam kitanya "_Uyunul Majalis an Mu'awiyah bin Qurrah". Lihat Baradul Akbad, hal. 25) disebutkan : "Ia berkata, Maka isterinya pun hamil mengandung anaknya, lalu anak itu ia beri nama Abdullah, lalu Rasulullah SAW bersabda, 'Segala puji bagi Allah yang menjadikan dalam umatku orang yang memiliki kesabaran seperti kesabaran seorang wanita dari Bani Israil'. Kepada beliau ditanyakan, 'Bagaiman beritanya wahai Rasulullah?' Beliau bersabda, 'Dalam Bani Israil terdapat wanita bersuami yang memiliki dua anak. Suaminya memerintahkannya menyediakan makanan untuk orang-orang yang ia undang. Para undangan berkumpul di rumahnya. Ketika itu kedua anaknya keluar untuk bermain, tiba-tiba mereka terjatuh ke dalam sumur dekat rumahnya. Sang isteri tidak hendak mengganggu suaminya bersama para tamunya, maka keduanya ia masukkan ke dalam rumah dan ditutupinya dengan pakaian. Ketika para undangan sudah pulang, sang suami masuk seraya bertanya, 'di mana anak-anakku?' Isterinya menjawab, 'Di dalam rumah'. Ia lalu mengenakan minyak wangi dan menawarkan diri kepada suaminya, sehingga mereka melakukan jima'. Sang suami kembali bertanya, 'Di mana anak-anakku?' 'Di dalam rumah', jawab isterinya. Lalu sang ayah memanggil kedua anaknya. 'Tiba-tiba mereka keluar memenuhi panggilan. Sang isteri terperanjat, 'Subhanallah, Mahasuci Allah, demi Allah keduanya telah meninggal dunia, tetapi Allah menghidupkannya kembali sebagi balasan dari kesabaranku!_" 
 
+<!--more-->
+
 
 
 

@@ -25,6 +25,8 @@ I hope you put countdown image to you blog or whatever you can put it, here is c
     
     http://news.debian.net/wp-content/uploads/2011/squeeze_countdown.png
 
+<!--more-->
+
 
 an image will appear like this
 ![Debian squeeze countdown](http://news.debian.net/wp-content/uploads/2011/squeeze_countdown.png)

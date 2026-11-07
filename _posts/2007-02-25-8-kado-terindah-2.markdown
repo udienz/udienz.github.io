@@ -148,4 +148,6 @@ kita. Kapan terakhir kali Anda menghadiahkan senyuman
 manis pada orang yang
 Anda kasihi?
 
+<!--more-->
+
 dari berbagai sumber

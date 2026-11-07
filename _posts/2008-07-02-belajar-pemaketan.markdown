@@ -26,6 +26,8 @@ saya menggunakan pbuilder untuk membangun paket impor dari ubuntu ini, silakan l
 
 [![Screenshot-Index of -temp - Mozilla Firefox 3 Beta 5-1](http://farm4.static.flickr.com/3137/2629868781_0eed3a61ed.jpg)](http://www.flickr.com/photos/udienz/2629868781/)
 
+<!--more-->
+
 Saya hanya mengganti lsb_base sehingga server signaturenya menjadi BlankOn, lumayan mudah kok. kalo pengen belajar pemaketan silakan belajar di:
 
 http://wiki.ubuntu-id.org/DokumentasiKomunitas/PackagingGuide

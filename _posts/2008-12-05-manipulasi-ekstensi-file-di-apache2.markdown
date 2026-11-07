@@ -22,6 +22,8 @@ hasil [ngerumpi](http://dev.blankonlinux.or.id/irclogs/2008/09/16) di blankon da
 
 caranya cukup memaksa si apache menggunakan aplikasi zcat untuk membaca berkas *.gz sehingga bisa di tampilkan, silakan edit berkas di`/etc/apache2/site-avaliable/default`, kemudian tambahkan opsi berikut:
 
+<!--more-->
+
     
     Alias /status "/home/sedot/data/report"
     <Directory /home/sedot/data/report>

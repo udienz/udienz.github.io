@@ -18,6 +18,8 @@ _(gambar tidak tersedia: 1.png)_
 
 kalo yang diatas tuh gambar administrasi, kalo yang ini gambar
 
+<!--more-->
+
 _(gambar tidak tersedia: screenshot-1.png)_
 
 fitur yang menarik karena dapat mengatur tataletak konten dengan hanya drag n drop. dan yang ini adalah

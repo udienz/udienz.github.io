@@ -25,6 +25,8 @@ kemudahan yang di tawarkan di DewaLinux memang unik, hal ini di karenakan tampil
 
 jadi andaikata anda belum pernah/mau migrasi ke Linux sangat di sarankan sekali menggunakan distro ini.  selain itu, distro ini bebas biaya yang tentu saja sangat baik untuk kantong kita, hehehe...
 
+<!--more-->
+
 apalagi kita dapat memesanya sesuai dengan pesanan kita, dalam artian apabila anda ingin nama perusahaa/organisasi anda tercantum di setiap sistem nya (GDM, Theme, Wallpaper)anda cukup memesanya saja.
 
 Selamat mencoba!!

@@ -22,6 +22,8 @@ Saya, anda dan kita semua tau bahwasanya pembunuhan oleh warga sipil yang tidak 
 
 baik kembali ke topik, Kanada mengkalim bahwa roket Hamas lah yang memicu.
 
+<!--more-->
+
 
 <blockquote>"_Roket rakitan gerakan Palestina tersebut, yang lebih merupakan teriakan kesulitan akibat pendudukan dan blokade kejam dibandingkan senjata perang, menewaskan 13 orang Israel dalam delapan tahun_," kata para diplomat itu kepada Cannon dalam satu pernyataan.</blockquote>
 

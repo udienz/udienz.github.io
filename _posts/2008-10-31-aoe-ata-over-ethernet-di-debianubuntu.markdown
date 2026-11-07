@@ -40,6 +40,8 @@ silakan cek dahulu apakah kernel anda mendukung AOE
 
 bila tidak tampak diatas maka berarti kernel anda belum mendukung AOE. langkah selanjutnya adalah mengaktifkan modul aoe
 
+<!--more-->
+
 
     
     

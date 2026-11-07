@@ -28,6 +28,8 @@ Suatu ketika, kakek ini punya suatu keinginan. Ia pun kemudian mendatangi tuhann
 
 Kakek itu memohon sambil merengek-rengek kepada Latta dan Uzza kiranya doa`nya dapat dikabulkan. Demikian seterusnya dia lakukan. Setelah sampai tujuh puluh kali doa` itu ia panjatkan, tak ada sedikitpun pengabulan dari berhala tuhannya yang ia peroleh. Maka kakek itu sedih sekali dan akhirnya putus asa. 
 
+<!--more-->
+
 
 
 

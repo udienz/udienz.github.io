@@ -24,6 +24,8 @@ Syaikh Muhammad bin Abdul Wahhab
 
 Firman Allah Ta'ala (artinya):
 
+<!--more-->
+
 "Dan diantara manusia ada orang-orang yang mengangkat sembahan-sembahan selain Allah; mereka mencintainya sebagaimana mencintai Allah. Adapun orang-orang yang beriman sangat cinta kepada Allah." (Al-Baqarah: 165)
 
 "Katakanlah: "Jika bapak-bapak, anak-anak, saudara-saudara, isteri-isteri, kaum keluargamu, harta kekayaan yang kamu usahakan, perniagaan yang kamu khawatirkan kerugiannya, dan rumah-rumah tempat tinggal yang kamu sukai; itu lebih kamu cintai daripada Allah dan Rasul-Nya dan (daripada) berjihad di jalan-Nya, maka tunggulah sampai Allah mendatangkan keputusan-Nya."." (Bara'ah/At-Taubah: 24)

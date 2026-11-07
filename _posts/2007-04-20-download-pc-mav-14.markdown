@@ -21,4 +21,6 @@ untuk update librarynya (ClamAV) silakan klik
 
 [main.cvd](http://db.local.clamav.net/main.cvd)
 
+<!--more-->
+
 [daily.cvd](http://http://db.local.clamav.net/daily.cvd)

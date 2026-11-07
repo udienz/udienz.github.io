@@ -24,6 +24,8 @@ kabargembira buat pecinta Ubuntu, ternyata google bisa di add ke repository kita
 
 nih caranya:
 
+<!--more-->
+
 pertama tama kita harus meng-add [Signing  Key](http://www.google.com/linuxrepositories/aboutkey.html) nya dengan cara
 
     

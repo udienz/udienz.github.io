@@ -31,6 +31,8 @@ Pada suatu hari, al-Balkhi berangkat ke negeri orang untuk berdagang. Sebelum be
 
 "Dalam perjalanan", jawab al-Balkhi, "aku melihat suatu keanehan, sehingga aku memutuskan untuk segera membatalkan perjalanan".
 
+<!--more-->
+
 
 
 

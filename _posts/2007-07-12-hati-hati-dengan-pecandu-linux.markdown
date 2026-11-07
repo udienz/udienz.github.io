@@ -31,6 +31,8 @@ Linux akan mengacaukan perasaan kamu, bahkan akan memberikan pengaruh yang merus
 Seorang pecandu linux tidak mampu menghadapi kenyataan bahwa sebuah program dibuat dengan
 susah payah dan seorang programmer berhak mendapatkan kompensasi yang pantas atas jerih payahnya.
 
+<!--more-->
+
 Mungkin ada yang berkata 'kan nggak semua jenis Linux berbahaya !" semua jenis Linux berbahaya mulai dari RedHat, Mandrake, Suse, Trustix, Slackware dan variannya.
 Kesemuanya akan menyebabkan kamu menjadi Pusing-pusing (akibat zat kernel yang terdapat didalamnya), Kehilangan teman dan kehidupan sosial (akibat kelamaan nongkrong ngurusin linux),
 Delusi (zat open source yang terkandung didalamnya membuat kamu merasa punya hak untuk mengetahui rahasia apa saja), Pecandu Mozilla (Kamu akan menjadi fanatik dengan Mozilla dan menganggap IE tidak ada apa-apanya),

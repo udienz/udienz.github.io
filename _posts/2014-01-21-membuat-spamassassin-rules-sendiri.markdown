@@ -34,6 +34,8 @@ Bagaimana solusinya?
 
 Jelas bahwa spamassassin tidak akan memahami keinginan kita tentang tiga point diatas :) solusinya adalah kita harus membuat rules sendiri. Pertama tama kita buat rules baru ini di /etc/spamassassin/local/test.cf. Detail dari langkahnya adalah sebgai berikut:
 
+<!--more-->
+
     
     mkdir /etc/spamassassin/local
     echo "include /etc/spamassassin/local/test.cf" >> /etc/spamassassin.local.cf

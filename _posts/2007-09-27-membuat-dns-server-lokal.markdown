@@ -68,6 +68,8 @@ The primary server who user in immkota.org domain is **192.168.1.1**, Based on D
 
 The Secondary Server who user  in immkota.org domain is 192.168.1.11, Based on Ubuntu Server 
 
+<!--more-->
+
 
 
 

@@ -35,6 +35,8 @@ Tulisan ini membahas apa itu GPON, standar yang mendasarinya, arsitektur dan car
 
 GPON sendiri adalah keluarga standar ITU-T G.984. Cisco menjelaskan perangkat sisi operator (OLT) mengumpulkan sinyal dari banyak ONT dalam satu aliran terpadu, lalu memformatnya menjadi Ethernet ([Cisco, Understand GPON Technology](https://cisco.com/c/en/us/support/docs/switches/catalyst-pon-series/216230-understand-gpon-technology.html), Rev 3.0, 6 Desember 2023).
 
+<!--more-->
+
 ## Keluarga standar ITU-T G.984
 
 G.984 bukan satu dokumen, melainkan beberapa rekomendasi yang membagi tugas per lapisan. Tanggal berikut diambil dari halaman ITU untuk masing-masing rekomendasi:

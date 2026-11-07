@@ -27,6 +27,8 @@ Subject dalam email adalah '**Sayang pengguna**', mungkin si pembuat mentranslat
     Date: Thu, 15 Aug 2013 19:39:38 +0100
     Reply-To: 1497179306@qq.com
     Message-Id: <2013__________________DA3F@webmail.manaus.am.gov.br>
+
+<!--more-->
     
     sayang pengguna
     E-mail Anda telah melampaui 2 GB, yang diciptakan oleh webmaster kami, Anda=

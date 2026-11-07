@@ -25,6 +25,8 @@ Berikut adalah blog keren per 25 juni 2007 jam 01:00
 	
   1. 
 
+<!--more-->
+
 
 #### [KafeMotor](http://kafemotor.wordpress.com/)
 

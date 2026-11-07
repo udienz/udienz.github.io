@@ -35,6 +35,8 @@ Langkah selanjutnya adalah menilik paket apa yang akan anda sync kan ke Ubuntu, 
     shorewall6 | 4.4.16.1-1 | natty/universe | source, all
     $
 
+<!--more-->
+
 
 Selangjutnya kita harus memeriksa [changelog](http://packages.debian.org/changelogs/pool/main/s/shorewall6/current/changelog) di Debian, apakah yang berubah? owh ternyata hanyalah rilis upstream. jadi tidak akan menjadi masalah. yang akan menjadi masalah adalah jika paket tersebut mempunyai perubahan di Ubuntu, untuk meyakinkan apakah versi tersebut ada perubahan di Ubuntu dapat ditentukan dengan pemversian. Jika shorewall6 mempunyai perubahan di Ubuntu maka versinya akan mempunyai ekor XubuntuY, contoh 4.4.16.1-1ubuntu2. Sebaiknya kita mengecek lagi apakah perubahan itu sudah ada di Debian atau belum. Jika belum maka anda harus melakukan merging (penggabungan), akan dibahas di tulisan selanjutnya. Jika tidak mari kita lanjutkan prosesinya
 

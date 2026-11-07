@@ -32,5 +32,7 @@ Menyambung [tulisan dari mas Dedy](http://milisdad.blogspot.com/2012/07/menghila
             server_tokens off;
     }
 
+<!--more-->
+
 
 Simpan dan restart nginx. Yay!

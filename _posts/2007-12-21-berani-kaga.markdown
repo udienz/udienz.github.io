@@ -26,6 +26,8 @@ MHS, Menurut hemat saya
 
 tak apalah kita [di caci ](http://blogirang.wordpress.com/2007/12/21/lha-doraemon-sesat-adanya/)dan [di maki](http://kabutorider.wordpress.com/2007/12/19/lagi-lagi-orang-menuduh-sesat-seenak-jidat/) atau [di puji](http://fetro.wordpress.com/2007/09/10/ubuntu-704-pengganti-win-xp/) oleh orang lain karena tindakan kita... itulah bentuk kejantanan kita.. seperti di blog saya, bahkan si HOAX pun masih saya perbolehkan, walaupun kemudian saya delete karena tidak ada manfaat... saya juga pernah di caci kok... lebih baik jangan nulis daripada kena cacian....
 
+<!--more-->
+
 "_Segala cacian, makian, hinaan, delaan dan lain-lainya akan ku bekukan dalam otakku sehingga itu semua menjadikanku semangat yang baru
 dan lebih bisa memahami arti dari kehidupan....
 terima kasih bagi yang telah mencaciku, mencelaku, menghinaku, memakiku, dan lainya

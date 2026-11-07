@@ -26,6 +26,8 @@ Bismillahiroohmanirrohiem, ngudubillahiminassyaitonirrojiem
 
 amma ba'du
 
+<!--more-->
+
 saya perkenalkan satu demi satu...
 
 0. [Si Susi](http://www.google.co.id/search?q=Honda+supra&ie=utf-8&oe=utf-8&aq=t&rls=com.ubuntu:en-US:official&client=firefox-a)... Bukan nama sebenarnya

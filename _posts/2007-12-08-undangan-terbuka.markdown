@@ -41,6 +41,8 @@ cc:
 - tim Blankon
 - Tim Steering
 
+<!--more-->
+
 
 **** formil banget
 

@@ -24,6 +24,8 @@ Jika kamu hidup, bersiaplah untuk menghadapi kematian
 
 Jika kamu takut akan keduanya maka jangan pernah berfikir untuk hidup dan bergerak</blockquote>
 
+<!--more-->
+
 
 Jember, Juli 24th 2008
   

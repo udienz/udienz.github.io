@@ -23,6 +23,8 @@ Tak terasa [Planet Ubuntu Indonesia](http://planet.ubuntu-id.org/) telah [ganti 
 
 Oke, next beberapa hal yang perlu anda ketahui tentang Planet Ubuntu Indonesia ini adalah
 
+<!--more-->
+
 
 
 	

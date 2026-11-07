@@ -22,4 +22,6 @@ Sungguh suatu kebetulan, dimana ketua UPT-TI sekarang adalah bapak Drs. Sudarko,
 
 Hari ini, dengan resmi saya bisa memastikan bahwa [mirror.unej.ac.id](http://mirror.unej.ac.id) sekarang dapat diakses publik. Seperti dulu, mirror ini akan menyediakan layanan http/ftp/sync untuk beberapa poyek perangkat lunak terbuka seperti Debian, BlankOn, Ubuntu, Centos dan lain-lain.
 
+<!--more-->
+
 Selamat menikmati!

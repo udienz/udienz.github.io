@@ -34,6 +34,8 @@ Tulisan ini menjelaskan apa yang sebenarnya ditargetkan, apa yang menghambatnya,
 
 Target kecepatan ada di Rencana Strategis (Renstra) Kementerian Komunikasi dan Digital 2025–2029. Laporan Kinerja Komdigi 2025 memuat indikator "Kecepatan Internet Jaringan Pita Lebar Tetap (Fixed Broadband)" dengan target 2025 sebesar 37 Mbps ([Kementerian Komdigi, Laporan Kinerja 2025](https://eppid.komdigi.go.id/attachments/cb1d2d05a0d09902a340a09882b2eae56e6462ed88f3e3f688372c5053ed086a/fa1898f3b7f2672c03afd8682a6187d1ece86d3114c6a1a52d8a51fe86a81ae0.pdf), tabel indikator program, hlm. 90). Target tahun-tahun berikutnya tidak terbaca jelas di dokumen itu, jadi untuk 2026 sampai 2029 rujukannya pemberitaan, dan dua media menulis jalur yang berbeda:
 
+<!--more-->
+
 | Tahun | detikInet (7 Jan 2026) | Bisnis.com (5 Jan 2026) |
 |---|---|---|
 | 2026 | 45 Mbps | 45 Mbps |

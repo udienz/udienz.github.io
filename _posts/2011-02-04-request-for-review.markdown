@@ -77,6 +77,8 @@ Lintian clear
 
 Revu Link: [http://revu.ubuntuwire.com/p/gbilling-server](http://revu.ubuntuwire.com/p/gbilling-server) and [http://revu.ubuntuwire.com/p/gbilling-client](http://revu.ubuntuwire.com/p/gbilling-client)
 
+<!--more-->
+
 Lintian clear
 
 

@@ -29,6 +29,8 @@ Dengan asumsi anda telah menginstall Ubuntu di server anda dan squid siap di gun
 
 di terminal silahkan ketik
 
+<!--more-->
+
     
     
     sepidol:~# apt-get install lighthttpd

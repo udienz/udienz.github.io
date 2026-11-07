@@ -22,6 +22,8 @@ ni saya tulis karena setelah munindak lanjuti tulisanya mas [milisdad](http://mi
 
 ada beberapa keuntungan:
 
+<!--more-->
+
 - ketemu ma temen2 maya
 
 - kopdar ma temen2 Ubuntu-id+ BlankOn

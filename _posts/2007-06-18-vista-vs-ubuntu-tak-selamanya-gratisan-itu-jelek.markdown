@@ -19,6 +19,8 @@ kalo Ubuntu/Linux so pasti gratis man!! kata siapa kalo Ubuntu tampilanya jelek?
 
 mau tau buktinya???
 
+<!--more-->
+
 [youtube=http://www.youtube.com/watch?v=4CPIgT7NoW4]
 
 jadi mau beli vista atau Ubuntu???

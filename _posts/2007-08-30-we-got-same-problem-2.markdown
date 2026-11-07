@@ -22,6 +22,8 @@ i'm so confused about it, but i have some solutions...
 
 [![](https://bugs.launchpad.net/@@/bug-high) https://bugs.launchpad.net/launchpad-bazaar/+bug/133599](http://https://bugs.launchpad.net/launchpad-bazaar/+bug/133599)
 
+<!--more-->
+
 [![](https://bugs.launchpad.net/@@/bug-high) http://wiki.ubuntu-id.org/BlankOn/Pemaket/MasalahYangSeringDihadapi ](http://wiki.ubuntu-id.org/BlankOn/Pemaket/MasalahYangSeringDihadapi)
 
 i'm not Alone...!!!!

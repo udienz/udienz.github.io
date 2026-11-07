@@ -35,6 +35,8 @@ Jika diketahui:
 
 Langkahnya adalah sebagai berikut:
 
+<!--more-->
+
     
     $ cd /tmp
     $ wget http://www.python.org/ftp/python/3.2.2/Python-3.2.2.tgz

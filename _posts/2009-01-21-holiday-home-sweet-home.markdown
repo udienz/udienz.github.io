@@ -24,6 +24,8 @@ _(gambar tidak tersedia: n549849792_1156514_9386)_
 
 _(gambar tidak tersedia: n1561738105_1664449_907)_
 
+<!--more-->
+
 
 
 kebetulan, saya mengisi sesi BlankOn linux install fest, dan sharing komunitas. sudah ah, lagi males nulis :D

@@ -25,6 +25,8 @@ server dengan dua sebagai manager dan tiga sebagai worker. Dalam penamaan node,
 sayamenggunakan nama manager-X dan worker-Y untuk menunjukkan fungsi dari node
 itu sendiri.
 
+<!--more-->
+
 Untuk pengaturan IP, pada manager akan dibari IP 192.168.0.11 sampai dengan 192.168.0.99,
 dan worker akan mempunyai ip mulai dari 192.168.0.101 sampai dengan 192.168.0.254.
 

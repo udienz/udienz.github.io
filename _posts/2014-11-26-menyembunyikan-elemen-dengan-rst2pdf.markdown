@@ -21,6 +21,8 @@ Namun ada beberapa catatan yang mengganjal yaitu bagaimana caranya saya ingin me
 
 Menurut [pengembangnya](http://ralsina.me/weblog/posts/new-rst2pdf-feature-strip-elements-with-class.html) kita bisa menyembunyikan elemen tersebut dengan opsi `--strip-elements-with-class`. Contoh
 
+<!--more-->
+
 ```
 nge-blog
 -----------

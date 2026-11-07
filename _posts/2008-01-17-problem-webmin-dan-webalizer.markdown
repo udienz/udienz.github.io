@@ -34,6 +34,8 @@ lho.... duh... cek prosesnya ah...
 `root@ardienz:~# pstree | grep apt
 |-miniserv.pl---miniserv.pl---sh-+-apt-get---dpkg`
 
+<!--more-->
+
 oh... ternyata si proses apt-masih jalan toh... kita kill aja bareng-bareng yuk, eits sebelumnya lihat dulu PIDnya..
 `root@ardienz:~# ps -A | grep apt
 10560 ?        00:00:00 apt-get

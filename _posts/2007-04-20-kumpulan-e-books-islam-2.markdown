@@ -20,6 +20,8 @@ E-book's ini memunyai format hlp, anda tidak perlu tambahan aplikasi untuk membu
 
 Sejarah Nabi Muhammad SAW (2nd)
 
+<!--more-->
+
 [Kisah-kisah para nabi](http://www.geocities.com/mahyuddin_s/kisah-para-nabi.hlp)
 
 [Kisah Kisah Teladan](http://www.geocities.com/mahyuddin_s/teladan.hlp)

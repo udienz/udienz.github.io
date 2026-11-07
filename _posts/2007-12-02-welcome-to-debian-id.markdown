@@ -23,6 +23,8 @@ tapi jangan kawatir sekarang mau di develop sebaik mungkin... akhirnya bapaknua 
 
 di situ ada forum dan planetnya lho.... dan milisnya :D
 
+<!--more-->
+
 Selamat bergabung
 
 ***aku juga baru gabung...

@@ -29,6 +29,8 @@ mari kita coba:
     | | | | | | | |  | | | (_) | | _| |_| | | | |  __/| || (_| | (__ _| | (_| |
     |_| |_| |_|_|_|  |_|  ___/|_|(_)__,_|_| |_|___|/ (_)__,_|___(_)_|__,_|
                                                     |__/
+
+<!--more-->
     
             untuk info silakan berkunjung ke http://mirror.unej.ac.id
     silakan hubungi udienz@unej.ac.id/ashadebi@debian-id.org bila menemukan access forbidden!

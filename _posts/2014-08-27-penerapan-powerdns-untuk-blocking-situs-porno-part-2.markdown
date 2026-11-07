@@ -41,6 +41,8 @@ ubuntu:/tmp/blacklists/porn$ mv domains domains-dump
 Langkah selanjutnya adalah memastikan bahwa daftar domain tersebut (filename domains)
 memiliki content yang benar dengan syarat merupakan domain , bukan PTR maupun daftar IP.
 
+<!--more-->
+
 ```
 ubuntu:/tmp/blacklists/porn$ egrep -v -e '[0-9]$' -e '^\.' domain-dump |  sed -e '/\//d' > domains
 ```

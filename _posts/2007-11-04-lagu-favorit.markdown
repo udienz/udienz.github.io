@@ -24,6 +24,8 @@ entah kapan bisa lagi di sampingmu... jarak yang jauh memang menjadi hambatan, s
 
 mengutip lirik BIP "_Kuingin Selalu Denganmu Kemana Saja Kita Berdua Seakan Tiada Terpisahkan Tapi Tak Mungkin Di Saat Ini...Saat Ini...Sekarang Masih Banyak Mimpi Dan Keinginan Yang Belum Tercapai Biarlah Rasa Rindu Ini, Kita Tunda Tuk Sementara_"
 
+<!--more-->
+
 ni liriknya...
 
 ![](http://www.soka-radio.com/enews/data/upimages/vagetoz.jpg)

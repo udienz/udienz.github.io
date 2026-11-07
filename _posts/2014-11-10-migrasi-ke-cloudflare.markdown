@@ -19,6 +19,8 @@ Akhirnya setelah punya waktu cukup, domain [mahyudd.in](http://mahyudd.in) dan [
 
 Proses migrasinya sangat mudah sekali, tinggal kita buat domain yang akan di migrasikan, upload zone dns dan atur mana saja yang akan di arahkan ke cloudflare. Selesai! Mudah dan simple.
 
+<!--more-->
+
 **Kekurangan**:
 
 Entah ini bug atau pengaturan di laptop saya yang error, ketika dukungan IPv6 saya aktifkan di blog ini, maka dari laptop saya akan mendapatkan SSL asli dari blog ini bukan dari cloudflare.

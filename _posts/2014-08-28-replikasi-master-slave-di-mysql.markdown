@@ -45,6 +45,8 @@ Dengan asumsi kita mempunyai hak ases sudo dan belum terpasang maka kita harus m
     
     udienz@ubuntu:~$ sudo apt-get install mysql-server -y
 
+<!--more-->
+
 
 
 

@@ -31,6 +31,8 @@ Membuat virtual python ini berguna bila anda tidak mempunyai hak akses root untu
 
 Langkah selanjutnya adalah memngunduh ez_setup.py
 
+<!--more-->
+
 
     
     

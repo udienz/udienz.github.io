@@ -27,6 +27,8 @@ tuh kan walaupun dengan 2 power suplly masih aja ngadatâ€¦
 dan akhirnyaâ€¦. sudah diganti juaâ€¦
 ![](http://farm4.static.flickr.com/3124/2356844943_21e4e9a9fd.jpg)
 
+<!--more-->
+
 tuh kan masih ruwet kabelnyaâ€¦.
 
 ![](http://farm4.static.flickr.com/3099/2356844949_ff5764dc13.jpg)

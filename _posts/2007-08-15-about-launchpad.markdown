@@ -23,6 +23,8 @@ ni aku ambilkan dari halaman [wiki](http://wiki.ubuntu-id.org/Launchpad) Ubuntu 
 
 Awalnya digunakan sebagai dapur kolaborasi untuk mengembangkan Ubuntu Linux, kini **Launchpad** memiliki beberapa modul utama: 
 
+<!--more-->
+
 
 
 

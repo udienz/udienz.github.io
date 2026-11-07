@@ -28,6 +28,8 @@ penuh dosa, se-enaknya sendiri, licik dan lainnya
 
 terima kasih dirimu yang  menyadarkanku
 
+<!--more-->
+
 
 <blockquote>Kita mungkin terluka
 Ataupun bisa mati

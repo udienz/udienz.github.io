@@ -30,6 +30,8 @@ Memantau bandwidth adalah hal yang wajib bagi seorang administrator, nah kebetul
 
 untuk centos, saya menggunakan cara ini
 
+<!--more-->
+
 
     
     $ cd /usr/local/src

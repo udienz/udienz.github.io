@@ -26,6 +26,8 @@ oke silakan buat folder di manapun anda suka (saya menggunakan ~/repo
 
 `$ mkdir ~/repo`
 
+<!--more-->
+
 kemudian salin paket-paket yang ada di /var/cache/apt/archives/
 
     

@@ -26,6 +26,8 @@ Rabu, 6 Mei 2009, jam 08.00 â€“ 13.00 WIB.
 
 Gedung Keluarga Alumni Universitas Jember (KAUJE)
 
+<!--more-->
+
 Peserta : 200 orang
 
 **Tema :**

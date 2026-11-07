@@ -48,6 +48,8 @@ Persoalan baru yang muncul adalah bagaimana  saya harus memilih distro Linux unt
 
 Untuk segmen ini Linux harus memperkenalkan  dirinya secantik mungkin, Desktop yang seksi, deteksi hardware yang bagus,  mudah dalam instalasi, banyak fiturnya, dan kemudahan akses tentunya. Untuk itu  saya menagnjurkan mencoba beberapa Distro seperti:
 
+<!--more-->
+
 
 
 

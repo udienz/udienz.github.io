@@ -19,6 +19,8 @@ LONDON, April 16, 2007 â€“ For users wanting a secure, feature rich alterna
 
 Ubuntu is the award-winning [Linux distribution for the desktop](http://www.ubuntu.com/news/ubuntudesktop704), laptop, thin client and [server](http://www.ubuntu.com/news/ubuntuserver704) which brings together the best of open source software every 6 months. Ubuntu 7.04 desktop edition includes a ground-breaking Windows migration assistant, excellent wireless networking support and improved multimedia support.
 
+<!--more-->
+
 [Ubuntu 7.04 server edition](http://www.ubuntu.com/news/ubuntuserver704) adds support for hardware facilities that speed up the use of virtual machines as well as other improved hardware support, making it an excellent choice as a web, database, file and print server, the fastest growing area of Linux server use. Ubuntu's already outstanding support for thin clients is boosted with advanced print and sound support.
 
 "In the coming months, many individuals and businesses will be making the decision to upgrade their existing computer systems and their operating systems," said Jane Silber, director of Operations, Canonical Ltd. "With added features to both the desktop and server editions, Ubuntu 7.04 is the most user-friendly version to date and is ideally suited to anyone who wants to make the switch to Linux and join the community of Ubuntu users. In fact, with this version of Ubuntu, it is easier than ever to move away from proprietary platforms."

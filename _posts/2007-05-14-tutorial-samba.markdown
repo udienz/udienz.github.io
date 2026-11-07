@@ -61,6 +61,8 @@ Samba adalah program  aplikasi yang mengimplementasikan protokol Server Massage 
 
 Untuk menginstall samba user harus log-in sebagai  root, log-in sebagai root dapat melalui terminal konsole dengan cara sebagai berikut:
 
+<!--more-->
+
 
 
 

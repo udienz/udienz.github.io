@@ -33,6 +33,8 @@ Point yang terakhir ini yang <del>terlalu</del> sering saya gunakan. Pada hari i
 
 Sebenarnya kita bisa kok membuat ppa sendiri, tanpa tergantung ke ppa orang lain. Di paket ubuntu-dev-tools terdapat fileÂ backportpackage yang sangat membantu kita dalam membackport dan mengupload ke ppa. Asalkan kita punya ppa <del>dan koneksi internet</del> kita bisa dengan mudah mengupload. Contohnya
 
+<!--more-->
+
 
     
     backportpackage -d precise -s quantal -u ppa:udienz/bpo -y apache2

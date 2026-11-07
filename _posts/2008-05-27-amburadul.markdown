@@ -24,6 +24,8 @@ Masih ingatkah kau akan [komitmen](/2007/10/24/tau-nggak) Ku padamu
 
 Masih ingatkah kau akan [kasih sayang](/2007/10/24/tau-nggak) Ku padamu
 
+<!--more-->
+
 Masih ingatkah kau [akan rasa cinta](/2008/02/13/kutemukan-dirimu) Ku padamu
 
 masihkah ada kata sayangmu pada Ku?

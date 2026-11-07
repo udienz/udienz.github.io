@@ -25,6 +25,8 @@ Di Youtube.com saya sering lihat efek compiz yang sangat bagus, yaitu bergeserny
 
 setelah itu silakan buka Sistem > Preferensi > Compiz configuration settings manager, bisa dilihat di gambar di bawah ini
 
+<!--more-->
+
 [![](http://tripledin.files.wordpress.com/2011/02/gambar-layar-11.png)](http://tripledin.files.wordpress.com/2011/02/gambar-layar-11.png)
 
 Silakan cari Animations di bagian efek

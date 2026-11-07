@@ -20,6 +20,8 @@ Buku tersebut adalah buku karangan mas Askari Azikin yang di distribusikan bebas
 
 Sudah menjadi sifat dasar manusia yang hanya bisa menunggu karya orang lain, ya benar saya beberapa tahun in imenunggu karya mas Askari lagi, saya kemudian sadar bahwa sanya jika hanya menunggu apa bedanya saya dengan orang lain? Saya maklum kalau mas Askari mungkin sibuk dan atau mempunyai kepentingan di kehidupan riil, hal itu sangat sangat bisa dimaklumi. Berangkat dari pemikiran tersebut saya cawe-cawe ke mas Askari untuk bantu bantu ebooknya . Saya mengusulkan adanya revisi dan perbaikan. Mengingat ebook yang free masih menggunakan versi debian etch, dan sekarang sudah di depan mata era wheezy.
 
+<!--more-->
+
 Alhamdulillah mas Askari merestui saya untuk kopi paste dan melakukan revisi, jujur saya sangat senang. Dan mulai 17 Desember 2012 saya memulai penyusunan ulang ebook tersebut. Pada dasarnya saya hanya kopi paste, dan ternyata memang menjenuhkan! saya teringat bagaimana perjuangan mas Askari sewaktu membuat ebook tersebut, dari ingatan tersebut saya akhirnya nekat dan selalu mengingatnya agar tetap bersemangat lagi.
 
 Langkah awal saya menyagurnya kedalam format reStructuredText, kenapa? karena gampang dipahami. Well anda tahu sendiri lah kemampuan saya hanya seberapa, tidak mungkin saya membuat ebook tersebut dalam format latex/docbook xml bukan? otak saya ga sampe :D

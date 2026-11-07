@@ -32,6 +32,8 @@ Rsync sangat di anjurkan bila anda menghendaki penyalinan file dari mirror repos
 
 nah dalam melakukan mirorring arsip debian kita tidak bisa langsung menggunakan metode rsync biasa yaitu `rsync mirror.kesukaan::debian/ /mirrors/debian -avh`. itu kalau menurut tim debian mirror adalah salah. lha yang bener gimana? nah yang bener adalah dengan cara dua kali mirroring yaitu:
 
+<!--more-->
+
 * alternatif pertama, melakukan mirroring directory pool/ kemudian baru melakukan mirroring semuanya, contoh:
 
     

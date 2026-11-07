@@ -26,6 +26,8 @@ SSH (Secure Shell) digunakan untuk login ke komputer lain yang terhubung dalam j
     server:~# ssh root@ironhide.immteknik.org
     
     root@ironhide.immteknik.org's password:
+
+<!--more-->
     
     Last login: Thu Jun 12 18:57:20 2008 from 192.168.1.1
     

@@ -30,6 +30,8 @@ Cinta merupakan anugrah dari Allah SWT yang mulia dan diberikanya kepada seluruh
 
 Â·         _Jika mereka menghalangi agar aku tak memendangnya__Mataku pun tak sudi lagi memandang manusia_
 
+<!--more-->
+
 
 2.      Malu-malu jika orang yang dicintainya memandangnya
 

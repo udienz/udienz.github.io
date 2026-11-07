@@ -21,6 +21,8 @@ Informasi lengkap baca [disini](http://virusindonesia.com/2007/07/21/pcmav-rc18-
 
 Download di bawah ini,
 
+<!--more-->
+
 PCMAV RC18 (1.49 MB):
 [DivShare](http://www.divshare.com/download/1336742-892) | [Indoupload.net](http://indoupload.net/files/6336/PCMAV/PC_MEDIA-4Vupdated.zip) | [Indowebster.com](http://www.indowebster.com/PC_Media_Antivirus_PCMAV_RC18_Cleaner_and_RTP_Update.html)
 

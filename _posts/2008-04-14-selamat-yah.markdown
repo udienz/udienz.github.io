@@ -19,6 +19,8 @@ Selamat untuk kedua rekanku seperdjoeangan... yaitu [Arif Rahman](http://aripsam
 
 [Arif Rahman](http://aripsambi.wordpress.com) terpilih menjadi ketua Pimpinan Cabang [Ikatan Mahasiswa Muhammdiyah](http://imm.or.id) Cabang Jember
 
+<!--more-->
+
 semoga temanku ini amanah dan senantiasa di lindungi oleh Nya
 
 "Allah tidak akan memberi cobaan melebihi kemampuanya"

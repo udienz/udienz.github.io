@@ -24,6 +24,8 @@ Biasanya saya lupa untuk nulis di blog, mumpung ada ide jadi saya mau nulis tent
 
 Kemudian buat berkas /etc/init.d/php5-cgi dan buat seperti ini:
 
+<!--more-->
+
 ```
 #!/bin/bash
 ### BEGIN INIT INFO

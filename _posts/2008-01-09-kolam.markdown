@@ -18,6 +18,8 @@ tags:
 
 Namanya : KOLAM
 
+<!--more-->
+
 RealName: Komunitas Linux Arek Malang
 
 Asal : [Ngalam](http://id.wikipedia.org/wiki/Kota_Malang)

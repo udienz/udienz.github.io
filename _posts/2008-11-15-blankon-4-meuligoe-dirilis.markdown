@@ -31,6 +31,8 @@ Sedangkan pada rilis ini kita disuguhkan beberapa varian yaitu
 * CD Live installer
 * Installer Mode Teks
 
+<!--more-->
+
 Selamat berjuang Developer BlankOn!!!
 
 http://www.blankonlinux.or.id/catatan-rilis.html
