@@ -52,29 +52,171 @@ Delapan belas laga dimainkan dalam dua malam. Skor di bawah mengikuti daftar res
 
 Tim tamu memenangi sembilan dari delapan belas laga, tuan rumah delapan. Hanya satu pertandingan yang berakhir seri, yaitu Bodø/Glimt melawan Lille.
 
-## Laga kunci matchday 4
+## Detail pertandingan
 
-### Lens 1-9 Como
+Jam ditulis dalam WIB dengan waktu Eropa Tengah (CET) di dalam kurung, sehingga laga Selasa malam di Eropa jatuh pada Rabu dini hari di Indonesia. Pencetak gol, menit, dan kartu merah mengikuti papan skor [ESPN untuk 3 November](https://www.espn.com/soccer/scoreboard/_/date/20261103/league/uefa.champions) dan [4 November](https://www.espn.com/soccer/scoreboard/_/date/20261104/league/uefa.champions). Tanda ⚽ menandai gol dan 🟥 kartu merah.
 
-Como mencetak sembilan gol di Stade Bollaert-Delelis. Anastasios Douvikas mencetak tiga gol, yang pertama sebelum menit 10, dan Nico Paz menambah satu gol sebelum turun minum sekaligus mengirim umpan untuk gol ketiga Douvikas. Selisih delapan gol itu menyamai rekor kemenangan terbesar sejak kompetisi ini bernama Liga Champions pada 1992 ([Flashscore](https://www.flashscore.nl/news/soccer-champions-league-lens-como-report-04-11-2026/lvjDmted/)).
+### Selasa, 3 November 2026
 
-Kemenangan ini membuat Como mengoleksi 19 gol dari empat laga, terbanyak kedua setelah PSG (20 gol). Satu-satunya kekalahan mereka terjadi di Rotterdam, 2-3 dari Feyenoord pada matchday 2.
+#### Galatasaray 2-0 Stuttgart
 
-### AEK Athens 2-3 Real Madrid
+**Rabu, 4 November 2026, 00:45 WIB (Selasa, 18:45 CET)** · RAMS Park, Istanbul
 
-Real Madrid dua kali tertinggal di Athena. Aboubakary Koita membawa AEK unggul pada menit 12 sebelum Jude Bellingham menyamakan skor. Stavros Pilios kembali membawa tuan rumah unggul pada menit 75, Kylian Mbappé menyamakan tiga menit kemudian, dan Federico Valverde mencetak gol penentu pada menit kedua masa tambahan waktu ([Yahoo Sports](https://sports.yahoo.com/soccer/live/champions-league-scores-live-updates-scores-highlights-leipzig-vs-manchester-city-real-madrid-arsenal-190000043.html)). Real Madrid tetap sempurna, tetapi selisih golnya (+6) jauh di bawah PSG (+15) karena tiga dari empat kemenangannya hanya berjarak satu gol.
+| Galatasaray | Stuttgart |
+|---|---|
+| ⚽ Aleksey Batrakov 12', 15' | – |
 
-### Villarreal 0-6 PSG
+#### Shakhtar Donetsk 0-1 Sporting CP
 
-PSG mencatat kemenangan tandang terbesar kedua pekan ini, setelah Como. PSG kini mencetak 20 gol dan kebobolan 5 dalam empat laga, termasuk kemenangan 4-2 atas Manchester City dan 4-2 atas Barcelona. Villarreal turun ke peringkat 28 dengan 3 poin.
+**Rabu, 4 November 2026, 00:45 WIB (Selasa, 18:45 CET)** · Stamford Bridge, London (kandang netral Shakhtar)
 
-### Fenerbahçe 3-2 Liverpool
+| Shakhtar Donetsk | Sporting CP |
+|---|---|
+| – | ⚽ Issa Doumbia 59' |
 
-Babak pertama berakhir 1-1 lewat gol Trey Nyoni untuk Liverpool dan Mason Greenwood untuk Fenerbahçe. Alexander Isak membawa Liverpool unggul lagi pada menit 69, Archie Brown menyamakan empat menit kemudian, dan Vedat Muriqi mencetak gol kemenangan pada menit 79 ([Yahoo Sports](https://sports.yahoo.com/soccer/live/champions-league-scores-live-updates-scores-highlights-leipzig-vs-manchester-city-real-madrid-arsenal-190000043.html)). Kekalahan ini menghentikan tiga kemenangan beruntun Liverpool dan membuat mereka turun ke peringkat 8, posisi terakhir yang lolos langsung ke babak 16 besar.
+#### Atlético Madrid 0-2 Bayern München
 
-### Laga lain
+**Rabu, 4 November 2026, 03:00 WIB (Selasa, 21:00 CET)** · Riyadh Air Metropolitano, Madrid
 
-Erling Haaland mencetak gol penentu pada menit 78 saat Manchester City menang 3-2 di Leipzig. Arsenal menang 2-1 di Praha lewat gol Noni Madueke pada menit 9 dan Viktor Gyökeres sebelum turun minum. Di Porto, Gabri Veiga dan Jakub Kiwior termasuk pencetak gol saat tuan rumah menang 4-1 atas Napoli. Konstantinos Karetsas mencetak gol kemenangan Dortmund atas Real Betis pada menit 72, dan Carlos Forbs memastikan kemenangan Club Brugge di Eindhoven ([Yahoo Sports](https://sports.yahoo.com/soccer/live/champions-league-scores-live-updates-scores-highlights-leipzig-vs-manchester-city-real-madrid-arsenal-190000043.html)). Bayern München menang 2-0 di Madrid dan menjadi salah satu dari empat tim yang belum terkalahkan, bersama PSG, Real Madrid, dan Arsenal.
+| Atlético Madrid | Bayern München |
+|---|---|
+| – | ⚽ Lennart Karl 54'<br>⚽ Konrad Laimer 74' |
+
+Bayern menjadi salah satu dari empat tim yang belum terkalahkan, bersama PSG, Real Madrid, dan Arsenal.
+
+#### Barcelona 3-0 Aston Villa
+
+**Rabu, 4 November 2026, 03:00 WIB (Selasa, 21:00 CET)** · Camp Nou, Barcelona
+
+| Barcelona | Aston Villa |
+|---|---|
+| ⚽ Lamine Yamal 7'<br>⚽ Raphinha 52', 64' | – |
+
+Ini kekalahan pertama Aston Villa di Liga Champions musim ini.
+
+#### Bodø/Glimt 0-0 Lille
+
+**Rabu, 4 November 2026, 03:00 WIB (Selasa, 21:00 CET)** · Aspmyra Stadion, Bodø
+
+Satu-satunya laga tanpa gol pekan ini.
+
+#### Feyenoord 0-3 Inter
+
+**Rabu, 4 November 2026, 03:00 WIB (Selasa, 21:00 CET)** · De Kuip, Rotterdam
+
+| Feyenoord | Inter |
+|---|---|
+| – | ⚽ Yann Bisseck 8'<br>⚽ Pio Esposito 34'<br>⚽ Piotr Zieliński 54' |
+
+#### LASK 4-0 Slovan Bratislava
+
+**Rabu, 4 November 2026, 03:00 WIB (Selasa, 21:00 CET)** · Raiffeisen Arena, Linz
+
+| LASK | Slovan Bratislava |
+|---|---|
+| ⚽ K. Jørgensen 19', 37'<br>⚽ Robert Ljubičić 44'<br>⚽ Samuel Adeniran 48' | – |
+
+#### Manchester United 3-2 Roma
+
+**Rabu, 4 November 2026, 03:00 WIB (Selasa, 21:00 CET)** · Old Trafford, Manchester
+
+| Manchester United | Roma |
+|---|---|
+| ⚽ Bruno Fernandes 58' (pen.)<br>⚽ Matheus Cunha 83', 86'<br>🟥 Matheus Cunha 90+1' | ⚽ Matías Soulé 11'<br>⚽ Donyell Malen 17' (pen.) |
+
+United tertinggal 0-2 sebelum menit 20. Cunha mencetak dua gol dalam tiga menit, lalu diusir keluar dengan kartu kuning kedua di masa tambahan waktu ([Yahoo Sports](https://sports.yahoo.com/articles/uefa-confirm-matheus-cunha-fate-080000709.html)).
+
+#### Villarreal 0-6 Paris Saint-Germain
+
+**Rabu, 4 November 2026, 03:00 WIB (Selasa, 21:00 CET)** · Estadio de la Cerámica, Vila-real
+
+| Villarreal | Paris Saint-Germain |
+|---|---|
+| – | ⚽ João Neves 9'<br>⚽ Désiré Doué 12'<br>⚽ Senny Mayulu 13'<br>⚽ Fabián Ruiz 17', 50'<br>⚽ D. Boly 78' |
+
+PSG unggul 4-0 dalam 17 menit pertama. Ini kemenangan tandang terbesar kedua pekan ini setelah Como, dan PSG kini mencetak 20 gol dan kebobolan 5 dalam empat laga.
+
+### Rabu, 4 November 2026
+
+#### AEK Athens 2-3 Real Madrid
+
+**Kamis, 5 November 2026, 00:45 WIB (Rabu, 18:45 CET)** · Allwyn Arena, Athena
+
+| AEK Athens | Real Madrid |
+|---|---|
+| ⚽ Aboubakary Koita 12'<br>⚽ Stavros Pilios 75'<br>🟥 Aboubakary Koita 90+5' | ⚽ Jude Bellingham 32'<br>⚽ Kylian Mbappé 78'<br>⚽ Federico Valverde 90+2' |
+
+Real Madrid dua kali tertinggal sebelum Valverde mencetak gol penentu di masa tambahan waktu. Madrid tetap sempurna, tetapi selisih golnya (+6) jauh di bawah PSG (+15) karena tiga dari empat kemenangannya hanya berjarak satu gol.
+
+#### Fenerbahçe 3-2 Liverpool
+
+**Kamis, 5 November 2026, 00:45 WIB (Rabu, 18:45 CET)** · Chobani Stadium, Istanbul
+
+| Fenerbahçe | Liverpool |
+|---|---|
+| ⚽ Mason Greenwood 29'<br>⚽ Archie Brown 73'<br>⚽ Vedat Muriqi 79' | ⚽ Trey Nyoni 25'<br>⚽ Alexander Isak 69' |
+
+Liverpool dua kali memimpin. Kekalahan ini menghentikan tiga kemenangan beruntun mereka dan membuat Liverpool turun ke peringkat 8, posisi terakhir yang lolos langsung ke babak 16 besar.
+
+#### Borussia Dortmund 2-1 Real Betis
+
+**Kamis, 5 November 2026, 03:00 WIB (Rabu, 21:00 CET)** · Signal Iduna Park, Dortmund
+
+| Borussia Dortmund | Real Betis |
+|---|---|
+| ⚽ Fábio Silva 49'<br>⚽ Konstantinos Karetsas 72' | ⚽ Aitor Ruibal 67' |
+
+#### Porto 4-1 Napoli
+
+**Kamis, 5 November 2026, 03:00 WIB (Rabu, 21:00 CET)** · Estádio do Dragão, Porto
+
+| Porto | Napoli |
+|---|---|
+| ⚽ Jan Bednarek 11'<br>⚽ Gabri Veiga 71'<br>⚽ Jakub Kiwior 80'<br>⚽ Samu Aghehowa 90' (pen.) | ⚽ Scott McTominay 43'<br>🟥 Rafa Marín 88' |
+
+Kartu merah Rafa Marín berasal dari pelanggaran terhadap Samu, yang kemudian dieksekusi sendiri oleh Samu menjadi gol keempat Porto ([LiveScore](https://www.livescore.com/en/news/football/serie-a/ucl-fc-porto-4-1-napoli-error-prone-partenopei-collapse-in-porto-football-italia/)).
+
+#### PSV Eindhoven 1-2 Club Brugge
+
+**Kamis, 5 November 2026, 03:00 WIB (Rabu, 21:00 CET)** · Philips Stadion, Eindhoven
+
+| PSV Eindhoven | Club Brugge |
+|---|---|
+| ⚽ Kodai Sano 54' | ⚽ Nicolò Tresoldi 25'<br>⚽ Carlos Forbs 65' |
+
+#### RB Leipzig 2-3 Manchester City
+
+**Kamis, 5 November 2026, 03:00 WIB (Rabu, 21:00 CET)** · Red Bull Arena, Leipzig
+
+| RB Leipzig | Manchester City |
+|---|---|
+| ⚽ Ridle Baku 49'<br>⚽ Antonio Nusa 61' | ⚽ Castello Lukeba 37' (bunuh diri)<br>⚽ Enzo Fernández 58'<br>⚽ Erling Haaland 78' |
+
+#### Lens 1-9 Como
+
+**Kamis, 5 November 2026, 03:00 WIB (Rabu, 21:00 CET)** · Stade Bollaert-Delelis, Lens
+
+| Lens | Como |
+|---|---|
+| ⚽ Ruben Aguilar 65' | ⚽ Anastasios Douvikas 7', 32', 57'<br>⚽ Nico Paz 40'<br>⚽ Lucas Da Cunha 47'<br>⚽ Marc-Oliver Kempf 53'<br>⚽ Mattia Liberali 62'<br>⚽ Martin Baturina 69'<br>⚽ Matteo Papaccioli 90+1' |
+
+Selisih delapan gol ini menyamai rekor kemenangan terbesar sejak kompetisi ini bernama Liga Champions pada 1992 ([Flashscore](https://www.flashscore.nl/news/soccer-champions-league-lens-como-report-04-11-2026/lvjDmted/)). Como kini mengoleksi 19 gol dari empat laga, terbanyak kedua setelah PSG. Satu-satunya kekalahan mereka terjadi di Rotterdam, 2-3 dari Feyenoord pada matchday 2.
+
+#### Slavia Praha 1-2 Arsenal
+
+**Kamis, 5 November 2026, 03:00 WIB (Rabu, 21:00 CET)** · Fortuna Arena, Praha
+
+| Slavia Praha | Arsenal |
+|---|---|
+| ⚽ Wiktor Nowak 90' | ⚽ Noni Madueke 9'<br>⚽ Viktor Gyökeres 38' |
+
+#### Viking 4-1 Sabah
+
+**Kamis, 5 November 2026, 03:00 WIB (Rabu, 21:00 CET)** · Viking Stadion, Stavanger
+
+| Viking | Sabah |
+|---|---|
+| ⚽ Erik Botheim 27', 90+4'<br>⚽ Zlatko Tripić 69'<br>⚽ Henrik Falchener 81' | ⚽ Orphé Mbina 11'<br>🟥 Aden McCarthy 77' |
 
 ## Klasemen fase liga setelah matchday 4
 
@@ -146,7 +288,9 @@ Laga Brugge melawan Liverpool mempertemukan dua tim yang sama-sama mengoleksi 9 
 ## Sumber
 
 - UEFA, [2026/27 Champions League: All the league phase fixtures and results](https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/), diakses 7 November 2026.
-- Yahoo Sports, [Champions League live updates: Leipzig vs Manchester City, Real Madrid, Arsenal](https://sports.yahoo.com/soccer/live/champions-league-scores-live-updates-scores-highlights-leipzig-vs-manchester-city-real-madrid-arsenal-190000043.html), 4 November 2026.
+- ESPN, [Soccer Scores 3 November 2026](https://www.espn.com/soccer/scoreboard/_/date/20261103/league/uefa.champions) dan [4 November 2026](https://www.espn.com/soccer/scoreboard/_/date/20261104/league/uefa.champions), papan skor Liga Champions.
+- Yahoo Sports, [UEFA confirm Matheus Cunha's fate after red card in Man United's sensational Roma comeback](https://sports.yahoo.com/articles/uefa-confirm-matheus-cunha-fate-080000709.html), November 2026.
+- LiveScore, [laporan pertandingan FC Porto 4-1 Napoli](https://www.livescore.com/en/news/football/serie-a/ucl-fc-porto-4-1-napoli-error-prone-partenopei-collapse-in-porto-football-italia/), November 2026.
 - Flashscore, [Como put nine past sorry Lens in equal-biggest Champions League win of all time](https://www.flashscore.nl/news/soccer-champions-league-lens-como-report-04-11-2026/lvjDmted/), 4 November 2026.
 
 ---
