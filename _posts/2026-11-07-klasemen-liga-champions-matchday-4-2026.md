@@ -54,7 +54,7 @@ Tim tamu memenangi sembilan dari delapan belas laga, tuan rumah delapan. Hanya s
 
 ## Detail pertandingan
 
-Jam ditulis dalam WIB dengan waktu Eropa Tengah (CET) di dalam kurung, sehingga laga Selasa malam di Eropa jatuh pada Rabu dini hari di Indonesia. Pencetak gol, menit, dan kartu merah mengikuti papan skor [ESPN untuk 3 November](https://www.espn.com/soccer/scoreboard/_/date/20261103/league/uefa.champions) dan [4 November](https://www.espn.com/soccer/scoreboard/_/date/20261104/league/uefa.champions). Tanda ⚽ menandai gol dan 🟥 kartu merah.
+Jam ditulis dalam WIB dengan waktu Eropa Tengah (CET) di dalam kurung, sehingga laga Selasa malam di Eropa jatuh pada Rabu dini hari di Indonesia. Pencetak gol, menit, dan kartu merah mengikuti papan skor [ESPN untuk 3 November](https://www.espn.com/soccer/scoreboard/_/date/20261103/league/uefa.champions) dan [4 November](https://www.espn.com/soccer/scoreboard/_/date/20261104/league/uefa.champions), sedangkan kartu kuning mengikuti halaman susunan pemain Sky Sports untuk tiap laga. Tanda ⚽ menandai gol, 🟨 kartu kuning, dan 🟥 kartu merah.
 
 ### Selasa, 3 November 2026
 
@@ -64,7 +64,7 @@ Jam ditulis dalam WIB dengan waktu Eropa Tengah (CET) di dalam kurung, sehingga 
 
 | Galatasaray | Stuttgart |
 |---|---|
-| ⚽ Aleksey Batrakov 12', 15' | – |
+| ⚽ Aleksey Batrakov 12', 15'<br>🟨 Barış Alper Yılmaz 39'<br>🟨 Roland Sallai 62'<br>🟨 Lucas Torreira 85' | 🟨 Atakan Karazor 2'<br>🟨 Deniz Undav 38'<br>🟨 Y. Spalt 45+3'<br>🟨 Grischa Prömel 61'<br>🟨 Ramon Hendriks 79' |
 
 #### Shakhtar Donetsk 0-1 Sporting CP
 
@@ -72,7 +72,7 @@ Jam ditulis dalam WIB dengan waktu Eropa Tengah (CET) di dalam kurung, sehingga 
 
 | Shakhtar Donetsk | Sporting CP |
 |---|---|
-| – | ⚽ Issa Doumbia 59' |
+| 🟨 I. Severino Silva 74' | ⚽ Issa Doumbia 59'<br>🟨 Maximiliano Araújo 66' |
 
 #### Atlético Madrid 0-2 Bayern München
 
@@ -80,7 +80,7 @@ Jam ditulis dalam WIB dengan waktu Eropa Tengah (CET) di dalam kurung, sehingga 
 
 | Atlético Madrid | Bayern München |
 |---|---|
-| – | ⚽ Lennart Karl 54'<br>⚽ Konrad Laimer 74' |
+| 🟨 Giuliano Simeone 79' | ⚽ Lennart Karl 54'<br>⚽ Konrad Laimer 74'<br>🟨 Joshua Kimmich 56'<br>🟨 Josip Stanišić 90+1' |
 
 Bayern menjadi salah satu dari empat tim yang belum terkalahkan, bersama PSG, Real Madrid, dan Arsenal.
 
@@ -90,13 +90,17 @@ Bayern menjadi salah satu dari empat tim yang belum terkalahkan, bersama PSG, Re
 
 | Barcelona | Aston Villa |
 |---|---|
-| ⚽ Lamine Yamal 7'<br>⚽ Raphinha 52', 64' | – |
+| ⚽ Lamine Yamal 7'<br>⚽ Raphinha 52', 64'<br>🟨 Raphinha 45' | 🟨 Ian Maatsen 11'<br>🟨 Emiliano Buendía 31'<br>🟨 Nicolas Jackson 45' |
 
 Ini kekalahan pertama Aston Villa di Liga Champions musim ini.
 
 #### Bodø/Glimt 0-0 Lille
 
 **Rabu, 4 November 2026, 03:00 WIB (Selasa, 21:00 CET)** · Aspmyra Stadion, Bodø
+
+| Bodø/Glimt | Lille |
+|---|---|
+| – | 🟨 Nathan Ngoy 83' |
 
 Satu-satunya laga tanpa gol pekan ini.
 
@@ -106,7 +110,7 @@ Satu-satunya laga tanpa gol pekan ini.
 
 | Feyenoord | Inter |
 |---|---|
-| – | ⚽ Yann Bisseck 8'<br>⚽ Pio Esposito 34'<br>⚽ Piotr Zieliński 54' |
+| 🟨 Gjivai Zechiël 39' | ⚽ Yann Bisseck 8'<br>⚽ Pio Esposito 34'<br>⚽ Piotr Zieliński 54'<br>🟨 Hakan Çalhanoğlu 3'<br>🟨 Manuel Akanji 39' |
 
 #### LASK 4-0 Slovan Bratislava
 
@@ -114,7 +118,7 @@ Satu-satunya laga tanpa gol pekan ini.
 
 | LASK | Slovan Bratislava |
 |---|---|
-| ⚽ K. Jørgensen 19', 37'<br>⚽ Robert Ljubičić 44'<br>⚽ Samuel Adeniran 48' | – |
+| ⚽ K. Jørgensen 19', 37'<br>⚽ Robert Ljubičić 44'<br>⚽ Samuel Adeniran 48' | 🟨 C. Martinez 25'<br>🟨 Kevin Wimmer 36' |
 
 #### Manchester United 3-2 Roma
 
@@ -122,7 +126,7 @@ Satu-satunya laga tanpa gol pekan ini.
 
 | Manchester United | Roma |
 |---|---|
-| ⚽ Bruno Fernandes 58' (pen.)<br>⚽ Matheus Cunha 83', 86'<br>🟥 Matheus Cunha 90+1' | ⚽ Matías Soulé 11'<br>⚽ Donyell Malen 17' (pen.) |
+| ⚽ Bruno Fernandes 58' (pen.)<br>⚽ Matheus Cunha 83', 86'<br>🟨 Bruno Fernandes 20'<br>🟨 Ayden Heaven 70'<br>🟨 Harry Maguire 78'<br>🟨 Matheus Cunha 87'<br>🟥 Matheus Cunha 90+1' (kuning kedua) | ⚽ Matías Soulé 11'<br>⚽ Donyell Malen 17' (pen.)<br>🟨 Matías Soulé 20'<br>🟨 E. Lulli 35'<br>🟨 Donyell Malen 42' |
 
 United tertinggal 0-2 sebelum menit 20. Cunha mencetak dua gol dalam tiga menit, lalu diusir keluar dengan kartu kuning kedua di masa tambahan waktu ([Yahoo Sports](https://sports.yahoo.com/articles/uefa-confirm-matheus-cunha-fate-080000709.html)).
 
@@ -132,7 +136,7 @@ United tertinggal 0-2 sebelum menit 20. Cunha mencetak dua gol dalam tiga menit,
 
 | Villarreal | Paris Saint-Germain |
 |---|---|
-| – | ⚽ João Neves 9'<br>⚽ Désiré Doué 12'<br>⚽ Senny Mayulu 13'<br>⚽ Fabián Ruiz 17', 50'<br>⚽ D. Boly 78' |
+| 🟨 Santi Comesaña 45'<br>🟨 Santiago Mouriño 50'<br>🟨 Sergi Cardona 66'<br>🟨 Alberto Moleiro 78' | ⚽ João Neves 9'<br>⚽ Désiré Doué 12'<br>⚽ Senny Mayulu 13'<br>⚽ Fabián Ruiz 17', 50'<br>⚽ D. Boly 78'<br>🟨 Quentin Ndjantou 74' |
 
 PSG unggul 4-0 dalam 17 menit pertama. Ini kemenangan tandang terbesar kedua pekan ini setelah Como, dan PSG kini mencetak 20 gol dan kebobolan 5 dalam empat laga.
 
@@ -144,7 +148,7 @@ PSG unggul 4-0 dalam 17 menit pertama. Ini kemenangan tandang terbesar kedua pek
 
 | AEK Athens | Real Madrid |
 |---|---|
-| ⚽ Aboubakary Koita 12'<br>⚽ Stavros Pilios 75'<br>🟥 Aboubakary Koita 90+5' | ⚽ Jude Bellingham 32'<br>⚽ Kylian Mbappé 78'<br>⚽ Federico Valverde 90+2' |
+| ⚽ Aboubakary Koita 12'<br>⚽ Stavros Pilios 75'<br>🟨 Kervin Arriaga 34'<br>🟥 Aboubakary Koita 90+5' | ⚽ Jude Bellingham 32'<br>⚽ Kylian Mbappé 78'<br>⚽ Federico Valverde 90+2'<br>🟨 Marc Cucurella 65' |
 
 Real Madrid dua kali tertinggal sebelum Valverde mencetak gol penentu di masa tambahan waktu. Madrid tetap sempurna, tetapi selisih golnya (+6) jauh di bawah PSG (+15) karena tiga dari empat kemenangannya hanya berjarak satu gol.
 
@@ -154,7 +158,7 @@ Real Madrid dua kali tertinggal sebelum Valverde mencetak gol penentu di masa ta
 
 | Fenerbahçe | Liverpool |
 |---|---|
-| ⚽ Mason Greenwood 29'<br>⚽ Archie Brown 73'<br>⚽ Vedat Muriqi 79' | ⚽ Trey Nyoni 25'<br>⚽ Alexander Isak 69' |
+| ⚽ Mason Greenwood 29'<br>⚽ Archie Brown 73'<br>⚽ Vedat Muriqi 79'<br>🟨 Archie Brown 36' | ⚽ Trey Nyoni 25'<br>⚽ Alexander Isak 69'<br>🟨 Alexis Mac Allister 85' |
 
 Liverpool dua kali memimpin. Kekalahan ini menghentikan tiga kemenangan beruntun mereka dan membuat Liverpool turun ke peringkat 8, posisi terakhir yang lolos langsung ke babak 16 besar.
 
@@ -164,7 +168,7 @@ Liverpool dua kali memimpin. Kekalahan ini menghentikan tiga kemenangan beruntun
 
 | Borussia Dortmund | Real Betis |
 |---|---|
-| ⚽ Fábio Silva 49'<br>⚽ Konstantinos Karetsas 72' | ⚽ Aitor Ruibal 67' |
+| ⚽ Fábio Silva 49'<br>⚽ Konstantinos Karetsas 72'<br>🟨 Julian Ryerson 38'<br>🟨 Ramy Bensebaini 45+4'<br>🟨 Joey Veerman 78'<br>🟨 Jobe Bellingham 79' | ⚽ Aitor Ruibal 67'<br>🟨 Natan 44'<br>🟨 Valentín Gómez 64'<br>🟨 Ángel Ortiz 88'<br>🟨 Isco 90+3' |
 
 #### Porto 4-1 Napoli
 
@@ -172,7 +176,7 @@ Liverpool dua kali memimpin. Kekalahan ini menghentikan tiga kemenangan beruntun
 
 | Porto | Napoli |
 |---|---|
-| ⚽ Jan Bednarek 11'<br>⚽ Gabri Veiga 71'<br>⚽ Jakub Kiwior 80'<br>⚽ Samu Aghehowa 90' (pen.) | ⚽ Scott McTominay 43'<br>🟥 Rafa Marín 88' |
+| ⚽ Jan Bednarek 11'<br>⚽ Gabri Veiga 71'<br>⚽ Jakub Kiwior 80'<br>⚽ Samu Aghehowa 90' (pen.)<br>🟨 Gabri Veiga 45+2' | ⚽ Scott McTominay 43'<br>🟨 Antonio Vergara 1'<br>🟨 André-Frank Zambo Anguissa 21'<br>🟨 Amir Rrahmani 35'<br>🟨 Scott McTominay 36'<br>🟥 Rafa Marín 88' |
 
 Kartu merah Rafa Marín berasal dari pelanggaran terhadap Samu, yang kemudian dieksekusi sendiri oleh Samu menjadi gol keempat Porto ([LiveScore](https://www.livescore.com/en/news/football/serie-a/ucl-fc-porto-4-1-napoli-error-prone-partenopei-collapse-in-porto-football-italia/)).
 
@@ -182,7 +186,7 @@ Kartu merah Rafa Marín berasal dari pelanggaran terhadap Samu, yang kemudian di
 
 | PSV Eindhoven | Club Brugge |
 |---|---|
-| ⚽ Kodai Sano 54' | ⚽ Nicolò Tresoldi 25'<br>⚽ Carlos Forbs 65' |
+| ⚽ Kodai Sano 54' | ⚽ Nicolò Tresoldi 25'<br>⚽ Carlos Forbs 65'<br>🟨 C. Borges 28'<br>🟨 Hugo Vetlesen 73'<br>🟨 Jorne Spileers 81' |
 
 #### RB Leipzig 2-3 Manchester City
 
@@ -190,7 +194,7 @@ Kartu merah Rafa Marín berasal dari pelanggaran terhadap Samu, yang kemudian di
 
 | RB Leipzig | Manchester City |
 |---|---|
-| ⚽ Ridle Baku 49'<br>⚽ Antonio Nusa 61' | ⚽ Castello Lukeba 37' (bunuh diri)<br>⚽ Enzo Fernández 58'<br>⚽ Erling Haaland 78' |
+| ⚽ Ridle Baku 49'<br>⚽ Antonio Nusa 61'<br>🟨 Christoph Baumgartner 17'<br>🟨 Ridle Baku 33'<br>🟨 Neil El Aynaoui 48'<br>🟨 David Raum 77' | ⚽ Castello Lukeba 37' (bunuh diri)<br>⚽ Enzo Fernández 58'<br>⚽ Erling Haaland 78'<br>🟨 Jérémy Doku 88'<br>🟨 Abdukodir Khusanov 90+4' |
 
 #### Lens 1-9 Como
 
@@ -198,7 +202,7 @@ Kartu merah Rafa Marín berasal dari pelanggaran terhadap Samu, yang kemudian di
 
 | Lens | Como |
 |---|---|
-| ⚽ Ruben Aguilar 65' | ⚽ Anastasios Douvikas 7', 32', 57'<br>⚽ Nico Paz 40'<br>⚽ Lucas Da Cunha 47'<br>⚽ Marc-Oliver Kempf 53'<br>⚽ Mattia Liberali 62'<br>⚽ Martin Baturina 69'<br>⚽ Matteo Papaccioli 90+1' |
+| ⚽ Ruben Aguilar 65'<br>🟨 Samson Baidoo 34'<br>🟨 Mickaël Cuisance 75' | ⚽ Anastasios Douvikas 7', 32', 57'<br>⚽ Nico Paz 40'<br>⚽ Lucas Da Cunha 47'<br>⚽ Marc-Oliver Kempf 53'<br>⚽ Mattia Liberali 62'<br>⚽ Martin Baturina 69'<br>⚽ Matteo Papaccioli 90+1' |
 
 Selisih delapan gol ini menyamai rekor kemenangan terbesar sejak kompetisi ini bernama Liga Champions pada 1992 ([Flashscore](https://www.flashscore.nl/news/soccer-champions-league-lens-como-report-04-11-2026/lvjDmted/)). Como kini mengoleksi 19 gol dari empat laga, terbanyak kedua setelah PSG. Satu-satunya kekalahan mereka terjadi di Rotterdam, 2-3 dari Feyenoord pada matchday 2.
 
@@ -208,7 +212,7 @@ Selisih delapan gol ini menyamai rekor kemenangan terbesar sejak kompetisi ini b
 
 | Slavia Praha | Arsenal |
 |---|---|
-| ⚽ Wiktor Nowak 90' | ⚽ Noni Madueke 9'<br>⚽ Viktor Gyökeres 38' |
+| ⚽ Wiktor Nowak 90'<br>🟨 David Moses 20' | ⚽ Noni Madueke 9'<br>⚽ Viktor Gyökeres 38'<br>🟨 Ezri Konsa 53'<br>🟨 Declan Rice 68' |
 
 #### Viking 4-1 Sabah
 
@@ -216,7 +220,7 @@ Selisih delapan gol ini menyamai rekor kemenangan terbesar sejak kompetisi ini b
 
 | Viking | Sabah |
 |---|---|
-| ⚽ Erik Botheim 27', 90+4'<br>⚽ Zlatko Tripić 69'<br>⚽ Henrik Falchener 81' | ⚽ Orphé Mbina 11'<br>🟥 Aden McCarthy 77' |
+| ⚽ Erik Botheim 27', 90+4'<br>⚽ Zlatko Tripić 69'<br>⚽ Henrik Falchener 81'<br>🟨 Kristoffer Haugen 2'<br>🟨 Gianni Stensness 18' | ⚽ Orphé Mbina 11'<br>🟨 U. Rahmonaliyev 36'<br>🟨 J. Mickels 87'<br>🟥 Aden McCarthy 77' |
 
 ## Klasemen fase liga setelah matchday 4
 
@@ -289,6 +293,7 @@ Laga Brugge melawan Liverpool mempertemukan dua tim yang sama-sama mengoleksi 9 
 
 - UEFA, [2026/27 Champions League: All the league phase fixtures and results](https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/), diakses 7 November 2026.
 - ESPN, [Soccer Scores 3 November 2026](https://www.espn.com/soccer/scoreboard/_/date/20261103/league/uefa.champions) dan [4 November 2026](https://www.espn.com/soccer/scoreboard/_/date/20261104/league/uefa.champions), papan skor Liga Champions.
+- Sky Sports, halaman susunan pemain tiap laga (kartu kuning dan merah), diakses dari jadwal [3 November 2026](https://www.skysports.com/football-scores-fixtures/2026-11-03) dan [4 November 2026](https://www.skysports.com/football-scores-fixtures/2026-11-04).
 - Yahoo Sports, [UEFA confirm Matheus Cunha's fate after red card in Man United's sensational Roma comeback](https://sports.yahoo.com/articles/uefa-confirm-matheus-cunha-fate-080000709.html), November 2026.
 - LiveScore, [laporan pertandingan FC Porto 4-1 Napoli](https://www.livescore.com/en/news/football/serie-a/ucl-fc-porto-4-1-napoli-error-prone-partenopei-collapse-in-porto-football-italia/), November 2026.
 - Flashscore, [Como put nine past sorry Lens in equal-biggest Champions League win of all time](https://www.flashscore.nl/news/soccer-champions-league-lens-como-report-04-11-2026/lvjDmted/), 4 November 2026.
