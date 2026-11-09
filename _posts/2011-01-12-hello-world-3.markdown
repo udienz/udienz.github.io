@@ -10,4 +10,6 @@ wordpress_id: 680
 
 Welcome to [tripledin.wordpress.com/](https://tripledin.wordpress.com//). This is your <del>first</del> post in this blog. I will start blogging again
 
+<!--more-->
+
 guess what, why triple?

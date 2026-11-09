@@ -16,4 +16,6 @@ tags:
 
 Tuhan menciptakan 2 tangan, 2 kaki, 2 telinga, dan dua mata untuk memegang, berjalan, mendengar dan melihat, tetapi kenapa Tuhan hanya menciptakan satu Hati?? karena Tuhan memberikan hari yang satunya kepada kekasihmu
 
+<!--more-->
+
 ---- entah dapet dari mana, yang jelas dapet dari nyolong dari kompi sebelah kamar :D

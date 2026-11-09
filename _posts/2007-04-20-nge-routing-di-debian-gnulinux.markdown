@@ -41,6 +41,8 @@ tags:
 
 Salah satu parameter terpenting dalam sebuah jaringan (default gateway), router adalah computer atau hardware khusus dengan 2 atau lebih interface jaringan yang gunanya untuk meneruskan paket dari satu jaringan ke jaringan lainnya
 
+<!--more-->
+
 
 
 

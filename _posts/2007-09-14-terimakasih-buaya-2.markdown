@@ -22,4 +22,6 @@ tags:
 
 Terima kasih [buaya](http://buaya.klas.or.id/) Surabaya yang telah menyediakan mirror [Ubuntu](http://buaya.klas.or.id/ubuntu/) dan [Debian...](http://buaya.klas.or.id/debian/)
 
+<!--more-->
+
 alamatnya= [http://buaya.klas.or.id/](http://buaya.klas.or.id/)

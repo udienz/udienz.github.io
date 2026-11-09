@@ -17,6 +17,8 @@ tags:
 
 Tulisan ini untuk yang tidak sempat menonton semua judul di [daftar tontonan sebelum *Avengers: Doomsday*]({% post_url 2026-11-08-film-wajib-sebelum-avengers-doomsday %}). Isinya ringkasan cerita yang relevan saja, diurutkan dari akar masalah sampai adegan terakhir sebelum film tayang Desember 2026.
 
+<!--more-->
+
 ## Inti masalahnya: multiverse sedang runtuh
 
 Semua benang di Fase 4 sampai 6 Marvel mengarah ke satu hal. Ada banyak semesta paralel, dan semesta-semesta itu mulai saling bertabrakan. Tabrakan dua semesta disebut *incursion*, dan hasilnya keduanya hancur. Di *Doomsday*, pahlawan dari tiga semesta (Earth-616, Earth-828, Earth-10005) terseret ke krisis ini dan harus menghadapi Doctor Doom ([Wikipedia](https://en.wikipedia.org/wiki/Avengers:_Doomsday)).

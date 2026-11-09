@@ -20,6 +20,8 @@ tags:
 Alhamdulillah CD Ubuntu Fiesty ku dah dateng dari belanda, pesanan ini dah kutunggu selama empat minggu. asal tau aja di Ubuntu.com kita dapat pesan CD ubuntu yang baru syaratnya cuma kita daftarkan nama kita ke websitenya kemudian isi data diri trus pesan aja GRATIS kok cuman ya itu kita disuruh bayar 3000 buat PT. POS Indonesia yang telah nganterin CDnya.
 Rincian CD yang kupesan adalah 3 CD Ubuntu (GNome) dan 3 CD Kubuntu (KDE)yang menggunakan arsitektur i386 coz systemku pake Pentium 4 prescott.
 
+<!--more-->
+
 **What's Next**
 selanjutnya aku mau pesen lagi DVD Repository Ubuntu di TokoBaliWae.com yang harganya "cuma" 50 ribu perak, hitungan itu termasuk murah karena DVD nya ada empat lho!! dengan mengasumsikan kalo kita Internetan pake Speedy/Telkomnet kita dapat hemat ratusan ribu.
 

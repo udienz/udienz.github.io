@@ -17,6 +17,8 @@ tags:
 
 As per [#651066](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=651066), and [this](http://lists.debian.org/E1ReBKG-0007HS-Iw@franck.debian.org). I'm [Debian maintainer](http://wiki.debian.org/DebianMaintainer) now! Thanks to
 
+<!--more-->
+
 
 
 	

@@ -13,6 +13,8 @@ categories:
 
 alhamdulillah situs kambing.vlsm.org dan Tuma dah bisa di kampus ku!!! asal tau aje bulan-bulan kemarin ni situs di blokir ma pengelola proxy gara-gara ada anak mahasiswa yang download ga liat-liat...
 
+<!--more-->
+
 masih teringat dulu waktu terblokir dimana aku harus browsing via http tunnel tuk sekedar liat-liat kambing....
 
 btw, sekarang dah ke buka plus port FTP juga so aku bisa liat liat hasil oprekan om Fajran di UI

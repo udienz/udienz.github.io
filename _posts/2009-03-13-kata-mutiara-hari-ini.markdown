@@ -17,6 +17,8 @@ tags:
 
 pas mbukak websitenya [ITS](http://www.its.ac.id/), saya menemukan kata mutiara yang bagus. ini dia:
 
+<!--more-->
+
 
 
 

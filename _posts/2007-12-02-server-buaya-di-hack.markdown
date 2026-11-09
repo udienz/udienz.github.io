@@ -21,4 +21,6 @@ tags:
 
 ada-ada saja kerjaan Hacker... dia menghacking situs [buaya.klas.or.id](http://buaya.klas.or.id). apa ga kurang kerjaan tuh???
 
+<!--more-->
+
 padahal situs ini menyediakan layanan yang baik bagi umat indonesia... hah... kalo mau hack itu ya mbok situs yang mengajarkan pengaruh negatif ke masyarakat indonesia, jangan situs [KLAS](http://surabaya.linux.or.id)!!!

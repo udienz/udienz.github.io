@@ -16,6 +16,8 @@ tags:
 
 Hidup di dunia ini akan terasa indah dan sesaat apabila kita hidup dengan orang yang kita cinta dan mencintai kita, dan akan membahagiakan lagi jika kita jalani dengan penuh keikhlasan, penuh motivasi, dan senyuman.
 
+<!--more-->
+
 
 <blockquote>Kenapa kita harus mencintai seseorang yang belum tentu dia mencintai kita seperti kita mencintainya? quote: Awangga, ST (my freind at campus)</blockquote>
 

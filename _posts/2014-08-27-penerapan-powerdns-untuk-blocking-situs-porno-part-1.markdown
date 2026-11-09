@@ -18,6 +18,8 @@ tags:
 
 Untuk membloking situs porno, sebenarnya bisa dilakukan dengan powerdns. Berikut adalah langkah langkahnya.
 
+<!--more-->
+
 
 
 ## Persiapan sistem

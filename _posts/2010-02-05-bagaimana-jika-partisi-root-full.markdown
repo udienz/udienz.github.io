@@ -16,6 +16,8 @@ tags:
 
 Bagaimana kalo partisi root (/) rul? gimana kalo begitu? gimana kalo begitu?. Yak ini terjadi dengan server www.ubuntu-id.org, kasihan yah? dan bagaimana solusinya?
 
+<!--more-->
+
 
 
     

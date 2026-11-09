@@ -17,6 +17,8 @@ categories:
 
 Akhirnya momen ini digelar juga, momen yang ditunggu komunitas Ubuntu adalah [**Ubuntu Developer Week**](https://wiki.ubuntu.com/UbuntuDeveloperWeek), yang akan dimulai pada 28 February 2011 sampai 4 March 2011. Dalam seminggu itu kita akan berkomunikasi dengan pengembang Ubuntu dan dapat belajar antara lain:
 
+<!--more-->
+
 
 
 	

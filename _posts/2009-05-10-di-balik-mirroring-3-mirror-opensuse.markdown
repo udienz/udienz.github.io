@@ -16,6 +16,8 @@ tags:
 
 [OpenSUSE](http://opensuse.org) adalah distro ke dua ku ketika mengenal linux, yah distro kedua. yang pertama itu mandriva. Nah sekarang kebetulan di [mirror.unej.ac.id](http://mirror.unej.ac.id) sudah menyediakan repository OpenSUSE. Sekalian reuni masa lalu saya juga menemukan cerita yang unik ketika membuat repository OpenSUSE di mirror kampus UNEJ. nah seberapa unik?  Begini, seperti biasanya distro besar pastilah menyediakan fasilitas mirrorring. nah di OpenSUSE ini ada yang beda, dimana modulnya banyak dan cukup rumit untuk melakukan mirroring. mari kita lihat bersama-sama [di sini untuk rsync.opensuse.org](http://www.poeml.de/~poeml/rsyncinfo-rsync.o.o.txt) dan di [sini untuk stage.opensuse.org](http://www.poeml.de/~poeml/rsyncinfo-stage.o.o.txt).  banyak modul kan?. nah yang jadi unik itu antara lain:
 
+<!--more-->
+
 
 
 	

@@ -19,6 +19,8 @@ tags:
 
 setelah mikir2 akhirnya enak juga hosting photo di [google picassa](http://picasaweb.google.com/udienz)
 
+<!--more-->
+
 kelebihan picassa:
 
 1. free space 1024 MB

@@ -17,4 +17,6 @@ tags:
 
 I'm very pleased with Ubuntu Developer, because next week we can studied together with Ubuntu Developer. "Ubuntu Developer Week" announced by [Daniel Holbach](http://daniel.holba.ch/blog/) from **Sep 1st** to **Sep 5th **full day! at **#ubuntu-classroom** at **irc.ubuntu.com**
 
+<!--more-->
+
 for more information please read [Daniel Holbach Blog](http://daniel.holba.ch/blog/?p=189) or [here](https://wiki.ubuntu.com/UbuntuDeveloperWeek), lets join with Ubuntu Developer!

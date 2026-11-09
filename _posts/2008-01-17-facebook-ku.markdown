@@ -17,4 +17,6 @@ tags:
 Silakan di cek...
 [![Mahyuddin Susanto's Facebook profile](http://badge.facebook.com/badge/555223280.141.691554796.png)](http://www.facebook.com/people/Mahyuddin_Susanto/555223280)
 
+<!--more-->
+
 hehehe gara-gara ikut-ikutan teman-teman di balnkong akhirnya kecanduan facebook juga deh...

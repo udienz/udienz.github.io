@@ -13,4 +13,6 @@ categories:
 **ada apa ini...?????**
 _(gambar tidak tersedia: dian-ubuntu.jpg)_
 
+<!--more-->
+
 [Dian Sastro Biografi ](http://www.indosinema.com/biography/75)

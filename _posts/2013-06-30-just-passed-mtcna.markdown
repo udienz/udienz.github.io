@@ -16,6 +16,8 @@ tags:
 
 Yesterday i just passed MTCNA (Mikrotik Certified Network Association), Many thanks for Herry Dharmawan (belajarmikrotik.com) n Budiwijaya!
 
+<!--more-->
+
 [![mtcna](/wp-content/uploads/2013/06/mtcna.png)](/wp-content/uploads/2013/06/mtcna.png)
 
 I got license number #1306NA416

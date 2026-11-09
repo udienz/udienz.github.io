@@ -20,6 +20,8 @@ tags:
 
 Rilis perdana Ubuntu Mobile ini dijadwalkan akan berbarengan dengan rilis Ubuntu 7.10. Adapun platform yang akan digunakan adalah platform berbasis prosesor Intel, untuk desktopnya menggunakan lingkungan GNOME dan Framework Hildon.
 
+<!--more-->
+
 
 
 ![m2_email.jpg](http://majalah-linux.baliwae.com/wp-content/uploads/2007/05/m2_email.jpg)

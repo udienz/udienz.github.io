@@ -18,6 +18,8 @@ tags:
 
 Merangkak di [urutan](http://www.sixxs.net/tools/grh/dfp/) 15 mas bero...
 
+<!--more-->
+
 [![](/wp-content/uploads/2012/07/Screenshot-from-2012-07-19-122155.png)](/wp-content/uploads/2012/07/Screenshot-from-2012-07-19-122155.png)
 
 Sedangken IPv6 di OpenIXP baru ada 204 prefix :(

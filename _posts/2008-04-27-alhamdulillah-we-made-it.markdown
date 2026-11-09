@@ -27,5 +27,7 @@ BlankOn 3.0: Lontara dapat diunduh melalui http://cdimage.blankonlinux.or.id/ril
 
 Terimakasih banyak kepada rekan-rekan tim BlankOn atas suksesnya rilis kali ini.</blockquote>
 
+<!--more-->
+
 
 we made it!

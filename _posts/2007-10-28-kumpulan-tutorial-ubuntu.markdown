@@ -17,4 +17,6 @@ tags:
 
 lihat aja ke sini kalo ada masalah dengan Ubuntu
 
+<!--more-->
+
 [http://ubuntu-tutorials.com/](http://ubuntu-tutorials.com/)

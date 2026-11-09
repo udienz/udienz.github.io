@@ -21,6 +21,8 @@ tags:
 
 bingung ma konfigurasinya DHCP server???? ni ada file contohnya
 
+<!--more-->
+
 --start--
 
 # Sample /etc/dhcpd.conf
