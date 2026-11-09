@@ -21,6 +21,8 @@ tags:
 
 alhamdulillah akhirnya aku dan mas agus (suganux) buat tim Linux Jember.... ni alamatnya https://launchpad.net/~jerux dan ini timnya https://launchpad.net/jerux. tujuan dari tim ini tak lain adalah lebih memasyarakatkan linux di bumi indonesia.... bukan begitu.
 
+<!--more-->
+
 mari silakan gabung:
 
 **https://launchpad.net/jerux/+filebug** (laporan bug) >> bug ubuntu dapat juga di laporin di sini kalo ga bisa bahasa inggris

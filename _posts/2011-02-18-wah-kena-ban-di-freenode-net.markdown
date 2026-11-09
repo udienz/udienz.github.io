@@ -17,6 +17,8 @@ tags:
 
 Sungguh di sesalkan kenapa bisa di ban, sepertinya dulu jaringan [maxima](http://maxima.net.id/) ada yang iseng sehingga di banned oleh [freenode](http://freenode.net)
 
+<!--more-->
+
     
     --- Looking up irc.ubuntu.com..
      Connecting to chat.freenode.net (38.229.70.20) port 8001..

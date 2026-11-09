@@ -14,6 +14,8 @@ tags:
 
 Setelah instalasi sistem Debian selesai, yang pertama saya pikirkan adalah space. Kadang apt/aptitude menyertakan paket yang direkomendasikan untuk dipasamng. Nah bagaimana caranya agar sistem tidak memasang paket yang direkomendasikan?
 
+<!--more-->
+
 
     
     udienz@debian:~$ cat /etc/apt/apt.conf.d/20recommends 

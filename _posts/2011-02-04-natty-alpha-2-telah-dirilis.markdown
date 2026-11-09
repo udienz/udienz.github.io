@@ -19,6 +19,8 @@ Rilis ini merupakan rilis alpha, yaitu rilis pengembangan. ditujukan
 bagi pengembang, tester, dll dan sangat tidak dianjurkan bagi pengguna
 umum atau pengguna harian (kecuali ingin berpartisipasi)
 
+<!--more-->
+
 **Download**:
 [http://cdimage.ubuntu.com/releases/natty/alpha-2/](http://cdimage.ubuntu.com/releases/natty/alpha-2/) (Ubuntu Desktop and
 Server)

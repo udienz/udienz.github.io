@@ -18,6 +18,8 @@ tags:
 
 maafkan aku teman-teman aku ga hadiri pertemuan Ubuntu-Indonesia yang berlangsung di [Cafe Oh La la - Djakarta Theatre](http://harry.sufehmi.com/archives/2007-06-30-1501/)  dan terima kasih buat
 
+<!--more-->
+
 - Andi Darmawan
 - Andy Apdhani
 - Harry Sufehmi

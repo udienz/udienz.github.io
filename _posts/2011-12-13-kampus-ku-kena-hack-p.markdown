@@ -17,6 +17,8 @@ tags:
 
 Maaf berita basi :) [Kampus](http://unej.ac.id/) saya kena deface, berikut hasil tangkapan layarnya: (Thanks to tnt for your image!). Klik gambar untuk melihat lebih besar
 
+<!--more-->
+
 [![](http://tripledin.files.wordpress.com/2011/12/340258_2291754008763_1096388617_31969899_2090684453_o.jpg?w=300)](http://tripledin.files.wordpress.com/2011/12/340258_2291754008763_1096388617_31969899_2090684453_o.jpg)Saat ini, sewaktu tulisan ini ditulis situsnya masih "Under maintenance <del>Joomla</del>".
 
 PS: Saya bukan admin kampus lagi :D

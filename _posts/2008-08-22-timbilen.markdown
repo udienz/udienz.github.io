@@ -15,6 +15,8 @@ tags:
 
 Timbilen adalah penyakit di mata karena adanya benjolan kecil. kata orang jawa itu karena ngintip...
 
+<!--more-->
+
 nah saya kahir-akhir ini, atau lebih tepatnya 3 hari ini timbilen. jangan salah sangka lho yah, ini gara-gara kebanyakan ngebaca log nya server :p hehehe lha bagaimana lagi, log itu harus di analisis.. cobak silakan download dengan wget dengan file nyang banyak kemudian periksa satu-satauÂ  dan dengan kecepatan tertentu langsung bisa tau.
 
 duh... mataku rek...

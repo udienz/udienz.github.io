@@ -15,6 +15,8 @@ tags:
 
 Pada dasarnya OpenBSD memiliki system yang lengkap, namun kadang banyak paket yang belum ditambahkan :(.Â Sebenarnya ports berasal dari FreeBSD namun telah ditulis ulang.
 
+<!--more-->
+
 Untuk mengaktifkan ports di OpenBSD silakan mengikuti langkah langkah berikut:
 
 

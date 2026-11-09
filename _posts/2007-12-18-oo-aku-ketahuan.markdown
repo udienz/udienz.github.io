@@ -21,6 +21,8 @@ tags:
 
 wah benar niat [lutfi](http://luthfi.web.id) membongkar identitas [soulmate](http://menikah.luthfi.web.id/) ku..
 
+<!--more-->
+
 hebat... padahal dah sembunyikan.....
 
 keep secret lut!!!

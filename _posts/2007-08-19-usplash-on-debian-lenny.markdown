@@ -20,4 +20,6 @@ Sekedar Link :)
 
 [ http://tuxicity.wordpress.com/2007/08/18/usplash-on-debian-lenny/](http://tuxicity.wordpress.com/2007/08/18/usplash-on-debian-lenny/)
 
+<!--more-->
+
 thx to tuxicity

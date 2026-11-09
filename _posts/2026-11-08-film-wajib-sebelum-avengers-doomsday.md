@@ -15,6 +15,8 @@ tags:
 
 *Avengers: Doomsday* dijadwalkan tayang di bioskop Amerika Serikat pada 18 Desember 2026, dan Inggris kebagian dua hari lebih awal ([Wikipedia](https://en.wikipedia.org/wiki/Avengers:_Doomsday)). Untuk Indonesia, sejauh ini baru ada kepastian bulan, yaitu Desember 2026; tanggal persisnya pantau akun Marvel Indonesia atau XXI, CGV, dan Cinépolis ([Kompas TV](https://www.kompas.tv/entertainment/583482/avengers-doomsday-kapan-tayang-ini-jadwalnya)).
 
+<!--more-->
+
 Pertanyaan yang paling sering muncul: perlu nonton apa dulu? Jawaban resmi Disney cukup santai, katanya penonton bisa langsung masuk tanpa pernah menonton film atau serial Marvel sebelumnya ([Disney+](https://www.disneyplus.com/explore/articles/avengers-doomsday)). Itu benar kalau tujuannya sekadar menikmati adegan laga. Tapi film ini mempertemukan tiga semesta dan puluhan karakter, jadi beberapa judul akan sangat membantu supaya tidak bingung siapa melawan siapa dan kenapa.
 
 ## Sekilas tentang Avengers: Doomsday

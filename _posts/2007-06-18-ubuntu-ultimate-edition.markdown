@@ -14,6 +14,8 @@ categories:
 
 jangan berfikiran kalo ubuntu yang mbayar lho.... maksudnya tampilanya yang elegan plus bikin terkagum kagum..
 
+<!--more-->
+
 coba aje lihat videonya
 
 [youtube=http://www.youtube.com/watch?v=_CPEfFdfEdg]

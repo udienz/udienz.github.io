@@ -17,4 +17,6 @@ tags:
 
 Demi menjembatani proses provokasi penyebaran paham linux di jember akhirnya temen2 di FOSS Jember sepakat membuat channel IRC yaitu #jossc di server allnetwork.
 
+<!--more-->
+
 ayo gabung...

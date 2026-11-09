@@ -18,6 +18,8 @@ tags:
 
 _(gambar tidak tersedia: jaunty-jackalope-photoshopped-image1)_
 
+<!--more-->
+
 
 <blockquote>_Faster boot speed, enhanced application suite and more visual appeal -- give users more reasons than ever to choose Ubuntu_
 

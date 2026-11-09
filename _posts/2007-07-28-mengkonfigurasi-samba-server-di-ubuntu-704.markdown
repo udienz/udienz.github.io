@@ -12,4 +12,6 @@ categories:
 
 Setelah selesai dengan installasi Ubuntu, ada kalanya kita membutuhkan fasilitas berbagi file (sharing file) antara linux server dengan Windows/Client PC lainnya dan juga sebaliknya, untuk tujuan berbagi file sebenarnya ada beberapa option yang dapat digunakan, diantaranya menggunakan webserver (_http_) ataupun ftp server, namun dengan alasan kemudahan  biasanya pilihan jatuh pada penggunaan samba.
 
+<!--more-->
+
 [selanjutnya ](http://iyanux.wordpress.com/2007/07/25/mengkonfigurasi-samba-server-di-ubuntu-704/)

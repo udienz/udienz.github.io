@@ -31,6 +31,8 @@ Aplikasi Wine-doors? you know lah apa itu.. ![)](http://majalah-linux.baliwae.co
 
 Dia juga telah membuat [launchpad](https://launchpad.net/wine-doors/) untuk proyek aplikasi [wine-doors](http://www.wine-doors.org/wordpress/?page_id=2) - aplikasi yang dibuat untuk memudahkan pengguna di Linux, Solaris atau sistem berbasis Unix lainnya untuk menginstall apliksi Windows. Bisa dibilang sebagai pengelola paket aplikasi Windows di Linux - Apabila Anda berminat untuk bergabung silahkan join. Pastikan Anda telah membuat akun di Launchpad sebelumnya ![)](http://majalah-linux.baliwae.com/wp-includes/images/smilies/icon_smile.gif)
 
+<!--more-->
+
 
 
 

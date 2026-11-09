@@ -20,6 +20,8 @@ Salam pembebasan..!
 
 Server Mirror/Repository baru di indonesia telah lahir, tepatnya di [Universitas Jember](http://www.unej.ac.id) dengan alamat [http://mirror.unej.ac.id](http://mirror.unej.ac.id). Di server ini menyediakan repository antara lain
 
+<!--more-->
+
 
 
 	

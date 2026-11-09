@@ -16,6 +16,8 @@ tags:
 
 Saya mempunyai kapasitas hardisk yang mepet, ceritanya dulu saya lupa untuk mempartisi Gede partisi `/home `dan akhirnya sekarang tinggal dikit banget deh kapasitas yang tersisa
 
+<!--more-->
+
 
 
 [caption id="attachment_278" align="aligncenter" width="466" caption="du"]_(gambar tidak tersedia: du)_[/caption]

@@ -12,6 +12,8 @@ categories:
 
 _(gambar tidak tersedia: udienz-balnkon_640.jpg)_
 
+<!--more-->
+
 perkenalkan koordinator [tim dokumentasi](https://launchpad.net/~blankon-doc) [BlankOn](https://launchpad.net/blankon)
 
 hehehe..... kok bisa yah jadi koordinatornya????

@@ -16,6 +16,8 @@ tags:
 
 Giornata 11 Serie A 2026/27 dimainkan dari Jumat, 6 November, sampai Minggu, 8 November 2026. Lazio tetap memimpin klasemen dengan 29 poin setelah bermain 1-1 di markas Napoli. Davide Frattesi membawa Lazio unggul menit 28, lalu gol bunuh diri Alfonso Pedraza menit 48 menyamakan kedudukan. Inter menang 2-0 atas Como dan tertinggal satu poin dari Lazio, sedangkan Roma menang 3-0 atas Sassuolo dan berada dua poin di belakang. Milan menang 2-1 di Genoa dan naik ke peringkat 4 dengan 24 poin. Ini lanjutan dari [rekap giornata 10](/2026/11/07/klasemen-serie-a-giornata-10-2026-27).
 
+<!--more-->
+
 ![Grafik delapan besar klasemen Serie A 2026/27 setelah giornata 11, dipimpin Lazio dengan 29 poin](/img/klasemen-serie-a-giornata-11-2026-27.webp)
 
 > **Poin Penting**

@@ -20,6 +20,8 @@ tags:
 
 Ada kalanya kita ingin mengoleksi program2 yang telah kita download/instal kedalam komputer menjadi satu kesatuan, seingga apa bila kita berpindah ke komputer lain maka kita tidak akan kesulitan mencari/mendownload program kesayangan kita. Linux Debian memberikan solusi cerdas yang dapat membuat daftar program2 kesayangan kita, melalui tool cerdas dpkg-nya. berikut adalah caranya:
 
+<!--more-->
+
 1. download prgram2 yang kita inginkan
 2. prgram2 yang telah kita download biasanya terletak di directory /var/apt/cache/ <kalo tidak salah>
 3. copy aja semua program itu kedirektory kesayangan kita, contohnya di /home/*/ubuntu/repository/

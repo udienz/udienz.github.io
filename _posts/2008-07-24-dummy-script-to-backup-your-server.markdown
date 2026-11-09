@@ -22,6 +22,8 @@ tags:
 
 This is smply script to backup your server and reposrted via email, but i think my script is very simply. please correct me
 
+<!--more-->
+
     
     #!/bin/sh
     ####################################

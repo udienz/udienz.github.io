@@ -16,4 +16,6 @@ tags:
 
 Yak silakan dilihat ubuntu dvd repository untuk update keamanan dan backports di [sini](http://mirror.unej.ac.id/pub/iso/ubuntu-repository/updates/). dan untuk scriptnya dapat diperoleh di [sini](http://pastie.org/429865)
 
+<!--more-->
+
 Happy downloading!

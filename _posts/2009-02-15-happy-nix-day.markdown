@@ -21,6 +21,8 @@ terlambat 1 hari :D
     Sat Feb 14 06:31:30 WIT 2009
     ironhide:~$ 
 
+<!--more-->
+
 
 
 Links:

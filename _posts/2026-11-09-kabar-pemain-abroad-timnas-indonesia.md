@@ -15,6 +15,8 @@ tags:
 
 Laga terakhir 16 pemain abroad Timnas Indonesia dimainkan antara 7 dan 9 November 2026 waktu Indonesia, sebagai pembaruan dari [edisi 7 November]({% post_url 2026-11-07-kabar-pemain-abroad-timnas-indonesia %}). Sepuluh pemain turun ke lapangan dan empat di antaranya bermain penuh 90 menit: Emil Audero, Justin Hubner, Nathan Tjoe-A-On, dan Jay Idzes. Tidak satu pun mencetak gol atau assist di laga terakhirnya. Di antara delapan pemain yang punya rating FotMob, Tjoe-A-On teratas dengan 7,8 saat Willem II bermain 1-1 melawan PEC Zwolle. Hanya tiga klub pemain yang menang: Lille, Heerenveen, dan Go Ahead Eagles. Tiga pemain absen karena cedera: Ole Romeny (engkel), Miliano Jonathans (lutut), dan Asnawi Mangkualam (ACL).
 
+<!--more-->
+
 ![Daftar 16 pemain abroad Timnas Indonesia dengan menit bermain di laga terakhir masing-masing, per 9 November 2026](/img/kabar-pemain-abroad-timnas-2026-11-09.webp)
 
 > **Poin Penting**

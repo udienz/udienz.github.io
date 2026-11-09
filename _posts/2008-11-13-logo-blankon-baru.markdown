@@ -16,6 +16,8 @@ tags:
 
 dibuat oleh Blaxnux.. sip banget deh, diresmikan pada saat ILC 2008 kemarin lho
 
+<!--more-->
+
 ![](http://dev.blankonlinux.or.id/chrome/site/blankon.png)
 
 hayo itu ga mirp sama logo pokemon lho, kalo dilihat-lihat itu mirip irgsh yang lagi menggunakan headset, ini gambar irgsh

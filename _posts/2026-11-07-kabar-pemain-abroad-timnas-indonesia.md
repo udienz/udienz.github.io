@@ -15,6 +15,8 @@ tags:
 
 Laga terakhir 16 pemain abroad Timnas Indonesia dimainkan antara 31 Oktober dan 7 November 2026 waktu Indonesia. Sepuluh di antaranya turun ke lapangan, enam bermain penuh 90 menit, tetapi tidak satu pun mencetak gol atau assist di laga terakhirnya. Rating tertinggi dibagi dua: Calvin Verdonk di FotMob (7,9) saat Lille menahan Bodø/Glimt 0-0 di Liga Champions, dan Nathan Tjoe-A-On di Sofascore (8,1) saat Willem II bermain 1-1 melawan PEC Zwolle. Tiga pemain absen karena cedera: Ole Romeny (engkel), Miliano Jonathans (lutut), dan Asnawi Mangkualam (ACL). Tiga lainnya duduk di bangku cadangan tanpa dimainkan.
 
+<!--more-->
+
 ![Daftar 16 pemain abroad Timnas Indonesia dengan menit bermain di laga terakhir masing-masing, per 7 November 2026](/img/kabar-pemain-abroad-timnas-2026-11-07.webp)
 
 > **Poin Penting**

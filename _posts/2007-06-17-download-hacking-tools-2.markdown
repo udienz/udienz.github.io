@@ -16,6 +16,8 @@ tags:
 
 halman ini aku ambil dari Yogya Family Code (hacker yogya)
 
+<!--more-->
+
 **Yogyafreeâ„¢**** Download - 1** 
 
 

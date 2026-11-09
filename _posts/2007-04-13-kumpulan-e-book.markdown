@@ -16,6 +16,8 @@ tags:
 
 tulisan ini kuambil dari http://urip.wordpress.com/2006/08/14/maniak-e-book/  sorry yah......
 
+<!--more-->
+
 Berikut ini adalah link-link untuk pencarian buku-buku/majalah gratis yg pernah saya kunjungi:
 1. [http://www.ebooksclub.org/?module=index](http://www.ebooksclub.org/?module=index)
 (Computer + IT, Literature + Fiction, Science + Engineering, Medical + Health, Business, Graphic + Photography, Travel + Adventure, Other)

@@ -25,6 +25,8 @@ Mantan koordinator yang udah capek jadi koordinator .. capedeh!_
 
 Umpan dilempar, umpanpun jadi rebutan ![)](http://majalah-linux.baliwae.com/wp-includes/images/smilies/icon_smile.gif) alias _brainstorming_-pun dimulai. Sementara di [milis id-ubuntu](http://groups.google.com/group/id-ubuntu/) tampai ramai membahas soal pembuatan distro baru ini, di [milis blankon linux](http://groups.google.com/group/blankon) tampak tenang-tenang saja, hanya tampak Mohammad DAMT dan beberapa simpatisan saja yang tampak [sibuk cross posting](http://groups.google.com/group/BlankOn/browse_thread/thread/701933d2fead1fa7) ![)](http://majalah-linux.baliwae.com/wp-includes/images/smilies/icon_smile.gif)
 
+<!--more-->
+
 
 
 ![mdamt3.jpg](http://majalah-linux.baliwae.com/wp-content/uploads/2007/05/mdamt3.jpg)

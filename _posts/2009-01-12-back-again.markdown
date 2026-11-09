@@ -18,4 +18,6 @@ tags:
 
 after3 days off-line this blog is back again! some database and post at last time is corrupt, yeah my database server is broken. anyway new server is come with dual Xeon and 1 GB memory ECC for webserver and 8 Core 6GB ECC for database
 
+<!--more-->
+
 Rock Again!

@@ -17,6 +17,8 @@ tags:
 
 Seperti biasa saya mendapatkan wangsit, hehehe. sekarang berbunyi:
 
+<!--more-->
+
 
 
 

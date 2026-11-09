@@ -25,6 +25,8 @@ tags:
 opsi 3 **
 [![Ubuntu 9.04 - on desktops, netbooks, servers and in the cloud](http://www.ubuntu.com/files/countdown/904/countdown-9.04-1/00.png)](http://www.ubuntu.com/)
 
+<!--more-->
+
 
 
 **opsi 4**

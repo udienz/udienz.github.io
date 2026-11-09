@@ -19,6 +19,8 @@ tags:
 **1. Cewek Downloader**
 Tipe Cewek ini manja karena apa yang di inginkan harus tercapai dengan cara apapun sampai-sampai mengorbankan teman sendiri
 
+<!--more-->
+
 **2. Cewek Friendster**
 Cewek ini sukanya memberi perhatian pada cowok-cowok, sok kenal, sok dekat, sok perhatian
 
