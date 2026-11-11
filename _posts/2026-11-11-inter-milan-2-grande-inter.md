@@ -143,7 +143,7 @@ Catenaccio sering dicap negatif karena dianggap tidak menghibur. Penilaian itu m
 
 ## Tiga Scudetto: 1963, 1965, dan 1966
 
-Dalam daftar juara Serie A, era Herrera meninggalkan tiga entri untuk Inter: 1962–63, 1964–65, dan 1965–66 ([Wikipedia](https://en.wikipedia.org/wiki/FC_Internazionale_Milano)). Gelar 1966 menjadi Scudetto kesepuluh klub. Di Italia, klub yang mencapai sepuluh gelar liga berhak memasang satu bintang di jersey. Dengan gelar itu Inter mendapat bintang pertamanya, dan bintang kedua baru datang saat Scudetto ke-20 pada 2024, yang dibahas di bagian keempat.
+Dalam daftar juara Serie A, era Herrera meninggalkan tiga entri untuk Inter: 1962–63, 1964–65, dan 1965–66 ([Wikipedia](https://en.wikipedia.org/wiki/FC_Internazionale_Milano)). Gelar 1966 menjadi Scudetto kesepuluh klub. Di Italia, klub yang mencapai sepuluh gelar liga berhak memasang satu bintang di jersey. Dengan gelar itu Inter berhak atas bintang pertamanya, yang baru tampil di lambang klub pada 1979, dan bintang kedua baru datang saat Scudetto ke-20 pada 2024, yang dibahas di bagian keempat.
 
 ## 1964: Real Madrid dikalahkan
 

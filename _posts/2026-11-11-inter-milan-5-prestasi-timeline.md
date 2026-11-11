@@ -282,6 +282,36 @@ Warna biru dan hitam, nama Internazionale, dan julukan *I Nerazzurri* sudah ada 
 
 Satu fakta yang membedakan Inter dari klub-klub besar lain di Italia: sejak debut di kasta teratas pada 1909, klub ini tidak pernah turun kasta.
 
+## Sejarah logo Inter
+
+Lambang Inter berubah belasan kali sejak 1908, tetapi satu unsur nyaris tidak pernah hilang: huruf F, C, I, dan M yang saling terjalin di dalam lingkaran. Rangkuman berikut mengikuti riwayat lambang yang diterbitkan situs resmi klub ([Inter.it](https://www.inter.it/en/news/2021-03-27-history-inter-crest)) dan keterangan di Wikipedia ([Wikipedia](https://en.wikipedia.org/wiki/FC_Internazionale_Milano)). Pembagian tahun di halaman resmi klub tidak sepenuhnya konsisten, jadi rentang di bawah mengikuti yang tertulis di sana.
+
+<figure class="blog-chart">
+<div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center"><figure style="margin:0;text-align:center;width:128px"><img src="/img/inter-logo-1908-1928.png" alt="Lambang Inter 1908 sampai 1928" width="112" height="112" loading="lazy" style="background:#fff;border-radius:8px;padding:4px;max-width:100%;height:auto"><figcaption style="font-size:0.8em">1908-1928</figcaption></figure><figure style="margin:0;text-align:center;width:128px"><img src="/img/inter-logo-1963-1979.svg" alt="Lambang Inter 1963 sampai 1979" width="112" height="112" loading="lazy" style="background:#fff;border-radius:8px;padding:4px;max-width:100%;height:auto"><figcaption style="font-size:0.8em">1963-1979</figcaption></figure><figure style="margin:0;text-align:center;width:128px"><img src="/img/inter-logo-1999-2007.png" alt="Lambang Inter 1999 sampai 2007" width="112" height="112" loading="lazy" style="background:#fff;border-radius:8px;padding:4px;max-width:100%;height:auto"><figcaption style="font-size:0.8em">1999-2007</figcaption></figure><figure style="margin:0;text-align:center;width:128px"><img src="/img/inter-logo-2007-2014.svg" alt="Lambang Inter 2007 sampai 2014" width="112" height="112" loading="lazy" style="background:#fff;border-radius:8px;padding:4px;max-width:100%;height:auto"><figcaption style="font-size:0.8em">2007-2014</figcaption></figure><figure style="margin:0;text-align:center;width:128px"><img src="/img/inter-logo-2014-2021.svg" alt="Lambang Inter 2014 sampai 2021" width="112" height="112" loading="lazy" style="background:#fff;border-radius:8px;padding:4px;max-width:100%;height:auto"><figcaption style="font-size:0.8em">2014-2021</figcaption></figure><figure style="margin:0;text-align:center;width:128px"><img src="/img/inter-logo-2021.svg" alt="Lambang Inter sejak 2021" width="112" height="112" loading="lazy" style="background:#fff;border-radius:8px;padding:4px;max-width:100%;height:auto"><figcaption style="font-size:0.8em">2021-sekarang</figcaption></figure></div>
+<figcaption>Enam lambang Inter yang tersedia di Wikimedia Commons, berstatus domain publik di sana tetapi tetap merek dagang FC Internazionale Milano.</figcaption>
+</figure>
+
+| Periode | Lambang |
+|---------|---------|
+| 1908–1928 | Karya pendiri klub, Giorgio Muggiani: huruf F C I M emas di tengah dua lingkaran biru-hitam, bergaya Art Nouveau dan terinspirasi lambang klub Inggris |
+| 1928–1929 | Masa nama Ambrosiana: hanya bentuk bulat yang bertahan, dengan simbol rezim saat itu, perisai Visconti, dan perisai salib merah Milan |
+| 1929–1932 | Masih bulat, dengan garis-garis biru-hitam dikelilingi warna emas dan tulisan AMBROSIANA emas di tengah hitam |
+| 1933–1945 | Pertama kali berbentuk persegi, dengan latar garis biru-hitam, bola kulit di tengah, dan tulisan Associazione Sportiva Ambrosiana serta INTER |
+| 1945–1960 | Nama Inter kembali, begitu pula desain asli F C I M |
+| 1960–1963 | Oval bergaris dengan ular Visconti emas dan tulisan INTER. Menurut klub, lambang ini tidak pernah dipakai di dokumen resmi atau seragam |
+| 1963–1979 | Desain Muggiani kembali dalam gaya yang sedikit diperbarui, dengan lebih banyak warna emas |
+| 1979–1988 | Perisai putih dengan dua garis diagonal biru-hitam dan ular modern. Sebuah bintang di sampingnya melambangkan 10 gelar nasional, dan lambang mulai dipasang permanen di jersey |
+| 1988–1989 | Ular dibuat lebih agresif, dengan tulisan INTER hitam di atas perisai |
+| 1989–1999 | Desain Muggiani kembali dengan F C I M putih di atas latar emas dan bintang lebih besar, termasuk saat tiga Piala UEFA dimenangi |
+| 1999–2007 | Warna biru mendominasi, dengan tulisan INTER dan tahun pendirian berwarna putih. Bintang berada di dalam lambang |
+| 2007–2014 | Penyesuaian saat satu abad klub: bintang pindah ke luar lambang dan huruf kembali putih. Pada musim 2007/08 ada lingkaran emas bertulisan "1908-2008" dan "100 ANNI INTER" |
+| 2014–2021 | Garis monogram dan proporsi dirapikan, lingkaran dikurangi, dan bintang hanya dipakai di seragam resmi untuk menandai gelar liga |
+| 2021–sekarang | Lambang berbentuk lingkaran hitam dengan monogram putih "IM" di dalam lingkaran biru, sebagaimana tampak di gambar di atas |
+
+Beberapa hal layak dicatat dari tabel ini. Pertama, desain Muggiani muncul kembali tiga kali, pada 1945, 1963, dan 1989, sehingga klub berulang kali kembali ke desain aslinya. Kedua, ular pada lambang 1960-an adalah ular Visconti, lambang keluarga yang lama dikenal di Milan, sedangkan ular pada 1979 digambar dengan gaya modern dan bukan ular Visconti. Julukan *Il Biscione* berkaitan dengan lambang klub. Ketiga, bintang di lambang mengikuti hitungan gelar liga: bintang yang tampil di lambang pada 1979 mewakili sepuluh gelar, dan sejak 2014 bintang hanya dipakai di seragam resmi.
+
+Dari tabel, hanya enam lambang yang gambarnya tersedia di Wikimedia Commons, dan keenamnya dicantumkan di atas. Berkas itu berstatus domain publik di sana, kemungkinan karena bentuknya dinilai terlalu sederhana untuk mendapat hak cipta, tetapi lambang Inter tetap merek dagang klub dan tidak boleh dipakai untuk menyiratkan hubungan resmi dengan Inter. Gambar pertama berwarna hitam putih, mengikuti berkas di Wikimedia Commons.
+
 ## Timeline lengkap 1908–2026
 
 Satu daftar kronologis dari seluruh seri.

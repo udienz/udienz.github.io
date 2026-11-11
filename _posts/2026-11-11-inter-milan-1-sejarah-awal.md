@@ -46,7 +46,12 @@ Ini bagian pertama dari lima tulisan tentang Inter. Bagian ini mencakup tahun 19
 
 Sepak bola Italia di awal abad ke-20 masih seperti klub sosial. Pertandingan resmi sedikit, liga baru berjalan beberapa musim, dan klub-klub besar di kota-kota utara lahir dari kelompok ekspatriat, pedagang, dan pelajar. Milan Cricket and Football Club adalah salah satunya. Dari dalam klub itulah muncul kelompok yang tidak sepakat soal arah klub, dan pada 9 Maret 1908 kelompok ini mendirikan Foot-Ball Club Internazionale ([Wikipedia, sejarah Inter](https://en.wikipedia.org/wiki/History_of_Inter_Milan)).
 
-Salah satu pendirinya, Giorgio Muggiani, juga yang merancang lambang klub. Menurut kutipan yang dicatat Wikipedia, ia menjelaskan nama klub dengan kalimat sederhana: klub ini disebut Internazionale karena "kita bersaudara di seluruh dunia". Biru dan hitam dipilih sebagai warna klub, dengan latar bintang-bintang di lambangnya. Dari situ lahir julukan *I Nerazzurri*, "si biru-hitam", yang sampai sekarang lebih sering dipakai daripada nama resminya.
+Salah satu pendirinya, Giorgio Muggiani, juga yang merancang lambang klub. Menurut kutipan yang dicatat Wikipedia, ia menjelaskan nama klub dengan kalimat sederhana: klub ini disebut Internazionale karena "kita bersaudara di seluruh dunia". Biru dan hitam dipilih sebagai warna klub, dengan latar bintang-bintang di lambangnya. Dari situ lahir julukan *I Nerazzurri*, "si biru-hitam", yang sampai sekarang lebih sering dipakai daripada nama resminya. Gambar lambang pertama itu ada di bawah, dan sejarah semua lambang sesudahnya dibahas di bagian kelima.
+
+<figure class="blog-chart">
+<div style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center"><figure style="margin:0;text-align:center;width:128px"><img src="/img/inter-logo-1908-1928.png" alt="Lambang Inter 1908 sampai 1928: huruf F C I M saling terjalin di dalam lingkaran-lingkaran konsentris, versi hitam putih" width="112" height="112" loading="lazy" style="background:#fff;border-radius:8px;padding:4px;max-width:100%;height:auto"><figcaption style="font-size:0.8em">1908-1928</figcaption></figure></div>
+<figcaption>Lambang pertama Inter karya Giorgio Muggiani, dipakai 1908 sampai 1928 (versi hitam putih dari Wikimedia Commons). Lambang adalah merek dagang klub.</figcaption>
+</figure>
 
 Nama itu punya arti praktis. Pada masa itu pembatasan pemain asing menjadi bahan perdebatan di sepak bola Italia, dan Inter memilih jalan sebaliknya: klub terbuka untuk pemain dari negara mana pun. Keterbukaan itu menjadi identitas yang bertahan lama. Dari Lothar Matthäus dan Ronaldo sampai Zlatan Ibrahimović di era berikutnya, daftar pemain Inter memang selalu dipenuhi nama dari luar Italia.
 
