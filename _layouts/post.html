@@ -2,140 +2,57 @@
 layout: default
 ---
 
-<!-- Page Header -->
-{% assign hero = page.background | default: '/img/bg-post.jpg' %}
-<header class="masthead" style="background-image: url('{{ hero | relative_url }}')">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col mx-auto">
-          <div class="post-heading">
-            <h1>{{ page.title }}</h1>
-            {% if page.subtitle %}
-            <h2 class="subheading">{{ page.subtitle }}</h2>
-            {% endif %}
-            <span class="meta">Posted by
-              <a href="{{ "/about" | relative_url }}">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
-              on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html  content=page.content %}
-            </span>
-          </div>
-        </div>
-      </div>
+<main class="article-shell">
+  <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">Home</a><span>›</span><a href="{{ '/posts/' | relative_url }}">Articles</a>{% if page.categories.first %}<span>›</span><a href="{{ '/categories/' | relative_url }}#{{ page.categories.first | slugify }}">{{ page.categories.first }}</a>{% endif %}</nav>
+  <header class="article-header">
+    {% if page.categories.first %}<a class="article-kicker" href="{{ '/categories/' | relative_url }}#{{ page.categories.first | slugify }}">{{ page.categories.first }}</a>{% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="article-subtitle">{{ page.subtitle }}</p>{% endif %}
+    <div class="article-meta">
+      <img src="https://avatars.githubusercontent.com/u/30291?v=4" alt="" loading="lazy">
+      <span><strong>{{ page.author | default: site.author }}</strong><small>aka udienz</small></span>
+      <i class="far fa-calendar" aria-hidden="true"></i><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%d %b %Y' }}</time>
+      <i class="far fa-clock" aria-hidden="true"></i><span>{% include read_time.html content=page.content %}</span>
     </div>
   </header>
 
+  {% if page.image %}<img class="article-cover" src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title | escape }}">{% endif %}
 
-  <div class="container">
-    <div class="row">
-      <div class="col mx-auto">
+  <div class="article-layout">
+    <aside class="article-aside">
+      <section class="sidebar-card author-card">
+        <h2>About the author</h2>
+        <div class="author-summary"><img src="https://avatars.githubusercontent.com/u/30291?v=4" alt="Mahyuddin Susanto" loading="lazy"><div><strong>Mahyuddin Susanto</strong><span>aka udienz</span><p>Linux and network enthusiast, open-source contributor, and technology writer.</p><a href="{{ '/about/' | relative_url }}">More about me →</a></div></div>
+      </section>
+      {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" %}
+      {% if page.categories.first %}{% assign related_posts = related_posts | where_exp: "post", "post.categories contains page.categories.first" %}{% endif %}
+      {% if related_posts.size > 0 %}<section class="sidebar-card related-card"><h2>Related articles</h2>{% for p in related_posts limit:3 %}<a href="{{ p.url | relative_url }}">{{ p.title }}<small>{{ p.date | date: '%d %b %Y' }}</small></a>{% endfor %}</section>{% endif %}
+    </aside>
 
-        {% include series_nav.html %}
-
-        <article class="post-content" itemprop="articleBody">
-        {{ content }}
-        </article>
-
-        {% if page.series %}
+    <article class="post-content" itemprop="articleBody">
+      {% include series_nav.html %}
+      {{ content }}
+      {% if page.series %}
         {% assign parts = site.posts | where: "series", page.series | sort: "part" %}
-        {% assign prev_part = page.part | minus: 1 %}
-        {% assign next_part = page.part | plus: 1 %}
-        <div class="series-pager clearfix">
-          {% for p in parts %}
-            {% if p.part == prev_part %}<a class="btn btn-outline-primary float-left" href="{{ p.url | relative_url }}">&larr; Bagian {{ p.part }}</a>{% endif %}
-            {% if p.part == next_part %}<a class="btn btn-primary float-right" href="{{ p.url | relative_url }}">Bagian {{ p.part }} &rarr;</a>{% endif %}
-          {% endfor %}
-        </div>
+        {% assign prev_part = page.part | minus: 1 %}{% assign next_part = page.part | plus: 1 %}
+        <div class="series-pager">{% for p in parts %}{% if p.part == prev_part %}<a href="{{ p.url | relative_url }}">← Bagian {{ p.part }}</a>{% endif %}{% if p.part == next_part %}<a href="{{ p.url | relative_url }}">Bagian {{ p.part }} →</a>{% endif %}{% endfor %}</div>
         {% include series_nav.html %}
-        {% endif %}
-
-        <hr>
-
-        {% if page.tags.size > 0 or page.categories.size > 0 %}
-        <p class="post-tags">
-          {% for c in page.categories %}<a class="badge badge-primary" href="{{ '/categories/' | relative_url }}#{{ c | slugify }}">{{ c }}</a> {% endfor %}
-          {% for tg in page.tags %}<a class="badge badge-light" href="{{ tg | slugify | prepend: '/tag/' | append: '/' | relative_url }}">#{{ tg }}</a> {% endfor %}
-        </p>
-        {% endif %}
-
-        <div class="share" aria-label="Share this post">
-          <span class="topic-label">Share</span>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke Twitter" title="Twitter" href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke Facebook" title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke LinkedIn" title="LinkedIn" href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url | url_encode }}"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke WhatsApp" title="WhatsApp" href="https://wa.me/?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke Telegram" title="Telegram" href="https://t.me/share/url?url={{ page.url | absolute_url | url_encode }}&text={{ page.title | url_encode }}"><i class="fab fa-telegram" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke Bluesky" title="Bluesky" href="https://bsky.app/intent/compose?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"><i class="fab fa-bluesky" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke Threads" title="Threads" href="https://www.threads.com/intent/post?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"><i class="fab fa-threads" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke Reddit" title="Reddit" href="https://www.reddit.com/submit?url={{ page.url | absolute_url | url_encode }}&title={{ page.title | url_encode }}"><i class="fab fa-reddit-alien" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Simpan ke Pinterest" title="Pinterest" href="https://www.pinterest.com/pin/create/button/?url={{ page.url | absolute_url | url_encode }}&description={{ page.title | url_encode }}"><i class="fab fa-pinterest-p" aria-hidden="true"></i></a>
-          <a aria-label="Kirim lewat email" title="Email" href="mailto:?subject={{ page.title | url_encode | replace: '+', '%20' }}&body={{ page.url | absolute_url | url_encode | replace: '+', '%20' }}"><i class="fas fa-envelope" aria-hidden="true"></i></a>
-          <button type="button" class="share-copy" aria-label="Salin tautan" title="Salin tautan" data-url="{{ page.url | absolute_url }}"><i class="fas fa-link" aria-hidden="true"></i></button>
-          <span class="share-copied" role="status" aria-live="polite" hidden></span>
-        </div>
-        <script>
-        (function () {
-          var btn = document.querySelector('.share-copy');
-          var note = document.querySelector('.share-copied');
-          if (!btn || !note) { return; }
-          function done(ok) {
-            note.textContent = ok ? 'Tautan disalin' : 'Gagal menyalin, salin dari bilah alamat';
-            note.hidden = false;
-            setTimeout(function () { note.hidden = true; }, 2500);
-          }
-          btn.addEventListener('click', function () {
-            var url = btn.getAttribute('data-url');
-            if (navigator.clipboard && window.isSecureContext) {
-              navigator.clipboard.writeText(url).then(function () { done(true); }, function () { done(false); });
-              return;
-            }
-            var ta = document.createElement('textarea');
-            ta.value = url;
-            ta.setAttribute('readonly', '');
-            ta.style.position = 'absolute';
-            ta.style.left = '-9999px';
-            document.body.appendChild(ta);
-            ta.select();
-            var ok = false;
-            try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
-            document.body.removeChild(ta);
-            done(ok);
-          });
-        })();
-        </script>
-        
-        <div class="clearfix">
-        {% if page.categories.size > 0 %}
-        {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" | where_exp: "post", "post.categories contains page.categories.first" %}
-        {% comment %}Jekyll 3 (GitHub Pages) does not support "or" in where_exp, so filter the series separately{% endcomment %}
-        {% if page.series %}{% assign related_posts = related_posts | where_exp: "post", "post.series != page.series" %}{% endif %}
-        {% endif %}
-        {% if related_posts.size > 0 %}
-        <section class="related" aria-labelledby="related-title">
-          <h2 id="related-title">Related Posts</h2>
-          <ul class="related-posts">
-            {% for post in related_posts limit: 5 %}
-              <li>
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                <small class="text-muted">{{ post.date | date: "%d %b %Y" }}</small>
-              </li>
-            {% endfor %}
-          </ul>
-        </section>
-        {% endif %}
-          {% if page.previous.url and page.series == nil %}
-          <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline">
-              Post</span></a>
-          {% endif %}
-          {% if page.next.url and page.series == nil %}
-          <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline">
-              Post</span> &rarr;</a>
-          {% endif %}
-
-        </div>
-			{% include comments.html %}
-      <a href="#" class="back-to-top" aria-label="Kembali ke atas" title="Kembali ke atas">&uarr;</a>
-      </div>
-
-      
-    </div>
+      {% endif %}
+    </article>
   </div>
+
+  {% if page.tags.size > 0 or page.categories.size > 0 %}<div class="article-taxonomy">{% for c in page.categories %}<a href="{{ '/categories/' | relative_url }}#{{ c | slugify }}">{{ c }}</a>{% endfor %}{% for t in page.tags %}<a href="{{ t | slugify | prepend: '/tag/' | append: '/' | relative_url }}">#{{ t }}</a>{% endfor %}</div>{% endif %}
+
+  <section class="share-panel"><strong>Share this article</strong>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url | url_encode }}" target="_blank" rel="noopener" aria-label="Share on LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+    <a href="https://x.com/intent/post?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}" target="_blank" rel="noopener" aria-label="Share on X"><i class="fab fa-x-twitter"></i></a>
+    <a href="https://wa.me/?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" target="_blank" rel="noopener" aria-label="Share on WhatsApp"><i class="fab fa-whatsapp"></i></a>
+    <button type="button" class="share-copy" data-url="{{ page.url | absolute_url }}" aria-label="Copy article link"><i class="fas fa-link"></i></button><span class="share-copied" role="status" aria-live="polite" hidden></span>
+  </section>
+
+  <nav class="article-pagination" aria-label="Article navigation">
+    {% if page.previous.url %}<a href="{{ page.previous.url | relative_url }}"><small>← Previous article</small><strong>{{ page.previous.title }}</strong></a>{% endif %}
+    {% if page.next.url %}<a href="{{ page.next.url | relative_url }}"><small>Next article →</small><strong>{{ page.next.title }}</strong></a>{% endif %}
+  </nav>
+  <section class="comments-wrap">{% include comments.html %}</section>
+</main>
