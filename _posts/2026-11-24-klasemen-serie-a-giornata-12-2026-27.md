@@ -3,7 +3,7 @@ layout: post
 title: "Klasemen Serie A 2026/27 Setelah Giornata 12"
 subtitle: "Lazio menang 3-0 atas Lecce, Malen cetak empat gol di Parma, Atalanta dan Inter bermain 4-4"
 description: "Hasil giornata 12 Serie A 2026/27 (21-23 November 2026) dan klasemen: Lazio memimpin 32 poin, Roma menang 5-1 di Parma, Atalanta dan Inter bermain 4-4."
-image: "/img/klasemen-serie-a-giornata-12-2026-27.webp"
+image: "/img/serie-a-giornata-12-cover.webp"
 date: 2026-11-24 12:00:01
 categories:
     - Olahraga
@@ -18,7 +18,7 @@ Giornata 12 Serie A 2026/27 dimainkan dari Sabtu, 21 November, sampai Senin, 23 
 
 <!--more-->
 
-![Poster ilustrasi Serie A 2026/27 dengan bola, stadion sepak bola, dan Colosseum di Roma](/img/klasemen-serie-a-giornata-12-2026-27.webp)
+![Grafik delapan besar klasemen Serie A 2026/27 setelah giornata 12, dipimpin Lazio dengan 32 poin](/img/klasemen-serie-a-giornata-12-2026-27.webp)
 
 > **Poin Penting**
 >
