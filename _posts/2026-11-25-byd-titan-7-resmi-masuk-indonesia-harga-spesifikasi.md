@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "BYD Titan 7 Resmi di Indonesia: SUV PHEV 7 Kursi Mulai Rp639 Juta"
-description: "BYD Titan 7 DM meluncur di GAW 2026 dengan dua varian, Premium Rp639 juta dan Performance Rp739 juta OTR Jakarta. Spesifikasi lengkap dari brosur resmi BYD Indonesia."
+title: "BYD Titan 7 Resmi di Indonesia, PHEV 7 Kursi Rp639 Juta"
+description: "BYD Titan 7 DM meluncur di GAW 2026: Premium Rp639 juta, Performance Rp739 juta OTR Jakarta. Spesifikasi, jarak listrik 110-155 km, dan selisih varian."
 image: "/img/byd-titan-7-resmi-masuk-indonesia-harga-spesifikasi.jpg"
 date: 2026-11-25 09:00:00
 categories:
@@ -14,7 +14,7 @@ tags:
     - suv 7 kursi
     - harga mobil
 ---
-BYD Motor Indonesia meluncurkan Titan 7 DM di Gaikindo Auto Week (GAW) 2026, ICE BSD City, pada Jumat, 20 November 2026 ([oto.com](https://www.oto.com/berita-mobil/byd-titan-7-suv-7-seater-phev-penantang-pajero-cs-harga-mulai-rp639-juta)). Ini SUV plug-in hybrid tujuh kursi dengan dua varian: Premium Rp639 juta dan Performance Rp739 juta, keduanya OTR Jakarta.
+BYD Motor Indonesia meluncurkan Titan 7 DM di Gaikindo Auto Week (GAW) 2026, ICE BSD City, pada Jumat, 20 November 2026 ([oto.com](https://www.oto.com/berita-mobil/byd-titan-7-suv-7-seater-phev-penantang-pajero-cs-harga-mulai-rp639-juta)). Ini SUV plug-in hybrid tujuh kursi dengan dua varian: Premium Rp639 juta dan Performance Rp739 juta, keduanya OTR (on the road, harga siap jalan) Jakarta.
 
 <!--more-->
 
@@ -25,16 +25,18 @@ BYD Motor Indonesia meluncurkan Titan 7 DM di Gaikindo Auto Week (GAW) 2026, ICE
 > **Poin Penting**
 >
 > - Titan 7 DM dijual dalam dua varian: Premium (DM-i, penggerak roda depan) Rp639 juta dan Performance (DM-p, AWD) Rp739 juta, OTR Jakarta.
-> - Menurut brosur resmi BYD Indonesia, jarak tempuh listrik (NEDC) 110 km untuk Premium dan 155 km untuk Performance. Performance menghasilkan 360 kW dan torsi 630 Nm, 0-100 km/jam dalam 4,8 detik.
+> - Brosur resmi BYD Indonesia mencatat jarak tempuh listrik 110 km untuk Premium dan 155 km untuk Performance, menurut siklus uji NEDC. Motor listrik Performance menghasilkan total 360 kW dan torsi 630 Nm, 0-100 km/jam dalam 4,8 detik.
 > - Selisih Rp100 juta membeli AWD, baterai lebih besar, dan sejumlah fitur yang tidak ada di Premium, antara lain Leopard U-Turn dan Creep Mode.
 
 ## Nama dan posisi Titan 7
 
 Titan 7 adalah nama Indonesia untuk SUV yang di pasar global bernama Ti7. Di China, model yang sama dikenal sebagai Fangchengbao Tai 7. Paultan menulis bahwa BYD memasarkannya di luar China dengan merek utama BYD, bukan sebagai Denza ([Paultan](https://paultan.org/2026/05/25/byd-ti7-for-global-markets-rebadged-fangchengbao-tai-7-is-a-7-seat-1-5t-phev-suv-with-127-km-ev-range/)).
 
-Oto.com memasang label "Penantang Pajero Cs" di judulnya, jadi arah bidiknya SUV tujuh kursi bertampang tangguh. Okezone mengaitkan peluncuran ini dengan kekhawatiran konsumen soal biaya bahan bakar, terutama diesel ([Okezone](https://ototekno.okezone.com/read/2026/11/20/15/3255254/byd-titan-7-dm-meluncur-dibanderol-mulai-rp639-juta)). Slogan BYD di [laman resmi Titan 7 DM](https://www.byd.com/id/car/titan7dm) adalah "Urban Adventure Redefined".
+BYD membingkai peluncuran ini dengan biaya bahan bakar. Saat peluncuran, Luther Panjaitan, Head of Public and Government Relations BYD Indonesia, mengatakan konsumen masih mempertimbangkan biaya bahan bakar, khususnya diesel ([Okezone](https://ototekno.okezone.com/read/2026/11/20/15/3255254/byd-titan-7-dm-meluncur-dibanderol-mulai-rp639-juta)).
 
 ## Dua varian dan harganya
+
+DM adalah singkatan Dual Mode, label BYD untuk sistem plug-in hybrid ([oto.com](https://www.oto.com/berita-mobil/byd-titan-7-suv-7-seater-phev-penantang-pajero-cs-harga-mulai-rp639-juta)). Varian Performance memakai DM-p, yang disebut Okezone sebagai Dual Mode Powerful ([Okezone](https://ototekno.okezone.com/read/2026/11/20/15/3255254/byd-titan-7-dm-meluncur-dibanderol-mulai-rp639-juta)), dan Premium memakai DM-i.
 
 | | Premium | Performance |
 |---|---|---|
@@ -49,19 +51,19 @@ Oto.com memasang label "Penantang Pajero Cs" di judulnya, jadi arah bidiknya SUV
 | Harga OTR Jakarta | Rp639 juta | Rp739 juta |
 | Harga OTR Kalimantan | Rp679 juta | Rp779 juta |
 
-Sumber: spesifikasi dari [brosur resmi BYD Indonesia](https://www.byd.com/material/__APAC/byd-site/id/titan-7/brochure/byd-titan7-brochure-idn.pdf) (versi November 2026), harga Jakarta dari [oto.com](https://www.oto.com/berita-mobil/byd-titan-7-suv-7-seater-phev-penantang-pajero-cs-harga-mulai-rp639-juta), harga Kalimantan dari [CNN Indonesia](https://www.cnnindonesia.com/otomotif/20261124191747-603-1430999/usai-meluncur-di-gaw-2026-byd-titan-7-dm-muncul-di-balikpapan).
+Sumber: spesifikasi dari [brosur resmi BYD Indonesia](https://www.byd.com/material/__APAC/byd-site/id/titan-7/brochure/byd-titan7-brochure-idn.pdf) (versi November 2026) dan [laman resmi Titan 7 DM](https://www.byd.com/id/car/titan7dm), harga Jakarta dari [oto.com](https://www.oto.com/berita-mobil/byd-titan-7-suv-7-seater-phev-penantang-pajero-cs-harga-mulai-rp639-juta), harga Kalimantan dari [CNN Indonesia](https://www.cnnindonesia.com/otomotif/20261124191747-603-1430999/usai-meluncur-di-gaw-2026-byd-titan-7-dm-muncul-di-balikpapan).
 
-Selisih Jakarta dan Balikpapan sama di kedua varian, Rp40 juta. CNN Indonesia menulis bahwa BYD mengaitkannya dengan sistem perpajakan tiap wilayah. Titan 7 tampil di BYD Tech Culture Fest Balikpapan pada 18 sampai 22 November 2026.
+Selisih harga Jakarta dan Kalimantan sama di kedua varian, Rp40 juta. CNN Indonesia menulis bahwa selisih itu dipahami terkait sistem perpajakan tiap wilayah dan faktor lain. Harga Kalimantan itu diumumkan saat Titan 7 tampil di BYD Tech Culture Fest Balikpapan, 18 sampai 22 November 2026.
 
-Tenaga total Performance 360 kW setara sekitar 490 PS. Kecepatan puncak kedua varian disebut minimal 190 km/jam, dan bobot kosong Premium 2.325 kg, Performance 2.510 kg. Tangki bensin 60 liter.
+Daya total motor listrik Performance 360 kW setara sekitar 490 PS. Brosur mencantumkan mesin bensin 110 kW secara terpisah. Kecepatan puncak kedua varian disebut minimal 190 km/jam, dan bobot kosong Premium 2.325 kg, Performance 2.510 kg. Tangki bensin 60 liter.
 
 ## Selisih Rp100 juta antara Premium dan Performance
 
 Dari brosur, uang itu membeli lebih dari penggerak AWD dan baterai 9 kWh lebih besar:
 
 - Tenaga dan percepatan: 0-100 km/jam turun dari 8,4 detik ke 4,8 detik.
-- Suspensi DiSus-C, kaliper rem depan tetap, dan cakram belakang berventilasi, yang di Premium tidak ada. Ukuran ban juga naik dari 255/60 R19 ke 255/55 R20.
-- Fitur medan dan manuver: Leopard U-Turn, Creep Mode, dan mode Snow, Mud, Sand, Mountain hanya di Performance. Premium punya mode Eco, Normal, Sport, Racing, dan Snow.
+- Suspensi peredam cerdas DiSus-C, rem depan dengan kaliper tetap (fixed caliper), dan cakram belakang berventilasi hanya ada di Performance. Ukuran ban juga naik dari 255/60 R19 ke 255/55 R20.
+- Fitur medan dan manuver: Leopard U-Turn, Creep Mode, serta mode Mud, Sand, dan Mountain hanya di Performance. Kedua varian punya mode Eco, Normal, Sport, Racing, dan Snow.
 - Kabin: kulit premium (Premium memakai kulit sintetis), jok pengemudi 8 arah dengan memori, pijat, dan penyangga pinggang, head-up display, pengisi daya nirkabel ganda, audio 18 speaker (Premium 14), lemari pendingin di depan, dan lampu ambient multiwarna.
 - Keselamatan: High-Speed Tire Burst Assist, yang di brosur hanya tercatat untuk Performance.
 
@@ -69,9 +71,9 @@ Kalau Anda tidak butuh akselerasi atau fitur off-road, Premium sudah mencakup 20
 
 ## Jarak tempuh listrik
 
-Angka 110 dan 155 km jauh di atas gambaran umum plug-in hybrid. Departemen Energi AS menyebut sebagian besar PHEV hanya menempuh sekitar 20 sampai 40 mil, kira-kira 32 sampai 64 km, dengan listrik saja ([U.S. DOE](https://afdc.energy.gov/vehicles/electric)). Dasar perbedaan PHEV dan mobil listrik murni ada di [tulisan tentang pengertian dan jenis mobil listrik](https://www.udienz.web.id/2026/11/04/mobil-listrik-pengertian-jenis-cara-kerja).
+Angka 110 dan 155 km jauh di atas gambaran umum plug-in hybrid. Departemen Energi AS menyebut sebagian besar PHEV hanya menempuh 20 sampai 40 mil, kira-kira 32 sampai 64 km, dengan listrik saja ([U.S. DOE](https://afdc.energy.gov/vehicles/electric)). Perbandingannya tidak sebanding persis, karena angka BYD memakai siklus uji NEDC, sedangkan angka AS berasal dari sumber dan metode lain. Dasar perbedaan PHEV dan mobil listrik murni ada di [tulisan tentang pengertian dan jenis mobil listrik](https://www.udienz.web.id/2026/11/04/mobil-listrik-pengertian-jenis-cara-kerja).
 
-Brosur BYD sendiri mencantumkan catatan bahwa jarak sebenarnya dipengaruhi gaya berkendara, beban, dan lalu lintas, dan angka NEDC hanya perkiraan sebagai acuan. Kalau perjalanan rutin Anda jauh di bawah 100 km, Titan 7 secara teori bisa dipakai hampir seperti mobil listrik, dengan bensin sebagai cadangan untuk luar kota.
+Brosur BYD sendiri mencantumkan catatan bahwa jarak sebenarnya dipengaruhi gaya berkendara, beban, dan lalu lintas, dan angka NEDC (New European Driving Cycle) hanya perkiraan sebagai acuan. Sebagai contoh hitungan saya sendiri: kalau angka Premium dipotong separuh jadi sekitar 55 km, perjalanan pulang-pergi kantor 40 km masih bisa ditempuh dengan listrik saja, dengan bensin sebagai cadangan untuk luar kota. Pengguna dengan rute harian jauh di atas angka itu perlu menghitung ulang.
 
 ## Ukuran dan kemampuan di medan berat
 
@@ -103,15 +105,17 @@ Warna eksteriornya Ti Grey, Cosmos Black, dan Nebula Silver, dengan interior bir
 
 ## Konteks pasar
 
-CNN Indonesia mengutip data BYD dan Gaikindo: penjualan mobil listrik nasional sampai Oktober 2026 mencapai 134 ribu unit, naik 94 persen dari 69 ribu unit pada periode yang sama 2025. Pangsa mobil listrik naik dari 5 persen pada 2024 ke 26 persen pada Oktober 2026. BYD melaporkan lebih dari 120 dealer di seluruh Indonesia.
+CNN Indonesia mengutip data BYD dan Gaikindo: penjualan mobil listrik nasional sampai Oktober 2026 mencapai 134 ribu unit, naik 94 persen dari 69 ribu unit pada periode yang sama 2025. Menurut data itu, pangsa EV nasional tumbuh dari 5 persen pada 2024 menjadi 26 persen pada Oktober 2026. Periodenya tidak sama (2024 dan Oktober 2026), jadi baca angkanya sebagai arah, bukan perbandingan sebanding. Artikel yang sama mencatat jaringan layanan BYD sudah menjangkau lebih dari 120 dealer.
 
-Titan 7 sendiri plug-in hybrid, jadi masuk hitungan "elektrifikasi", tapi belum tentu masuk kategori mobil listrik murni dalam data di atas. Karena itu angka pangsa 26 persen tidak bisa langsung dibaca sebagai peluang Titan 7.
+Daftar mobil listrik murni terlaris dan cara memilihnya ada di [tulisan tentang 10 model terlaris](https://www.udienz.web.id/2026/11/04/mobil-listrik-10-model-terlaris-cara-memilih).
+
+Titan 7 sendiri plug-in hybrid, jadi belum tentu masuk kategori mobil listrik murni dalam data di atas. Karena itu angka pangsa 26 persen tidak bisa langsung dibaca sebagai peluang Titan 7.
 
 ## Yang perlu dicek sebelum membeli
 
 - Garansi kendaraan dan baterai, ke dealer BYD terdekat atau [laman garansi BYD Indonesia](https://www.byd.com/id/aftersales/warranty).
-- Status unit: dirakit lokal atau diimpor utuh, karena memengaruhi pajak dan harga ke depan.
-- Waktu pengiriman dan ketersediaan titik pengisian DC di rute Anda.
+- Status unit: tanyakan ke dealer apakah dirakit lokal atau diimpor utuh.
+- Waktu pengiriman dan ketersediaan titik pengisian DC di rute Anda. Gambaran pengisian di Indonesia ada di [tulisan tentang cara kerja dan pengisian mobil listrik](https://www.udienz.web.id/2026/11/04/mobil-listrik-cara-kerja-pengisian-harga).
 - Hasil uji jalan independen untuk konsumsi bensin dan jarak tempuh listrik di kondisi nyata.
 
 Tulisan ini dibantu oleh AI.
