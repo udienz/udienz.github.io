@@ -1,4 +1,25 @@
 <script defer src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
-<script defer src="{{"/assets/vendor/startbootstrap-clean-blog/js/scripts.js" | relative_url }}"></script>
-<script defer src="{{"/assets/scripts.js" | relative_url }}"></script>
+<script defer src="{{ '/assets/scripts.js' | relative_url }}"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var toggle = document.querySelector('.nav-toggle');
+  var links = document.getElementById('siteNavLinks');
+  if (toggle && links) {
+    toggle.addEventListener('click', function () {
+      var open = links.classList.toggle('is-open');
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+  }
+  var copy = document.querySelector('.share-copy');
+  var status = document.querySelector('.share-copied');
+  if (copy && status) copy.addEventListener('click', function () {
+    var url = copy.getAttribute('data-url');
+    if (navigator.clipboard && window.isSecureContext) {
+      navigator.clipboard.writeText(url).then(function(){ status.textContent='Link copied'; status.hidden=false; }, function(){ status.textContent='Copy failed'; status.hidden=false; });
+    } else {
+      status.textContent='Copy the URL from your address bar'; status.hidden=false;
+    }
+  });
+});
+</script>
