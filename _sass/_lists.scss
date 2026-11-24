@@ -1,0 +1,48 @@
+// Plain pages (About, Contact, 404), the articles list, topics, archive, search and the tag pages.
+.page { padding-top: 28px; padding-bottom: 56px; }
+.page-head { max-width: 760px; margin: 0 0 26px; }
+.page-head h1 { font-size: 2.2rem; letter-spacing: -.02em; margin: 0 0 8px; overflow-wrap: anywhere; }
+@media (min-width: 700px) { .page-head h1 { font-size: 2.8rem; } }
+.page-head p { color: $ink-soft; font-size: 1.05rem; margin: 0; }
+.page-body { max-width: 760px; }
+.page-body--wide { max-width: none; }
+// Running text of plain pages (About, Contact): only the direct children, so list components inside a page keep their own style
+.prose { font-size: 1.05rem; line-height: 1.78; }
+.prose > h1 { display: none; }
+.prose > h2 { font-size: 1.6rem; margin: 2rem 0 .7rem; }
+.prose > h3 { font-size: 1.25rem; margin: 1.6rem 0 .5rem; }
+.prose > p, .prose > ul, .prose > ol { margin: 0 0 1.15rem; }
+.prose > p a, .prose > ul a, .prose > ol a { text-decoration: underline; text-underline-offset: 3px; }
+.prose .articles a, .prose .archive-list a, .prose .tag-cloud a, .prose .post-rows a, .prose .topic-list a, .prose .button { text-decoration: none; }
+.prose img { border-radius: $radius-sm; }
+
+.articles { max-width: 860px; }
+.pager { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-top: 28px; }
+.pager .count { color: $ink-soft; font-size: .86rem; }
+
+// Topics page
+.tag-cloud { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 28px; }
+.tag-cloud .badge { margin: 0; padding: .5em 1em; font-size: .86rem; font-weight: 600; border-radius: 999px; background: $paper; border: 1px solid $line; color: $navy; }
+.tag-cloud .badge:hover { border-color: $blue; color: $blue; text-decoration: none; }
+.tag-count { opacity: .7; font-size: .85em; margin-left: 4px; }
+.category-section { scroll-margin-top: 84px; }
+.category-title { font-size: 1.5rem; margin: 2.2rem 0 .6rem; padding-bottom: .5rem; border-bottom: 2px solid $navy; }
+.list-group-item { background: transparent; border-color: $line; }
+
+// Archive by year
+.year-group { margin: 0 0 30px; }
+.year-group h2 { font-size: 1.4rem; margin: 0 0 8px; padding-bottom: 6px; border-bottom: 2px solid $navy; display: flex; justify-content: space-between; align-items: baseline; }
+.year-group h2 small { font-family: $font-sans; font-size: .8rem; color: $ink-soft; font-weight: 600; }
+.archive-list { list-style: none; margin: 0; padding: 0; }
+.archive-list li { display: grid; grid-template-columns: 78px minmax(0, 1fr); gap: 4px 14px; padding: 9px 0; border-top: 1px solid $line; }
+.archive-list li:first-child { border-top: 0; }
+.archive-list time { color: $ink-soft; font-size: .82rem; font-variant-numeric: tabular-nums; padding-top: 2px; }
+.archive-list a { color: $navy; font-weight: 600; overflow-wrap: anywhere; }
+.archive-list a:hover { color: $blue; text-decoration: none; }
+.archive-list .cat { display: block; font-size: .74rem; color: $ink-soft; font-weight: 600; }
+
+// Search page (the script and its markup are unchanged)
+#search-input { border-radius: 14px; border: 1px solid $line-strong; background: $paper; padding: 14px 18px; }
+#search-input:focus { border-color: $blue; box-shadow: 0 0 0 3px rgba($blue, .18); }
+#search-results .list-group-item a { font-weight: 700; color: $navy; }
+#search-results mark { background: #fde9a8; padding: 0 2px; border-radius: 3px; }

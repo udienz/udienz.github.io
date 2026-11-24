@@ -1,31 +1,31 @@
-<!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-  <div class="container">
-    <a class="navbar-brand" href="{{"/" | relative_url }}">{{ site.title | escape }}</a>
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-      Menu
-      <i class="fa fa-bars"></i>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/" | relative_url }}">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/about" | relative_url }}">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ "/posts" | relative_url }}">Posts</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/categories" | relative_url }}">Categories</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/search" | relative_url }}" aria-label="Search"><i class="fa fa-search"></i> Search</a>
-        </li>
-      </ul>
+{% comment %}
+  Header: brand, main links, search and the menu button. The current section gets aria-current.
+  The "Topics" menu lists the topics of the home page (_config.yml, home.topics).
+{% endcomment %}
+{% assign brand_parts = site.title | split: " " %}
+{% assign on_post = false %}{% if page.layout == "post" %}{% assign on_post = true %}{% endif %}
+<a class="skip-link" href="#content">Skip to content</a>
+<header class="site-header">
+  <div class="wrap bar">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title | escape }}">{{ brand_parts | first | escape }}{% if brand_parts.size > 1 %}<span class="brand-tag">{{ brand_parts | shift | join: " " | escape }}</span>{% endif %}</a>
+    <div class="bar-actions">
+      <a class="icon-btn" href="{{ '/search' | relative_url }}" aria-label="Search"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.6-3.6"/></svg></a>
+      <button class="icon-btn menu-btn" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Menu"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
     </div>
+    <nav class="nav" id="primary-nav" aria-label="Main">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/posts' | relative_url }}"{% if on_post or page.url contains '/posts' %} aria-current="page"{% endif %}>Articles</a>
+      <details class="nav-dd">
+        <summary{% if page.url contains '/categories' %} aria-current="page"{% endif %}>Topics</summary>
+        <ul>
+          {% for t in site.home.topics %}
+          <li><a href="{{ '/categories/' | relative_url }}#{{ t.name | slugify }}">{{ t.name | escape }}</a></li>
+          {% endfor %}
+          <li><a href="{{ '/categories/' | relative_url }}">All topics &rarr;</a></li>
+        </ul>
+      </details>
+      <a href="{{ '/about' | relative_url }}"{% unless on_post %}{% if page.url contains '/about' %} aria-current="page"{% endif %}{% endunless %}>About</a>
+      <a href="{{ '/archive' | relative_url }}"{% unless on_post %}{% if page.url contains '/archive' %} aria-current="page"{% endif %}{% endunless %}>Archive</a>
+    </nav>
   </div>
-</nav>
-
-<div class="fork-ribbon-wrap"><a class="github-fork-ribbon" href="https://github.com/udienz/udienz.github.io" target="_blank" rel="noopener" title="Fork me on GitHub">Fork me on GitHub</a></div>
+</header>

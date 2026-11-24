@@ -1,0 +1,10 @@
+<section class="card-box author-card" aria-labelledby="author-title">
+  <h2 class="card-title" id="author-title">About the author</h2>
+  <div class="author">
+    {% if site.author_avatar %}<img src="{{ site.author_avatar }}" width="64" height="64" alt="" loading="lazy" decoding="async">{% endif %}
+    <span class="name">{{ site.author | escape }}</span>
+    <span class="aka">{% if site.author_aka %}aka {{ site.author_aka | escape }}{% endif %}</span>
+  </div>
+  {% if site.author_bio %}<p class="author-bio">{{ site.author_bio | escape }}</p>{% endif %}
+  <a class="author-more" href="{{ '/about' | relative_url }}">More about me &rarr;</a>
+</section>

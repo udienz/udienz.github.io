@@ -1,32 +1,13 @@
 ---
 layout: default
 ---
-
-<!-- Page Header -->
-{% assign hero = page.background | default: '/img/bg-index.jpg' %}
-<header class="masthead" style="background-image: url('{{ hero | relative_url }}')">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col mx-auto">
-          <div class="page-heading">
-            <h1>{{ page.title }}</h1>
-            {% if page.description %}
-            <span class="subheading">{{ page.description }}</span>
-            {% endif %}
-          </div>
-        </div>
-      </div>
-    </div>
+{% comment %}Plain pages: About, Contact, Search, 404, Articles. The old "background" image of the front matter is not used by this design.{% endcomment %}
+<div class="wrap page">
+  <header class="page-head">
+    <h1>{{ page.heading | default: page.title | escape }}</h1>
+    {% if page.lede %}<p>{{ page.lede | escape }}</p>{% elsif page.description %}<p>{{ page.description | escape }}</p>{% endif %}
   </header>
-
-  <div class="container">
-    <div class="row">
-      <div class="col mx-auto">
-
-        {{ content }}
-
-      </div>
-     
-    </div>
+  <div class="page-body{% if page.wide %} page-body--wide{% endif %} prose">
+    {{ content }}
   </div>
+</div>
