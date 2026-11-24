@@ -1,0 +1,43 @@
+// Design tokens of the editorial design (mockup: issue #62). One place for colours, type, spacing and breakpoints.
+// Plain Sass variables only: GitHub Pages builds with an older Sass (no @use, no min()/max(), no modern colour syntax).
+
+// Colours
+$ivory:        #f7f5ef;   // page background
+$paper:        #fffdf8;   // cards
+$navy:         #10243f;   // text, dark surfaces
+$blue:         #1f5fd0;   // accent (4.9:1 on ivory)
+$blue-soft:    #e8effc;
+$ink-soft:     #4f5f76;   // secondary text (5.6:1 on ivory)
+$line:         #e4dfd3;   // hairlines
+$line-strong:  #d3ccbb;
+
+// Type (the fonts are unchanged: Lora for headings, Open Sans for text)
+$font-serif: "Lora", Georgia, "Times New Roman", serif;
+$font-sans:  "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-mono:  SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+// Shape
+$radius:    16px;
+$radius-sm: 10px;
+$shadow:    0 8px 24px rgba(16, 36, 63, .07);
+$shadow-sm: 0 2px 8px rgba(16, 36, 63, .06);
+
+// Breakpoints, chosen from where the layout has to change:
+//  - $bp-bar:   the header navigation fits in one row from here (below it, a menu)
+//  - $bp-split: the sidebar can sit beside the content from here (below it, it stacks)
+//  - $bp-wide:  the article gets its third column (the table of contents) from here
+$bp-bar:   820px;
+$bp-split: 1080px;
+$bp-wide:  1180px;
+$wrap: 1180px;
+
+// Bootstrap 4 variables (Bootstrap's CSS stays for old posts and the plain pages)
+$primary:               $blue;
+$body-bg:               $ivory;
+$body-color:            $navy;
+$font-family-sans-serif: $font-sans;
+$font-family-monospace:  $font-mono;
+$headings-font-family:   $font-serif;
+$link-color:             $blue;
+$link-hover-color:       darken($blue, 10%);
+$border-color:           $line;

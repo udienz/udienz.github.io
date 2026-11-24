@@ -1,0 +1,113 @@
+// Article page. Main column (head, cover, contents + text) and a side column; the side column goes below the article
+// until $bp-split, and the table of contents goes above the text until $bp-wide.
+.article-page { padding-top: 18px; padding-bottom: 56px; }
+.article-layout { display: grid; grid-template-columns: minmax(0, 1fr); gap: 36px; align-items: start; }
+@media (min-width: $bp-split) { .article-layout { grid-template-columns: minmax(0, 1fr) 300px; gap: 40px; } }
+.article-main { min-width: 0; }
+
+.crumbs ol { list-style: none; margin: 0 0 16px; padding: 0; display: flex; flex-wrap: wrap; gap: 2px 8px; font-size: .8rem; color: $ink-soft; }
+.crumbs li + li:before { content: "\203A"; margin-right: 8px; color: $line-strong; }
+.crumbs a { color: $ink-soft; }
+.crumbs a:hover { color: $blue; }
+.crumbs [aria-current] { color: $navy; font-weight: 600; overflow-wrap: anywhere; }
+
+.article-head h1 { font-size: 2rem; line-height: 1.12; letter-spacing: -.02em; margin: 0 0 12px; overflow-wrap: anywhere; }
+@media (min-width: 700px) { .article-head h1 { font-size: 2.7rem; } }
+.lede { font-size: 1.08rem; color: $ink-soft; line-height: 1.6; margin: 0 0 18px; max-width: 40em; }
+.byline { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; font-size: .85rem; color: $ink-soft; margin-bottom: 22px; }
+.byline .who { display: flex; align-items: center; gap: 10px; }
+.byline .who img { width: 38px; height: 38px; border-radius: 50%; object-fit: cover; }
+.byline .who b { display: block; color: $navy; font-size: .9rem; line-height: 1.2; }
+.byline .who small { font-size: .75rem; }
+.byline .meta-item { display: inline-flex; align-items: center; gap: 6px; }
+.byline .cat-pill { background: $blue-soft; color: $blue; font-weight: 700; padding: 3px 12px; border-radius: 999px; font-size: .78rem; }
+.byline .cat-pill:hover { text-decoration: none; background: darken($blue-soft, 4%); }
+
+.cover { margin: 0 0 28px; border-radius: $radius; overflow: hidden; box-shadow: $shadow; background: $blue-soft; }
+.cover img { display: block; width: 100%; height: auto; }
+
+// Contents and text
+.article-body { display: grid; grid-template-columns: minmax(0, 1fr); gap: 22px; }
+@media (min-width: $bp-wide) { .article-body--toc { grid-template-columns: 190px minmax(0, 1fr); gap: 36px; } }
+.article-toc { font-size: .86rem; }
+.article-toc[hidden] { display: none; }
+.toc-box { background: $paper; border: 1px solid $line; border-radius: $radius-sm; padding: 14px 16px; }
+.toc-title { font-family: $font-serif; font-weight: 700; font-size: 1rem; margin: 0 0 8px; }
+.article-toc ol { list-style: none; margin: 0; padding: 0; }
+.article-toc li { margin: 0; }
+.article-toc li a { display: block; padding: 5px 0 5px 12px; color: $ink-soft; border-left: 2px solid $line; line-height: 1.35; }
+.article-toc li a:hover, .article-toc li a.is-active { color: $blue; border-left-color: $blue; text-decoration: none; }
+.article-toc li.sub a { padding-left: 24px; font-size: .82rem; }
+@media (min-width: $bp-wide) {
+  .toc-box { position: sticky; top: 88px; background: transparent; border: 0; padding: 0; }
+}
+// Collapsed on narrow screens: a native <details>, no script needed to open it
+.article-toc details > summary { cursor: pointer; font-family: $font-serif; font-weight: 700; font-size: 1rem; list-style: none; }
+.article-toc details > summary::-webkit-details-marker { display: none; }
+.article-toc details[open] > summary { margin-bottom: 8px; }
+
+.post-content { min-width: 0; font-size: 1.05rem; line-height: 1.78; overflow-wrap: break-word; word-wrap: break-word; }
+.post-content > :first-child { margin-top: 0; }
+.post-content p, .post-content ul, .post-content ol, .post-content blockquote, .post-content pre, .post-content table, .post-content figure { margin: 0 0 1.25rem; }
+.post-content h2 { font-size: 1.65rem; margin: 2.2rem 0 .8rem; scroll-margin-top: 84px; }
+.post-content h3 { font-size: 1.3rem; margin: 1.8rem 0 .6rem; scroll-margin-top: 84px; }
+.post-content h4 { font-size: 1.1rem; margin: 1.5rem 0 .5rem; }
+.post-content a { text-decoration: underline; text-underline-offset: 3px; overflow-wrap: anywhere; }
+.post-content li { margin-bottom: .35rem; }
+.post-content img { border-radius: $radius-sm; height: auto; }
+.post-content blockquote { border-left: 4px solid $blue; background: $blue-soft; padding: 14px 18px; border-radius: 0 $radius-sm $radius-sm 0; color: $navy; }
+.post-content blockquote > :last-child { margin-bottom: 0; }
+.post-content hr { border-color: $line; margin: 2rem 0; }
+.post-content table { display: block; width: 100%; overflow-x: auto; border-collapse: collapse; font-size: .92rem; -webkit-overflow-scrolling: touch; }
+.post-content th, .post-content td { padding: 9px 12px; border: 1px solid $line; vertical-align: top; }
+.post-content th { background: $blue-soft; text-align: left; }
+.post-content code { font-family: $font-mono; font-size: .88em; background: #ece8dc; color: $navy; padding: 2px 6px; border-radius: 6px; overflow-wrap: anywhere; }
+.post-content pre, .post-content .highlight { background: #0f1b2d; color: #e6edf7; border-radius: $radius-sm; }
+.post-content pre { padding: 16px 18px; overflow-x: auto; -webkit-overflow-scrolling: touch; max-width: 100%; font-size: .86rem; line-height: 1.6; tab-size: 4; }
+.post-content pre code { background: transparent; color: inherit; padding: 0; font-size: inherit; overflow-wrap: normal; white-space: pre; }
+.post-content .highlight { margin: 0 0 1.25rem; overflow-x: auto; }
+.post-content .highlight pre { margin: 0; background: transparent; }
+.post-content iframe, .post-content video, .post-content embed, .post-content svg { max-width: 100%; }
+.post-content svg { height: auto; }
+
+// Series
+.series-nav { background: $paper; border: 1px solid $line; border-radius: $radius-sm; padding: 14px 18px; margin: 0 0 24px; font-size: .9rem; }
+.series-nav ol { margin: 8px 0 0; padding-left: 1.3rem; }
+.series-nav li.current { font-weight: 700; }
+.series-pager { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin: 28px 0; }
+.series-pager .button { min-height: 44px; }
+
+// Side column
+.article-side { display: grid; grid-template-columns: minmax(0, 1fr); gap: 20px; }
+@media (min-width: 640px) and (max-width: 1079px) { .article-side { grid-template-columns: repeat(2, minmax(0, 1fr)); } .article-side .author-card, .article-side .share-card { grid-column: 1 / -1; } }
+@media (min-width: $bp-split) { .article-side { position: sticky; top: 88px; } }
+.tags { display: flex; flex-wrap: wrap; gap: 8px; }
+.share { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.share a, .share button {
+  width: 40px; height: 40px; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%;
+  border: 1px solid $line-strong; background: $paper; color: $navy; font-size: .95rem; cursor: pointer; text-decoration: none;
+}
+.share a:hover, .share button:hover { border-color: $blue; color: $blue; text-decoration: none; }
+.share-copied { flex-basis: 100%; font-size: .8rem; color: $ink-soft; }
+
+// Previous / next, then the comments
+.post-nav { display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px; margin: 40px 0 8px; }
+@media (min-width: 700px) { .post-nav { grid-template-columns: 1fr 1fr; } }
+.post-nav a {
+  display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 14px; align-items: center; padding: 14px;
+  background: $paper; border: 1px solid $line; border-radius: $radius; color: $navy;
+}
+.post-nav a:hover { border-color: $blue; text-decoration: none; }
+.post-nav .dir { display: block; font-size: .72rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: $blue; margin-bottom: 2px; }
+.post-nav .t { font-weight: 700; font-size: .92rem; line-height: 1.3; }
+.post-nav .thumb { aspect-ratio: 1 / 1; }
+.post-nav a:only-child { grid-column: 1 / -1; }
+.post-nav .next { text-align: right; grid-template-columns: minmax(0, 1fr) 64px; }
+.post-nav .next .thumb { order: 2; }
+.comments { margin-top: 36px; }
+
+// A contents list the author wrote in the post itself (<details class="toc"> with kramdown's {:toc}): shown as a card
+.post-content details.toc { background: $paper; border: 1px solid $line; border-radius: $radius-sm; padding: 12px 16px; margin: 0 0 1.4rem; font-size: .95rem; }
+.post-content details.toc > summary { cursor: pointer; font-family: $font-serif; font-weight: 700; }
+.post-content details.toc ul, .post-content details.toc ol { margin: 8px 0 0; padding-left: 1.2rem; }
+.post-content details.toc li { margin: 2px 0; }

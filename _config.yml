@@ -44,3 +44,26 @@ feed:
 permalink: /:year/:month/:day/:title
 exclude:
   - README.md
+
+# Home page and author card of the editorial design (docs and decisions: issue #62).
+# Topics are real categories: `name` must match a category written in the posts' `categories`.
+# The counts come from the content, never from here. The hero photo is the owner's own (generated with OpenAI).
+author_aka:         udienz
+author_avatar:      "https://avatars.githubusercontent.com/u/30291?v=4"
+author_bio:         "Linux and network enthusiast, open-source contributor, and a bit of a football addict."
+home:
+  hero_eyebrow:     "Personal notes & field logs"
+  hero_title:       "Ideas, systems, and everything in between."
+  hero_text:        "Catatan tentang Linux, networking, open source, sepak bola, dan hal-hal yang menarik perhatian."
+  hero_image:       "/img/hero-workspace.webp"      # 1600 px wide
+  hero_image_sm:    "/img/hero-workspace-sm.webp"   # 800 px wide, for phones
+  hero_image_alt:   "A desk with Debian and Linux books, a Tux figure, a laptop showing neofetch, a Debian mug and headphones"
+  topics:
+    - name: "Linux"
+      icon: "fa-brands fa-linux"
+    - name: "Networking"
+      icon: "fa-solid fa-network-wired"
+    - name: "Sepak Bola"
+      icon: "fa-solid fa-futbol"
+    - name: "Game"
+      icon: "fa-solid fa-gamepad"

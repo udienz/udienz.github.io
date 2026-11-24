@@ -1,65 +1,102 @@
 ---
 layout: default
 ---
+{% comment %}
+  Home page. Everything comes from the content: the topics are real categories (site.home.topics), the featured post is
+  the newest one that has an image, "Latest writing" is the newest posts, "More to explore" the next illustrated ones.
+  Plain Liquid that also builds with Jekyll 3 (GitHub Pages): no "or" inside where_exp.
+{% endcomment %}
+{% assign illustrated = site.posts | where_exp: "p", "p.image != nil" %}
+{% assign featured = illustrated.first %}
 
-<!-- Page Header -->
-{% assign hero = page.background | default: '/img/bg-index.jpg' %}
-<header class="masthead" style="background-image: url('{{ hero | relative_url }}')">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col mx-auto">
-          <div class="page-heading">
-            <h1>{{ site.title }}</h1>
-            {% if site.description %}
-            <span class="subheading">{{ site.description }}</span>
-            {% endif %}
-          </div>
-        </div>
+{% assign latest_urls = " " %}
+{% assign n = 0 %}
+{% for p in site.posts limit: 8 %}{% if p.url != featured.url and n < 4 %}{% assign n = n | plus: 1 %}{% assign latest_urls = latest_urls | append: p.url | append: " " %}{% endif %}{% endfor %}
+
+<div class="wrap home">
+
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="hero-copy">
+      {% if site.home.hero_eyebrow %}<p class="eyebrow eyebrow--rule">{{ site.home.hero_eyebrow | escape }}</p>{% endif %}
+      <h1 id="hero-title">{{ site.home.hero_title | default: site.title | escape }}</h1>
+      <p class="hero-text">{{ site.home.hero_text | default: site.description | escape }}</p>
+      <div class="hero-actions">
+        <a class="button button--blue" href="{{ '/posts' | relative_url }}">Explore the articles <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a>
+        <a class="button button--line" href="{{ '/feed.xml' | relative_url }}"><i class="fa-solid fa-rss" aria-hidden="true"></i> Subscribe (RSS)</a>
       </div>
     </div>
-  </header>
+    {% if site.home.hero_image != "" %}
+    <figure class="hero-media">
+      <picture>
+        {% if site.home.hero_image_sm %}<source media="(max-width: 700px)" srcset="{{ site.home.hero_image_sm | relative_url }}">{% endif %}
+        <img src="{{ site.home.hero_image | relative_url }}" width="1600" height="800" alt="{{ site.home.hero_image_alt | escape }}" fetchpriority="high" decoding="async">
+      </picture>
+    </figure>
+    {% endif %}
+  </section>
 
-  <div class="container">
-    <div class="row">
-      <div class="col mx-auto">
+  <nav class="topic-bar" aria-label="Topics">
+    <span class="topic-label">Topics:</span>
+    {% for t in site.home.topics %}{% assign in_topic = site.categories[t.name] %}{% if in_topic.size > 0 %}
+    <a class="chip" href="{{ '/categories/' | relative_url }}#{{ t.name | slugify }}"><i class="{{ t.icon }}" aria-hidden="true"></i>{{ t.name | escape }}</a>
+    {% endif %}{% endfor %}
+  </nav>
 
-        {{ content }}
+  <div class="home-grid">
 
-        <!-- Topics -->
-        {% assign top_cats = site.categories | sort %}
-        <nav class="topic-chips" aria-label="Browse by topic">
-          <span class="topic-label">Topics</span>
-          {% for cat in top_cats %}{% if cat[1].size > 30 %}
-          <a class="badge badge-pill badge-light" href="{{ '/categories/' | relative_url }}#{{ cat[0] | slugify }}">{{ cat[0] }} <span class="tag-count">{{ cat[1].size }}</span></a>
+    <div class="home-main">
+      {% if featured %}
+      <a class="featured" href="{{ featured.url | relative_url }}">
+        <span class="featured-media"><img src="{{ featured.image | relative_url }}" alt="" loading="eager" decoding="async"></span>
+        <span class="featured-body">
+          {% if featured.categories.size > 0 %}<span class="featured-label">{{ featured.categories.first | escape }}</span>{% endif %}
+          <h2>{{ featured.title | escape }}</h2>
+          <p>{% include post_excerpt.html post=featured words=26 %}</p>
+          {% include post_meta.html post=featured %}
+        </span>
+      </a>
+      {% endif %}
+
+      <section aria-labelledby="explore-title">
+        <h2 class="section-title" id="explore-title">More to explore</h2>
+        <ul class="post-rows">
+          {% assign shown = 0 %}
+          {% for p in illustrated limit: 14 %}{% unless p.url == featured.url %}{% unless latest_urls contains p.url %}{% if shown < 3 %}{% assign shown = shown | plus: 1 %}
+          <li class="post-row">
+            <a class="thumb" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ p.image | relative_url }}" alt="" loading="lazy" decoding="async"></a>
+            <div>
+              <h3><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a></h3>
+              <p class="excerpt">{% include post_excerpt.html post=p words=22 %}</p>
+              {% include post_meta.html post=p %}
+            </div>
+          </li>
+          {% endif %}{% endunless %}{% endunless %}{% endfor %}
+        </ul>
+        <p><a class="button button--line" href="{{ '/posts' | relative_url }}">All articles <i class="fa-solid fa-arrow-right" aria-hidden="true"></i></a></p>
+      </section>
+    </div>
+
+    <aside class="home-side" aria-label="Side">
+      <section class="card-box" aria-labelledby="latest-title">
+        <h2 class="card-title" id="latest-title">Latest writing</h2>
+        <ul class="side-list">
+          {% for p in site.posts limit: 8 %}{% if latest_urls contains p.url %}
+          <li class="side-item">
+            {% if p.image %}<a class="thumb" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ p.image | relative_url }}" alt="" loading="lazy" decoding="async"></a>
+            {% else %}<a class="thumb thumb--empty" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true"><i class="fa-regular fa-file-lines"></i></a>{% endif %}
+            <div>
+              <a class="t" href="{{ p.url | relative_url }}">{{ p.title | escape }}</a>
+              {% include post_meta.html post=p %}
+            </div>
+          </li>
           {% endif %}{% endfor %}
-          <a class="badge badge-pill badge-light" href="{{ '/categories/' | relative_url }}">All &rarr;</a>
-        </nav>
+        </ul>
+      </section>
 
-        <!-- Home Post List -->
-        {% for post in site.posts limit : 8 %}
+      {% include topic_card.html %}
 
-        <article class="post-preview">
-          <a href="{{ post.url | relative_url }}" class="post-link">
-            <h2 class="post-title">{{ post.title }}</h2>
-          </a>
-          <p class="post-meta">
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%d %B %Y' }}</time> &middot; {% include read_time.html content=post.content %}
-            {% if post.categories.size > 0 %}&middot; <a href="{{ '/categories/' | relative_url }}#{{ post.categories.first | slugify }}">{{ post.categories.first }}</a>{% endif %}
-          </p>
-          <p class="post-excerpt">
-            {% if post.description %}{{ post.description }}{% elsif post.subtitle %}{{ post.subtitle }}{% else %}{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 40 }}{% endif %}
-            <a class="read-more" href="{{ post.url | relative_url }}">Read more &rarr;</a>
-          </p>
-        </article>
+      {% include author_card.html %}
+    </aside>
 
-        {% endfor %}
-
-        <!-- Pager -->
-        <div class="clearfix">
-          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
-        </div>
-
-      </div>
-    </div>
   </div>
+</div>
