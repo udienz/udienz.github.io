@@ -18,7 +18,7 @@ Giornata 12 Serie A 2026/27 dimainkan dari Sabtu, 21 November, sampai Senin, 23 
 
 <!--more-->
 
-![Grafik delapan besar klasemen Serie A 2026/27 setelah giornata 12, dipimpin Lazio dengan 32 poin](/img/klasemen-serie-a-giornata-12-2026-27.webp)
+![Poster ilustrasi Serie A 2026/27 dengan bola, stadion sepak bola, dan Colosseum di Roma](/img/klasemen-serie-a-giornata-12-2026-27.webp)
 
 > **Poin Penting**
 >
