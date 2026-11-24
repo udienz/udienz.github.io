@@ -1,0 +1,9 @@
+{% comment %}"Browse by topic": the topics of _config.yml (home.topics) that exist as categories, with their real post counts.{% endcomment %}
+<section class="card-box" aria-labelledby="browse-title">
+  <h2 class="card-title" id="browse-title">Browse by topic</h2>
+  <ul class="topic-list">
+    {% for t in site.home.topics %}{% assign in_topic = site.categories[t.name] %}{% if in_topic.size > 0 %}
+    <li><a href="{{ '/categories/' | relative_url }}#{{ t.name | slugify }}"><i class="{{ t.icon }}" aria-hidden="true"></i>{{ t.name | escape }}<span class="n">{{ in_topic.size }}</span></a></li>
+    {% endif %}{% endfor %}
+  </ul>
+</section>

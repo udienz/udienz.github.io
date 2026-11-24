@@ -1,0 +1,2 @@
+{% comment %}Date and reading time of a post. Use: include post_meta.html post=post{% endcomment %}
+<span class="meta"><span><time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: "%d %b %Y" }}</time></span><span>{% include read_time.html content=include.post.content %}</span></span>

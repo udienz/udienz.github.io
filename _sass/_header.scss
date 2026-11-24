@@ -1,0 +1,61 @@
+// Header and navigation. Without JavaScript the links wrap under the brand; with it ("js" on <html>) the narrow
+// layout folds them behind a menu button.
+.site-header {
+  position: sticky; top: 0; z-index: 50;
+  background: rgba($ivory, .94); border-bottom: 1px solid $line;
+  -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px);
+}
+.bar { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 16px; min-height: 68px; position: relative; }
+.brand {
+  display: inline-flex; align-items: center; gap: 8px; margin-right: auto;
+  font-family: $font-sans; font-weight: 800; font-size: 1.65rem; letter-spacing: -.035em; color: $navy; text-decoration: none;
+}
+.brand:hover { text-decoration: none; color: $navy; }
+.brand-tag {
+  font-size: .76rem; font-weight: 700; letter-spacing: 0; color: $blue; background: $blue-soft;
+  padding: 3px 9px; border-radius: 7px; line-height: 1.4;
+}
+.bar-actions { display: flex; align-items: center; gap: 8px; order: 2; }
+.icon-btn {
+  width: 44px; height: 44px; display: inline-flex; align-items: center; justify-content: center;
+  border-radius: 12px; border: 1px solid transparent; background: transparent; color: $navy; cursor: pointer; font-size: 1.05rem;
+}
+.icon-btn:hover { background: $blue-soft; color: $blue; text-decoration: none; }
+.menu-btn { display: none; }
+
+.nav { order: 3; width: 100%; display: flex; flex-wrap: wrap; gap: 0 4px; padding-bottom: 8px; }
+.nav a, .nav summary {
+  display: inline-flex; align-items: center; gap: 6px; min-height: 44px; padding: 0 14px;
+  font-size: .92rem; font-weight: 600; color: $navy; cursor: pointer; list-style: none; text-decoration: none;
+  border-bottom: 2px solid transparent;
+}
+.nav summary::-webkit-details-marker { display: none; }
+.nav summary:after { content: ""; width: 6px; height: 6px; border-right: 2px solid currentColor; border-bottom: 2px solid currentColor; transform: rotate(45deg) translateY(-2px); }
+.nav a:hover, .nav summary:hover { color: $blue; text-decoration: none; }
+.nav a[aria-current="page"] { color: $blue; border-bottom-color: $blue; }
+.nav-dd { position: relative; }
+.nav-dd ul { list-style: none; margin: 0; padding: 6px; }
+.nav-dd li a { width: 100%; border: 0; border-radius: 8px; min-height: 40px; font-weight: 600; }
+.nav-dd li a:hover { background: $blue-soft; }
+
+// With JavaScript on a narrow screen: a menu button and a collapsed panel
+@media (max-width: 819px) {
+  .js .menu-btn { display: inline-flex; }
+  .js .nav { display: none; padding: 6px 0 12px; border-top: 1px solid $line; }
+  .js .nav.is-open { display: flex; flex-direction: column; }
+  .js .nav a, .js .nav summary { width: 100%; border-bottom: 0; border-radius: 8px; }
+  .js .nav a[aria-current="page"] { background: $blue-soft; }
+  .nav-dd[open] > ul { padding-left: 14px; }
+}
+// Wide enough for one row: brand, links in the middle, search at the end
+@media (min-width: $bp-bar) {
+  .bar { flex-wrap: nowrap; }
+  .nav { order: 1; width: auto; padding: 0; flex-wrap: nowrap; margin: 0 auto; }
+  .nav a, .nav summary { min-height: 68px; }
+  .nav-dd ul {
+    position: absolute; left: 0; top: calc(100% - 6px); min-width: 210px; z-index: 60;
+    background: $paper; border: 1px solid $line; border-radius: 12px; box-shadow: $shadow;
+  }
+  .brand { margin-right: 0; }
+  .bar-actions { order: 2; }
+}

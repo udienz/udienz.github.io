@@ -2,7 +2,8 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="theme-color" content="#0085A1">
+  <meta name="theme-color" content="#f7f5ef">
+  <script>document.documentElement.className += " js";</script>
 
   {% assign page_title = page.title | default: site.title %}
   {% assign page_desc = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 %}
@@ -64,6 +65,7 @@
   <script defer src="https://use.fontawesome.com/releases/v6.7.2/js/all.js" crossorigin="anonymous"></script>
 
   <link rel="stylesheet" href="{{"/assets/main.css" | relative_url }}">
+  {% if page.layout == 'home' and site.home.hero_image != "" %}<link rel="preload" as="image" href="{{ site.home.hero_image | relative_url }}" fetchpriority="high">{% endif %}
   <link rel="canonical" href="{{ page_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
   <!-- Icons -->

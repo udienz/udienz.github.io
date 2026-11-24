@@ -1,0 +1,85 @@
+// Base: page, type, links, focus, shared small parts (eyebrow, buttons, chips, cards).
+html { scroll-behavior: smooth; }
+body {
+  background: $ivory;
+  color: $navy;
+  font-family: $font-sans;
+  font-size: 1rem;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+h1, h2, h3, h4, h5 {
+  font-family: $font-serif;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -.01em;
+  color: $navy;
+}
+a { color: $blue; text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: 3px; }
+img { max-width: 100%; height: auto; }
+:focus-visible { outline: 3px solid rgba($blue, .55); outline-offset: 2px; border-radius: 4px; }
+
+.wrap { width: 100%; max-width: $wrap; margin: 0 auto; padding: 0 20px; }
+@media (min-width: 700px) { .wrap { padding: 0 32px; } }
+
+.skip-link {
+  position: absolute; left: 12px; top: -48px; z-index: 100;
+  background: $navy; color: #fff; padding: 10px 16px; border-radius: 0 0 10px 10px;
+}
+.skip-link:focus { top: 0; text-decoration: none; }
+.visually-hidden {
+  position: absolute !important; width: 1px; height: 1px; margin: -1px; padding: 0;
+  overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+}
+
+// A small label with a short blue rule before it ("PERSONAL NOTES & FIELD LOGS")
+.eyebrow {
+  display: inline-flex; align-items: center; gap: 10px;
+  font-family: $font-sans; font-size: .74rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase;
+  color: $blue; margin: 0 0 14px;
+}
+.eyebrow--rule:before { content: ""; width: 26px; height: 2px; background: $blue; border-radius: 2px; }
+
+// Buttons
+.button {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  min-height: 46px; padding: 0 22px; border-radius: 12px; border: 1px solid transparent;
+  font-family: $font-sans; font-size: .95rem; font-weight: 700; line-height: 1; cursor: pointer; text-decoration: none;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.button:hover { text-decoration: none; }
+.button--blue { background: $blue; color: #fff; }
+.button--blue:hover { background: darken($blue, 8%); color: #fff; }
+.button--line { background: $paper; border-color: $line-strong; color: $navy; }
+.button--line:hover { border-color: $blue; color: $blue; }
+
+// Chips (topics, tags)
+.chip {
+  display: inline-flex; align-items: center; gap: 8px; white-space: nowrap;
+  min-height: 40px; padding: 0 14px; border-radius: 12px; background: $paper; border: 1px solid $line;
+  font-size: .86rem; font-weight: 600; color: $navy; text-decoration: none;
+}
+.chip i { color: $blue; }
+.chip:hover { border-color: $blue; color: $blue; text-decoration: none; }
+.chip--small { min-height: 32px; padding: 0 12px; font-size: .8rem; font-weight: 600; border-radius: 999px; background: $ivory; }
+
+// A card on the ivory page
+.card-box { background: $paper; border: 1px solid $line; border-radius: $radius; box-shadow: $shadow-sm; padding: 20px; }
+.card-title { font-family: $font-serif; font-size: 1.15rem; font-weight: 700; margin: 0 0 14px; }
+
+// A thumbnail: fixed shape, the picture covers it
+.thumb { display: block; position: relative; overflow: hidden; border-radius: $radius-sm; background: $blue-soft; aspect-ratio: 3 / 2; }
+.thumb img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.thumb--empty { display: flex; align-items: center; justify-content: center; color: $blue; background: linear-gradient(135deg, $blue-soft, #f3efe4); }
+
+.meta { font-size: .8rem; color: $ink-soft; display: flex; flex-wrap: wrap; gap: 2px 10px; align-items: center; }
+.meta i { margin-right: 4px; opacity: .8; }
+.meta .reading-time { white-space: nowrap; }
+
+.back-to-top {
+  position: fixed; right: 18px; bottom: 18px; z-index: 40; width: 44px; height: 44px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center; background: $navy; color: #fff; box-shadow: $shadow; text-decoration: none;
+}
+.back-to-top:hover { background: $blue; color: #fff; text-decoration: none; }

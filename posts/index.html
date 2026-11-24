@@ -1,40 +1,42 @@
 ---
 layout: page
 title: Posts
+heading: Articles
+lede: Semua tulisan, dari yang terbaru.
+wide: true
 ---
 
-{% for post in paginator.posts %}
+<div class="home-grid">
+<div class="articles">
+  <ul class="post-rows">
+    {% for post in paginator.posts %}
+    <li class="post-row{% unless post.image %} post-row--plain{% endunless %}">
+      {% if post.image %}<a class="thumb" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image | relative_url }}" alt="" loading="lazy" decoding="async"></a>{% endif %}
+      <div>
+        {% if post.categories.size > 0 %}<p class="eyebrow" style="margin-bottom:4px"><a href="{{ '/categories/' | relative_url }}#{{ post.categories.first | slugify }}">{{ post.categories.first | escape }}</a></p>{% endif %}
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+        <p class="excerpt">{% include post_excerpt.html post=post words=34 %}</p>
+        {% include post_meta.html post=post %}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
 
-<article class="post-preview">
-  <a href="{{ post.url | relative_url }}" class="post-link">
-    <h2 class="post-title">{{ post.title }}</h2>
-  </a>
-  <p class="post-meta">
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%d %B %Y' }}</time> &middot; {% include read_time.html content=post.content %}
-    {% if post.categories.size > 0 %}&middot; <a href="{{ '/categories/' | relative_url }}#{{ post.categories.first | slugify }}">{{ post.categories.first }}</a>{% endif %}
-  </p>
-  <p class="post-excerpt">
-    {% if post.description %}{{ post.description }}{% elsif post.subtitle %}{{ post.subtitle }}{% else %}{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 }}{% endif %}
-    <a class="read-more" href="{{ post.url | relative_url }}">Read more &rarr;</a>
-  </p>
-</article>
-
-{% endfor %}
-
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-
-<div class="clearfix">
-
-  {% if paginator.previous_page %}
-  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
-    Newer<span class="d-none d-md-inline"> Posts</span></a>
+  {% if paginator.total_pages > 1 %}
+  <nav class="pager" aria-label="Pagination">
+    {% if paginator.previous_page %}
+    <a class="button button--line" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer posts</a>
+    {% else %}<span></span>{% endif %}
+    <span class="count">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+    <a class="button button--blue" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older posts &rarr;</a>
+    {% else %}<span></span>{% endif %}
+  </nav>
   {% endif %}
-
-  {% if paginator.next_page %}
-  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
-  {% endif %}
-
 </div>
 
-{% endif %}
+<aside class="home-side" aria-label="Side">
+  {% include topic_card.html %}
+  {% include author_card.html %}
+</aside>
+</div>

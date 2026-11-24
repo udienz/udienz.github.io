@@ -1,141 +1,154 @@
 ---
 layout: default
 ---
+{% assign cat = page.categories.first %}
+{% comment %}
+  The cover shows the post's `image` only when the text does not already contain it (most posts embed it).
+{% endcomment %}
+{% assign show_cover = false %}{% if page.image %}{% unless page.content contains page.image %}{% assign show_cover = true %}{% endunless %}{% endif %}
 
-<!-- Page Header -->
-{% assign hero = page.background | default: '/img/bg-post.jpg' %}
-<header class="masthead" style="background-image: url('{{ hero | relative_url }}')">
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col mx-auto">
-          <div class="post-heading">
-            <h1>{{ page.title }}</h1>
-            {% if page.subtitle %}
-            <h2 class="subheading">{{ page.subtitle }}</h2>
-            {% endif %}
-            <span class="meta">Posted by
-              <a href="{{ "/about" | relative_url }}">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
-              on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html  content=page.content %}
-            </span>
+<div class="wrap article-page">
+  <div class="article-layout">
+
+    <div class="article-main">
+      <header class="article-head">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/posts' | relative_url }}">Articles</a></li>
+            {% if cat %}<li><a href="{{ '/categories/' | relative_url }}#{{ cat | slugify }}">{{ cat | escape }}</a></li>{% endif %}
+            <li aria-current="page">{{ page.title | truncate: 70 | escape }}</li>
+          </ol>
+        </nav>
+        {% if cat %}<p class="eyebrow">{{ cat | escape }}</p>{% endif %}
+        <h1>{{ page.title | escape }}</h1>
+        {% if page.subtitle %}<p class="lede">{{ page.subtitle | escape }}</p>{% elsif page.description %}<p class="lede">{{ page.description | escape }}</p>{% endif %}
+        <div class="byline">
+          <span class="who">
+            {% if site.author_avatar %}<img src="{{ site.author_avatar }}" width="38" height="38" alt="" loading="lazy" decoding="async">{% endif %}
+            <span><b>{% if page.author %}{{ page.author | escape }}{% else %}{{ site.author | escape }}{% endif %}</b>{% if site.author_aka %}<small>aka {{ site.author_aka | escape }}</small>{% endif %}</span>
+          </span>
+          <span class="meta-item"><i class="fa-regular fa-calendar" aria-hidden="true"></i><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %b %Y" }}</time></span>
+          <span class="meta-item"><i class="fa-regular fa-clock" aria-hidden="true"></i>{% include read_time.html content=page.content %}</span>
+          {% if cat %}<a class="cat-pill" href="{{ '/categories/' | relative_url }}#{{ cat | slugify }}">{{ cat | escape }}</a>{% endif %}
+        </div>
+      </header>
+
+      {% if show_cover %}
+      <figure class="cover"><img src="{{ page.image | relative_url }}" alt="" decoding="async"></figure>
+      {% endif %}
+
+      <div class="article-body">
+        <aside class="article-toc" data-toc hidden aria-label="Daftar isi">
+          <div class="toc-box">
+            <details>
+              <summary>Daftar Isi</summary>
+              <div data-toc-list></div>
+            </details>
           </div>
+        </aside>
+
+        <div>
+          {% include series_nav.html %}
+
+          <article class="post-content" itemprop="articleBody">
+          {{ content }}
+          </article>
+
+          {% if page.series %}
+          {% assign parts = site.posts | where: "series", page.series | sort: "part" %}
+          {% assign prev_part = page.part | minus: 1 %}
+          {% assign next_part = page.part | plus: 1 %}
+          <div class="series-pager">
+            {% for p in parts %}
+              {% if p.part == prev_part %}<a class="button button--line" href="{{ p.url | relative_url }}">&larr; Bagian {{ p.part }}</a>{% endif %}
+              {% if p.part == next_part %}<a class="button button--blue" href="{{ p.url | relative_url }}">Bagian {{ p.part }} &rarr;</a>{% endif %}
+            {% endfor %}
+          </div>
+          {% include series_nav.html %}
+          {% endif %}
         </div>
       </div>
+
+      {% if page.series == nil %}
+      {% if page.previous.url or page.next.url %}
+      <nav class="post-nav" aria-label="Previous and next article">
+        {% if page.previous.url %}
+        <a class="prev" href="{{ page.previous.url | relative_url }}">
+          {% if page.previous.image %}<span class="thumb"><img src="{{ page.previous.image | relative_url }}" alt="" loading="lazy" decoding="async"></span>{% else %}<span class="thumb thumb--empty"><i class="fa-regular fa-file-lines"></i></span>{% endif %}
+          <span><span class="dir">&larr; Previous article</span><span class="t">{{ page.previous.title | escape }}</span></span>
+        </a>
+        {% endif %}
+        {% if page.next.url %}
+        <a class="next" href="{{ page.next.url | relative_url }}">
+          {% if page.next.image %}<span class="thumb"><img src="{{ page.next.image | relative_url }}" alt="" loading="lazy" decoding="async"></span>{% else %}<span class="thumb thumb--empty"><i class="fa-regular fa-file-lines"></i></span>{% endif %}
+          <span><span class="dir">Next article &rarr;</span><span class="t">{{ page.next.title | escape }}</span></span>
+        </a>
+        {% endif %}
+      </nav>
+      {% endif %}
+      {% endif %}
+
+      <div class="comments">
+        {% include comments.html %}
+      </div>
     </div>
-  </header>
 
+    <aside class="article-side" aria-label="About this article">
+      {% include author_card.html %}
 
-  <div class="container">
-    <div class="row">
-      <div class="col mx-auto">
-
-        {% include series_nav.html %}
-
-        <article class="post-content" itemprop="articleBody">
-        {{ content }}
-        </article>
-
-        {% if page.series %}
-        {% assign parts = site.posts | where: "series", page.series | sort: "part" %}
-        {% assign prev_part = page.part | minus: 1 %}
-        {% assign next_part = page.part | plus: 1 %}
-        <div class="series-pager clearfix">
-          {% for p in parts %}
-            {% if p.part == prev_part %}<a class="btn btn-outline-primary float-left" href="{{ p.url | relative_url }}">&larr; Bagian {{ p.part }}</a>{% endif %}
-            {% if p.part == next_part %}<a class="btn btn-primary float-right" href="{{ p.url | relative_url }}">Bagian {{ p.part }} &rarr;</a>{% endif %}
+      {% if page.categories.size > 0 %}
+      {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" | where_exp: "post", "post.categories contains page.categories.first" %}
+      {% comment %}Jekyll 3 (GitHub Pages) does not support "or" in where_exp, so filter the series separately{% endcomment %}
+      {% if page.series %}{% assign related_posts = related_posts | where_exp: "post", "post.series != page.series" %}{% endif %}
+      {% endif %}
+      {% if related_posts.size > 0 %}
+      <section class="card-box" aria-labelledby="related-title">
+        <h2 class="card-title" id="related-title">Related articles</h2>
+        <ul class="side-list">
+          {% for post in related_posts limit: 3 %}
+          <li class="side-item">
+            {% if post.image %}<a class="thumb" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image | relative_url }}" alt="" loading="lazy" decoding="async"></a>
+            {% else %}<a class="thumb thumb--empty" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true"><i class="fa-regular fa-file-lines"></i></a>{% endif %}
+            <div>
+              <a class="t" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+              <span class="meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %b %Y" }}</time></span>
+            </div>
+          </li>
           {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+
+      {% if page.tags.size > 0 or page.categories.size > 0 %}
+      <section class="card-box" aria-labelledby="tags-title">
+        <h2 class="card-title" id="tags-title">Tags</h2>
+        <div class="tags">
+          {% for c in page.categories %}<a class="chip chip--small" href="{{ '/categories/' | relative_url }}#{{ c | slugify }}">{{ c | escape }}</a>{% endfor %}
+          {% for tg in page.tags %}<a class="chip chip--small" href="{{ tg | slugify | prepend: '/tag/' | append: '/' | relative_url }}">#{{ tg | escape }}</a>{% endfor %}
         </div>
-        {% include series_nav.html %}
-        {% endif %}
+      </section>
+      {% endif %}
 
-        <hr>
-
-        {% if page.tags.size > 0 or page.categories.size > 0 %}
-        <p class="post-tags">
-          {% for c in page.categories %}<a class="badge badge-primary" href="{{ '/categories/' | relative_url }}#{{ c | slugify }}">{{ c }}</a> {% endfor %}
-          {% for tg in page.tags %}<a class="badge badge-light" href="{{ tg | slugify | prepend: '/tag/' | append: '/' | relative_url }}">#{{ tg }}</a> {% endfor %}
-        </p>
-        {% endif %}
-
-        <div class="share" aria-label="Share this post">
-          <span class="topic-label">Share</span>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke Twitter" title="Twitter" href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke Facebook" title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke LinkedIn" title="LinkedIn" href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url | url_encode }}"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke WhatsApp" title="WhatsApp" href="https://wa.me/?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke Telegram" title="Telegram" href="https://t.me/share/url?url={{ page.url | absolute_url | url_encode }}&text={{ page.title | url_encode }}"><i class="fab fa-telegram" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke Bluesky" title="Bluesky" href="https://bsky.app/intent/compose?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"><i class="fab fa-bluesky" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke Threads" title="Threads" href="https://www.threads.com/intent/post?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"><i class="fab fa-threads" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Bagikan ke Reddit" title="Reddit" href="https://www.reddit.com/submit?url={{ page.url | absolute_url | url_encode }}&title={{ page.title | url_encode }}"><i class="fab fa-reddit-alien" aria-hidden="true"></i></a>
-          <a rel="noopener" target="_blank" aria-label="Simpan ke Pinterest" title="Pinterest" href="https://www.pinterest.com/pin/create/button/?url={{ page.url | absolute_url | url_encode }}&description={{ page.title | url_encode }}"><i class="fab fa-pinterest-p" aria-hidden="true"></i></a>
-          <a aria-label="Kirim lewat email" title="Email" href="mailto:?subject={{ page.title | url_encode | replace: '+', '%20' }}&body={{ page.url | absolute_url | url_encode | replace: '+', '%20' }}"><i class="fas fa-envelope" aria-hidden="true"></i></a>
-          <button type="button" class="share-copy" aria-label="Salin tautan" title="Salin tautan" data-url="{{ page.url | absolute_url }}"><i class="fas fa-link" aria-hidden="true"></i></button>
+      <section class="card-box share-card" aria-labelledby="share-title">
+        <h2 class="card-title" id="share-title">Share this article</h2>
+        <div class="share">
+          <button type="button" class="share-copy" aria-label="Salin tautan" title="Salin tautan" data-url="{{ page.url | absolute_url }}"><i class="fa-solid fa-link" aria-hidden="true"></i></button>
+          <a rel="noopener" target="_blank" aria-label="Bagikan ke LinkedIn" title="LinkedIn" href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url | url_encode }}"><i class="fa-brands fa-linkedin-in" aria-hidden="true"></i></a>
+          <a rel="noopener" target="_blank" aria-label="Bagikan ke Twitter" title="Twitter" href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}"><i class="fa-brands fa-twitter" aria-hidden="true"></i></a>
+          <a rel="noopener" target="_blank" aria-label="Bagikan ke Facebook" title="Facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}"><i class="fa-brands fa-facebook-f" aria-hidden="true"></i></a>
+          <a rel="noopener" target="_blank" aria-label="Bagikan ke WhatsApp" title="WhatsApp" href="https://wa.me/?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"><i class="fa-brands fa-whatsapp" aria-hidden="true"></i></a>
+          <a rel="noopener" target="_blank" aria-label="Bagikan ke Telegram" title="Telegram" href="https://t.me/share/url?url={{ page.url | absolute_url | url_encode }}&text={{ page.title | url_encode }}"><i class="fa-brands fa-telegram" aria-hidden="true"></i></a>
+          <a rel="noopener" target="_blank" aria-label="Bagikan ke Bluesky" title="Bluesky" href="https://bsky.app/intent/compose?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"><i class="fa-brands fa-bluesky" aria-hidden="true"></i></a>
+          <a rel="noopener" target="_blank" aria-label="Bagikan ke Threads" title="Threads" href="https://www.threads.com/intent/post?text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"><i class="fa-brands fa-threads" aria-hidden="true"></i></a>
+          <a rel="noopener" target="_blank" aria-label="Bagikan ke Reddit" title="Reddit" href="https://www.reddit.com/submit?url={{ page.url | absolute_url | url_encode }}&title={{ page.title | url_encode }}"><i class="fa-brands fa-reddit-alien" aria-hidden="true"></i></a>
+          <a rel="noopener" target="_blank" aria-label="Simpan ke Pinterest" title="Pinterest" href="https://www.pinterest.com/pin/create/button/?url={{ page.url | absolute_url | url_encode }}&description={{ page.title | url_encode }}"><i class="fa-brands fa-pinterest-p" aria-hidden="true"></i></a>
+          <a aria-label="Kirim lewat email" title="Email" href="mailto:?subject={{ page.title | url_encode | replace: '+', '%20' }}&body={{ page.url | absolute_url | url_encode | replace: '+', '%20' }}"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>
           <span class="share-copied" role="status" aria-live="polite" hidden></span>
         </div>
-        <script>
-        (function () {
-          var btn = document.querySelector('.share-copy');
-          var note = document.querySelector('.share-copied');
-          if (!btn || !note) { return; }
-          function done(ok) {
-            note.textContent = ok ? 'Tautan disalin' : 'Gagal menyalin, salin dari bilah alamat';
-            note.hidden = false;
-            setTimeout(function () { note.hidden = true; }, 2500);
-          }
-          btn.addEventListener('click', function () {
-            var url = btn.getAttribute('data-url');
-            if (navigator.clipboard && window.isSecureContext) {
-              navigator.clipboard.writeText(url).then(function () { done(true); }, function () { done(false); });
-              return;
-            }
-            var ta = document.createElement('textarea');
-            ta.value = url;
-            ta.setAttribute('readonly', '');
-            ta.style.position = 'absolute';
-            ta.style.left = '-9999px';
-            document.body.appendChild(ta);
-            ta.select();
-            var ok = false;
-            try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
-            document.body.removeChild(ta);
-            done(ok);
-          });
-        })();
-        </script>
-        
-        <div class="clearfix">
-        {% if page.categories.size > 0 %}
-        {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" | where_exp: "post", "post.categories contains page.categories.first" %}
-        {% comment %}Jekyll 3 (GitHub Pages) does not support "or" in where_exp, so filter the series separately{% endcomment %}
-        {% if page.series %}{% assign related_posts = related_posts | where_exp: "post", "post.series != page.series" %}{% endif %}
-        {% endif %}
-        {% if related_posts.size > 0 %}
-        <section class="related" aria-labelledby="related-title">
-          <h2 id="related-title">Related Posts</h2>
-          <ul class="related-posts">
-            {% for post in related_posts limit: 5 %}
-              <li>
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                <small class="text-muted">{{ post.date | date: "%d %b %Y" }}</small>
-              </li>
-            {% endfor %}
-          </ul>
-        </section>
-        {% endif %}
-          {% if page.previous.url and page.series == nil %}
-          <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline">
-              Post</span></a>
-          {% endif %}
-          {% if page.next.url and page.series == nil %}
-          <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline">
-              Post</span> &rarr;</a>
-          {% endif %}
+      </section>
+    </aside>
 
-        </div>
-			{% include comments.html %}
-      <a href="#" class="back-to-top" aria-label="Kembali ke atas" title="Kembali ke atas">&uarr;</a>
-      </div>
-
-      
-    </div>
   </div>
+</div>
+<a href="#" class="back-to-top" aria-label="Kembali ke atas" title="Kembali ke atas"><i class="fa-solid fa-arrow-up" aria-hidden="true"></i></a>

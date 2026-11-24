@@ -1,0 +1,2 @@
+{% comment %}A post's short text: description, else subtitle, else the start of the post. Use: include post_excerpt.html post=post words=28{% endcomment %}
+{% assign ex = include.post.description | default: include.post.subtitle %}{% if ex %}{{ ex | strip_html | normalize_whitespace | truncatewords: include.words }}{% else %}{{ include.post.excerpt | strip_html | normalize_whitespace | truncatewords: include.words }}{% endif %}
