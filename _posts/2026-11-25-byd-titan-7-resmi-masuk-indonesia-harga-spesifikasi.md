@@ -77,6 +77,10 @@ Brosur BYD sendiri mencantumkan catatan bahwa jarak sebenarnya dipengaruhi gaya 
 
 ## Ukuran dan kemampuan di medan berat
 
+![Ilustrasi SUV hitam berlampu LED di jalan pegunungan dekat pantai saat matahari terbenam](/img/byd-titan-7-resmi-masuk-indonesia-ilustrasi-ai.jpg)
+
+*Ilustrasi: dibuat dengan AI untuk menggambarkan suasana. Detail bodi dan lencananya tidak mewakili unit resmi Titan 7.*
+
 | Dimensi | Ukuran |
 |---|---|
 | Panjang | 5.146 mm |
