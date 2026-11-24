@@ -1,3 +1,91 @@
 ---
-layout: home
+layout: default
 ---
+
+{% assign featured = site.posts.first %}
+<main class="home-shell">
+  <section class="home-hero">
+    <div class="hero-copy">
+      <p class="eyebrow"><span></span> Personal notes &amp; field logs</p>
+      <h1>Ideas, systems, and everything in between.</h1>
+      <p class="hero-intro">Catatan tentang Linux, networking, open source, sepak bola, dan hal-hal yang menarik perhatian.</p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="{{ '/posts/' | relative_url }}">Explore the articles <span aria-hidden="true">→</span></a>
+        <a class="btn btn-outline-primary" href="{{ '/feed.xml' | relative_url }}"><i class="fas fa-rss" aria-hidden="true"></i> Subscribe (RSS)</a>
+      </div>
+    </div>
+    <div class="hero-photo" role="img" aria-label="A warm workspace with a laptop, books, and plants"></div>
+  </section>
+
+  {% assign cats = site.categories | sort %}
+  <nav class="topic-chips home-topics" aria-label="Browse by topic">
+    <span class="topic-label">Topics:</span>
+    {% for cat in cats %}
+      <a class="topic-chip" href="{{ '/categories/' | relative_url }}#{{ cat[0] | slugify }}">{{ cat[0] }}</a>
+    {% endfor %}
+  </nav>
+
+  {% if featured %}
+  <div class="home-grid">
+    <div class="home-main-column">
+      <article class="featured-post">
+        <a href="{{ featured.url | relative_url }}" class="featured-link">
+          {% if featured.image %}<img src="{{ featured.image | relative_url }}" alt="" class="featured-image">{% else %}<div class="featured-image featured-placeholder"></div>{% endif %}
+          <div class="featured-overlay">
+            {% if featured.categories.size > 0 %}<span class="post-category">{{ featured.categories.first }}</span>{% endif %}
+            <h2>{{ featured.title }}</h2>
+            <p>{% if featured.description %}{{ featured.description | strip_html | truncatewords: 28 }}{% elsif featured.subtitle %}{{ featured.subtitle | strip_html | truncatewords: 28 }}{% else %}{{ featured.excerpt | strip_html | normalize_whitespace | truncatewords: 28 }}{% endif %}</p>
+            <span class="featured-meta"><i class="far fa-calendar" aria-hidden="true"></i> {{ featured.date | date: '%d %b %Y' }} <span>·</span> {% include read_time.html content=featured.content %}</span>
+          </div>
+        </a>
+      </article>
+
+      <section class="more-posts">
+        <div class="section-heading"><div><h2>More to explore</h2><p>Stories, notes, and things worth sharing.</p></div><a href="{{ '/posts/' | relative_url }}">All articles →</a></div>
+        {% for post in site.posts offset:1 limit:6 %}
+        <article class="post-row">
+          <a class="post-row-thumb" href="{{ post.url | relative_url }}">{% if post.image %}<img src="{{ post.image | relative_url }}" alt="" loading="lazy">{% else %}<span>{{ post.categories.first | default: 'Blog' }}</span>{% endif %}</a>
+          <div class="post-row-body">
+            <a href="{{ post.url | relative_url }}"><h3>{{ post.title }}</h3></a>
+            <p>{% if post.description %}{{ post.description | strip_html | truncatewords: 24 }}{% elsif post.subtitle %}{{ post.subtitle | strip_html | truncatewords: 24 }}{% else %}{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 24 }}{% endif %}</p>
+            <div class="post-row-meta">{{ post.date | date: '%d %b %Y' }} <span>·</span> {% include read_time.html content=post.content %}</div>
+          </div>
+        </article>
+        {% endfor %}
+      </section>
+    </div>
+
+    <aside class="home-sidebar">
+      <section class="sidebar-card latest-card">
+        <div class="section-heading"><h2>Latest writing</h2><a href="{{ '/posts/' | relative_url }}">View all →</a></div>
+        {% for post in site.posts limit:4 %}
+        <a class="latest-item" href="{{ post.url | relative_url }}">
+          <span class="latest-thumb">{% if post.image %}<img src="{{ post.image | relative_url }}" alt="" loading="lazy">{% else %}<i class="far fa-file-alt" aria-hidden="true"></i>{% endif %}</span>
+          <span class="latest-copy"><strong>{{ post.title }}</strong><small>{{ post.date | date: '%d %b %Y' }} · {% include read_time.html content=post.content %}</small></span>
+        </a>
+        {% endfor %}
+      </section>
+
+      <section class="sidebar-card browse-card">
+        <h2>Browse by topic</h2>
+        <div class="topic-list">
+          {% for cat in cats %}
+          <a href="{{ '/categories/' | relative_url }}#{{ cat[0] | slugify }}"><span>{{ cat[0] }}</span><b>{{ cat[1].size }}</b></a>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="sidebar-card author-card">
+        <h2>About the author</h2>
+        <div class="author-summary">
+          <img src="https://avatars.githubusercontent.com/u/30291?v=4" alt="Mahyuddin Susanto" loading="lazy">
+          <div><strong>Mahyuddin Susanto</strong><span>aka udienz</span><p>Linux and network enthusiast, open-source contributor, and a bit of a football addict.</p><a href="{{ '/about/' | relative_url }}">More about me →</a></div>
+        </div>
+        <div class="author-social"><a href="https://github.com/{{ site.github_username }}" aria-label="GitHub"><i class="fab fa-github"></i></a>{% if site.linkedin_username %}<a href="https://linkedin.com/in/{{ site.linkedin_username }}" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>{% endif %}{% if site.twitter_username %}<a href="https://x.com/{{ site.twitter_username }}" aria-label="X"><i class="fab fa-x-twitter"></i></a>{% endif %}<a href="{{ '/feed.xml' | relative_url }}" aria-label="RSS"><i class="fas fa-rss"></i></a></div>
+      </section>
+    </aside>
+  </div>
+  {% else %}
+    <p>No articles published yet.</p>
+  {% endif %}
+</main>
