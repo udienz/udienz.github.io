@@ -1,40 +1,19 @@
 ---
 layout: page
-title: Posts
+title: Articles
+description: Notes, tutorials, experiments, and stories from the archive.
 ---
-
 {% for post in paginator.posts %}
-
 <article class="post-preview">
-  <a href="{{ post.url | relative_url }}" class="post-link">
-    <h2 class="post-title">{{ post.title }}</h2>
-  </a>
-  <p class="post-meta">
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%d %B %Y' }}</time> &middot; {% include read_time.html content=post.content %}
-    {% if post.categories.size > 0 %}&middot; <a href="{{ '/categories/' | relative_url }}#{{ post.categories.first | slugify }}">{{ post.categories.first }}</a>{% endif %}
-  </p>
-  <p class="post-excerpt">
-    {% if post.description %}{{ post.description }}{% elsif post.subtitle %}{{ post.subtitle }}{% else %}{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 }}{% endif %}
-    <a class="read-more" href="{{ post.url | relative_url }}">Read more &rarr;</a>
-  </p>
+  <a href="{{ post.url | relative_url }}" class="post-link"><h2 class="post-title">{{ post.title }}</h2></a>
+  <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%d %B %Y' }}</time> · {% include read_time.html content=post.content %}{% if post.categories.size > 0 %} · <a href="{{ '/categories/' | relative_url }}#{{ post.categories.first | slugify }}">{{ post.categories.first }}</a>{% endif %}</p>
+  <p class="post-excerpt">{% if post.description %}{{ post.description | strip_html }}{% elsif post.subtitle %}{{ post.subtitle | strip_html }}{% else %}{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 30 }}{% endif %} <a class="read-more" href="{{ post.url | relative_url }}">Read more →</a></p>
 </article>
-
 {% endfor %}
-
-<!-- Pager -->
 {% if paginator.total_pages > 1 %}
-
-<div class="clearfix">
-
-  {% if paginator.previous_page %}
-  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
-    Newer<span class="d-none d-md-inline"> Posts</span></a>
-  {% endif %}
-
-  {% if paginator.next_page %}
-  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
-  {% endif %}
-
-</div>
-
+<nav class="pagination-nav" aria-label="Pagination">
+  {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">← Newer posts</a>{% endif %}
+  <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}<a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older posts →</a>{% endif %}
+</nav>
 {% endif %}
